@@ -1,158 +1,162 @@
-<div align="center">
+**UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="Logo UPC">
+![Logotipo Descripción generada automáticamente](https://res.cloudinary.com/daassyisd/image/upload/v1714691535/gmplcgrlsv9sihpusivm.png)
 
+**SI572-2402-WV71 Desarrollo de Soluciones IOT**
 
-# Universidad Peruana de Ciencias Aplicadas
+Informe de Trabajo Final TB1
 
-Ingeniería de Software
+**Carrera:** Ingeniería de Software
 
-Ciclo 2024-01
-
-<hr>
-
-# <center>Desarrollo de Soluciones IOT</center>
-
-## TB1 REPORT
+**Ciclo:** 07
 
 **Sección:** WV71
 
-**Profesor**: Angel Augusto Velasquez Nuñez
+**Profesor:** Angel Augusto Velasquez Nuñez
 
-**StartUp Name**: Fractalis
+**Startup:** Fractalies
 
-**Producto**: GreenTools
+**Producto:** Green Tools
 
-### Team Members:
+**Integrantes:**
 
-| Member                            |    Code    |
-| :-------------------------------- | :--------: |
-| Yance Gutierrez, Franco Felix     | u202013614 |
-| -------------------------         | ---------- |
-| --------------------------        | ---------- |
-| -------------------------         | ---------- |
-| -------------------------         | ---------- |
+Miguel Angel Ramirez Alfaro (U20)
 
-<br>
+Lino Abraham Quenta Leon (U202022353)
 
-Agosto del 2024
+Giovanni Andres Ramos Calderon (U20)
 
-<br><br>
+Jean Patrick Yemsi Sanchez Rios (U20)
 
-</div>
+Franco Felix Yance Gutierrez (U20)
+
+**Agosto, 25 de 2024**
 
 # Registro de Versiones del Informe
 
-| Versión |   Fecha    |                                                                                       Autor                                                                                        | Descripción de modificación                                                                                                                                           |
-| :-----: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   TB1   | 30/08/2024 | ---------- <br><br> ----------------- <br><br> -------------- <br><br> ---------------- <br><br> Yance Gutierrez, Franco Felix | Se realizo el Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y el Capítulo IV: Solution Software Design. |
+| Versión | Fecha | Autor | Descripción de modificación |
+|---------|-------|-------|---------------------------|
+| 1.0 | 2024-08-20 | Miguel Angel  | Versión inicial del informe |
+| 1.1 | 2024-08-22 | Lino Quenta | Adición de la sección "Lean UX Process" |
+| 1.2 | 2024-08-23 | Giovanni Andres | Corrección de errores en la sección "Competidores" |
+| 1.3 | 2024-08-27 | Miguel Angel | Mejora de la sección "User Personas" basada en retroalimentación del docente |
+| 1.4 | 2024-08-29 | Lino Quenta | Adición de la sección "Impact Mapping" |
+| 2.0 | 2024-08-30 |Giovanni Andres| Reestructuración completa del informe para mejorar la coherencia |
+| 2.1 | 2024-09-22 | Jean Patrick | Actualización de la sección "Software Architecture" |
+| 2.3 | 2024-09-05 | Jean Patrick | Adición de la sección "Solution UX Design" |
+| 2.4 | 2024-09-20 | Lino Quenta |  |
+| 3.0 | 2024-09-26 | Giovanni Andres  |  |
 
-<br><br>
+Contenido
 
-# Project Report Collaboration Insights
+- [Capítulo I: Introducción](#capítulo-i-introducción)
+  - [1.1. Startup Profile](#11-startup-profile)
+    - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+    - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+  - [1.2. Solution Profile](#12-solution-profile)
+    - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [1.2.2. Lean UX Process](#122-lean-ux-process)
+      - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+      - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+      - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+      - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+  - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+  
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
+  - [2.1. Competidores](#21-competidores)
+    - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+    - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+  - [2.2. Entrevistas](#22-entrevistas)
+    - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+    - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+    - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+  - [2.3. Needfinding](#23-needfinding)
+    - [2.3.1. User Personas](#231-user-personas)
+    - [2.3.2. User Task Matrix](#232-user-task-matrix)
+    - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+    - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+    - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
-- **TB1:** Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo:
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
+  - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
+  - [3.2. User Stories](#32-user-stories)
+  - [3.3. Impact Mapping](#33-impact-mapping)
+  - [3.4. Product Backlog](#34-product-backlog)
 
-    Link del repositorio del Informe Final: [Github - Informe Final GreenGrow](https://github.com/FractalisGrupo03IOT/InformeFinal.git)
+- [Capítulo IV: Solution Software Design](#capítulo-iv-solution-software-design)
+  - [4.1. Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design)
+    - [4.1.1. EventStorming](#411-eventstorming)
+      - [4.1.1.1 Candidate Context Discovery](#4111-candidate-context-discovery)
+      - [4.1.1.2 Domain Message Flows Modeling](#4112-domain-message-flows-modeling)
+      - [4.1.1.3 Bounded Context Canvases](#4113-bounded-context-canvases)
+    - [4.1.2. Context Mapping](#412-context-mapping)
+    - [4.1.3. Software Architecture](#413-software-architecture)
+      - [4.1.3.1. Software Architecture System Landscape Diagram](#4131-software-architecture-system-landscape-diagram)
+      - [4.1.3.2. Software Architecture Context Level Diagrams](#4132-software-architecture-context-level-diagrams)
+      - [4.1.3.2. Software Architecture Container Level Diagrams](#4132-software-architecture-container-level-diagrams)
+      - [4.1.3.3. Software Architecture Deployment Diagrams](#4133-software-architecture-deployment-diagrams)
+  - [4.2. Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
+    - [4.2.1. Bounded Context: \<Bounded Context Name>](#421-bounded-context-bounded-context-name)
+      - [4.2.1.1. Domain Layer](#4211-domain-layer)
+      - [4.2.1.2. Interface Layer](#4212-interface-layer)
+      - [4.2.1.3. Application Layer](#4213-application-layer)
+      - [4.2.1.4. Infrastructure Layer](#4214-infrastructure-layer)
+      - [4.2.1.6. Bounded Context Software Architecture Component Level Diagrams](#4216-bounded-context-software-architecture-component-level-diagrams)
+      - [4.2.1.7. Bounded Context Software Architecture Code Level Diagrams](#4217-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.1.7.1. Bounded Context Domain Layer Class Diagrams](#42171-bounded-context-domain-layer-class-diagrams)
+      - [4.2.1.7.2. Bounded Context Database Design Diagram](#42172-bounded-context-database-design-diagram)
 
-    <br>
+- [Capítulo V: Solution UI/UX Design](#capítulo-v-solution-uiux-design)
+  - [5.1. Style Guidelines](#51-style-guidelines)
+    - [5.1.1. General Style Guidelines](#511-general-style-guidelines)
+    - [5.1.2. Web, Mobile and IoT Style Guidelines](#512-web-mobile-and-iot-style-guidelines)
+  - [5.2. Information Architecture](#52-information-architecture)
+    - [5.2.1. Organization Systems](#521-organization-systems)
+    - [5.2.2. Labeling Systems](#522-labeling-systems)
+    - [5.2.3. SEO Tags and Meta Tags](#523-seo-tags-and-meta-tags)
+    - [5.2.4. Searching Systems](#524-searching-systems)
+    - [5.2.5. Navigation Systems](#525-navigation-systems)
+  - [5.3. Landing Page UI Design](#53-landing-page-ui-design)
+    - [5.3.1. Landing Page Wireframe](#531-landing-page-wireframe)
+    - [5.3.2. Landing Page Mock-up](#532-landing-page-mock-up)
+  - [5.4. Applications UX/UI Design](#54-applications-uxui-design)
+    - [5.4.1. Applications Wireframes](#541-applications-wireframes)
+    - [5.4.2. Applications Wireflow Diagrams](#542-applications-wireflow-diagrams)
+    - [5.4.3. Applications Mock-ups](#543-applications-mock-ups)
+    - [5.4.4. Applications User Flow Diagrams](#544-applications-user-flow-diagrams)
+  - [5.5. Applications Prototyping](#55-applications-prototyping)
 
-    A continuación, se muestran las capturas de evidencia correspondientes al desarrollo de los siguientes capítulos:
-
-    - Capítulo I: Introducción
-    - Capítulo II: Requirements Elicitation & Analysis.
-    - Capítulo III: Requirements Specification.
-    - Capítulo IV: Solution Software Design.  
-
-    <div align=center>
-      <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149369808740163625/image.png"/>      
-    </div>
-
-    <div align=center>
-      <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1149370395296813166/image.png"/>
-    </div>
-
-<br>
-<br><br>
-# Tabla de Contenidos
-
-## Student Outcome
-
-## Capítulo I: Introducción
-### 1.1. Startup Profile
-- 1.1.1. Descripción de la Startup
-- 1.1.2. Perfiles de integrantes del equipo
-
-### 1.2. Solution Profile
-- 1.2.1. Antecedentes y problemática
-- 1.2.2. Lean UX Process
-  - 1.2.2.1. Lean UX Problem Statements.
-  - 1.2.2.2. Lean UX Assumptions. 
-  - 1.2.2.3. Lean UX Hypothesis Statements. 
-  - 1.2.2.4. Lean UX Canvas. 
-
-### 1.3. Lean UX Problem Statements
-
-## Capítulo II: Requirements Elicitation & Analysis
-### 2.1. Competidores
-- 2.1.1. Análisis competitivo
-- 2.1.2. Estrategias y tácticas frente a competidores
-
-### 2.2. Entrevistas
-- 2.2.1. Diseño de entrevistas
-- 2.2.2. Registro de entrevistas
-- 2.2.3. Análisis de entrevistas
-
-### 2.3. Needfinding
-- 2.3.1. User Personas
-- 2.3.2. User Task Matrix
-- 2.3.3. User Journey Mapping
-- 2.3.4. Empathy Mapping
-- 2.3.5. As-is Scenario Mapping
-
-### 2.4. Ubiquitous Language
-
-## Capítulo III: Requirements Specification
-### 3.1. To-Be Scenario Mapping
-### 3.2. User Stories
-### 3.3. Impact Mapping
-### 3.4. Product Backlog
-
-## Capítulo IV: Solution Software Design
-### 4.1. Strategic-Level Domain-Driven Design
-- 4.1.1. EventStorming
-  - 4.1.1.1 Candidate Context Discovery
-  - 4.1.1.2 Domain Message Flows Modeling
-  - 4.1.1.3 Bounded Context Canvases
-- 4.1.2. Context Mapping
-- 4.1.3. Software Architecture
-  - 4.1.3.1. Software Architecture System Landscape Diagram
-  - 4.1.3.2. Software Architecture Context Level Diagrams
-  - 4.1.3.2. Software Architecture Container Level Diagrams
-  - 4.1.3.3. Software Architecture Deployment Diagrams
-
-### 4.2. Tactical-Level Domain-Driven Design
-- 4.2.X. Bounded Context: \<Bounded Context Name>
-  - 4.2.X.1. Domain Layer
-  - 4.2.X.2. Interface Layer
-  - 4.2.X.3. Application Layer
-  - 4.2.X.4. Infrastructure Layer
-  - 4.2.X.6. Bounded Context Software Architecture Component Level Diagrams
-  - 4.2.X.7. Bounded Context Software Architecture Code Level Diagrams
-    - 4.2.X.7.1. Bounded Context Domain Layer Class Diagrams
-    - 4.2.X.7.2. Bounded Context Database Design Diagram
-        
-### [Conclusiones](#conclusiones)
-
-### [Bibliografía](#bibliografía)
-
-### [Anexos](#anexos)
-
-<br><br>
-
-# Student Outcome
-
-<br><br>
+- [Capítulo VI: Product Implementation, Validation & Deployment](#capítulo-vi-product-implementation-validation--deployment)
+  - [6.1. Software Configuration Management](#61-software-configuration-management)
+    - [6.1.1. Software Development Environment Configuration](#611-software-development-environment-configuration)
+    - [6.1.2. Source Code Management](#612-source-code-management)
+    - [6.1.3. Source Code Style Guide & Conventions](#613-source-code-style-guide--conventions)
+    - [6.1.4. Software Deployment Configuration](#614-software-deployment-configuration)
+  - [6.2. Landing Page, Services & Applications Implementation](#62-landing-page-services--applications-implementation)
+    - [6.2.1. Sprint 1](#621-sprint-1)
+      - [6.2.1.1. Sprint Planning n](#6211-sprint-planning-n)
+      - [6.2.1.2. Sprint Backlog n](#6212-sprint-backlog-n)
+      - [6.2.1.3. Development Evidence for Sprint Review](#6213-development-evidence-for-sprint-review)
+      - [6.2.1.4. Testing Suite Evidence for Sprint Review](#6214-testing-suite-evidence-for-sprint-review)
+      - [6.2.1.5. Execution Evidence for Sprint Review](#6215-execution-evidence-for-sprint-review)
+      - [6.2.1.6. Services Documentation Evidence for Sprint Review](#6216-services-documentation-evidence-for-sprint-review)
+      - [6.2.1.7. Software Deployment Evidence for Sprint Review](#6217-software-deployment-evidence-for-sprint-review)
+      - [6.2.1.8. Team Collaboration Insights during Sprint](#6218-team-collaboration-insights-during-sprint)
+    - [6.2.2. Sprint 2](#622-sprint-2)
+      - [6.2.2.1. Sprint Planning n](#6221-sprint-planning-n)
+      - [6.2.2.2. Sprint Backlog n](#6222-sprint-backlog-n)
+      - [6.2.2.3. Development Evidence for Sprint Review](#6223-development-evidence-for-sprint-review)
+      - [6.2.2.4. Testing Suite Evidence for Sprint Review](#6224-testing-suite-evidence-for-sprint-review)
+      - [6.2.2.5. Execution Evidence for Sprint Review](#6225-execution-evidence-for-sprint-review)
+      - [6.2.2.6. Services Documentation Evidence for Sprint Review](#6226-services-documentation-evidence-for-sprint-review)
+      - [6.2.2.7. Software Deployment Evidence for Sprint Review](#6227-software-deployment-evidence-for-sprint-review)
+      - [6.2.2.8. Team Collaboration Insights during Sprint](#6228-team-collaboration-insights-during-sprint)
+  - [6.3. Validation Interviews](#63-validation-interviews)
+    - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
+    - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
+    - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-según-heurísticas)
+  - [6.4. Video About-the-Product](#64-video-about-the-product)
 
 # Project Report Collaboration Insights
 
@@ -197,14 +201,6 @@ Aca las primeras cosas que se trabajaran
 ## 1.1. Startup Profile
 
 ### 1.1.1. Descripción de la Startup
-Fractalis es una startup dedicada a transformar la agricultura mediante la innovación tecnológica. Nos especializamos en desarrollar soluciones que integran el Internet de las Cosas (IoT) y la automatización para empoderar a agricultores de todo el mundo. En Fractalis, creemos en la convergencia de tecnología y sostenibilidad para crear un futuro agrícola más eficiente y responsable. Nuestro objetivo es revolucionar el sector, brindando herramientas accesibles y escalables que mejoran la productividad, optimizan el uso de recursos y promueven prácticas agrícolas sostenibles. Fractalis es más que una startup; es un movimiento hacia la modernización de la agricultura global.
-<div align=center>
-    <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148057185847361546/logo.png" alt="logo" style="margin-bottom: 5px;" width="500"/>
-</div>
-
-- **Visión:** Nuestra visión en Fractalis es liderar la transformación global de la agricultura a través de la tecnología, empoderando a agricultores de todo el mundo con herramientas inteligentes que hagan la agricultura más eficiente, sostenible y resiliente. Aspiramos a ser un referente en la innovación agrícola, promoviendo un futuro donde la tecnología y la naturaleza trabajen en armonía para asegurar la seguridad alimentaria y el bienestar del planeta.
-- **Misión:** En Fractalis, nuestra misión es desarrollar y proporcionar soluciones tecnológicas avanzadas que integren IoT y automatización, permitiendo a los agricultores optimizar la gestión de sus cultivos. Nos dedicamos a mejorar la eficiencia operativa, reducir el desperdicio de recursos y fomentar prácticas sostenibles, ayudando a agricultores de todos los tamaños a enfrentar los desafíos del futuro agrícola con éxito y responsabilidad.
-# Project Report Collaboration Insights
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
@@ -233,18 +229,6 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
 ## 2.2. Entrevistas
-# Segmento: Dueños de Invernaderos
-
-| **Segmento**                 | Dueños de Invernaderos                             |
-|------------------------------|----------------------------------------------------|
-| **Entrevistado 01**           | [Ver Entrevista](https://www.youtube.com/watch?v=n3PuNGCNKNs) |
-| **Nombre y Apellido**         | Sonia Hcaylluhua                                   |
-| **Edad**                      | 32                                                 |
-| **Ubicación**                 | Puno, Puno, Perú                                   |
-| **Imagen**                    | ![Imagen](https://media.discordapp.net/attachments/1228537935368945717/1279448960561447057/image.png?ex=66d47b33&is=66d329b3&hm=b30536094cd394565707fc9a99158b1640d17c0b5a18fdc5c11122802c73bea6&=&format=webp&quality=lossless&width=742&height=417) |
-| **Resumen**                   | Sonia Hcaylluhua, agricultora de 32 años de la región de Puno, Perú, se dedica al cultivo y venta de fresas en su invernadero. A pesar de su experiencia en la agricultura, no ha incorporado tecnología avanzada, pero está interesada en herramientas que optimicen sus procesos. Actualmente, el monitoreo de sus cultivos requiere un esfuerzo manual significativo, especialmente en el riego, lo que genera altos costos de consumo de agua. Sonia considera la posibilidad de adoptar una solución tecnológica para gestionar el riego de manera más eficiente. Está interesada en una aplicación móvil con sensores para monitorear sus cultivos en tiempo real, aunque necesitaría capacitación para su uso. Además de optimizar el riego, espera que la tecnología le ayude a expandir su negocio y llegar a más mercados. |
-
-
 
 ### 2.2.1. Diseño de entrevistas
 
@@ -359,64 +343,20 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 ### 4.1.1. EventStorming
 
 #### 4.1.1.1. Candidate Context Discovery
-#### Step 1: Unstructured Exploration
-
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407433528737846/Green_Tols.jpg?ex=66d7f7d8&is=66d6a658&hm=a2af2a4f3bf9e3ceacd01c3078271745a098ca8de0c485454a35774e1184a750&=&format=webp&width=334&height=671)]
-#### Step 2: Timelines
-
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407433260564520/Green_Tols_1.jpg?ex=66d7f7d8&is=66d6a658&hm=ea824a416d759777c7e1a6e06b2900e834b72926d8c8b8f4504b4c2570b12289&=&format=webp&width=839&height=671)]
-#### Step 3: Paint Points
-
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407433017036830/Green_Tols_2.jpg?ex=66d7f7d8&is=66d6a658&hm=6ce9f5047c3626a8dd2545077e9a85f82aa42d3452987db05a32efd90a2b068d&=&format=webp&width=862&height=671)]
-#### Step 4: Pivotal Points
-
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407432702459946/Green_Tols_3.jpg?ex=66d7f7d8&is=66d6a658&hm=f41f599a57ee57f99c0e9e05391162256c64aaa6e100594c69279bcfd6c9bcfc&=&format=webp&width=737&height=671)]
-#### Step 5: Commands
-
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280409740698062858/Green_Tols_18.jpg?ex=66d7f9ff&is=66d6a87f&hm=367a892df6a5ea0b07053786fe9d927acfc2deb8672983d227adf5cad4b4bbec&=&format=webp&width=1075&height=671)]
-#### Step 6: Policies
-
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407435223236618/Green_Tols_4.jpg?ex=66d7f7d9&is=66d6a659&hm=983c9d558034dae9d8bd08733d179da8cb490b040344a088a0d2347295e2643f&=&format=webp&width=1045&height=671)]
-#### Step 7: Read Models
-
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407434778902639/Green_Tols_5.jpg?ex=66d7f7d9&is=66d6a659&hm=4a882368dde33bfcb49cc10d8c0f7acd0216fc0920fcbae6f6895df4453722db&=&format=webp&width=1097&height=671)]
-#### Step 8: External Systems
-
-No hay sistemas externos
-#### Step 9: Aggregates
-
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280411167126196297/Green_Tols_19.jpg?ex=66d7fb53&is=66d6a9d3&hm=dc714a7ad1daa72b19585f2f8a2389f7dce182d689fb99ab2ee6502a7ba79b2f&=&format=webp&width=1075&height=671)]
-#### Step 10: Bounded Contexts
-
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407434518597652/Green_Tols_6.jpg?ex=66d7f7d9&is=66d6a659&hm=94f13c92e765854864dcc1b5c812294bc9382fa3ce099abfe2fec9327aab9cbb&=&format=webp&width=1114&height=671)]
 
 #### 4.1.1.2. Domain Message Flows Modeling
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407493847154719/Green_Tols_12.jpg?ex=66d7f7e7&is=66d6a667&hm=c85c0e04a86ac3fdfee6b6707f62730d93bd08a03b87741770b53a6ce7415a24&=&format=webp&width=1202&height=671)]
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407494287687774/Green_Tols_11.jpg?ex=66d7f7e7&is=66d6a667&hm=1f4dd2b21d5cc18bee14c5a2028e67dccaf8866fa9e9fdb793d31a457418b399&=&format=webp&width=1207&height=671)]
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407494690345094/Green_Tols_10.jpg?ex=66d7f7e7&is=66d6a667&hm=8d96f5f93272e2e1409a416cda3ce03817158e78ac1fdf699eb244d3438ed5bb&=&format=webp&width=1204&height=671)]
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407495176622122/Green_Tols_9.jpg?ex=66d7f7e7&is=66d6a667&hm=bf6deb432de8668a184d0119799a197fcd80239c5d9e29fb82aa189967ebc2d3&=&format=webp&width=1217&height=671)]
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407495499710547/Green_Tols_8.jpg?ex=66d7f7e7&is=66d6a667&hm=ff265d75fce254b14f28a08b7adeddb24a60ed84e738aac61b8724db0ece8386&=&format=webp&width=1201&height=671)]
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407495843516416/Green_Tols_7.jpg?ex=66d7f7e7&is=66d6a667&hm=de1a52d81e29e2f8b456462b471d7b0aa350de9c16bcd8f76ccf34c1f9ddc1dc&=&format=webp&width=1183&height=671)]
 
 #### 4.1.1.3. Bounded Context Canvases
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407493406625823/Green_Tols_13.jpg?ex=66d7f7e7&is=66d6a667&hm=fc2b0cc42fd62a50968392e385c2b1b82a1d79d43f21881fad38fbb2f582a1bc&=&format=webp&width=1162&height=671)]
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407496107888672/Green_Tols_16.jpg?ex=66d7f7e7&is=66d6a667&hm=2275b29ed02d4e6480c5fb3a70d52da8bec99631c832367584d49cd2a637ab31&=&format=webp&width=1144&height=671)]
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407496489439332/Green_Tols_15.jpg?ex=66d7f7e7&is=66d6a667&hm=eb97d3ba500461f06739d3e67f5696920b9719f27fb4cbc5e467406e37d92b60&=&format=webp&width=1159&height=671)]
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407496875315232/Green_Tols_14.jpg?ex=66d7f7e8&is=66d6a668&hm=2e9a63f418876a59eb94332979f58c4d54fcb19606973b278d1c17a616ebffd0&=&format=webp&width=1163&height=671)]
+
 ### 4.1.2. Context Mapping
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407512658612314/Green_Tols_17.jpg?ex=66d7f7eb&is=66d6a66b&hm=7c4330d2dcd4607807b3c3c7a37c8d4ea9ea4166463203005af81c0029d7b144&=&format=webp&width=766&height=671)]
+
 ### 4.1.3. Software Architecture
 
 #### 4.1.3.1. Software Architecture System Landscape Diagram
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407434258546688/Green_Tools-Page-1.png?ex=66d7f7d9&is=66d6a659&hm=25b5f33939012eb9d34a61fbbbae1eff071ffba2bffc677e700cb9339103bcdc&=&format=webp&quality=lossless&width=598&height=357)]
 
-#### 4.1.3.3. Software Architecture Container Level Diagrams
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407434019733525/Green_Tools-Containers.png?ex=66d7f7d9&is=66d6a659&hm=551ad6f47c5eccda9495132ab8c1282e705d1a39009b68fe3869cd63923968db&=&format=webp&quality=lossless&width=854&height=671)]
-
-#### 4.1.3.4. Software Architecture Deployment Diagrams
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407433763622994/Green_Tools-Deployment.png?ex=66d7f7d9&is=66d6a659&hm=14c907db9c50d45eb98e0c69147a0d0a4f621bd7db8987db8f4c048feb02c841&=&format=webp&quality=lossless&width=939&height=671)]
+#### 4.1.3.3. Software Architecture Deployment Diagrams
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
@@ -534,9 +474,4 @@ No hay sistemas externos
 
 ### 6.3.3. Evaluaciones según heurísticas
 
-
-
-
-
-
-
+## 6.4. Video About-the-Product
