@@ -392,14 +392,17 @@ No hay sistemas externos
 
 #### 4.1.1.2. Domain Message Flows Modeling
 [![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407493847154719/Green_Tols_12.jpg?ex=66d7f7e7&is=66d6a667&hm=c85c0e04a86ac3fdfee6b6707f62730d93bd08a03b87741770b53a6ce7415a24&=&format=webp&width=1202&height=671)]
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407434518597652/Green_Tols_6.jpg?ex=66d7f7d9&is=66d6a659&hm=94f13c92e765854864dcc1b5c812294bc9382fa3ce099abfe2fec9327aab9cbb&=&format=webp&width=1114&height=671)]
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407494287687774/Green_Tols_11.jpg?ex=66d7f7e7&is=66d6a667&hm=1f4dd2b21d5cc18bee14c5a2028e67dccaf8866fa9e9fdb793d31a457418b399&=&format=webp&width=1207&height=671)]
 [![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407494690345094/Green_Tols_10.jpg?ex=66d7f7e7&is=66d6a667&hm=8d96f5f93272e2e1409a416cda3ce03817158e78ac1fdf699eb244d3438ed5bb&=&format=webp&width=1204&height=671)]
 [![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407495176622122/Green_Tols_9.jpg?ex=66d7f7e7&is=66d6a667&hm=bf6deb432de8668a184d0119799a197fcd80239c5d9e29fb82aa189967ebc2d3&=&format=webp&width=1217&height=671)]
 [![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407495499710547/Green_Tols_8.jpg?ex=66d7f7e7&is=66d6a667&hm=ff265d75fce254b14f28a08b7adeddb24a60ed84e738aac61b8724db0ece8386&=&format=webp&width=1201&height=671)]
 [![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407495843516416/Green_Tols_7.jpg?ex=66d7f7e7&is=66d6a667&hm=de1a52d81e29e2f8b456462b471d7b0aa350de9c16bcd8f76ccf34c1f9ddc1dc&=&format=webp&width=1183&height=671)]
 
 #### 4.1.1.3. Bounded Context Canvases
-
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407493406625823/Green_Tols_13.jpg?ex=66d7f7e7&is=66d6a667&hm=fc2b0cc42fd62a50968392e385c2b1b82a1d79d43f21881fad38fbb2f582a1bc&=&format=webp&width=1162&height=671)]
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407496107888672/Green_Tols_16.jpg?ex=66d7f7e7&is=66d6a667&hm=2275b29ed02d4e6480c5fb3a70d52da8bec99631c832367584d49cd2a637ab31&=&format=webp&width=1144&height=671)]
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407496489439332/Green_Tols_15.jpg?ex=66d7f7e7&is=66d6a667&hm=eb97d3ba500461f06739d3e67f5696920b9719f27fb4cbc5e467406e37d92b60&=&format=webp&width=1159&height=671)]
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407496875315232/Green_Tols_14.jpg?ex=66d7f7e8&is=66d6a668&hm=2e9a63f418876a59eb94332979f58c4d54fcb19606973b278d1c17a616ebffd0&=&format=webp&width=1163&height=671)]
 ### 4.1.2. Context Mapping
 
 ### 4.1.3. Software Architecture
