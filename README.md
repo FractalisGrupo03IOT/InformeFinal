@@ -360,7 +360,19 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 
 #### Step 1: Unstructured Exploration
 
-[![Imagen de EventStorming]([https://media.discordapp.net/attachments/1228537935368945717/1277297738538815602/Diagrama_en_blanco_-_Pagina_1_1.png?ex=66cea1f7&is=66cd5077&hm=08d4f7e067c840d967de645bcbdd9e9d99e8556b5f1d1900d939ecf456e12fb9&=&format=webp&quality=lossless&width=1025&height=345](https://media.discordapp.net/attachments/1280405882517196875/1280407433528737846/Green_Tols.jpg?ex=66d7f7d8&is=66d6a658&hm=a2af2a4f3bf9e3ceacd01c3078271745a098ca8de0c485454a35774e1184a750&=&format=webp&width=334&height=671))]
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407433528737846/Green_Tols.jpg?ex=66d7f7d8&is=66d6a658&hm=a2af2a4f3bf9e3ceacd01c3078271745a098ca8de0c485454a35774e1184a750&=&format=webp&width=334&height=671)]
+#### Step 2: Unstructured Exploration
+
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407433260564520/Green_Tols_1.jpg?ex=66d7f7d8&is=66d6a658&hm=ea824a416d759777c7e1a6e06b2900e834b72926d8c8b8f4504b4c2570b12289&=&format=webp&width=839&height=671)]
+#### Step 3: Unstructured Exploration
+
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407432702459946/Green_Tols_3.jpg?ex=66d7f7d8&is=66d6a658&hm=f41f599a57ee57f99c0e9e05391162256c64aaa6e100594c69279bcfd6c9bcfc&=&format=webp&width=737&height=671)]
+#### Step 4: Unstructured Exploration
+
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407433017036830/Green_Tols_2.jpg?ex=66d7f7d8&is=66d6a658&hm=6ce9f5047c3626a8dd2545077e9a85f82aa42d3452987db05a32efd90a2b068d&=&format=webp&width=862&height=671)]
+#### Step 5: Unstructured Exploration
+
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280409740698062858/Green_Tols_18.jpg?ex=66d7f9ff&is=66d6a87f&hm=367a892df6a5ea0b07053786fe9d927acfc2deb8672983d227adf5cad4b4bbec&=&format=webp&width=1075&height=671)]
 
 #### 4.1.1.1. Candidate Context Discovery
 
