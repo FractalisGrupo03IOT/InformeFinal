@@ -404,14 +404,19 @@ No hay sistemas externos
 [![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407496489439332/Green_Tols_15.jpg?ex=66d7f7e7&is=66d6a667&hm=eb97d3ba500461f06739d3e67f5696920b9719f27fb4cbc5e467406e37d92b60&=&format=webp&width=1159&height=671)]
 [![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407496875315232/Green_Tols_14.jpg?ex=66d7f7e8&is=66d6a668&hm=2e9a63f418876a59eb94332979f58c4d54fcb19606973b278d1c17a616ebffd0&=&format=webp&width=1163&height=671)]
 ### 4.1.2. Context Mapping
-
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407512658612314/Green_Tols_17.jpg?ex=66d7f7eb&is=66d6a66b&hm=7c4330d2dcd4607807b3c3c7a37c8d4ea9ea4166463203005af81c0029d7b144&=&format=webp&width=766&height=671)]
 ### 4.1.3. Software Architecture
 
 #### 4.1.3.1. Software Architecture System Landscape Diagram
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407434258546688/Green_Tools-Page-1.png?ex=66d7f7d9&is=66d6a659&hm=25b5f33939012eb9d34a61fbbbae1eff071ffba2bffc677e700cb9339103bcdc&=&format=webp&quality=lossless&width=598&height=357)]
 
-#### 4.1.3.3. Software Architecture Deployment Diagrams
+#### 4.1.3.3. Software Architecture Container Level Diagrams
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407434019733525/Green_Tools-Containers.png?ex=66d7f7d9&is=66d6a659&hm=551ad6f47c5eccda9495132ab8c1282e705d1a39009b68fe3869cd63923968db&=&format=webp&quality=lossless&width=854&height=671)]
+
+#### 4.1.3.4. Software Architecture Deployment Diagrams
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407433763622994/Green_Tools-Deployment.png?ex=66d7f7d9&is=66d6a659&hm=14c907db9c50d45eb98e0c69147a0d0a4f621bd7db8987db8f4c048feb02c841&=&format=webp&quality=lossless&width=939&height=671)]
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
