@@ -358,6 +358,10 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 
 ### 4.1.1. EventStorming
 
+#### Step 1: Unstructured Exploration
+
+[![Imagen de EventStorming]([https://media.discordapp.net/attachments/1228537935368945717/1277297738538815602/Diagrama_en_blanco_-_Pagina_1_1.png?ex=66cea1f7&is=66cd5077&hm=08d4f7e067c840d967de645bcbdd9e9d99e8556b5f1d1900d939ecf456e12fb9&=&format=webp&quality=lossless&width=1025&height=345](https://media.discordapp.net/attachments/1280405882517196875/1280407433528737846/Green_Tols.jpg?ex=66d7f7d8&is=66d6a658&hm=a2af2a4f3bf9e3ceacd01c3078271745a098ca8de0c485454a35774e1184a750&=&format=webp&width=334&height=671))]
+
 #### 4.1.1.1. Candidate Context Discovery
 
 #### 4.1.1.2. Domain Message Flows Modeling
