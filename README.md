@@ -361,18 +361,33 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 #### Step 1: Unstructured Exploration
 
 [![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407433528737846/Green_Tols.jpg?ex=66d7f7d8&is=66d6a658&hm=a2af2a4f3bf9e3ceacd01c3078271745a098ca8de0c485454a35774e1184a750&=&format=webp&width=334&height=671)]
-#### Step 2: Unstructured Exploration
+#### Step 2: Timelines
 
 [![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407433260564520/Green_Tols_1.jpg?ex=66d7f7d8&is=66d6a658&hm=ea824a416d759777c7e1a6e06b2900e834b72926d8c8b8f4504b4c2570b12289&=&format=webp&width=839&height=671)]
-#### Step 3: Unstructured Exploration
-
-[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407432702459946/Green_Tols_3.jpg?ex=66d7f7d8&is=66d6a658&hm=f41f599a57ee57f99c0e9e05391162256c64aaa6e100594c69279bcfd6c9bcfc&=&format=webp&width=737&height=671)]
-#### Step 4: Unstructured Exploration
+#### Step 3: Paint Points
 
 [![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407433017036830/Green_Tols_2.jpg?ex=66d7f7d8&is=66d6a658&hm=6ce9f5047c3626a8dd2545077e9a85f82aa42d3452987db05a32efd90a2b068d&=&format=webp&width=862&height=671)]
-#### Step 5: Unstructured Exploration
+#### Step 4: Pivotal Points
+
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407432702459946/Green_Tols_3.jpg?ex=66d7f7d8&is=66d6a658&hm=f41f599a57ee57f99c0e9e05391162256c64aaa6e100594c69279bcfd6c9bcfc&=&format=webp&width=737&height=671)]
+#### Step 5: Commands
 
 [![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280409740698062858/Green_Tols_18.jpg?ex=66d7f9ff&is=66d6a87f&hm=367a892df6a5ea0b07053786fe9d927acfc2deb8672983d227adf5cad4b4bbec&=&format=webp&width=1075&height=671)]
+#### Step 6: Policies
+
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407435223236618/Green_Tols_4.jpg?ex=66d7f7d9&is=66d6a659&hm=983c9d558034dae9d8bd08733d179da8cb490b040344a088a0d2347295e2643f&=&format=webp&width=1045&height=671)]
+#### Step 7: Read Models
+
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407434778902639/Green_Tols_5.jpg?ex=66d7f7d9&is=66d6a659&hm=4a882368dde33bfcb49cc10d8c0f7acd0216fc0920fcbae6f6895df4453722db&=&format=webp&width=1097&height=671)]
+#### Step 8: External Systems
+
+No hay sistemas externos
+#### Step 9: Aggregates
+
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280411167126196297/Green_Tols_19.jpg?ex=66d7fb53&is=66d6a9d3&hm=dc714a7ad1daa72b19585f2f8a2389f7dce182d689fb99ab2ee6502a7ba79b2f&=&format=webp&width=1075&height=671)]
+#### Step 10: Bounded Contexts
+
+[![Imagen de EventStorming](https://media.discordapp.net/attachments/1280405882517196875/1280407434518597652/Green_Tols_6.jpg?ex=66d7f7d9&is=66d6a659&hm=94f13c92e765854864dcc1b5c812294bc9382fa3ce099abfe2fec9327aab9cbb&=&format=webp&width=1114&height=671)]
 
 #### 4.1.1.1. Candidate Context Discovery
 
