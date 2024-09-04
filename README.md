@@ -386,9 +386,10 @@ No hay sistemas externos
 ### 4.1.3. Software Architecture
 
 #### 4.1.3.1. Software Architecture System Landscape Diagram
+[![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280938931776651388/Green_Tools-Landscape.png?ex=66d9e6d8&is=66d89558&hm=d4cae0aa462ab892a792bc76b607d74eb9f5953bf71689cfff0d5ac008b7de32&=&format=webp&quality=lossless&width=785&height=664)]
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
-[![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407434258546688/Green_Tools-Page-1.png?ex=66d7f7d9&is=66d6a659&hm=25b5f33939012eb9d34a61fbbbae1eff071ffba2bffc677e700cb9339103bcdc&=&format=webp&quality=lossless&width=598&height=357)]
+[![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280938932044959745/Green_Tools-Context.png?ex=66d9e6d8&is=66d89558&hm=4c74bbaf300c8713b1f10123dd18ca9aa12c432addc476cd80d2f6802c196017&=&format=webp&quality=lossless&width=598&height=357)]
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams.
 [![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407434019733525/Green_Tools-Containers.png?ex=66d7f7d9&is=66d6a659&hm=551ad6f47c5eccda9495132ab8c1282e705d1a39009b68fe3869cd63923968db&=&format=webp&quality=lossless&width=854&height=671)]
