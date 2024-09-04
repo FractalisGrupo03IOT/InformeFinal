@@ -376,6 +376,10 @@ No hay sistemas externos
 [![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407495843516416/Green_Tols_7.jpg?ex=66d7f7e7&is=66d6a667&hm=de1a52d81e29e2f8b456462b471d7b0aa350de9c16bcd8f76ccf34c1f9ddc1dc&=&format=webp&width=1183&height=671)]
 
 #### 4.1.1.3. Bounded Context Canvases
+[![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407493406625823/Green_Tols_13.jpg?ex=66d7f7e7&is=66d6a667&hm=fc2b0cc42fd62a50968392e385c2b1b82a1d79d43f21881fad38fbb2f582a1bc&=&format=webp&width=1162&height=671)]
+[![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407496107888672/Green_Tols_16.jpg?ex=66d7f7e7&is=66d6a667&hm=2275b29ed02d4e6480c5fb3a70d52da8bec99631c832367584d49cd2a637ab31&=&format=webp&width=1144&height=671)]
+[![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407496489439332/Green_Tols_15.jpg?ex=66d7f7e7&is=66d6a667&hm=eb97d3ba500461f06739d3e67f5696920b9719f27fb4cbc5e467406e37d92b60&=&format=webp&width=1159&height=671)]
+[![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407496875315232/Green_Tols_14.jpg?ex=66d7f7e8&is=66d6a668&hm=2e9a63f418876a59eb94332979f58c4d54fcb19606973b278d1c17a616ebffd0&=&format=webp&width=1163&height=671)]
 
 ### 4.1.2. Context Mapping
 
