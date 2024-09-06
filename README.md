@@ -399,7 +399,7 @@ No hay sistemas externos
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
-### 4.2.1. Bounded Context: \<Bounded Context Name>
+### 4.2.1. Bounded Context: \<Account>
 
 #### 4.2.1.1. Domain Layer
 
@@ -409,13 +409,83 @@ No hay sistemas externos
 
 #### 4.2.1.4. Infrastructure Layer
 
-#### 4.2.1.6. Bounded Context Software Architecture Component Level Diagrams
+#### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-#### 4.2.1.7. Bounded Context Software Architecture Code Level Diagrams
+#### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 
-##### 4.2.1.7.1. Bounded Context Domain Layer Class Diagrams
+##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 
-##### 4.2.1.7.2. Bounded Context Database Design Diagram
+![Account Bounded Context-DiagramaC](https://github.com/user-attachments/assets/839f44b5-c3e7-4a28-8b0f-d4c66adb7c26)
+
+##### 4.2.1.6.2. Bounded Context Database Design Diagram
+
+![Account Bounded Context](https://github.com/user-attachments/assets/f571b0d8-b4b5-4940-9752-8dd968ba1437)
+
+### 4.2.2. Bounded Context: \<IoT System>
+
+#### 4.2.2.1. Domain Layer
+
+#### 4.2.2.2. Interface Layer
+
+#### 4.2.2.3. Application Layer
+
+#### 4.2.2.4. Infrastructure Layer
+
+#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+#### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+![IoT System Bounded Context-DiagramC](https://github.com/user-attachments/assets/84368510-5475-47ea-8345-df7ecfee0220)
+
+##### 4.2.2.6.2. Bounded Context Database Design Diagram
+
+![IoT System Bounded Context](https://github.com/user-attachments/assets/079afb50-8f12-431b-bdfa-fb08f394b741)
+
+### 4.2.3. Bounded Context: \<Crop Inventory>
+
+#### 4.2.3.1. Domain Layer
+
+#### 4.2.3.2. Interface Layer
+
+#### 4.2.3.3. Application Layer
+
+#### 4.2.3.4. Infrastructure Layer
+
+#### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
+
+#### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
+
+![Crop Inventory Bounded Context-DiagramC](https://github.com/user-attachments/assets/a877c231-1ced-4af2-b58f-2c2c0e222659)
+
+##### 4.2.3.6.2. Bounded Context Database Design Diagram
+
+![Crop Status Bounded Context](https://github.com/user-attachments/assets/022acbc4-ca0b-4639-9603-3ae33bd8cdc9)
+
+### 4.2.4. Bounded Context: \<Crop Status>
+
+#### 4.2.4.1. Domain Layer
+
+#### 4.2.4.2. Interface Layer
+
+#### 4.2.4.3. Application Layer
+
+#### 4.2.4.4. Infrastructure Layer
+
+#### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+#### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
+
+![Crop Status Bounded Context-DiagramC](https://github.com/user-attachments/assets/6c828cf5-8263-42fe-943b-69287cad3d06)
+
+##### 4.2.4.6.2. Bounded Context Database Design Diagram
+
+![Crop Status Bounded Context](https://github.com/user-attachments/assets/c5cfacfb-f312-4e08-b5c5-df79bfce18bf)
 
 # Capítulo V: Solution UI/UX Design
 
