@@ -193,18 +193,11 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 
 # Student Outcome
 
-### Competencia ABET 5
+| Criterio | Acciones realizadas | Conclusión |
+| -------- | ------------------- | ---------- |
+| **Criterio 1: Trabaja en equipo para proporcionar liderazgo en forma conjunta** | - Miguel Ángel tomó la responsabilidad de iniciar el proyecto liderando la estructura inicial del informe. Se aseguró de que todos tuvieran una base sólida para avanzar, dividiendo las tareas de manera eficiente.<br> - Lino Quenta se aseguró de añadir las secciones más críticas como "Lean UX Process", lo que impulsó el progreso del equipo y aseguró que no se perdieran elementos clave del informe.<br> - Giovanni Andrés reorganizó el contenido del informe, mejorando la coherencia y fluidez del documento. Esto ayudó a que la presentación final fuera mucho más clara y entendible.<br> - Jean Patrick coordinó la actualización de la arquitectura del sistema y se aseguró de que los aspectos técnicos estuvieran bien reflejados en el informe, lo que elevó su calidad técnica. | El equipo trabajó de manera cohesionada, con cada miembro asumiendo roles clave de liderazgo en momentos adecuados. Esto permitió que el informe se desarrollara de manera sólida y estructurada, mejorando la calidad del resultado final. |
+| **Criterio 2: Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | - Miguel Ángel se encargó de la planificación inicial del proyecto, asignando tareas y asegurándose de que el equipo siguiera un cronograma para cumplir con los objetivos propuestos.<br> - Lino Quenta promovió un ambiente de trabajo colaborativo, integrando las ideas de todos los miembros y asegurando que cada aportación fuera tomada en cuenta para el éxito del proyecto.<br> - Giovanni Andrés se encargó de revisar y reestructurar las secciones del informe, asegurando que todo el contenido estuviera alineado y en orden para facilitar el progreso del equipo.<br> - Jean Patrick cumplió con los objetivos técnicos del proyecto mejorando la arquitectura del sistema y asegurando que todos los elementos de diseño UX estuvieran bien implementados. | El equipo logró crear un entorno inclusivo y colaborativo, donde cada miembro aportó significativamente. La planificación fue clara y efectiva, lo que permitió cumplir los objetivos en tiempo y forma. |
 
-| **Criterio**                                                                          | **Acciones realizadas**                                                                                      |
-|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| **Criterio 1:** Trabaja en equipo para proporcionar liderazgo en forma conjunta        | - **Miguel Angel**: Lideró la creación de la estructura inicial del informe.                                 |
-|                                                                                       | - **Lino Quenta**: Facilitó la adición de secciones clave, impulsando el progreso del equipo.                |
-|                                                                                       | - **Giovanni Andres**: Reestructuró el informe, mejorando la coherencia general.                              |
-|                                                                                       | - **Jean Patrick**: Coordinó la actualización de la arquitectura del sistema.                                |
-| **Criterio 2:** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | - **Miguel Angel**: Estableció la planificación inicial del informe.                                         |
-|                                                                                       | - **Lino Quenta**: Promovió un entorno colaborativo al incluir secciones críticas como "Lean UX Process".     |
-|                                                                                       | - **Giovanni Andres**: Aseguró la coherencia y alineación del equipo mediante la reestructuración del informe.|
-|                                                                                       | - **Jean Patrick**: Cumplió los objetivos técnicos con la mejora de la arquitectura y el diseño UX.           |
 
 
 
