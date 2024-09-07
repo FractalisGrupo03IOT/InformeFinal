@@ -303,7 +303,7 @@ Aca las primeras cosas que se trabajaran
 | EP4/US8         | Configuración de Simulación IoT en Wokwi| Como desarrollador, quiero configurar la simulación de dispositivos IoT en Wokwi utilizando un ESP32 para probar la integración y funcionalidad de sensores y actuadores. | **SCENARIO 1**: Configuración de simulación en Wokwi. <br> **Dado** que el backend está conectado a la plataforma de simulación, **Cuando** el ESP32 recibe comandos o envía datos, **Entonces** debo poder verificar la correcta interacción de los sensores (temperatura, humedad, pH) y actuador (servo motor para válvula de riego). | EP4 |
 
 ## 3.3. Impact Mapping
-[![Texto alternativo](![image](https://github.com/user-attachments/assets/13ac363f-26bf-4bb7-8f05-6116676e091c)]
+[(![image](https://github.com/user-attachments/assets/13ac363f-26bf-4bb7-8f05-6116676e091c)]
 
 ## 3.4. Product Backlog
 
