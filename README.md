@@ -166,7 +166,11 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 
 ### Entrega 1 (TB1)
 
-Aca las primeras cosas que se trabajaran 
+- **Miguel Angel**: Estructura inicial del informe y mejora de "User Personas".
+- **Lino Quenta**: Adición de "Lean UX Process", "Impact Mapping", y mejoras en las historias de usuario.
+- **Giovanni Andres**: Correcciones en "Competidores" y reestructuración del informe.
+- **Jean Patrick**: Actualización de "Software Architecture" y adición de "Solution UX Design".
+
 
 ### Entrega 2 (TP1)
 
