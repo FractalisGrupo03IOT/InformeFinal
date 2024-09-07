@@ -317,12 +317,13 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148239074021351464/intranet_2020.jpg" alt="Cáceres Arnol"  style="margin-bottom: 5px;" width="800"/>
+            <img src="![image](https://github.com/user-attachments/assets/d6420759-74be-4521-9796-99a0646d52d2)
+" alt="Quenta Leon"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            Cáceres Bueno, Arnol Omar
+           Quenta leon Lino Abraham
         </td>
     </tr>
     <tr>
