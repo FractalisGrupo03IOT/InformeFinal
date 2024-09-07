@@ -403,11 +403,32 @@ No hay sistemas externos
 
 #### 4.2.1.1. Domain Layer
 
+Entities:
+Value Objects: 
+Aggregates:
+Repositories:
+Services:
+
 #### 4.2.1.2. Interface Layer
+
+API Endpoints:
+DTOs:
+View Models: 
+Controllers:
 
 #### 4.2.1.3. Application Layer
 
+Services:
+Commands/Queries:
+Command Handlers: 
+Event Handlers:
+
 #### 4.2.1.4. Infrastructure Layer
+
+Persistence Mechanisms:
+External Service Integrations:
+Factories:
+API Clients: 
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -425,11 +446,32 @@ No hay sistemas externos
 
 #### 4.2.2.1. Domain Layer
 
+Entities:
+Value Objects: 
+Aggregates:
+Repositories:
+Services:
+
 #### 4.2.2.2. Interface Layer
+
+API Endpoints:
+DTOs:
+View Models: 
+Controllers:
 
 #### 4.2.2.3. Application Layer
 
+Services:
+Commands/Queries:
+Command Handlers: 
+Event Handlers:
+
 #### 4.2.2.4. Infrastructure Layer
+
+Persistence Mechanisms:
+External Service Integrations:
+Factories:
+API Clients: 
 
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -447,11 +489,32 @@ No hay sistemas externos
 
 #### 4.2.3.1. Domain Layer
 
+Entities:
+Value Objects: 
+Aggregates:
+Repositories:
+Services:
+
 #### 4.2.3.2. Interface Layer
+
+API Endpoints:
+DTOs:
+View Models: 
+Controllers:
 
 #### 4.2.3.3. Application Layer
 
+Services:
+Commands/Queries:
+Command Handlers: 
+Event Handlers:
+
 #### 4.2.3.4. Infrastructure Layer
+
+Persistence Mechanisms:
+External Service Integrations:
+Factories:
+API Clients: 
 
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -469,11 +532,32 @@ No hay sistemas externos
 
 #### 4.2.4.1. Domain Layer
 
+Entities:
+Value Objects: 
+Aggregates:
+Repositories:
+Services:
+
 #### 4.2.4.2. Interface Layer
+
+API Endpoints:
+DTOs:
+View Models: 
+Controllers:
 
 #### 4.2.4.3. Application Layer
 
+Services:
+Commands/Queries:
+Command Handlers: 
+Event Handlers:
+
 #### 4.2.4.4. Infrastructure Layer
+
+Persistence Mechanisms:
+External Service Integrations:
+Factories:
+API Clients: 
 
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
 
