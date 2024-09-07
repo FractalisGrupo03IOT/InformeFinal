@@ -193,10 +193,13 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 
 # Student Outcome
 
-| Competencia ABET | Criterio específico                                                                                             | Acciones realizadas |
-|------------------|-----------------------------------------------------------------------------------------------------------------|---------------------|
-| **ABET 5**       | **Criterio 1:** Trabaja en equipo para proporcionar liderazgo en forma conjunta                                  |                     |
-|                  | **Criterio 2:** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos    |                     |
+### Competencia ABET 5
+
+| **Criterio**                                                                          | **Acciones realizadas**                                                                                                                |
+|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **Criterio 1:** Trabaja en equipo para proporcionar liderazgo en forma conjunta        | Miguel Angel lideró la estructura inicial del informe, coordinando las contribuciones de cada miembro del equipo.                      |
+| **Criterio 2:** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Lino Quenta fomentó la colaboración y añadió secciones clave. Giovanni Andres reestructuró el informe y Jean Patrick mejoró el diseño de la arquitectura. |
+
 
 
 
