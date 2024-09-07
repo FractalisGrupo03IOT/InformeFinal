@@ -233,7 +233,16 @@ Aca las primeras cosas que se trabajaran
 ### 2.2.1. Diseño de entrevistas
 
 ### 2.2.2. Registro de entrevistas
+#### Segmento: Dueños de Invernaderos
 
+| **Segmento**                 | Dueños de Invernaderos                             |
+|------------------------------|----------------------------------------------------|
+| **Entrevistado 01**           | [Ver Entrevista](https://www.youtube.com/watch?v=n3PuNGCNKNs) |
+| **Nombre y Apellido**         | Sonia Hcaylluhua                                   |
+| **Edad**                      | 32                                                 |
+| **Ubicación**                 | Puno, Puno, Perú                                   |
+| **Imagen**                    | ![Imagen](https://media.discordapp.net/attachments/1228537935368945717/1279448960561447057/image.png?ex=66d47b33&is=66d329b3&hm=b30536094cd394565707fc9a99158b1640d17c0b5a18fdc5c11122802c73bea6&=&format=webp&quality=lossless&width=742&height=417) |
+| **Resumen**                   | Sonia Hcaylluhua, agricultora de 32 años de la región de Puno, Perú, se dedica al cultivo y venta de fresas en su invernadero. A pesar de su experiencia en la agricultura, no ha incorporado tecnología avanzada, pero está interesada en herramientas que optimicen sus procesos. Actualmente, el monitoreo de sus cultivos requiere un esfuerzo manual significativo, especialmente en el riego, lo que genera altos costos de consumo de agua. Sonia considera la posibilidad de adoptar una solución tecnológica para gestionar el riego de manera más eficiente. Está interesada en una aplicación móvil con sensores para monitorear sus cultivos en tiempo real, aunque necesitaría capacitación para su uso. Además de optimizar el riego, espera que la tecnología le ayude a expandir su negocio y llegar a más mercados. |
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
