@@ -44,8 +44,8 @@ Franco Felix Yance Gutierrez (U20)
 | 2.0 | 2024-08-30 |Giovanni Andres| Reestructuración completa del informe para mejorar la coherencia |
 | 2.1 | 2024-09-22 | Jean Patrick | Actualización de la sección "Software Architecture" |
 | 2.3 | 2024-09-05 | Jean Patrick | Adición de la sección "Solution UX Design" |
-| 2.4 | 2024-09-20 | Lino Quenta |  |
-| 3.0 | 2024-09-26 | Giovanni Andres  |  |
+| 2.4 | 2024-09-20 | Lino Quenta | Mejoras en las Hisotorias de Usuario.|
+| 3.0 | 2024-09-26 | Giovanni Andres  | Mejoras en la arquitectura de C4 Model. |
 
 Contenido
 
@@ -160,7 +160,7 @@ Contenido
 
 # Project Report Collaboration Insights
 
-URL de nuestro repositorio para el Project Report: https://github.com/linoabraham/Fractalis
+URL de nuestro repositorio para el Project Report:[ https://github.com/linoabraham/Fractalis](https://github.com/FractalisGrupo03IOT/InformeFinal)
 
 ## Desarrollo de actividades y colaboración
 
