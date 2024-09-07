@@ -234,44 +234,191 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 ## 1.3. Segmentos objetivo
 
 # Capítulo II: Requirements Elicitation & Analysis
-
 ## 2.1. Competidores
+
+| **Nombre del Competidor** | **Descripción**                                                                                                                                                                                                 | **Sitio Web**                     |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|
+| Agrosmart                 | Agrosmart es una empresa brasileña que se especializa en ofrecer soluciones de monitoreo remoto para el sector agrícola. A través de sensores avanzados y análisis en tiempo real, apoya a los agricultores en la toma de decisiones más acertadas. | [agrosmart.com.br](https://agrosmart.com.br) |
+| AGROS                     | Es una compañía peruana que brinda soluciones completas para el monitoreo y automatización en el sector agrícola. Su objetivo es proporcionar herramientas tecnológicas que faciliten a los agricultores la gestión eficiente de sus cultivos.           | [agros.tech](https://agros.tech)  |
+| CropX                     | CropX es una empresa israelí destacada en la agricultura de precisión. Su enfoque se centra en el desarrollo de sensores de suelo y software avanzado para optimizar en tiempo real la irrigación, los nutrientes y la gestión de cultivos.              | [cropx.com](https://cropx.com)    |
+
 
 ### 2.1.1. Análisis competitivo
 
+# Análisis de Competencia
+
+### Competitive Analysis Landscape
+¿Por qué llevar a cabo este análisis? 
+
+¿Cómo reconocer a nuestros competidores más relevantes?
+
+Este análisis se llevó a cabo con el propósito de identificar a nuestros posibles competidores y desarrollar estrategias y tácticas que nos permitan diferenciarnos de ellos.
+
+| Categoría              | GreenTools                                                                                                                                                  | Agrosmart                                                                                                                                                 | CropX                                                                                                                                                       | AGROS                                                                                                                                                               |
+|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Overview**           | Plataforma tecnológica que integra IoT y automatización para optimizar la gestión agrícola en tiempo real.                                                | Empresa brasileña que proporciona soluciones de monitoreo remoto y análisis en tiempo real para la agricultura.                                           | Empresa israelí que ofrece soluciones de agricultura de precisión con un enfoque en el análisis predictivo y gestión del suelo.                            | Compañía peruana especializada en automatización y monitoreo agrícola para grandes y medianos agricultores.                                                        |
+| **Ventaja competitiva**| Integra IoT y automatización para un control preciso y sostenible de los recursos en tiempo real.                                                          | Sostenibilidad y una red extensa en Brasil y América Latina. Soluciones que ayudan a reducir el desperdicio de recursos.                                  | Soluciones inteligentes para la gestión del suelo y fuerte presencia internacional.                                                                        | Especialización en sistemas de riego automatizado para una gestión eficiente del agua.                                                                            |
+| **Mercado objetivo**   | Propietarios de invernaderos y agricultores que buscan modernizar su gestión agrícola.                                                                       | Agricultores en Brasil y América Latina interesados en monitoreo remoto y análisis en tiempo real.                                                       | Agricultores de precisión a gran escala que buscan tecnología avanzada para optimizar el riego y la nutrición.                                             | Grandes y medianos agricultores en Perú que necesitan soluciones de automatización para gestión de recursos.                                                     |
+| **Estrategias de marketing** | Publicidad digital en redes sociales y campañas a nivel nacional.                                                                                            | Estrategias de publicidad pagada, campañas en redes sociales y creación de contenido relevante sobre agricultura de precisión y sostenibilidad.           | Publicación de estudios de caso y testimonios de clientes, además de publicidad pagada.                                                                   | Anuncios en medios locales, demostraciones en eventos agrícolas y ferias.                                                                                           |
+| **Productos & Servicios** | Plataforma web y móvil que permite gestionar agua, luz, y nutrientes en tiempo real; incluye planes Monocultivo y Multicultivo.                             | Plataforma web y móvil para datos y análisis en tiempo real.                                                                                            | Plataforma SaaS para gestión precisa del riego y la nutrición del suelo, con análisis predictivo.                                                            | Sistemas de automatización de riego y herramientas para el monitoreo de condiciones del cultivo.                                                                  |
+| **Precios & Costos**   | Monocultivo ($10), Multicultivo ($15) más alquiler de dispositivos Arduino y sensores especializados.                                                         | Generalmente $300 - $1,000 basado en cantidad de sensores y alcance. Incluye suscripción mensual o anual.                                                | $2,000 - $4,000 por sistema, con costos adicionales para mantenimiento y soporte.                                                                           | $1,000 - $3,000 por sistema, con un costo adicional de 10-20% para mantenimiento y soporte.                                                                       |
+| **Canales de distribución (Web y/o Móvil)** | Plataforma accesible desde la web y aplicaciones móviles.                                                                                                  | Suscripciones online accesibles desde cualquier dispositivo con internet.                                                                               | Distribución a través de su plataforma SaaS y red de distribuidores.                                                                                          | Asociaciones con distribuidores locales y ventas directas a través de su sitio web.                                                                               |
+| **Fortalezas**         | Integración de tecnologías IoT y automatización que optimizan recursos y mejoran la eficiencia operativa.                                                    | Red extensa en América Latina y enfoque en sostenibilidad con soluciones para reducir desperdicios.                                                       | Soluciones avanzadas de gestión del suelo y fuerte presencia global.                                                                                           | Especialización en riego automatizado, una solución crucial para la gestión de agua.                                                                             |
+| **Debilidades**        | Nuevo en el mercado, enfrenta desafíos de financiamiento y reconocimiento de marca.                                                                           | Dependencia de infraestructura tecnológica en regiones con tecnología deficiente.                                                                         | Costo elevado para pequeños agricultores, limitando la adopción en ciertos mercados.                                                                        | Innovación puede no estar al mismo nivel que competidores más avanzados en IoT y análisis predictivo.                                                            |
+| **Oportunidades**      | Creciente demanda de prácticas agrícolas sostenibles ofrece potencial de liderazgo en modernización agrícola.                                                | Posibilidad de expansión fuera de América Latina aprovechando la experiencia en agricultura de precisión.                                                 | Expansión de productos para nuevas áreas agrícolas y mayor adopción de monitoreo del suelo.                                                                  | Creciente demanda de tecnologías de automatización agrícola como el riego automatizado.                                                                          |
+| **Amenazas**           | Competencia de startups más grandes y establecidas en el sector de tecnología agrícola.                                                                      | Competencia intensa en mercados de rápida expansión de soluciones tecnológicas similares.                                                                 | Exposición a riesgos climáticos, económicos, y regulatorios en mercados volátiles.                                                                         | Regulaciones gubernamentales sobre el uso del agua y sostenibilidad pueden afectar la adopción de sus productos.                                                 |
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+# Estrategia de GreenTools
+
+Posicionar a GreenTools como un líder en la agricultura de precisión mediante la innovación tecnológica, con un enfoque en sostenibilidad y eficiencia, superando a la competencia a través de la diferenciación en servicios y productos, el aprovechamiento de oportunidades de mercado y la mitigación de amenazas.
+
+- Estrategia de Enfoque:
+Reconocemos que el auge de la tecnología y el creciente uso de computadoras y smartphones han impulsado una alta demanda en los servicios de gestión y asesoramiento agrícola. Por ello, consideramos que contar con una plataforma web sólida sería de gran utilidad para que las personas puedan investigar y aprender más sobre nuestro tema principal directamente desde sus propios dispositivos.
+
+- Estrategia de Diferenciación en Tecnología y Valor:
+**Adaptabilidad del Producto:**
+Crear un modelo de tecnología adaptable que permita a GreenTools ofrecer una plataforma flexible, adecuada tanto para pequeños agricultores como para grandes explotaciones agrícolas, diferenciándose así de competidores más especializados como AGROS o CropX.
+
+- Estrategia de Expansión en el Mercado:
+**Implementación de Programas de Demostración:**
+Mostrar el valor de la tecnología de GreenTools en acción mediante jornadas de campo, demostraciones virtuales y tutoriales que permitan a los agricultores experimentar los beneficios de la automatización y la sostenibilidad.
+
 
 ## 2.2. Entrevistas
 
+### Objetivo de la Entrevista:
+
+Comprender las necesidades y expectativas de los dueños de invernaderos en cuanto al uso de tecnología para la gestión agrícola.
+
 ### 2.2.1. Diseño de entrevistas
 
-### 2.2.2. Registro de entrevistas
-#### Segmento: Dueños de Invernaderos
+## Entrevista a Dueños de Invernaderos
 
-| **Segmento**                 | Dueños de Invernaderos                             |
-|------------------------------|----------------------------------------------------|
-| **Entrevistado 01**           | [Ver Entrevista](https://www.youtube.com/watch?v=n3PuNGCNKNs) |
-| **Nombre y Apellido**         | Sonia Hcaylluhua                                   |
-| **Edad**                      | 32                                                 |
-| **Ubicación**                 | Puno, Puno, Perú                                   |
-| **Imagen**                    | ![Imagen](https://media.discordapp.net/attachments/1228537935368945717/1279448960561447057/image.png?ex=66d47b33&is=66d329b3&hm=b30536094cd394565707fc9a99158b1640d17c0b5a18fdc5c11122802c73bea6&=&format=webp&quality=lossless&width=742&height=417) |
-| **Resumen**                   | Sonia Hcaylluhua, agricultora de 32 años de la región de Puno, Perú, se dedica al cultivo y venta de fresas en su invernadero. A pesar de su experiencia en la agricultura, no ha incorporado tecnología avanzada, pero está interesada en herramientas que optimicen sus procesos. Actualmente, el monitoreo de sus cultivos requiere un esfuerzo manual significativo, especialmente en el riego, lo que genera altos costos de consumo de agua. Sonia considera la posibilidad de adoptar una solución tecnológica para gestionar el riego de manera más eficiente. Está interesada en una aplicación móvil con sensores para monitorear sus cultivos en tiempo real, aunque necesitaría capacitación para su uso. Además de optimizar el riego, espera que la tecnología le ayude a expandir su negocio y llegar a más mercados. |
+## Preguntas
+
+1. **¿Cómo describirías tu interés en la tecnología aplicada a la agricultura?**
+2. **¿Cuáles son los principales cultivos que manejas en tu invernadero?**
+3. **¿Qué retos enfrentas en términos de sostenibilidad y optimización del uso de recursos (agua, energía)?**
+4. **¿Qué importancia le das al monitoreo en tiempo real de las condiciones dentro del invernadero?**
+5. **¿Qué tipo de herramientas tecnológicas utilizas actualmente?**
+6. **¿Cómo han impactado tu operación?**
+7. **¿Cuánto estarías dispuesto a invertir en soluciones tecnológicas que puedan mejorar la eficiencia y sostenibilidad de tu invernadero?**
+8. **¿Qué características considerarías esenciales en una plataforma de gestión de cultivos como GreenTools?**
+9. **¿Te interesarían servicios adicionales, como capacitación en el uso de tecnologías IoT?**
+10. **¿Qué factores te motivarían a cambiar o adoptar nuevas tecnologías en tu operación?**
+
+## Entrevista a Propietarios de Microcultivos
+
+## Preguntas
+
+1. **¿Cómo describirías tu experiencia manejando múltiples cultivos en un espacio reducido?**
+2. **¿Qué desafíos enfrentan tus cultivos en términos de recursos como agua y nutrientes?**
+3. **¿Qué tipo de tecnología, si alguna, estás utilizando actualmente para gestionar tus cultivos? ¿Qué te gustaría mejorar?**
+4. **¿Cuán importante es para ti contar con información en tiempo real sobre las condiciones de tus cultivos?**
+5. **¿Cómo ves el uso de IoT y automatización para ayudarte en la gestión diaria de múltiples cultivos?**
+6. **¿Estarías dispuesto a pagar por una solución que optimice la producción de varios cultivos al mismo tiempo? Si es así, ¿cuál sería un precio justo para ti?**
+7. **¿Qué funcionalidades te parecen más útiles en una plataforma como GreenTools?**
+8. **¿Qué barreras te frenan a la hora de adoptar nueva tecnología en tus microcultivos?**
+9. **¿Qué tipo de soporte (como capacitación o asesoría técnica) te ayudaría a maximizar el uso de estas tecnologías?**
+
+
+### 2.2.2. Registro de entrevistas
+
+## Entrevistado 01
+
+|                     |                                                                                                                                                                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre y Apellido**         | Sonia Hcaylluhua                                                                                                                                                                                                                |
+| **Edad**                      | 32                                                                                                                                                                                                                                |
+| **Ubicación**                 | PUNO - PUNO - PUNO                                                                                                                                                                                                              |
+| **Imagen**                    | ![Sonia Hcaylluhua](https://media.discordapp.net/attachments/1228537935368945717/1279448960561447057/image.png?ex=66d47b33&is=66d329b3&hm=b30536094cd394565707fc9a99158b1640d17c0b5a18fdc5c11122802c73bea6&=&format=webp&quality=lossless&width=742&height=417) |
+| **Cultivo Principal**         | Fresas                                                                                                                                                                                                                          |
+| **Interés en Tecnología**     | Alta, está interesada en herramientas tecnológicas para optimizar procesos y mejorar la eficiencia del negocio.                                                                                                                   |
+| **Retos en Gestión**          | Monitoreo manual significativo y costos altos en riego, especialmente en términos de consumo de agua.                                                                                                                             |
+| **Solución Tecnológica Deseada** | Aplicación móvil equipada con sensores para monitoreo en tiempo real de los cultivos.                                                                                                                                         |
+| **Inversión en Tecnología**   | Abierta a considerar la inversión si la tecnología ofrece mejoras significativas en la gestión del invernadero; no tiene una cifra exacta.                                                                                          |
+| **Necesidad de Capacitación** | Sí, necesitaría capacitación para utilizar correctamente las nuevas herramientas tecnológicas.                                                                                                                                  |
+| **Expectativas de la Tecnología** | Optimizar el riego, reducir gastos, mejorar la productividad y expandir el negocio para llegar a más mercados.                                                                                                                   |
+
+|                       |                                                                                                                                                                                                                               |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre y Apellido**          | Victor Felopez                                                                                                                                                                                                                           |
+| **Edad**                       | 29 años                                                                                                                                                                                                                                  |
+| **Ubicación**                  | Lima, Victoria                                                                                                                                                                                                                           |
+| **Imagen**                     | ![Victor Felopez](https://media.discordapp.net/attachments/624357483116232707/1280635277475582084/image.png?ex=66d8cc0b&is=66d77a8b&hm=c045d7c0c2c236c52ec65cf16a86fed0182d0608c4e2a356a10a0dbecc9a0ef5&=&format=webp&quality=lossless&width=550&height=226) |
+| **Cultivo Principal**          | Tomates y otros cultivos que requieren alta precisión                                                                                                                                                                                     |
+| **Interés en Tecnología**      | Alta, está interesado en aplicar IoT para mejorar la gestión de sus cultivos en invernaderos.                                                                                                                                            |
+| **Retos en Gestión**           | Actualmente no utiliza tecnología avanzada, lo que limita la eficiencia y control en tiempo real de sus cultivos.                                                                                                                        |
+| **Solución Tecnológica Deseada**| Aplicación móvil con monitoreo en tiempo real de los cultivos, acompañada de videos instructivos para facilitar su uso.                                                                                                                  |
+| **Inversión en Tecnología**    | Está dispuesto a considerar la inversión si la tecnología puede mejorar la eficiencia operativa de su invernadero.                                                                                                                        |
+| **Necesidad de Capacitación**  | Sí, considera importante el soporte educativo para adaptarse rápidamente a nuevas tecnologías.                                                                                                                                           |
+| **Expectativas de la Tecnología** | Monitoreo en tiempo real, mejorar la eficiencia de su operación agrícola, y soporte educativo a través de videos instructivos.                                                                                                             |
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
+Los User Personas son esenciales para el éxito de GreenTools para ofrecer soluciones personalizadas que aborden de manera eficaz los desafíos únicos de cada segmento objetivo. Desde la implementación de tecnologías IoT para dueños de invernaderos interesados en maximizar la eficiencia y sostenibilidad de sus cultivos, hasta la diversificación y optimización de recursos para propietarios de microcultivos, los User Personas guían el diseño de nuestra oferta, asegurando que responda con precisión a las demandas tanto de principiantes en la adopción tecnológica como de expertos que buscan innovación avanzada en sus operaciones agrícolas.
+
+![User01](https://media.discordapp.net/attachments/624357483116232707/1279965053931622420/image.png?ex=66d85619&is=66d70499&hm=7dfdf7d098c72c25bf9cf0c4f2071f82121929bdc8a7d63bda6e03718c32f2ec&=&format=webp&quality=lossless&width=334&height=468)
+
+![User02](https://media.discordapp.net/attachments/624357483116232707/1279965078413774971/image.png?ex=66d8561f&is=66d7049f&hm=a45f0a6ce90d0bb2a7470c478dbee81fa9c849e2ae4642bbf8ef56188c98370e&=&format=webp&quality=lossless&width=292&height=468)
+
+
 ### 2.3.2. User Task Matrix
+
+## Tareas
+
+| Tarea                           | Dueño de Invernadero - Frecuencia | Dueño de Invernadero - Importancia | Propietario de Microcultivo - Frecuencia | Propietario de Microcultivo - Importancia |
+|---------------------------------|-----------------------------------|-----------------------------------|------------------------------------------|-------------------------------------------|
+| Monitorear las condiciones climáticas | Alta                              | Alta                              | Media                                     | Alta                                      |
+| Controlar los niveles de riego        | Alta                              | Alta                              | Alta                                      | Alta                                      |
+| Gestionar múltiples cultivos          | Alta                              | Alta                              | Alta                                      | Alta                                      |
+| Ajustar las condiciones del invernadero | Alta                              | Alta                              | N/A                                       | N/A                                       |
+| Supervisar el crecimiento de los cultivos | Alta                              | Alta                              | Alta                                      | Alta                                      |
+| Reducir el uso de agua y energía      | Media                             | Alta                              | Alta                                      | Alta                                      |
+| Realizar mantenimiento de equipos     | Media                             | Media                             | Media                                     | Media                                     |
+| Identificar plagas y enfermedades     | Alta                              | Alta                              | Alta                                      | Alta                                      |
+| Analizar datos de rendimiento         | Medio                             | Alta                              | Medio                                     | Medio                                     |
+| Gestionar costos y presupuesto        | Alta                              | Media                             | Alta                                      | Media                                     |
 
 ### 2.3.3. User Journey Mapping
 
+Segmento Objetivo: Dueños de Invernaderos
+
+![UJM-01](https://media.discordapp.net/attachments/624357483116232707/1279962158813417603/journey-01.png?ex=66d85367&is=66d701e7&hm=70b6bf079e7663566343faa8e89c8991dc8c66b64419ac2fb0decb3a3f21c072&=&format=webp&quality=lossless&width=648&height=468)
+
+Segmento Objetivo: Propietarios de Microcultivos
+
+![UJM-02](https://media.discordapp.net/attachments/624357483116232707/1279965113813827655/image.png?ex=66d85627&is=66d704a7&hm=919342a2261955c5855b9b266669d12b11469a87b81123e56e7d97b486770db6&=&format=webp&quality=lossless&width=718&height=468)
+
 ### 2.3.4. Empathy Mapping
+
+Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso sigue un enfoque colaborativo para comprender a fondo a cada usuario, enfocándonos en sus emociones, necesidades, frustraciones y expectativas.
+
+![EM-01](https://media.discordapp.net/attachments/624357483116232707/1279963429704044645/user01.png?ex=66d85496&is=66d70316&hm=e57eee7148406abe0a52bc95b084a409a224ce98189b1846ba89dbaf50a5db98&=&format=webp&quality=lossless&width=420&height=468)
+
+![EM-02](https://media.discordapp.net/attachments/624357483116232707/1279963447248949329/user02.png?ex=66d8549a&is=66d7031a&hm=19e4f57a19cd33daae335cb11f4a473a61105177a24653f9f8bd88e7004c233d&=&format=webp&quality=lossless&width=410&height=468)
 
 ### 2.3.5. As-is Scenario Mapping
 
+![ASM-01](https://media.discordapp.net/attachments/624357483116232707/1279965593709056020/image.png?ex=66d8569a&is=66d7051a&hm=20ae08a09bb4c3f5213fe1240a73f783a6088d75153cffa54d5eae15950efe99&=&format=webp&quality=lossless)
+
+![ASM-02](https://media.discordapp.net/attachments/624357483116232707/1279965604819894292/image.png?ex=66d8569c&is=66d7051c&hm=736688e1d56dc3283a4ff22f531e44a5277235717e61f39d196bf7e1ea9d7385&=&format=webp&quality=lossless)
+
 ## 2.4. Ubiquitous Language
 
+- **Greenhouse (Invernadero):** Estructura cerrada diseñada para controlar las condiciones climáticas internas, optimizando el crecimiento de plantas.
+
+- **Microfarm (Microcultivo):** Pequeñas parcelas de terreno dedicadas al cultivo de diversas especies agrícolas, generalmente en áreas urbanas o residenciales.
+
+- **IoT (Internet of Things - Internet de las Cosas):** Red de dispositivos conectados que intercambian datos automáticamente, aplicados en la agricultura para el monitoreo y control remoto de cultivos y sistemas de irrigación.
+
+- **Subscription Model (Modelo de Suscripción):** Modelo de negocio en el que los usuarios pagan una tarifa recurrente para acceder a servicios o productos, como el acceso a plataformas de gestión agrícola y el alquiler de equipos IoT.
+
+- **Farm Management Software (Software de Gestión Agrícola):** Plataforma tecnológica que centraliza la información sobre cultivos, sensores y recursos, permitiendo a los agricultores tomar decisiones basadas en datos para mejorar la eficiencia operativa.
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
