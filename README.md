@@ -195,10 +195,16 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 
 ### Competencia ABET 5
 
-| **Criterio**                                                                          | **Acciones realizadas**                                                                                                                |
-|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **Criterio 1:** Trabaja en equipo para proporcionar liderazgo en forma conjunta        | Miguel Angel lideró la estructura inicial del informe, coordinando las contribuciones de cada miembro del equipo.                      |
-| **Criterio 2:** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | Lino Quenta fomentó la colaboración y añadió secciones clave. Giovanni Andres reestructuró el informe y Jean Patrick mejoró el diseño de la arquitectura. |
+| **Criterio**                                                                          | **Acciones realizadas**                                                                                      |
+|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| **Criterio 1:** Trabaja en equipo para proporcionar liderazgo en forma conjunta        | - **Miguel Angel**: Lideró la creación de la estructura inicial del informe.                                 |
+|                                                                                       | - **Lino Quenta**: Facilitó la adición de secciones clave, impulsando el progreso del equipo.                |
+|                                                                                       | - **Giovanni Andres**: Reestructuró el informe, mejorando la coherencia general.                              |
+|                                                                                       | - **Jean Patrick**: Coordinó la actualización de la arquitectura del sistema.                                |
+| **Criterio 2:** Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | - **Miguel Angel**: Estableció la planificación inicial del informe.                                         |
+|                                                                                       | - **Lino Quenta**: Promovió un entorno colaborativo al incluir secciones críticas como "Lean UX Process".     |
+|                                                                                       | - **Giovanni Andres**: Aseguró la coherencia y alineación del equipo mediante la reestructuración del informe.|
+|                                                                                       | - **Jean Patrick**: Cumplió los objetivos técnicos con la mejora de la arquitectura y el diseño UX.           |
 
 
 
