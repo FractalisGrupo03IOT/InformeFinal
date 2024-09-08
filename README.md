@@ -582,7 +582,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 ### 2.2.2. Registro de entrevistas
 
-**Segmento01:**
+**Segmento 01:**
 
 | **Entrevistado 01**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
@@ -619,7 +619,6 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 | **Resumen de la entrevista**                                 | En la entrevista, López, de 29 años y con formación en Ingeniería Ambiental, discute su interés en la tecnología aplicada a la agricultura. Menciona que actualmente cultiva tomates, pimientos y pepinos en su invernadero y enfrenta retos en la optimización del uso de agua y energía. Destaca la importancia del monitoreo en tiempo real para mantener las condiciones adecuadas para sus cultivos. Aunque no utiliza actualmente herramientas tecnológicas, está explorando sistemas de riego automático y reconoce que la falta de conocimientos en tecnología es un obstáculo. Está dispuesto a invertir en soluciones tecnológicas si el costo es justo y valora características como el control de riego, la gestión de nutrientes y la regulación del clima en una plataforma de gestión de cultivos. También considera importante recibir capacitación en el uso de tecnologías IoT y está motivado por la necesidad de adaptarse a los avances tecnológicos para mejorar la eficiencia y sostenibilidad de su operación. |
 
 <br><br>
-**Segemento02**
 
 **Segmento 02**
 
