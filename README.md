@@ -172,6 +172,10 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 - **Giovanni Andres**: Desarrollo de "Software Architecture"
 - **Jean Patrick**: Actualización de "Software Architecture" y adición de "Solution UX Design".
 
+![image](https://github.com/user-attachments/assets/fb707073-cfaa-4bc2-bf1f-2db48a9493f8)
+
+
+
 
 ### Entrega 2 (TP1)
 
