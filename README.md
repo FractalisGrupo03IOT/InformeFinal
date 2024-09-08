@@ -292,27 +292,27 @@ Me apasiona la tecnología y sus infinitas aplicaciones. Me considero un joven i
 
 - **Nombre del Producto:** <br><br>
 
-  GreenTools es una plataforma tecnológica innovadora que transforma la gestión agrícola a través de la integración de dispositivos IoT y tecnologías avanzadas. Disponible tanto en aplicaciones móviles como web, la plataforma permite a los agricultores monitorear y gestionar sus cultivos en tiempo real, optimizando el uso de recursos y mejorando la eficiencia operativa. <br><br>
+- GreenTools es una plataforma tecnológica innovadora que transforma la gestión agrícola a través de la integración de dispositivos IoT y tecnologías avanzadas. Disponible tanto en aplicaciones móviles como web, la plataforma permite a los agricultores monitorear y gestionar sus cultivos en tiempo real, optimizando el uso de recursos y mejorando la eficiencia operativa. <br><br>
 
 - **Descripción del Producto:** <br><br>
 
-  Utilizando dispositivos Arduino y sensores avanzados, GreenTools recoge datos precisos sobre las condiciones de los cultivos, incluyendo temperatura, humedad, luz y niveles de nutrientes. Cada dispositivo está registrado con un código de identificación único, facilitando su integración y control dentro del sistema. La plataforma también automatiza procesos críticos, como el riego y la ventilación, contribuyendo a reducir el desperdicio de recursos y a mejorar los rendimientos de los cultivos.<br><br>
+- Utilizando dispositivos Arduino y sensores avanzados, GreenTools recoge datos precisos sobre las condiciones de los cultivos, incluyendo temperatura, humedad, luz y niveles de nutrientes. Cada dispositivo está registrado con un código de identificación único, facilitando su integración y control dentro del sistema. La plataforma también automatiza procesos críticos, como el riego y la ventilación, contribuyendo a reducir el desperdicio de recursos y a mejorar los rendimientos de los cultivos.<br><br>
 GreenTools está diseñada para ser adaptable a las necesidades específicas de diferentes tipos de agricultores, con planes personalizados para dueños de invernaderos enfocados en monocultivos y propietarios de microcultivos que manejan múltiples tipos de cultivos simultáneamente.<br><br>
 
 - **Monetización:** <br><br>
 
-GreenTools opera bajo un modelo de negocio dual que combina suscripciones SaaS con el alquiler de equipos IoT, asegurando que todos los agricultores tengan acceso continuo a las herramientas y tecnologías necesarias para optimizar sus operaciones. <br><br>
+- GreenTools opera bajo un modelo de negocio dual que combina suscripciones SaaS con el alquiler de equipos IoT, asegurando que todos los agricultores tengan acceso continuo a las herramientas y tecnologías necesarias para optimizar sus operaciones. <br><br>
 
 - **Plan Monocultivo:** <br><br>
 
-Este plan está diseñado para dueños de invernaderos que se especializan en un único tipo de cultivo. Ofrece acceso completo a las funcionalidades avanzadas de GreenTools, incluyendo monitoreo en tiempo real, análisis predictivo, informes detallados y soporte técnico prioritario. Además, este plan incluye el alquiler de dispositivos Arduino y sensores optimizados para el monocultivo, garantizando una alta precisión y eficiencia en la gestión de un solo tipo de cultivo.
+- Este plan está diseñado para dueños de invernaderos que se especializan en un único tipo de cultivo. Ofrece acceso completo a las funcionalidades avanzadas de GreenTools, incluyendo monitoreo en tiempo real, análisis predictivo, informes detallados y soporte técnico prioritario. Además, este plan incluye el alquiler de dispositivos Arduino y sensores optimizados para el monocultivo, garantizando una alta precisión y eficiencia en la gestión de un solo tipo de cultivo.
  <br><br>
 
 - **Plan Multicultivo:** <br><br>
 
-Dirigido a dueños de microcultivos y agricultores que cultivan múltiples especies simultáneamente, este plan también ofrece acceso completo a todas las funcionalidades avanzadas de la plataforma. Incluye el alquiler de dispositivos Arduino y sensores diseñados para manejar una variedad de cultivos, proporcionando información específica y detallada para cada tipo de cultivo y facilitando la optimización del uso de recursos en entornos diversos. <br><br>
+- Dirigido a dueños de microcultivos y agricultores que cultivan múltiples especies simultáneamente, este plan también ofrece acceso completo a todas las funcionalidades avanzadas de la plataforma. Incluye el alquiler de dispositivos Arduino y sensores diseñados para manejar una variedad de cultivos, proporcionando información específica y detallada para cada tipo de cultivo y facilitando la optimización del uso de recursos en entornos diversos. <br><br>
 
-Ambos planes incluyen el alquiler de los equipos Arduino con sensores, lo que permite a los agricultores acceder a tecnología avanzada sin una inversión inicial significativa, haciendo que GreenTools sea una solución accesible y flexible. Además, la plataforma ofrece la posibilidad de adquirir productos y servicios adicionales a través de un marketplace interno, diversificando las fuentes de ingresos.<br><br>
+- Ambos planes incluyen el alquiler de los equipos Arduino con sensores, lo que permite a los agricultores acceder a tecnología avanzada sin una inversión inicial significativa, haciendo que GreenTools sea una solución accesible y flexible. Además, la plataforma ofrece la posibilidad de adquirir productos y servicios adicionales a través de un marketplace interno, diversificando las fuentes de ingresos.<br><br>
 
 
 ### 1.2.1. Antecedentes y problemática
