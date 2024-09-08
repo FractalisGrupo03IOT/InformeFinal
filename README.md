@@ -245,7 +245,7 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="![94036246_229317588318715_8422413077701459968_n](https://github.com/user-attachments/assets/2dbcd63d-d82b-465c-acd3-c58ed39512a4)" alt="Checa Paolo" style="margin-bottom: 5px;" width="800"/>
+            <img src="![94036246_229317588318715_8422413077701459968_n](https://github.com/user-attachments/assets/2dbcd63d-d82b-465c-acd3-c58ed39512a4)" alt="Jean Patrick Yemsi Sanchez Rios" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
