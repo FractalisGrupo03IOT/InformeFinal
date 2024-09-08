@@ -1,6 +1,6 @@
 <div align="center">
   
-![Logotipo Descripción generada automáticamente](https://drive.google.com/file/d/1ibl8eYdS4HksMgY9p7KsCb4Az9vzyWcY/view?usp=sharing)
+![Logotipo Descripción generada automáticamente](https://res.cloudinary.com/daassyisd/image/upload/v1714691535/gmplcgrlsv9sihpusivm.png)
 
 **UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
@@ -167,7 +167,7 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="assets/franco.jpg" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://media.discordapp.net/attachments/1282304254929010689/1282304307798081546/franco.jpg?ex=66dede73&is=66dd8cf3&hm=204a64c30aa310b6206a98e322eb6aec5934963cdeaf608197b2ea8bfdf78130&=&format=webp" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -191,7 +191,7 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="assets/94036246_229317588318715_8422413077701459968_n.jpg" alt="Jean Patrick Yemsi Sanchez Rios" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://media.discordapp.net/attachments/1282304254929010689/1282304307244306532/94036246_229317588318715_8422413077701459968_n.jpg?ex=66dede72&is=66dd8cf2&hm=c5c2ebe2f37fa4dd3254e4ea0161ef734e05c40d23187d153e5232f2b4fd1595&=&format=webp" alt="Jean Patrick Yemsi Sanchez Rios" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
