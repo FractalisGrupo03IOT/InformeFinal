@@ -608,6 +608,22 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 | **Inversión en Tecnología**    | Está dispuesto a considerar la inversión si la tecnología puede mejorar la eficiencia operativa de su invernadero.                                                                                                                        |
 | **Necesidad de Capacitación**  | Sí, considera importante el soporte educativo para adaptarse rápidamente a nuevas tecnologías.                                                                                                                                           |
 | **Expectativas de la Tecnología** | Monitoreo en tiempo real, mejorar la eficiencia de su operación agrícola, y soporte educativo a través de videos instructivos.                                                                                                             |
+
+## Entrevistado 03
+|                     |                                                                                                                                                                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre y Apellido**         | Kenny Ramos                                                                                                                                                                                                              |
+| **Edad**                      | 28                                                                                                                                                                                                                                |
+| **Ubicación**                 | LIMA - LA MOLINA                                                                                                                                                                                                              |
+| **Imagen**                    | ![Kenny Ramos](https://media.discordapp.net/attachments/1280405882517196875/1282179843282309170/image.png?ex=66de6a88&is=66dd1908&hm=d9bf8e0c721205fb5aef5dc1f873d4f1a4034cc703217091fda0c6bfb4d5302d&=&format=webp&quality=lossless&width=605&height=338) |
+| **Cultivo Principal**         | Rabanitos y ajíes                                                                                                                                                                                                                       |
+| **Interés en Tecnología**     | Alta, está interesada en herramientas tecnológicas para optimizar procesos y mejorar la eficiencia del negocio.                                                                                                                   |
+| **Retos en Gestión**          | Monitoreo manual significativo y costos altos en riego, especialmente en términos de consumo de agua.                                                                                                                             |
+| **Solución Tecnológica Deseada** | Aplicación móvil equipada con sensores para monitoreo en tiempo real de los cultivos.                                                                                                                                         |
+| **Inversión en Tecnología**   | Abierta a considerar la inversión si la tecnología ofrece mejoras significativas en la gestión del invernadero; no tiene una cifra exacta.                                                                                          |
+| **Necesidad de Capacitación** | Sí, necesitaría capacitación para utilizar correctamente las nuevas herramientas tecnológicas.                                                                                                                                  |
+| **Expectativas de la Tecnología** | Optimizar el riego, reducir gastos, mejorar la productividad y expandir el negocio para llegar a más mercados.                                                                                                                   |
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
