@@ -862,7 +862,7 @@ API Clients:
 
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
 
-![Account Bounded Context-DiagramaC](https://github.com/user-attachments/assets/839f44b5-c3e7-4a28-8b0f-d4c66adb7c26)
+![Account Bounded Context-DiagramaC](https://media.discordapp.net/attachments/1280405882517196875/1282145122489860127/BD_CUENTA.png?ex=66de4a32&is=66dcf8b2&hm=38c1470d22f7a57b9633e097a609bc0fa542e3ebcc7e9911c8da7f0eb4e21348&=&format=webp&quality=lossless&width=825&height=573)
 
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
 
@@ -905,7 +905,7 @@ API Clients:
 
 ##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
 
-![IoT System Bounded Context-DiagramC](https://github.com/user-attachments/assets/84368510-5475-47ea-8345-df7ecfee0220)
+![IoT System Bounded Context-DiagramC](https://media.discordapp.net/attachments/1280405882517196875/1282145122741391380/BC_SISTEMA_IOT.png?ex=66de4a32&is=66dcf8b2&hm=db13828d866641dd0e45c3c80b9d7012a06ec4e20560a9bec6957151394987db&=&format=webp&quality=lossless&width=195&height=638)
 
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
@@ -948,7 +948,7 @@ API Clients:
 
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
 
-![Crop Inventory Bounded Context-DiagramC](https://github.com/user-attachments/assets/a877c231-1ced-4af2-b58f-2c2c0e222659)
+![Crop Inventory Bounded Context-DiagramC](https://media.discordapp.net/attachments/1280405882517196875/1282145122972336231/BC_INVENTARIO_CULTIVO.png?ex=66de4a32&is=66dcf8b2&hm=f4572290d1e6835be10d8d1c0daca9722ec7684a12ba027b7df236bafcbc8cde&=&format=webp&quality=lossless&width=316&height=671)
 
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
@@ -991,7 +991,7 @@ API Clients:
 
 ##### 4.2.4.6.1. Bounded Context Domain Layer Class Diagrams
 
-![Crop Status Bounded Context-DiagramC](https://github.com/user-attachments/assets/6c828cf5-8263-42fe-943b-69287cad3d06)
+![Crop Status Bounded Context-DiagramC](https://media.discordapp.net/attachments/1280405882517196875/1282145123215478845/BD_REPORTE.png?ex=66de4a32&is=66dcf8b2&hm=b68a941cc498c73c7e400402e89e4fda569db05e50df4f5ab73f09d2eadb137b&=&format=webp&quality=lossless&width=534&height=465)
 
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
 
