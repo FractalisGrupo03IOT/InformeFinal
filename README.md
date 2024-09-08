@@ -485,9 +485,8 @@ GreenTools debe tener una interfaz sencilla, intuitiva y responsive, que permita
 | Psicográfico    | Clase Social: Clase media y clase alta. <br><br> Estilo de vida: Personas con un fuerte interés en la agricultura moderna y la tecnología, que buscan maximizar el rendimiento y la sostenibilidad de sus cultivos mediante la integración de soluciones tecnológicas avanzadas.
  | Clase Social: Clase media y clase alta. <br><br> Estilo de vida: Individuos interesados en la diversificación de cultivos en espacios pequeños, que desean implementar tecnologías innovadoras para mejorar la eficiencia y sostenibilidad de sus prácticas agrícolas. |
 | Demográfico     | Edad: Mayores de 30 años. <br><br> Nivel de Ingreso: Medio a alto, con capacidad para invertir en membresías y alquiler de equipos IoT. <br><br> Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte.                                                    | Edad: Mayores de 30 años. <br><br> Nivel de Ingreso: Medio a alto, con disposición para gastar en tecnología avanzada que optimice la producción agrícola.<br><br> 
-Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte. <br><br> Estudios: Educación superior, con un interés marcado en temas tecnológicos y agrícolas.
-                         |
-
+Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte. 
+Estudios: Educación superior, con un interés marcado en temas tecnológicos y agrícolas.
 <br><br>
 
 # Capítulo II: Requirements Elicitation & Analysis
