@@ -1,6 +1,6 @@
 <div align="center">
   
-![Logotipo Descripción generada automáticamente](https://res.cloudinary.com/daassyisd/image/upload/v1714691535/gmplcgrlsv9sihpusivm.png)
+![Logotipo Descripción generada automáticamente](https://drive.google.com/file/d/1ibl8eYdS4HksMgY9p7KsCb4Az9vzyWcY/view?usp=sharing)
 
 **UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
