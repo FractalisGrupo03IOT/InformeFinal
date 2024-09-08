@@ -390,6 +390,15 @@ Las características más importantes incluyen la capacidad de monitoreo en tiem
 
 GreenTools debe tener una interfaz sencilla, intuitiva y responsive, que permita a los usuarios gestionar sus cultivos de manera eficiente sin complicaciones. La plataforma debe ser rápida, confiable y ofrecer un soporte técnico accesible para resolver cualquier problema que los usuarios puedan enfrentar.
 
+**Features:**
+
+1. **Monitoreo en tiempo real**: Los usuarios pueden monitorear las condiciones clave del cultivo, como la humedad del suelo, temperatura y otras variables críticas en tiempo real.
+2. **Automatización de procesos**: La plataforma permite automatizar tareas como el riego y la ventilación, ajustándose a las condiciones actuales del cultivo.
+3. **Alertas personalizadas**: Se envían notificaciones basadas en parámetros predefinidos por el usuario, como cambios críticos en la temperatura o humedad.
+4. **Análisis predictivos**: La plataforma ofrece análisis predictivos que anticipan necesidades futuras y problemas potenciales basados en datos históricos.
+5. **Compatibilidad con múltiples dispositivos**: La plataforma es accesible desde cualquier dispositivo (smartphone, tablet, ordenador) y funciona en los navegadores modernos.
+
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 - Creemos que GreenTools será una herramienta invaluable para los agricultores que buscan mejorar la gestión de sus invernaderos y microcultivos mediante tecnología IoT. Sabremos que tuvimos éxito cuando más del 80% de nuestros usuarios expresen satisfacción con la plataforma y reporten mejoras en la eficiencia operativa.
