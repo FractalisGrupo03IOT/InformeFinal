@@ -497,11 +497,11 @@ GreenTools debe tener una interfaz sencilla, intuitiva y responsive, que permita
 | CropX                     | CropX es una empresa israelí destacada en la agricultura de precisión. Su enfoque se centra en el desarrollo de sensores de suelo y software avanzado para optimizar en tiempo real la irrigación, los nutrientes y la gestión de cultivos.              | [cropx.com](https://cropx.com)    |
 
 
-### 2.1.1. Análisis competitivo
+## 2.1.1. Análisis competitivo
 
-# Análisis de Competencia
+ ### Análisis de Competencia
 
-### Competitive Analysis Landscape
+#### Competitive Analysis Landscape
 ¿Por qué llevar a cabo este análisis? 
 
 ¿Cómo reconocer a nuestros competidores más relevantes?
@@ -521,9 +521,9 @@ Este análisis se llevó a cabo con el propósito de identificar a nuestros posi
 | **Debilidades**        | Nuevo en el mercado, enfrenta desafíos de financiamiento y reconocimiento de marca.                                                                           | Dependencia de infraestructura tecnológica en regiones con tecnología deficiente.                                                                         | Costo elevado para pequeños agricultores, limitando la adopción en ciertos mercados.                                                                        | Innovación puede no estar al mismo nivel que competidores más avanzados en IoT y análisis predictivo.                                                            |
 | **Oportunidades**      | Creciente demanda de prácticas agrícolas sostenibles ofrece potencial de liderazgo en modernización agrícola.                                                | Posibilidad de expansión fuera de América Latina aprovechando la experiencia en agricultura de precisión.                                                 | Expansión de productos para nuevas áreas agrícolas y mayor adopción de monitoreo del suelo.                                                                  | Creciente demanda de tecnologías de automatización agrícola como el riego automatizado.                                                                          |
 | **Amenazas**           | Competencia de startups más grandes y establecidas en el sector de tecnología agrícola.                                                                      | Competencia intensa en mercados de rápida expansión de soluciones tecnológicas similares.                                                                 | Exposición a riesgos climáticos, económicos, y regulatorios en mercados volátiles.                                                                         | Regulaciones gubernamentales sobre el uso del agua y sostenibilidad pueden afectar la adopción de sus productos.                                                 |
-### 2.1.2. Estrategias y tácticas frente a competidores
+## 2.1.2. Estrategias y tácticas frente a competidores
 
-# Estrategia de GreenTools
+### Estrategia de GreenTools
 
 Posicionar a GreenTools como un líder en la agricultura de precisión mediante la innovación tecnológica, con un enfoque en sostenibilidad y eficiencia, superando a la competencia a través de la diferenciación en servicios y productos, el aprovechamiento de oportunidades de mercado y la mitigación de amenazas.
 
@@ -545,11 +545,11 @@ Mostrar el valor de la tecnología de GreenTools en acción mediante jornadas de
 
 Comprender las necesidades y expectativas de los dueños de invernaderos en cuanto al uso de tecnología para la gestión agrícola.
 
-### 2.2.1. Diseño de entrevistas
+## 2.2.1. Diseño de entrevistas
 
-## Entrevista a Dueños de Invernaderos
+### Entrevista a Dueños de Invernaderos
 
-## Preguntas
+#### Preguntas
 
 1. **¿Cómo describirías tu interés en la tecnología aplicada a la agricultura?**
 2. **¿Cuáles son los principales cultivos que manejas en tu invernadero?**
@@ -562,9 +562,9 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 9. **¿Te interesarían servicios adicionales, como capacitación en el uso de tecnologías IoT?**
 10. **¿Qué factores te motivarían a cambiar o adoptar nuevas tecnologías en tu operación?**
 
-## Entrevista a Propietarios de Microcultivos
+### Entrevista a Propietarios de Microcultivos
 
-## Preguntas
+#### Preguntas
 
 1. **¿Cómo describirías tu experiencia manejando múltiples cultivos en un espacio reducido?**
 2. **¿Qué desafíos enfrentan tus cultivos en términos de recursos como agua y nutrientes?**
@@ -577,9 +577,9 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 9. **¿Qué tipo de soporte (como capacitación o asesoría técnica) te ayudaría a maximizar el uso de estas tecnologías?**
 
 
-### 2.2.2. Registro de entrevistas
+## 2.2.2. Registro de entrevistas
 
-## Entrevistado 01
+### Entrevistado 01
 
 | **Campo**                       | **Detalle**                                                                                                                                                          |
 |---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
