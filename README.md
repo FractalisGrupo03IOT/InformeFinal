@@ -108,6 +108,10 @@ Contenido
       - [4.2.1.7.1. Bounded Context Domain Layer Class Diagrams](#42171-bounded-context-domain-layer-class-diagrams)
       - [4.2.1.7.2. Bounded Context Database Design Diagram](#42172-bounded-context-database-design-diagram)
 
+- [Conclusiones]
+- [Bibliografía] 
+- [Anexos]
+
 
 # Project Report Collaboration Insights
 
@@ -1027,3 +1031,6 @@ API Clients:
 
 ![Crop Status Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150692697669685/GreenTools-2024-09-07_20-27_1.png?ex=66de4f62&is=66dcfde2&hm=c7fb353f3e617af167dae216d22a39e1c4cdd9ea0cd82bf481e177409eda3687&=&format=webp&quality=lossless&width=947&height=671)
 
+# Conclusiones
+# Bibliografía
+# Anexos
