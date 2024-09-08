@@ -1,10 +1,14 @@
-**UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
-
+<div align="center">
+  
 ![Logotipo Descripción generada automáticamente](https://res.cloudinary.com/daassyisd/image/upload/v1714691535/gmplcgrlsv9sihpusivm.png)
+
+**UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
 **SI572-2402-WV71 Desarrollo de Soluciones IOT**
 
-Informe de Trabajo Final TB1
+**Informe de Trabajo Final TB1**
+
+<br>
 
 **Carrera:** Ingeniería de Software
 
@@ -18,19 +22,21 @@ Informe de Trabajo Final TB1
 
 **Producto:** GreenTools
 
+<br>
+
 **Integrantes:**
 
-Miguel Angel Ramirez Alfaro (U20202117152)
-
-Lino Abraham Quenta Leon (U202022353)
-
-Giovanni Andres Ramos Calderon (U202122512)
-
-Jean Patrick Yemsi Sanchez Rios (U20181e536)
-
+Miguel Angel Ramirez Alfaro (U20202117152)  
+Lino Abraham Quenta Leon (U202022353)  
+Giovanni Andres Ramos Calderon (U202122512)  
+Jean Patrick Yemsi Sanchez Rios (U20181e536)  
 Franco Felix Yance Gutierrez (U202013614)
 
+<br>
+
 **Septiembre, 7 de 2024**
+
+</div>
 
 # Registro de Versiones del Informe
 
@@ -41,12 +47,13 @@ Franco Felix Yance Gutierrez (U202013614)
 | 1.2 | 2024-08-23 | Giovanni Andres | Corrección de errores en la sección "Competidores" |
 | 1.3 | 2024-08-27 | Miguel Angel | Mejora de la sección "User Personas" basada en retroalimentación del docente |
 | 1.4 | 2024-08-29 | Lino Quenta | Adición de la sección "Impact Mapping" |
-| 2.0 | 2024-08-30 |Giovanni Andres| Reestructuración completa del informe para mejorar la coherencia |
-| 2.1 | 2024-09-22 | Jean Patrick | Actualización de la sección "Software Architecture" |
-| 2.3 | 2024-09-05 | Jean Patrick | Adición de la sección "Solution UX Design" |
-| 2.4 | 2024-09-20 | Lino Quenta | Mejoras en las Hisotorias de Usuario.|
-| 3.0 | 2024-09-26 | Giovanni Andres  | Mejoras en la arquitectura de C4 Model. |
-
+| 1.5 | 2024-08-30 |Giovanni Andres| Reestructuración completa del informe para mejorar la coherencia |
+| 1.6 | 2024-09-04 | Jean Patrick | Actualización de la sección "Software Architecture" |
+| 1.7 | 2024-09-05 | Jean Patrick | Adición de la sección "Solution UX Design" |
+| 1.8 | 2024-09-05 | Lino Quenta | Mejoras en las Hisotorias de Usuario.|
+| 1.9 | 2024-09-05 | Giovanni Andres  | Mejoras en la arquitectura de C4 Model. |
+| 2.0 | 2024-09-06 | Franco Yance | Mejoras en los  Lean UX Problem Statements y Lean UX Assumptions|
+| 2.1 | 2024-09-07 | Franco Yance   | Mejoras en los Lean UX Canvas. |
 
 Contenido
 
