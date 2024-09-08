@@ -55,8 +55,8 @@ Franco Felix Yance Gutierrez (U202013614)
 | 2.0 | 2024-09-05 | Giovanni Andres  | Mejoras en la arquitectura de C4 Model. |
 | 2.1 | 2024-09-06 | Franco Yance | Mejoras en los  Lean UX Problem Statements y Lean UX Assumptions|
 | 2.2 | 2024-09-07 | Franco Yance   | Mejoras en los Lean UX Canvas. |
-
-#Contenido
+ 
+# Contenido
 
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
@@ -134,29 +134,9 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 - **Giovanni Andres**: Desarrollo de "Software Architecture"
 - **Jean Patrick**: Actualización de "Software Architecture" y adición de "Solution UX Design".
 
-![image](https://github.com/user-attachments/assets/fb707073-cfaa-4bc2-bf1f-2db48a9493f8)
-
-
-
-
-### Entrega 2 (TP1)
-
------
-
-### Entrega 3 (TB2)
-
------
-
-### Entrega 4 (TF1)
-
-----
-
 ## Evidencia de colaboración
 
-![image](url aca)
-
-
-
+![image](https://github.com/user-attachments/assets/fb707073-cfaa-4bc2-bf1f-2db48a9493f8)
 
 # Student Outcome
 ### Conpentencia de Student Outcome
@@ -164,8 +144,6 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 | -------- | ------------------- | ---------- |
 | **Criterio 1: Trabaja en equipo para proporcionar liderazgo en forma conjunta** | - Miguel Ángel tomó la responsabilidad de iniciar el proyecto liderando la estructura inicial del informe. Se aseguró de que todos tuvieran una base sólida para avanzar, dividiendo las tareas de manera eficiente.<br> - Lino Quenta se aseguró de añadir las secciones más críticas como "Lean UX Process", lo que impulsó el progreso del equipo y aseguró que no se perdieran elementos clave del informe.<br> - Giovanni Andrés reorganizó el contenido del informe, mejorando la coherencia y fluidez del documento. Esto ayudó a que la presentación final fuera mucho más clara y entendible.<br> - Jean Patrick coordinó la actualización de la arquitectura del sistema y se aseguró de que los aspectos técnicos estuvieran bien reflejados en el informe, lo que elevó su calidad técnica.<br> - Franco participó activamente en la revisión final del informe, asegurando que todo el documento estuviera alineado con los objetivos iniciales y contribuyendo con ideas para mejorar la presentación visual. | El equipo trabajó de manera cohesionada, con cada miembro asumiendo roles clave de liderazgo en momentos adecuados. Esto permitió que el informe se desarrollara de manera sólida y estructurada, mejorando la calidad del resultado final. |
 | **Criterio 2: Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos** | - Miguel Ángel se encargó de la planificación inicial del proyecto, asignando tareas y asegurándose de que el equipo siguiera un cronograma para cumplir con los objetivos propuestos.<br> - Lino Quenta promovió un ambiente de trabajo colaborativo, integrando las ideas de todos los miembros y asegurando que cada aportación fuera tomada en cuenta para el éxito del proyecto.<br> - Giovanni Andrés se encargó de revisar y reestructurar las secciones del informe, asegurando que todo el contenido estuviera alineado y en orden para facilitar el progreso del equipo.<br> - Jean Patrick cumplió con los objetivos técnicos del proyecto mejorando la arquitectura del sistema y asegurando que todos los elementos de diseño UX estuvieran bien implementados.<br> - Franco gestionó la comunicación entre los miembros del equipo, asegurándose de que todos estuvieran al tanto de los avances y contribuyendo a que el equipo mantuviera el enfoque. | El equipo logró crear un entorno inclusivo y colaborativo, donde cada miembro aportó significativamente. La planificación fue clara y efectiva, lo que permitió cumplir los objetivos en tiempo y forma. |
-
-
 
 
 # Capítulo I: Introducción
