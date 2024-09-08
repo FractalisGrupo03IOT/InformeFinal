@@ -870,32 +870,32 @@ No hay sistemas externos
 
 #### 4.2.1.1. Domain Layer
 
-Entities:
-Value Objects: 
-Aggregates:
-Repositories:
-Services:
+Entities: Usuario , Cuenta , Membresia.
+Value Objects: tipoMembresia, estado.
+Aggregates:Usuario que incluye Cuenta y Membresia
+Repositories: CuentaRepository, MembresiaRepository y UsuarioRepository para acceso y manipulacion de datos
+Services: CuentaService para la actualizacion de informacion de perfil , SusucriptionManagerService para el manejo del plan de suscripcion.
 
 #### 4.2.1.2. Interface Layer
 
-API Endpoints:
-DTOs:
-View Models: 
-Controllers:
+API Endpoints: Rutas como POST /users para nuevos usuarios, GET /users/{id} para consultar informacion de usuario.
+DTOs: Objetos de transferencia como AccountCreationRequest que define la estructura de los datos solicitados.
+View Models: AccountDetailsViewModel para el envio de datos a vistas o APIS externas.
+Controllers: AccountController que maneja las solicitudes HTTP y delega a los servicios.
 
 #### 4.2.1.3. Application Layer
 
-Services:
-Commands/Queries:
-Command Handlers: 
-Event Handlers:
+Services: AccountApplicationServices que maneja la logica de registro y membresia.
+Commands/Queries: CreateAccountCommand que encapsula datos necesariospara realizar acciones.
+Command Handlers: CreateAccountHandler maneja los comandos.
+Event Handlers: Responde a enventos del dominio.
 
 #### 4.2.1.4. Infrastructure Layer
 
-Persistence Mechanisms:
-External Service Integrations:
-Factories:
-API Clients: 
+Persistence Mechanisms: Implementaciones de los repositorios que interactúan con la base de datos, como AccountSQLRepository.
+External Service Integrations: Comunicacion con sistemas externos para validar datos de cuenta.
+Factories: Para la creación de objetos de dominio complejos.
+API Clients: Para interactuar con otros bounded contexts o servicios externos
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -915,32 +915,31 @@ API Clients:
 
 #### 4.2.2.1. Domain Layer
 
-Entities:
-Value Objects: 
-Aggregates:
-Repositories:
-Services:
+Entities: Sensor
+Value Objects: tiposSensor y ubicacion.
+Aggregates: Sensor que incluye DatosSensor
+Repositories: SensorRepository  para acceso y manipulacion de datos
+Services: SistemaIOTService para recolectar datos de los sensores y calibrar los sensores.
 
 #### 4.2.2.2. Interface Layer
 
-API Endpoints:
-DTOs:
-View Models: 
-Controllers:
+API Endpoints: Rutas como GET /metrics/{sensorId} para obtener métricas y POST /data para la entrada
+de nuevos datos de sensores.
+DTOs: SensorDataDTO para la estructura de datos intercambiados.
+Controllers:SistemaIOTController para manejar solicitudes API y delegar a la capa de aplicación
 
 #### 4.2.2.3. Application Layer
 
-Services:
-Commands/Queries:
-Command Handlers: 
-Event Handlers:
+Services: MetricProcessingService para la lógica de cómo se calculan y envían las métricas.
+Commands/Queries: ProcessSensorDataCommand, RetrieveMetricsQuery.
+Command Handlers: ProcessSensorDataHandler, RetrieveMetricsHandler.
 
 #### 4.2.2.4. Infrastructure Layer
 
-Persistence Mechanisms:
-External Service Integrations:
-Factories:
-API Clients: 
+Persistence Mechanisms: SQLSensorRepository para la interacción con la base de datos.
+External Service Integrations: Integraciones con servicios en la nube para el almacenamiento y análisis de datos a gran
+escala.
+Factories: Para la creación de instancias complejas de datos de sensores.
 
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -960,32 +959,30 @@ API Clients:
 
 #### 4.2.3.1. Domain Layer
 
-Entities:
-Value Objects: 
-Aggregates:
-Repositories:
-Services:
+Entities: Cultivo, ParametroCultivo.
+Value Objects: nombreCultivo, tipoPlanta.
+Aggregates: Cultivo que invluye ParametroCultivo.
+Repositories: CultivoRepository para acceso y manipulacion de datos.
+Services: CultivoService para recolectar datos de los cultivos y el inventario.
 
 #### 4.2.3.2. Interface Layer
 
-API Endpoints:
-DTOs:
-View Models: 
-Controllers:
+API Endpoints: Rutas como GET /crop/{cropId} para obtener el cultivo y POST /parameter/{cropId}  para la entrada
+de parametros predeterminados para el cultivo.
+DTOs: CropDataDTO para la estructura de datos intercambiados.
+Controllers: CropInventoryController para manejar solicitudes API y delegar a la capa de aplicación
 
 #### 4.2.3.3. Application Layer
 
-Services:
-Commands/Queries:
-Command Handlers: 
-Event Handlers:
+Services: CropService para la edicionde parametros del cultivo
+Commands/Queries: CropInventoryDataCommand.
+Command Handlers: CropInventoryDataHandler.
 
 #### 4.2.3.4. Infrastructure Layer
 
-Persistence Mechanisms:
-External Service Integrations:
-Factories:
-API Clients: 
+Persistence Mechanisms: SQLSensorRepository para la interacción con la base de datos.
+External Service Integrations: Integraciones con servicios en la nube para el almacenamiento y persistencia.
+Factories: Para la creación de instancias complejas de datos de cultivos.
 
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -1005,32 +1002,29 @@ API Clients:
 
 #### 4.2.4.1. Domain Layer
 
-Entities:
-Value Objects: 
-Aggregates:
-Repositories:
-Services:
+Entities: ReporteCultivo, SitemaCultivoActual
+Value Objects: datosRecolectados, datosRecientes.
+Repositories: ReporteRepository, CultivoActualRepository para acceso y manipulacion de datos.
+Services: ReporteService para recolectar datos del reporte de estado.
 
 #### 4.2.4.2. Interface Layer
 
-API Endpoints:
-DTOs:
-View Models: 
-Controllers:
+API Endpoints: Rutas como GET /report/{reportId} para obtener el reporte.
+DTOs: ReportDataDTO para la estructura de datos intercambiados.
+Controllers: ReportStatusController para manejar solicitudes API y delegar a la capa de
+aplicación
 
 #### 4.2.4.3. Application Layer
 
-Services:
-Commands/Queries:
-Command Handlers: 
-Event Handlers:
+Services: ReportStatusService para enviar el reporte.
+Commands/Queries: ReportStatusDataCommand.
+Command Handlers: ReportStatusDataHandler.
 
 #### 4.2.4.4. Infrastructure Layer
 
-Persistence Mechanisms:
-External Service Integrations:
-Factories:
-API Clients: 
+Persistence Mechanisms: SQLReportRepository para la interacción con la base de datos.
+External Service Integrations: Integraciones con servicios en la nube para el almacenamiento y persistencia.
+Factories: Para la creación de instancias complejas de datos del reporte de estado.
 
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
 
