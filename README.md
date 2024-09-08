@@ -245,12 +245,12 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148059889537662976/pic_1.jpg" alt="Checa Paolo" style="margin-bottom: 5px;" width="800"/>
+            <img src="![94036246_229317588318715_8422413077701459968_n](https://github.com/user-attachments/assets/2dbcd63d-d82b-465c-acd3-c58ed39512a4)" alt="Checa Paolo" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            Checa Apolinario, Paolo Sebastián
+            Sanchez Rios, Jean Patrick Yemsi
         </td>
     </tr>
     <tr>
