@@ -818,10 +818,10 @@ No hay sistemas externos
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280938932044959745/Green_Tools-Context.png?ex=66dd3298&is=66dbe118&hm=930576b10800f2235126febb777546b662773c1153ab35c36b0aa324b1003630&=&format=webp&quality=lossless&width=1088&height=650)
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams.
-![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407434019733525/Green_Tools-Containers.png?ex=66dd3dd9&is=66dbec59&hm=54d3c1574c54dc1ff1fb9ad19c63cff346a0164a7167e84f7000b172f8710d2e&=&format=webp&quality=lossless&width=1696&height=1332)
+![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1282166668872908821/Green_Tools-Containers_1.png?ex=66de5e43&is=66dd0cc3&hm=ee475c4fb134b62a57dc8b381d6329ac534451fbbe90a41689217e5003bcb06b&=&format=webp&quality=lossless&width=854&height=671)
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams
-![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407433763622994/Green_Tools-Deployment.png?ex=66dd3dd9&is=66dbec59&hm=fcb3ffaf9e4d6e1801141fa497e8c264ecd35940cd1259941cac174c215eb7af&=&format=webp&quality=lossless&width=1856&height=1326)
+![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1282166668553879654/Green_Tools-Deployment_1.png?ex=66de5e43&is=66dd0cc3&hm=ab4f1b5ae5b06cbcc6771af5de75291bef0d90461b7b7f33e6acee0aa933e7bf&=&format=webp&quality=lossless&width=876&height=671)
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
