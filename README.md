@@ -6,7 +6,7 @@
 
 **SI572-2402-WV71 Desarrollo de Soluciones IOT**
 
-**Informe de Trabajo Final TB1**
+**TB1**
 
 <br>
 
