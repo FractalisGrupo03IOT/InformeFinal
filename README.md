@@ -115,10 +115,9 @@ Franco Felix Yance Gutierrez (U202013614)
       - [4.2.1.7. Bounded Context Software Architecture Code Level Diagrams](#4217-bounded-context-software-architecture-code-level-diagrams)
       - [4.2.1.7.1. Bounded Context Domain Layer Class Diagrams](#42171-bounded-context-domain-layer-class-diagrams)
       - [4.2.1.7.2. Bounded Context Database Design Diagram](#42172-bounded-context-database-design-diagram)
-
-- [Conclusiones]
-- [Bibliografía] 
-- [Anexos]
+- [Conclusiones](#42173-conclusiones)
+- [Bibliografía](#42174-conclusiones)
+- [Anexos](#42175-conclusiones)
 
 
 # Project Report Collaboration Insights
@@ -129,6 +128,7 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 
 ### Entrega 1 (TB1)
 
+- **Franco Yance**: Adicion del "Startup profile, Lean UX Problem Statements, antecedentes y problematica".
 - **Miguel Angel**: Estructura inicial del informe y mejora de "User Personas".
 - **Lino Quenta**: Adición de "Lean UX Process", "Impact Mapping", y mejoras en las historias de usuario.
 - **Giovanni Andres**: Desarrollo de "Software Architecture"
@@ -177,7 +177,7 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 Fractalis es una startup dedicada a transformar la agricultura mediante la innovación tecnológica. Nos especializamos en desarrollar soluciones que integran el Internet de las Cosas (IoT) y la automatización para empoderar a agricultores de todo el mundo. En Fractalis, creemos en la convergencia de tecnología y sostenibilidad para crear un futuro agrícola más eficiente y responsable. Nuestro objetivo es revolucionar el sector, brindando herramientas accesibles y escalables que mejoran la productividad, optimizan el uso de recursos y promueven prácticas agrícolas sostenibles. Fractalis es más que una startup; es un movimiento hacia la modernización de la agricultura global.
 
 <div align=center>
-    <img src="assets/logo.jpg" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="800"/>
+    <img src="assets/logo.jpg" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="300"/>
 
 </div>
 
