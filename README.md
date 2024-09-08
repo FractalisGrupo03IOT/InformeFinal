@@ -43,19 +43,20 @@ Franco Felix Yance Gutierrez (U202013614)
 | Versión | Fecha | Autor | Descripción de modificación |
 |---------|-------|-------|---------------------------|
 | 1.0 | 2024-08-20 | Miguel Angel  | Versión inicial del informe |
-| 1.1 | 2024-08-22 | Lino Quenta | Adición de la sección "Lean UX Process" |
-| 1.2 | 2024-08-23 | Giovanni Andres | Corrección de errores en la sección "Competidores" |
-| 1.3 | 2024-08-27 | Miguel Angel | Mejora de la sección "User Personas" basada en retroalimentación del docente |
-| 1.4 | 2024-08-29 | Lino Quenta | Adición de la sección "Impact Mapping" |
-| 1.5 | 2024-08-30 |Giovanni Andres| Reestructuración completa del informe para mejorar la coherencia |
-| 1.6 | 2024-09-04 | Jean Patrick | Actualización de la sección "Software Architecture" |
-| 1.7 | 2024-09-05 | Jean Patrick | Adición de la sección "Solution UX Design" |
-| 1.8 | 2024-09-05 | Lino Quenta | Mejoras en las Hisotorias de Usuario.|
-| 1.9 | 2024-09-05 | Giovanni Andres  | Mejoras en la arquitectura de C4 Model. |
-| 2.0 | 2024-09-06 | Franco Yance | Mejoras en los  Lean UX Problem Statements y Lean UX Assumptions|
-| 2.1 | 2024-09-07 | Franco Yance   | Mejoras en los Lean UX Canvas. |
+| 1.1 | 2024-09-07 | Franco Yance   | Adicion del "capitulo 1" |
+| 1.2 | 2024-08-22 | Lino Quenta | Adición de la sección "Lean UX Process" |
+| 1.3 | 2024-08-23 | Giovanni Andres | Corrección de errores en la sección "Competidores" |
+| 1.4 | 2024-08-27 | Miguel Angel | Mejora de la sección "User Personas" basada en retroalimentación del docente |
+| 1.5 | 2024-08-29 | Lino Quenta | Adición de la sección "Impact Mapping" |
+| 1.6 | 2024-08-30 |Giovanni Andres| Reestructuración completa del informe para mejorar la coherencia |
+| 1.7 | 2024-09-04 | Jean Patrick | Actualización de la sección "Software Architecture" |
+| 1.8 | 2024-09-05 | Jean Patrick | Adición de la sección "Solution UX Design" |
+| 1.9 | 2024-09-05 | Lino Quenta | Mejoras en las Hisotorias de Usuario.|
+| 2.0 | 2024-09-05 | Giovanni Andres  | Mejoras en la arquitectura de C4 Model. |
+| 2.1 | 2024-09-06 | Franco Yance | Mejoras en los  Lean UX Problem Statements y Lean UX Assumptions|
+| 2.2 | 2024-09-07 | Franco Yance   | Mejoras en los Lean UX Canvas. |
 
-Contenido
+#Contenido
 
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
