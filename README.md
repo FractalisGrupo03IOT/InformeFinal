@@ -672,7 +672,7 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 
 ![ASM-01](https://media.discordapp.net/attachments/1282304254929010689/1282315339442426000/Imagen2.jpg?ex=66dee8b9&is=66dd9739&hm=1ba29bd8cacdcbf601d739750267e8c145d59d57543c7ca887875c931bdd675e&=&format=webp)
 
-![ASM-02](https://media.discordapp.net/attachments/624357483116232707/1279965604819894292/image.png?ex=66d8569c&is=66d7051c&hm=736688e1d56dc3283a4ff22f531e44a5277235717e61f39d196bf7e1ea9d7385&=&format=webp&quality=lossless)
+![ASM-02](https://media.discordapp.net/attachments/1282304254929010689/1282316078697156771/Imagen3.jpg?ex=66dee969&is=66dd97e9&hm=c7f815eb24f72baccd97677488b7f652d5d78b7d914bfaeed07f91eea19b9c3d&=&format=webp)
 
 ## 2.4. Ubiquitous Language
 
