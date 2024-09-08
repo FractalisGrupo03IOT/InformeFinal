@@ -657,7 +657,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 Los User Personas son esenciales para el éxito de GreenTools para ofrecer soluciones personalizadas que aborden de manera eficaz los desafíos únicos de cada segmento objetivo. Desde la implementación de tecnologías IoT para dueños de invernaderos interesados en maximizar la eficiencia y sostenibilidad de sus cultivos, hasta la diversificación y optimización de recursos para propietarios de microcultivos, los User Personas guían el diseño de nuestra oferta, asegurando que responda con precisión a las demandas tanto de principiantes en la adopción tecnológica como de expertos que buscan innovación avanzada en sus operaciones agrícolas.
 
-![User01](https://media.discordapp.net/attachments/624357483116232707/1279965053931622420/image.png?ex=66d85619&is=66d70499&hm=7dfdf7d098c72c25bf9cf0c4f2071f82121929bdc8a7d63bda6e03718c32f2ec&=&format=webp&quality=lossless&width=334&height=468)
+![User01](https://media.discordapp.net/attachments/624357483116232707/1282235066864373821/user01.png?ex=66de9df6&is=66dd4c76&hm=355f46d812ddffeb5c44b35786b1bb6b337d8ba512de200fab365f2b2f0fa286&=&format=webp&quality=lossless&width=334&height=468)
 
 ![User02](https://media.discordapp.net/attachments/624357483116232707/1279965078413774971/image.png?ex=66d8561f&is=66d7049f&hm=a45f0a6ce90d0bb2a7470c478dbee81fa9c849e2ae4642bbf8ef56188c98370e&=&format=webp&quality=lossless&width=292&height=468)
 
@@ -683,7 +683,7 @@ Los User Personas son esenciales para el éxito de GreenTools para ofrecer soluc
 
 Segmento Objetivo: Dueños de Invernaderos
 
-![UJM-01](https://media.discordapp.net/attachments/624357483116232707/1282235066864373821/user01.png?ex=66de9df6&is=66dd4c76&hm=355f46d812ddffeb5c44b35786b1bb6b337d8ba512de200fab365f2b2f0fa286&=&format=webp&quality=lossless&width=334&height=468)
+![UJM-01](https://media.discordapp.net/attachments/624357483116232707/1282210354075533425/CJ1.png?ex=66de86f2&is=66dd3572&hm=8135445c59d166c7188c0cd0d6efe01cc332109ddcfa51f5845be51a159f959e&=&format=webp&quality=lossless&width=648&height=468)
 
 Segmento Objetivo: Propietarios de Microcultivos
 
