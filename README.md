@@ -580,6 +580,31 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 ## Entrevistado 01
 
+## Entrevistado 01
+
+| **Campo**                       | **Detalle**                                                                                                                                                          |
+|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Nombre y Apellido**           | Fabio Orna                                                                                                                                                             |
+| **Edad**                        | 24                                                                                                                                                                      |
+| **Ubicación**                   | No especificada                                                                                                                                                        |
+| **Imagen**                      | ![Fabio Orna](assets/entrevista01.jpg)                                                                                                                                       |
+| **Cultivo Principal**           | Tomates y fresas                                                                                                                                                       |
+| **Interés en Tecnología**       | Alto, especialmente en la automatización para optimizar el uso de recursos como agua y energía, y en el monitoreo en tiempo real para la toma de decisiones.         |
+| **Retos en Gestión**            | Optimización del uso de agua y energía en el invernadero.                                                                                                             |
+| **Solución Tecnológica Deseada**| Herramientas que permitan la automatización y el monitoreo en tiempo real de las condiciones del invernadero.                                                         |
+| **Inversión en Tecnología**     | Está dispuesto a invertir significativamente en tecnologías que mejoren la productividad de sus cultivos.                                                             |
+| **Necesidad de Capacitación**   | Sí, está interesado en recibir capacitación en el uso de tecnologías IoT para mejorar su práctica agrícola.                                                            |
+| **Expectativas de la Tecnología**| Mejorar la productividad y la rentabilidad de sus cultivos, mediante una mejor gestión y un monitoreo en tiempo real.                                                |
+
+
+<br><br>
+
+
+
+
+
+
+
 |                     |                                                                                                                                                                                                                 |
 |-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Nombre y Apellido**         | Sonia Hcaylluhua                                                                                                                                                                                                                |
