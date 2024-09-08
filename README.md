@@ -171,6 +171,7 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 - **Lino Quenta**: Adición de "Lean UX Process", "Impact Mapping", y mejoras en las historias de usuario.
 - **Giovanni Andres**: Desarrollo de "Software Architecture"
 - **Jean Patrick**: Actualización de "Software Architecture" y adición de "Solution UX Design".
+- **Franco Yance Gutierrez** : Desarrollo capitulo 1 y todos los puntos con las respectivas mejoras
 
 
 ### Entrega 2 (TP1)
