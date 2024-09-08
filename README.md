@@ -24,7 +24,7 @@ Miguel Angel Ramirez Alfaro (U20)
 
 Lino Abraham Quenta Leon (U202022353)
 
-Giovanni Andres Ramos Calderon (U20)
+Giovanni Andres Ramos Calderon (U202122512)
 
 Jean Patrick Yemsi Sanchez Rios (U20)
 
@@ -168,7 +168,7 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 
 - **Miguel Angel**: Estructura inicial del informe y mejora de "User Personas".
 - **Lino Quenta**: Adición de "Lean UX Process", "Impact Mapping", y mejoras en las historias de usuario.
-- **Giovanni Andres**: Correcciones en "Competidores" y reestructuración del informe.
+- **Giovanni Andres**: Desarrollo de "Software Architecture"
 - **Jean Patrick**: Actualización de "Software Architecture" y adición de "Solution UX Design".
 
 
@@ -274,7 +274,7 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
         <td align="left">
             <b>Nombre y Apellido:</b>
             <br>            
-            Pozo Campos, Rodrigo Jair
+            Giovanni Andrés Ramos Calderón
         </td>
     </tr>
     <tr>
@@ -293,7 +293,7 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1148370399395074108/Diseno_sin_titulo.png" alt="Arenas José"  style="margin-bottom: 5px;" width="800"/>
+            <img src="[https://cdn.discordapp.com/attachments/1148057148522233868/1148370399395074108/Diseno_sin_titulo.png](https://media.discordapp.net/attachments/1280405882517196875/1282200057986420777/image.png?ex=66de7d5b&is=66dd2bdb&hm=9a9bd990d00a6e9ae32c3d1b9479d5358e36c91d9a4eaf766329e631f5ed4e57&=&format=webp&quality=lossless&width=306&height=385)" alt="Giovanni Ramos"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
