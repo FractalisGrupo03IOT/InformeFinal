@@ -592,7 +592,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 | **Fin de la entrevista**                                     | 06:40                                                                                |
 | **Duración**                                                 | 06:40                                                                              |
 | **Enlace de entrevista**                                     | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=sKQKoh) |
-| **Resumen de la entrevista**                                 | En la entrevista, la participante, proveniente de la región de Cuno, se dedica al cultivo y venta de fresas en un invernadero. A pesar de no haber utilizado tecnología hasta ahora, muestra un claro interés en incorporarla para mejorar sus prácticas agrícolas. Identifica el riego como el mayor gasto y desea optimizar el consumo de agua y energía. También menciona la importancia de monitorear los cultivos en tiempo real y estaría dispuesta a invertir en una aplicación móvil que permita realizar estas funciones, aunque no tiene un presupuesto definido. La entrevistada valora la capacitación para utilizar nuevas tecnologías y espera que una aplicación le permita ampliar su mercado, generar más demanda y aumentar sus ganancias mediante procesos como el riego automático y otros beneficios que facilitarían su labor agrícola. |
+| **Resumen de la entrevista**                                 | En la entrevista, la participante, proveniente de la región de Puno, se dedica al cultivo y venta de fresas en un invernadero. A pesar de no haber utilizado tecnología hasta ahora, muestra un claro interés en incorporarla para mejorar sus prácticas agrícolas. Identifica el riego como el mayor gasto y desea optimizar el consumo de agua y energía. También menciona la importancia de monitorear los cultivos en tiempo real y estaría dispuesta a invertir en una aplicación móvil que permita realizar estas funciones, aunque no tiene un presupuesto definido. La entrevistada valora la capacitación para utilizar nuevas tecnologías y espera que una aplicación le permita ampliar su mercado, generar más demanda y aumentar sus ganancias mediante procesos como el riego automático y otros beneficios que facilitarían su labor agrícola. |
 
 <br><br>
 
@@ -625,11 +625,11 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 | **Entrevistado 01**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| **Nombre y apellidos**                                       | Kenny Ramos                                                                         |
+| **Nombre y apellidos**                                       | Yonny Ramos                                                                         |
 | **Imagen**                                                   | ![Texto alternativo](assets/entrevista/entrevista04.png)                            |
-| **Inicio de la entrevista**                                  | 00:04                                                                               |
-| **Fin de la entrevista**                                     | 12:19                                                                               |
-| **Duración**                                                 | 12:15                                                                               |
+| **Inicio de la entrevista**                                  | 20:13                                                                               |
+| **Fin de la entrevista**                                     | 32:38                                                                               |
+| **Duración**                                                 | 12:25                                                                               |
 | **Enlace de entrevista**                                     | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EdL4DDH2Ox1KjvdKcQeUib0Bh_UdI2HK9Cz1Jp5A7eFT_g?e=ZV7Rkc) |
 | **Resumen de la entrevista**                                 | Kenny Ramos, estudiante de Ingeniería Agraria, tiene un jardín pequeño donde cultiva rabanitos, ajíes, rocotos y hierbas. Enfrenta desafíos con la salinidad y el pH del suelo en Lima. Actualmente no utiliza tecnología, pero le gustaría tener sensores para medir el pH y la salinidad. Considera importante el monitoreo en tiempo real para cultivos más grandes. Las principales barreras para adoptar nuevas tecnologías son la desinformación y el presupuesto. Recomienda ofrecer capacitación y asesoría técnica para facilitar la adopción tecnológica, teniendo en cuenta las diferencias culturales y contextuales. |
 
@@ -637,11 +637,11 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 | **Entrevistado 02**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| **Nombre y apellidos**                                       | José Daniel Sar Castro                                                               |
+| **Nombre y apellidos**                                       | José Daniel Sarate Castro                                                               |
 | **Imagen**                                                   | ![Texto alternativo](assets/entrevista/entrevista05.png)                            |
-| **Inicio de la entrevista**                                  | 00:01                                                                               |
-| **Fin de la entrevista**                                     | 03:43                                                                               |
-| **Duración**                                                 | 03:42                                                                               |
+| **Inicio de la entrevista**                                  | 32:38                                                                               |
+| **Fin de la entrevista**                                     | 36:43                                                                               |
+| **Duración**                                                 | 04:05                                                                               |
 | **Enlace de entrevista**                                     | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=sKQKoh) |
 | **Resumen de la entrevista**                                 | José Daniel Sar Castro, jefe técnico de un equipo de karting, busca mejorar el rendimiento de los karts para reducir costos de gasolina y aumentar las ganancias. Desea un sistema de monitoreo que ofrezca datos en tiempo real sobre presión de llantas, temperatura del motor y revoluciones por minuto. Enfrenta dificultades por falta de tecnología adecuada y conocimientos técnicos. Considera útil una plataforma con monitoreo en tiempo real y recomendaciones basadas en inteligencia artificial, y valora una interfaz intuitiva, integración con otros sistemas y soporte técnico. |
 
@@ -649,13 +649,13 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 | **Entrevistado 03**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| **Nombre y apellidos**                                       | Hamani                                                                              |
+| **Nombre y apellidos**                                       | Heurestes Hamani                                                                              |
 | **Imagen**                                                   | ![Texto alternativo](assets/entrevista/entrevista06.png)                                                                       |
-| **Inicio de la entrevista**                                  | 00:01                                                                               |
-| **Fin de la entrevista**                                     | 04:37                                                                               |
-| **Duración**                                                 | 04:36                                                                               |
+| **Inicio de la entrevista**                                  | 36:43                                                                               |
+| **Fin de la entrevista**                                     | 41:57                                                                               |
+| **Duración**                                                 | 05:14                                                                               |
 | **Enlace de entrevista**                                     | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=sKQKoh)                                                                       |
-| **Resumen de la entrevista**                                 | Hamani, de 35 años y residente en Camaná, Arequipa, se dedica a los microcultivos. Destaca la importancia de la planificación y la atención constante a los recursos como agua y nutrientes. Actualmente no utiliza tecnología para gestionar sus cultivos, pero considera esencial tener información en tiempo real sobre las condiciones de los cultivos. Cree que la automatización y el uso de IoT serían muy útiles, especialmente para la dosificación de agua y la gestión de la humedad. Está dispuesto a pagar entre 500 a 1000 soles por una solución que optimice la producción y valora la automatización y la facilidad de uso de las plataformas tecnológicas. Sugiere que la capacitación en forma de videos o manuales sería beneficiosa para adaptar nuevas tecnologías. |
+| **Resumen de la entrevista**                                 | Heurestes Hamani, de 35 años y residente en Camaná, Arequipa, se dedica a los microcultivos. Destaca la importancia de la planificación y la atención constante a los recursos como agua y nutrientes. Actualmente no utiliza tecnología para gestionar sus cultivos, pero considera esencial tener información en tiempo real sobre las condiciones de los cultivos. Cree que la automatización y el uso de IoT serían muy útiles, especialmente para la dosificación de agua y la gestión de la humedad. Está dispuesto a pagar entre 500 a 1000 soles por una solución que optimice la producción y valora la automatización y la facilidad de uso de las plataformas tecnológicas. Sugiere que la capacitación en forma de videos o manuales sería beneficiosa para adaptar nuevas tecnologías. |
 
 <br><br>
 
