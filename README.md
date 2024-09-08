@@ -20,7 +20,7 @@ Informe de Trabajo Final TB1
 
 **Integrantes:**
 
-Miguel Angel Ramirez Alfaro (U20)
+Miguel Angel Ramirez Alfaro (U20202117152)
 
 Lino Abraham Quenta Leon (U202022353)
 
@@ -28,7 +28,7 @@ Giovanni Andres Ramos Calderon (U202122512)
 
 Jean Patrick Yemsi Sanchez Rios (U20181e536)
 
-Franco Felix Yance Gutierrez (U20)
+Franco Felix Yance Gutierrez (U202013614)
 
 **Septiembre, 7 de 2024**
 
