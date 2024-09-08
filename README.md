@@ -47,6 +47,7 @@ Franco Felix Yance Gutierrez (U202013614)
 | 2.4 | 2024-09-20 | Lino Quenta | Mejoras en las Hisotorias de Usuario.|
 | 3.0 | 2024-09-26 | Giovanni Andres  | Mejoras en la arquitectura de C4 Model. |
 
+
 Contenido
 
 - [Capítulo I: Introducción](#capítulo-i-introducción)
