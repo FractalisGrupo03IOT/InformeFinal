@@ -16,7 +16,7 @@ Informe de Trabajo Final TB1
 
 **Startup:** Fractalies
 
-**Producto:** Green Tools
+**Producto:** GreenTools
 
 **Integrantes:**
 
