@@ -698,7 +698,7 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 
 ### 2.3.5. As-is Scenario Mapping
 
-![ASM-01](https://media.discordapp.net/attachments/624357483116232707/1279965593709056020/image.png?ex=66d8569a&is=66d7051a&hm=20ae08a09bb4c3f5213fe1240a73f783a6088d75153cffa54d5eae15950efe99&=&format=webp&quality=lossless)
+![ASM-01](https://media.discordapp.net/attachments/624357483116232707/1282210728488468564/INV.jpg?ex=66de874b&is=66dd35cb&hm=fab229959b513698f94e784bc7d58779b278a48aed875e5e1afc4e3a09a8a079&=&format=webp&width=1025&height=448)
 
 ![ASM-02](https://media.discordapp.net/attachments/624357483116232707/1279965604819894292/image.png?ex=66d8569c&is=66d7051c&hm=736688e1d56dc3283a4ff22f531e44a5277235717e61f39d196bf7e1ea9d7385&=&format=webp&quality=lossless)
 
