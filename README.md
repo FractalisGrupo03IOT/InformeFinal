@@ -155,7 +155,7 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 Fractalis es una startup dedicada a transformar la agricultura mediante la innovación tecnológica. Nos especializamos en desarrollar soluciones que integran el Internet de las Cosas (IoT) y la automatización para empoderar a agricultores de todo el mundo. En Fractalis, creemos en la convergencia de tecnología y sostenibilidad para crear un futuro agrícola más eficiente y responsable. Nuestro objetivo es revolucionar el sector, brindando herramientas accesibles y escalables que mejoran la productividad, optimizan el uso de recursos y promueven prácticas agrícolas sostenibles. Fractalis es más que una startup; es un movimiento hacia la modernización de la agricultura global.
 
 <div align=center>
-    <img src="assets/logo.jpg" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="300"/>
+    <img src="https://media.discordapp.net/attachments/1282304254929010689/1282304308087492701/logo.jpg?ex=66dede73&is=66dd8cf3&hm=3dc374ec3598919b16e4cc663b63a7cfb50b4c93f14e6b4a98c606b84363045c&=&format=webp" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="300"/>
 
 </div>
 
@@ -417,7 +417,7 @@ GreenTools debe tener una interfaz sencilla, intuitiva y responsive, que permita
 #### 1.2.2.4. Lean UX Canvas
 
 <div align=center>
-    <img src="assets/canvas.jpg" alt="Canvas"/>
+    <img src="https://media.discordapp.net/attachments/1282304254929010689/1282304307512873010/canvas.jpg?ex=66dede72&is=66dd8cf2&hm=64c195014c52cbb5de045b4f24db8451630da23f1cdb786ca2d9b32584157e16&=&format=webp&width=720&height=366" alt="Canvas"/>
 </div>
 
 ## 1.3. Segmentos objetivo
@@ -527,7 +527,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 | **Entrevistado 01**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | **Nombre y apellidos**                                       | Sonia Hcayhualla Anco                                                                    |
-| **Imagen**                                                   | ![Texto alternativo](assets/entrevista/entrevista01.png)                                                                    |
+| **Imagen**                                                   | ![Texto alternativo](https://media.discordapp.net/attachments/1282304254929010689/1282304308351598715/entrevista01.png?ex=66dede73&is=66dd8cf3&hm=100d3f22c8c308e6363a4f9a06914c0e96cd38f235b708838eefdb1449be0253&=&format=webp&quality=lossless&width=720&height=301)                                                                    |
 | **Inicio de la entrevista**                                  | 00:05                                                                                |
 | **Fin de la entrevista**                                     | 06:40                                                                                |
 | **Duración**                                                 | 06:40                                                                              |
@@ -539,7 +539,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 | **Entrevistado 02**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | **Nombre y apellidos**                                       | Fabio Orna                                                                          |
-|**Imagen**                                                   | ![Texto alternativo](assets/entrevista/entrevista02.png)                                  |
+|**Imagen**                                                   | ![Texto alternativo](https://media.discordapp.net/attachments/1282304254929010689/1282304308628553852/entrevista02.png?ex=66dede73&is=66dd8cf3&hm=5eecc84d2fa95c8776db68435eb31a6e23e7f56a7159fb83ba03614748a13a97&=&format=webp&quality=lossless&width=720&height=401)                                  |
 | **Inicio de la entrevista**                                  | 06:40                                                                               |
 | **Fin de la entrevista**                                     | 11:00                                                                               |
 | **Duración**                                                 | 04:60                                                                               |
@@ -551,7 +551,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 | **Entrevistado 03**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | **Nombre y apellidos**                                       |  Fer López                                               |
-| **Imagen**                                                   | ![Texto alternativo](assets/entrevista/entrevista03.png)                           |
+| **Imagen**                                                   | ![Texto alternativo](https://media.discordapp.net/attachments/1282304254929010689/1282304308943130714/entrevista03.png?ex=66dede73&is=66dd8cf3&hm=c4875e66d98a756b4c971a6e747ef976699893cf8ea65877113a11f958e48517&=&format=webp&quality=lossless&width=720&height=205)                           |
 | **Inicio de la entrevista**                                  | 11:00                                                                               |
 | **Fin de la entrevista**                                     | 20:01                                                                               |
 | **Duración**                                                 | 09:01                                                                               |
@@ -565,7 +565,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 | **Entrevistado 01**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | **Nombre y apellidos**                                       | Yonny Ramos                                                                         |
-| **Imagen**                                                   | ![Texto alternativo](assets/entrevista/entrevista04.png)                            |
+| **Imagen**                                                   | ![Texto alternativo](https://media.discordapp.net/attachments/1282304254929010689/1282304309219819530/entrevista04.png?ex=66dede73&is=66dd8cf3&hm=a576d27d28b7269616cdd1901a3105e62996b28a7d33916fa416610af9582ab9&=&format=webp&quality=lossless&width=720&height=449)                            |
 | **Inicio de la entrevista**                                  | 20:13                                                                               |
 | **Fin de la entrevista**                                     | 32:38                                                                               |
 | **Duración**                                                 | 12:25                                                                               |
@@ -577,7 +577,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 | **Entrevistado 02**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | **Nombre y apellidos**                                       | José Daniel Sarate Castro                                                               |
-| **Imagen**                                                   | ![Texto alternativo](assets/entrevista/entrevista05.png)                            |
+| **Imagen**                                                   | ![Texto alternativo](https://media.discordapp.net/attachments/1282304254929010689/1282304309505163314/entrevista05.png?ex=66dede73&is=66dd8cf3&hm=52ef83d4257a805a9a7b907f683128e74a6726ccc8385d94aade0b293150c23b&=&format=webp&quality=lossless&width=720&height=440)                            |
 | **Inicio de la entrevista**                                  | 32:38                                                                               |
 | **Fin de la entrevista**                                     | 36:43                                                                               |
 | **Duración**                                                 | 04:05                                                                               |
@@ -589,7 +589,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 | **Entrevistado 03**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | **Nombre y apellidos**                                       | Heurestes Hamani                                                                              |
-| **Imagen**                                                   | ![Texto alternativo](assets/entrevista/entrevista06.png)                                                                       |
+| **Imagen**                                                   | ![Texto alternativo](https://media.discordapp.net/attachments/1282304254929010689/1282304309777797141/entrevista06.png?ex=66dede73&is=66dd8cf3&hm=f2a58c850d92fd3a2ff9e99f6e4da0ddba8c0149845f09ffa606c03e284bb2c4&=&format=webp&quality=lossless)                                                                       |
 | **Inicio de la entrevista**                                  | 36:43                                                                               |
 | **Fin de la entrevista**                                     | 41:57                                                                               |
 | **Duración**                                                 | 05:14                                                                               |
