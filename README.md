@@ -42,7 +42,7 @@ Franco Felix Yance Gutierrez (U202013614)
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |---------|-------|-------|---------------------------|
-| 1.0 | 2024-09-06 | Miguel Angel <br><br> Franco Yance <br><br> Giovanni Andres <br><br> Lino Quenta <br><br> Jean Patrick | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Solution Software Design|
+| 1.0 | 2024-09-06 |Miguel Angel Ramirez Alfaro <br><br> Franco Felix Yance Gutierrez <br><br> Giovanni Andres Ramos Calderon <br><br> Lino Abraham Quenta Leon <br><br> Jean Patrick Yemsi Sanchez Rios | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Solution Software Design|
 
 # Contenido
 
