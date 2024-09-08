@@ -136,7 +136,7 @@ URL de nuestro repositorio para el Project Report:[https://github.com/FractalisG
 
 ## Evidencia de colaboración
 
-![image](https://github.com/user-attachments/assets/fb707073-cfaa-4bc2-bf1f-2db48a9493f8)
+![image](https://media.discordapp.net/attachments/1282304254929010689/1282317904641134652/Captura_de_pantalla_2024-09-08_073253.png?ex=66deeb1c&is=66dd999c&hm=b5bfc3f9ef375659fc3b8656eeb9848f000356ab41477e433e2faf5c636af843&=&format=webp&quality=lossless&width=559&height=671)
 
 # Student Outcome
 ### Conpentencia de Student Outcome
