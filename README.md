@@ -171,7 +171,6 @@ URL de nuestro repositorio para el Project Report:[ https://github.com/linoabrah
 - **Lino Quenta**: Adición de "Lean UX Process", "Impact Mapping", y mejoras en las historias de usuario.
 - **Giovanni Andres**: Desarrollo de "Software Architecture"
 - **Jean Patrick**: Actualización de "Software Architecture" y adición de "Solution UX Design".
-- **Franco Yance Gutierrez** : Desarrollo capitulo 1 y todos los puntos con las respectivas mejoras
 
 
 ### Entrega 2 (TP1)
@@ -497,11 +496,11 @@ GreenTools debe tener una interfaz sencilla, intuitiva y responsive, que permita
 | CropX                     | CropX es una empresa israelí destacada en la agricultura de precisión. Su enfoque se centra en el desarrollo de sensores de suelo y software avanzado para optimizar en tiempo real la irrigación, los nutrientes y la gestión de cultivos.              | [cropx.com](https://cropx.com)    |
 
 
-## 2.1.1. Análisis competitivo
+### 2.1.1. Análisis competitivo
 
- ### Análisis de Competencia
+# Análisis de Competencia
 
-#### Competitive Analysis Landscape
+### Competitive Analysis Landscape
 ¿Por qué llevar a cabo este análisis? 
 
 ¿Cómo reconocer a nuestros competidores más relevantes?
@@ -521,9 +520,9 @@ Este análisis se llevó a cabo con el propósito de identificar a nuestros posi
 | **Debilidades**        | Nuevo en el mercado, enfrenta desafíos de financiamiento y reconocimiento de marca.                                                                           | Dependencia de infraestructura tecnológica en regiones con tecnología deficiente.                                                                         | Costo elevado para pequeños agricultores, limitando la adopción en ciertos mercados.                                                                        | Innovación puede no estar al mismo nivel que competidores más avanzados en IoT y análisis predictivo.                                                            |
 | **Oportunidades**      | Creciente demanda de prácticas agrícolas sostenibles ofrece potencial de liderazgo en modernización agrícola.                                                | Posibilidad de expansión fuera de América Latina aprovechando la experiencia en agricultura de precisión.                                                 | Expansión de productos para nuevas áreas agrícolas y mayor adopción de monitoreo del suelo.                                                                  | Creciente demanda de tecnologías de automatización agrícola como el riego automatizado.                                                                          |
 | **Amenazas**           | Competencia de startups más grandes y establecidas en el sector de tecnología agrícola.                                                                      | Competencia intensa en mercados de rápida expansión de soluciones tecnológicas similares.                                                                 | Exposición a riesgos climáticos, económicos, y regulatorios en mercados volátiles.                                                                         | Regulaciones gubernamentales sobre el uso del agua y sostenibilidad pueden afectar la adopción de sus productos.                                                 |
-## 2.1.2. Estrategias y tácticas frente a competidores
+### 2.1.2. Estrategias y tácticas frente a competidores
 
-### Estrategia de GreenTools
+# Estrategia de GreenTools
 
 Posicionar a GreenTools como un líder en la agricultura de precisión mediante la innovación tecnológica, con un enfoque en sostenibilidad y eficiencia, superando a la competencia a través de la diferenciación en servicios y productos, el aprovechamiento de oportunidades de mercado y la mitigación de amenazas.
 
@@ -545,11 +544,11 @@ Mostrar el valor de la tecnología de GreenTools en acción mediante jornadas de
 
 Comprender las necesidades y expectativas de los dueños de invernaderos en cuanto al uso de tecnología para la gestión agrícola.
 
-## 2.2.1. Diseño de entrevistas
+### 2.2.1. Diseño de entrevistas
 
-### Entrevista a Dueños de Invernaderos
+## Entrevista a Dueños de Invernaderos
 
-#### Preguntas
+## Preguntas
 
 1. **¿Cómo describirías tu interés en la tecnología aplicada a la agricultura?**
 2. **¿Cuáles son los principales cultivos que manejas en tu invernadero?**
@@ -562,9 +561,9 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 9. **¿Te interesarían servicios adicionales, como capacitación en el uso de tecnologías IoT?**
 10. **¿Qué factores te motivarían a cambiar o adoptar nuevas tecnologías en tu operación?**
 
-### Entrevista a Propietarios de Microcultivos
+## Entrevista a Propietarios de Microcultivos
 
-#### Preguntas
+## Preguntas
 
 1. **¿Cómo describirías tu experiencia manejando múltiples cultivos en un espacio reducido?**
 2. **¿Qué desafíos enfrentan tus cultivos en términos de recursos como agua y nutrientes?**
@@ -577,77 +576,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 9. **¿Qué tipo de soporte (como capacitación o asesoría técnica) te ayudaría a maximizar el uso de estas tecnologías?**
 
 
-## 2.2.2. Registro de entrevistas
-
-### Entrevistado 01
-
-| **Campo**                       | **Detalle**                                                                                                                                                          |
-|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nombre y Apellido**           | Fabio Orna                                                                                                                                                           |
-| **Edad**                        | 32                                                                                                                                                                   |
-| **Ubicación**                   | No especificada                                                                                                                                                      |
-| **Imagen**                      | ![Fabio Orna](assets/entrevista01.jpg.jpg)                                                                                                                                    |
-| **Cultivo Principal**           | Tomates y fresas                                                                                                                                                     |
-| **Interés en Tecnología**       | Alto, especialmente en la automatización para optimizar el uso de recursos como agua y energía, y en el monitoreo en tiempo real para la toma de decisiones.         |
-| **Retos en Gestión**            | Optimización del uso de agua y energía en el invernadero.                                                                                                            |
-| **Solución Tecnológica Deseada**| Herramientas que permitan la automatización y el monitoreo en tiempo real de las condiciones del invernadero.                                                       |
-| **Inversión en Tecnología**     | Está dispuesto a invertir significativamente en tecnologías que mejoren la productividad de sus cultivos.                                                           |
-| **Necesidad de Capacitación**   | Sí, está interesado en recibir capacitación en el uso de tecnologías IoT para mejorar su práctica agrícola.                                                          |
-| **Expectativas de la Tecnología**| Mejorar la productividad y la rentabilidad de sus cultivos, mediante una mejor gestión y un monitoreo en tiempo real.                                              |
-| **Inicio del Video**            | *(00:01)*                                                               |
-| **Fin del Video**               | *(03:17)*                                                                          |
-| **Link del Video**              | [Ver entrevista completa en YouTube](enlace-al-video)                                                                                                                |
-
-<br><br>
-
-
-
-
-
-
-
-|                     |                                                                                                                                                                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nombre y Apellido**         | Sonia Hcaylluhua                                                                                                                                                                                                                |
-| **Edad**                      | 32                                                                                                                                                                                                                                |
-| **Ubicación**                 | PUNO - PUNO - PUNO                                                                                                                                                                                                              |
-| **Imagen**                    | ![Sonia Hcaylluhua](https://media.discordapp.net/attachments/1228537935368945717/1279448960561447057/image.png?ex=66d47b33&is=66d329b3&hm=b30536094cd394565707fc9a99158b1640d17c0b5a18fdc5c11122802c73bea6&=&format=webp&quality=lossless&width=742&height=417) |
-| **Cultivo Principal**         | Fresas                                                                                                                                                                                                                          |
-| **Interés en Tecnología**     | Alta, está interesada en herramientas tecnológicas para optimizar procesos y mejorar la eficiencia del negocio.                                                                                                                   |
-| **Retos en Gestión**          | Monitoreo manual significativo y costos altos en riego, especialmente en términos de consumo de agua.                                                                                                                             |
-| **Solución Tecnológica Deseada** | Aplicación móvil equipada con sensores para monitoreo en tiempo real de los cultivos.                                                                                                                                         |
-| **Inversión en Tecnología**   | Abierta a considerar la inversión si la tecnología ofrece mejoras significativas en la gestión del invernadero; no tiene una cifra exacta.                                                                                          |
-| **Necesidad de Capacitación** | Sí, necesitaría capacitación para utilizar correctamente las nuevas herramientas tecnológicas.                                                                                                                                  |
-| **Expectativas de la Tecnología** | Optimizar el riego, reducir gastos, mejorar la productividad y expandir el negocio para llegar a más mercados.                                                                                                                   |
-
-|                       |                                                                                                                                                                                                                               |
-|--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nombre y Apellido**          | Victor Felopez                                                                                                                                                                                                                           |
-| **Edad**                       | 29 años                                                                                                                                                                                                                                  |
-| **Ubicación**                  | Lima, Victoria                                                                                                                                                                                                                           |
-| **Imagen**                     | ![Victor Felopez](https://media.discordapp.net/attachments/624357483116232707/1280635277475582084/image.png?ex=66d8cc0b&is=66d77a8b&hm=c045d7c0c2c236c52ec65cf16a86fed0182d0608c4e2a356a10a0dbecc9a0ef5&=&format=webp&quality=lossless&width=550&height=226) |
-| **Cultivo Principal**          | Tomates y otros cultivos que requieren alta precisión                                                                                                                                                                                     |
-| **Interés en Tecnología**      | Alta, está interesado en aplicar IoT para mejorar la gestión de sus cultivos en invernaderos.                                                                                                                                            |
-| **Retos en Gestión**           | Actualmente no utiliza tecnología avanzada, lo que limita la eficiencia y control en tiempo real de sus cultivos.                                                                                                                        |
-| **Solución Tecnológica Deseada**| Aplicación móvil con monitoreo en tiempo real de los cultivos, acompañada de videos instructivos para facilitar su uso.                                                                                                                  |
-| **Inversión en Tecnología**    | Está dispuesto a considerar la inversión si la tecnología puede mejorar la eficiencia operativa de su invernadero.                                                                                                                        |
-| **Necesidad de Capacitación**  | Sí, considera importante el soporte educativo para adaptarse rápidamente a nuevas tecnologías.                                                                                                                                           |
-| **Expectativas de la Tecnología** | Monitoreo en tiempo real, mejorar la eficiencia de su operación agrícola, y soporte educativo a través de videos instructivos.                                                                                                             |
-
-## Entrevistado 03
-|                     |                                                                                                                                                                                                                 |
-|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Nombre y Apellido**         | Kenny Ramos                                                                                                                                                                                                              |
-| **Edad**                      | 28                                                                                                                                                                                                                                |
-| **Ubicación**                 | LIMA - LA MOLINA                                                                                                                                                                                                              |
-| **Imagen**                    | ![Kenny Ramos](https://media.discordapp.net/attachments/1280405882517196875/1282182576114503744/image.png?ex=66de6d13&is=66dd1b93&hm=1b12c7857d1ac6b9107a87cdd0cd9b441ac0767bafca0c51f23f1dddbcb222ae&=&format=webp&quality=lossless&width=605&height=341) |
-| **Cultivo Principal**         | Rabanitos y ajíes                                                                                                                                                                                                                       |
-| **Interés en Tecnología**     | Alta, considera que en cultivos más grandes es importante monitorear en tiempo real el estado de los cultivos.                                                                                                                   |
-| **Retos en Gestión**          | La desinformación de los clientes, estudiantes como él si entienden los conceptos, pero las personas que tienen cultivos grandes no estan famirializados con la tecnología ni los conceptos.                                                                                                                             |
-| **Solución Tecnológica Deseada** | Aplicación móvil para gestionar el estado de los cultivos.                                                                                                                                         |
-| **Inversión en Tecnología**   | Está dispuesto a invertir en cultivos de gran magnitud.                                                                                          |
-| **Necesidad de Capacitación** | Sí, se necesita capacitar a las personas que usaran este sistema. En primer lugar informar sobre los beneficios de la tecnología en sus cultivos y finalmente como usar la aplicación en sí.                                                                                                                                  |
-| **Expectativas de la Tecnología** | Producir más ganancias de los cultivos, ver en tiempo real el estado de estos mismo y tener un reporte con información de los datos recolectados.                                                                                                                   |
+### 2.2.2. Registro de entrevistas
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -657,7 +586,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 Los User Personas son esenciales para el éxito de GreenTools para ofrecer soluciones personalizadas que aborden de manera eficaz los desafíos únicos de cada segmento objetivo. Desde la implementación de tecnologías IoT para dueños de invernaderos interesados en maximizar la eficiencia y sostenibilidad de sus cultivos, hasta la diversificación y optimización de recursos para propietarios de microcultivos, los User Personas guían el diseño de nuestra oferta, asegurando que responda con precisión a las demandas tanto de principiantes en la adopción tecnológica como de expertos que buscan innovación avanzada en sus operaciones agrícolas.
 
-![User01](https://media.discordapp.net/attachments/624357483116232707/1282235066864373821/user01.png?ex=66de9df6&is=66dd4c76&hm=355f46d812ddffeb5c44b35786b1bb6b337d8ba512de200fab365f2b2f0fa286&=&format=webp&quality=lossless&width=334&height=468)
+![User01](https://media.discordapp.net/attachments/624357483116232707/1279965053931622420/image.png?ex=66d85619&is=66d70499&hm=7dfdf7d098c72c25bf9cf0c4f2071f82121929bdc8a7d63bda6e03718c32f2ec&=&format=webp&quality=lossless&width=334&height=468)
 
 ![User02](https://media.discordapp.net/attachments/624357483116232707/1279965078413774971/image.png?ex=66d8561f&is=66d7049f&hm=a45f0a6ce90d0bb2a7470c478dbee81fa9c849e2ae4642bbf8ef56188c98370e&=&format=webp&quality=lossless&width=292&height=468)
 
@@ -683,7 +612,7 @@ Los User Personas son esenciales para el éxito de GreenTools para ofrecer soluc
 
 Segmento Objetivo: Dueños de Invernaderos
 
-![UJM-01](https://media.discordapp.net/attachments/624357483116232707/1282210354075533425/CJ1.png?ex=66de86f2&is=66dd3572&hm=8135445c59d166c7188c0cd0d6efe01cc332109ddcfa51f5845be51a159f959e&=&format=webp&quality=lossless&width=648&height=468)
+![UJM-01](https://media.discordapp.net/attachments/624357483116232707/1279962158813417603/journey-01.png?ex=66d85367&is=66d701e7&hm=70b6bf079e7663566343faa8e89c8991dc8c66b64419ac2fb0decb3a3f21c072&=&format=webp&quality=lossless&width=648&height=468)
 
 Segmento Objetivo: Propietarios de Microcultivos
 
@@ -699,7 +628,7 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 
 ### 2.3.5. As-is Scenario Mapping
 
-![ASM-01](https://media.discordapp.net/attachments/624357483116232707/1282210728488468564/INV.jpg?ex=66de874b&is=66dd35cb&hm=fab229959b513698f94e784bc7d58779b278a48aed875e5e1afc4e3a09a8a079&=&format=webp&width=1025&height=448)
+![ASM-01](https://media.discordapp.net/attachments/624357483116232707/1279965593709056020/image.png?ex=66d8569a&is=66d7051a&hm=20ae08a09bb4c3f5213fe1240a73f783a6088d75153cffa54d5eae15950efe99&=&format=webp&quality=lossless)
 
 ![ASM-02](https://media.discordapp.net/attachments/624357483116232707/1279965604819894292/image.png?ex=66d8569c&is=66d7051c&hm=736688e1d56dc3283a4ff22f531e44a5277235717e61f39d196bf7e1ea9d7385&=&format=webp&quality=lossless)
 
@@ -870,32 +799,32 @@ No hay sistemas externos
 
 #### 4.2.1.1. Domain Layer
 
-Entities: Usuario , Cuenta , Membresia.
-Value Objects: tipoMembresia, estado.
-Aggregates:Usuario que incluye Cuenta y Membresia
-Repositories: CuentaRepository, MembresiaRepository y UsuarioRepository para acceso y manipulacion de datos
-Services: CuentaService para la actualizacion de informacion de perfil , SusucriptionManagerService para el manejo del plan de suscripcion.
+Entities:
+Value Objects: 
+Aggregates:
+Repositories:
+Services:
 
 #### 4.2.1.2. Interface Layer
 
-API Endpoints: Rutas como POST /users para nuevos usuarios, GET /users/{id} para consultar informacion de usuario.
-DTOs: Objetos de transferencia como AccountCreationRequest que define la estructura de los datos solicitados.
-View Models: AccountDetailsViewModel para el envio de datos a vistas o APIS externas.
-Controllers: AccountController que maneja las solicitudes HTTP y delega a los servicios.
+API Endpoints:
+DTOs:
+View Models: 
+Controllers:
 
 #### 4.2.1.3. Application Layer
 
-Services: AccountApplicationServices que maneja la logica de registro y membresia.
-Commands/Queries: CreateAccountCommand que encapsula datos necesariospara realizar acciones.
-Command Handlers: CreateAccountHandler maneja los comandos.
-Event Handlers: Responde a enventos del dominio.
+Services:
+Commands/Queries:
+Command Handlers: 
+Event Handlers:
 
 #### 4.2.1.4. Infrastructure Layer
 
-Persistence Mechanisms: Implementaciones de los repositorios que interactúan con la base de datos, como AccountSQLRepository.
-External Service Integrations: Comunicacion con sistemas externos para validar datos de cuenta.
-Factories: Para la creación de objetos de dominio complejos.
-API Clients: Para interactuar con otros bounded contexts o servicios externos
+Persistence Mechanisms:
+External Service Integrations:
+Factories:
+API Clients: 
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -915,31 +844,32 @@ API Clients: Para interactuar con otros bounded contexts o servicios externos
 
 #### 4.2.2.1. Domain Layer
 
-Entities: Sensor
-Value Objects: tiposSensor y ubicacion.
-Aggregates: Sensor que incluye DatosSensor
-Repositories: SensorRepository  para acceso y manipulacion de datos
-Services: SistemaIOTService para recolectar datos de los sensores y calibrar los sensores.
+Entities:
+Value Objects: 
+Aggregates:
+Repositories:
+Services:
 
 #### 4.2.2.2. Interface Layer
 
-API Endpoints: Rutas como GET /metrics/{sensorId} para obtener métricas y POST /data para la entrada
-de nuevos datos de sensores.
-DTOs: SensorDataDTO para la estructura de datos intercambiados.
-Controllers:SistemaIOTController para manejar solicitudes API y delegar a la capa de aplicación
+API Endpoints:
+DTOs:
+View Models: 
+Controllers:
 
 #### 4.2.2.3. Application Layer
 
-Services: MetricProcessingService para la lógica de cómo se calculan y envían las métricas.
-Commands/Queries: ProcessSensorDataCommand, RetrieveMetricsQuery.
-Command Handlers: ProcessSensorDataHandler, RetrieveMetricsHandler.
+Services:
+Commands/Queries:
+Command Handlers: 
+Event Handlers:
 
 #### 4.2.2.4. Infrastructure Layer
 
-Persistence Mechanisms: SQLSensorRepository para la interacción con la base de datos.
-External Service Integrations: Integraciones con servicios en la nube para el almacenamiento y análisis de datos a gran
-escala.
-Factories: Para la creación de instancias complejas de datos de sensores.
+Persistence Mechanisms:
+External Service Integrations:
+Factories:
+API Clients: 
 
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -959,30 +889,32 @@ Factories: Para la creación de instancias complejas de datos de sensores.
 
 #### 4.2.3.1. Domain Layer
 
-Entities: Cultivo, ParametroCultivo.
-Value Objects: nombreCultivo, tipoPlanta.
-Aggregates: Cultivo que invluye ParametroCultivo.
-Repositories: CultivoRepository para acceso y manipulacion de datos.
-Services: CultivoService para recolectar datos de los cultivos y el inventario.
+Entities:
+Value Objects: 
+Aggregates:
+Repositories:
+Services:
 
 #### 4.2.3.2. Interface Layer
 
-API Endpoints: Rutas como GET /crop/{cropId} para obtener el cultivo y POST /parameter/{cropId}  para la entrada
-de parametros predeterminados para el cultivo.
-DTOs: CropDataDTO para la estructura de datos intercambiados.
-Controllers: CropInventoryController para manejar solicitudes API y delegar a la capa de aplicación
+API Endpoints:
+DTOs:
+View Models: 
+Controllers:
 
 #### 4.2.3.3. Application Layer
 
-Services: CropService para la edicionde parametros del cultivo
-Commands/Queries: CropInventoryDataCommand.
-Command Handlers: CropInventoryDataHandler.
+Services:
+Commands/Queries:
+Command Handlers: 
+Event Handlers:
 
 #### 4.2.3.4. Infrastructure Layer
 
-Persistence Mechanisms: SQLSensorRepository para la interacción con la base de datos.
-External Service Integrations: Integraciones con servicios en la nube para el almacenamiento y persistencia.
-Factories: Para la creación de instancias complejas de datos de cultivos.
+Persistence Mechanisms:
+External Service Integrations:
+Factories:
+API Clients: 
 
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -1002,29 +934,32 @@ Factories: Para la creación de instancias complejas de datos de cultivos.
 
 #### 4.2.4.1. Domain Layer
 
-Entities: ReporteCultivo, SitemaCultivoActual
-Value Objects: datosRecolectados, datosRecientes.
-Repositories: ReporteRepository, CultivoActualRepository para acceso y manipulacion de datos.
-Services: ReporteService para recolectar datos del reporte de estado.
+Entities:
+Value Objects: 
+Aggregates:
+Repositories:
+Services:
 
 #### 4.2.4.2. Interface Layer
 
-API Endpoints: Rutas como GET /report/{reportId} para obtener el reporte.
-DTOs: ReportDataDTO para la estructura de datos intercambiados.
-Controllers: ReportStatusController para manejar solicitudes API y delegar a la capa de
-aplicación
+API Endpoints:
+DTOs:
+View Models: 
+Controllers:
 
 #### 4.2.4.3. Application Layer
 
-Services: ReportStatusService para enviar el reporte.
-Commands/Queries: ReportStatusDataCommand.
-Command Handlers: ReportStatusDataHandler.
+Services:
+Commands/Queries:
+Command Handlers: 
+Event Handlers:
 
 #### 4.2.4.4. Infrastructure Layer
 
-Persistence Mechanisms: SQLReportRepository para la interacción con la base de datos.
-External Service Integrations: Integraciones con servicios en la nube para el almacenamiento y persistencia.
-Factories: Para la creación de instancias complejas de datos del reporte de estado.
+Persistence Mechanisms:
+External Service Integrations:
+Factories:
+API Clients: 
 
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
 
