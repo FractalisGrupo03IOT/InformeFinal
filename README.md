@@ -866,7 +866,7 @@ API Clients:
 
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
 
-![Account Bounded Context](https://github.com/user-attachments/assets/f571b0d8-b4b5-4940-9752-8dd968ba1437)
+![Account Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150691657224233/GreenTools-2024-09-07_20-27.png?ex=66de4f62&is=66dcfde2&hm=78cb1a1e0b5af71acbf18ef5dddd8c4eba049437e4d70e7ed651338c2a5d18f8&=&format=webp&quality=lossless&width=947&height=671)
 
 ### 4.2.2. Bounded Context: \<IoT System>
 
@@ -909,7 +909,7 @@ API Clients:
 
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
-![IoT System Bounded Context](https://github.com/user-attachments/assets/079afb50-8f12-431b-bdfa-fb08f394b741)
+![IoT System Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150691997225001/GreenTools-2024-09-07_20-28_1.png?ex=66de4f62&is=66dcfde2&hm=7fcb74b595b854f0976ba9fa710032cea580ae34bde69358a6c975dfcf399713&=&format=webp&quality=lossless&width=947&height=671)
 
 ### 4.2.3. Bounded Context: \<Crop Inventory>
 
@@ -952,7 +952,7 @@ API Clients:
 
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
-![Crop Status Bounded Context](https://github.com/user-attachments/assets/022acbc4-ca0b-4639-9603-3ae33bd8cdc9)
+![Crop Status Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150692697669685/GreenTools-2024-09-07_20-27_1.png?ex=66de4f62&is=66dcfde2&hm=c7fb353f3e617af167dae216d22a39e1c4cdd9ea0cd82bf481e177409eda3687&=&format=webp&quality=lossless&width=947&height=671)
 
 ### 4.2.4. Bounded Context: \<Crop Status>
 
@@ -995,7 +995,7 @@ API Clients:
 
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
 
-![Crop Status Bounded Context](https://github.com/user-attachments/assets/c5cfacfb-f312-4e08-b5c5-df79bfce18bf)
+![Crop Status Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150692420583454/GreenTools-2024-09-07_20-28.png?ex=66de4f62&is=66dcfde2&hm=7b71bf96310cd7066836c673a41fafb42b0b2507b6cb5993d6c21b2ab6c027f8&=&format=webp&quality=lossless&width=947&height=671)
 
 # Capítulo V: Solution UI/UX Design
 
