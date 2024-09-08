@@ -858,6 +858,8 @@ API Clients:
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
+![Account Bounded ContextC4](https://github.com/user-attachments/assets/5366a07f-ec6b-4cd9-92d3-4dd93e46b638)
+
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 4.2.1.6.1. Bounded Context Domain Layer Class Diagrams
@@ -900,6 +902,8 @@ Factories:
 API Clients: 
 
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+![IoT System Bounded ContextC4](https://github.com/user-attachments/assets/88b59230-c175-48ea-a85f-d2af94296e17)
 
 #### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -944,6 +948,8 @@ API Clients:
 
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
+![Crop Inventory Bounded ContextC4](https://github.com/user-attachments/assets/e91bac39-f8ab-44ef-8056-f28f784ab8f5)
+
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 
 ##### 4.2.3.6.1. Bounded Context Domain Layer Class Diagrams
@@ -986,6 +992,8 @@ Factories:
 API Clients: 
 
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
+
+![Crop Status Bounded ContextC4](https://github.com/user-attachments/assets/c4c60e07-357c-438e-bd78-021fac633696)
 
 #### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
 
