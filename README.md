@@ -340,6 +340,31 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
         Me considero a mí mismo como una persona responsable, y apasionada por la tecnología. Poseo conocimientos en programación, en lenguajes como C++, C#, Java y Python. Me gusta aprender cosas nuevas y mejorar mis conocimientos, cuando no estoy estudiando me gusta leer, y escuchar música. Una de mis mejores cualidades es el trabajo en equipo, me considero alguien resiliente y productivo.
         </td>
     </tr>
+  <tr align="center">
+        <td rowspan="3">
+            <img src="https://media.discordapp.net/attachments/624357483116232707/1282204510625992744/foto2.png?ex=66de8181&is=66dd3001&hm=d6e2c90689248f9f9c1933b2345b320bbf915b7dd7a3376b113f1aa07e686641&=&format=webp&quality=lossless" alt="Quenta Leon"  style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>            
+           Miguel Angel Ramirez alfaro
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+       Soy estudiante de 8vo ciclo de la carrera profesional de Ingeniería de Software. 
+Me apasiona la tecnología y sus infinitas aplicaciones. Me considero un joven innovador, soñador , responsable y comprometido. Además, me gusta trabajar en equipo solucionar problemas y mejorar los procesos que nos faciliten el trabajo, pero sobre todo, mejoremos la experiencia del usuario (cliente).
+        </td>
+    </tr>
 </table>
 
 ## 1.2. Solution Profile
