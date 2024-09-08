@@ -683,7 +683,7 @@ Los User Personas son esenciales para el éxito de GreenTools para ofrecer soluc
 
 Segmento Objetivo: Dueños de Invernaderos
 
-![UJM-01](https://media.discordapp.net/attachments/624357483116232707/1279962158813417603/journey-01.png?ex=66d85367&is=66d701e7&hm=70b6bf079e7663566343faa8e89c8991dc8c66b64419ac2fb0decb3a3f21c072&=&format=webp&quality=lossless&width=648&height=468)
+![UJM-01](https://media.discordapp.net/attachments/624357483116232707/1282235066864373821/user01.png?ex=66de9df6&is=66dd4c76&hm=355f46d812ddffeb5c44b35786b1bb6b337d8ba512de200fab365f2b2f0fa286&=&format=webp&quality=lossless&width=334&height=468)
 
 Segmento Objetivo: Propietarios de Microcultivos
 
