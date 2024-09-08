@@ -223,7 +223,7 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="https://cdn.discordapp.com/attachments/1148057148522233868/1156251884647092394/WIN_20230926_09_34_37_Pro.jpg" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="800"/>
+            <img src="assets/franco.jpg" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
