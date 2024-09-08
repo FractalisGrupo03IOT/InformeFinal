@@ -30,7 +30,7 @@ Jean Patrick Yemsi Sanchez Rios (U20)
 
 Franco Felix Yance Gutierrez (U20)
 
-**Agosto, 25 de 2024**
+**Septiembre, 7 de 2024**
 
 # Registro de Versiones del Informe
 
