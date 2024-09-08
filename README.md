@@ -295,30 +295,6 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="[https://cdn.discordapp.com/attachments/1148057148522233868/1148370399395074108/Diseno_sin_titulo.png](https://media.discordapp.net/attachments/1280405882517196875/1282200057986420777/image.png?ex=66de7d5b&is=66dd2bdb&hm=9a9bd990d00a6e9ae32c3d1b9479d5358e36c91d9a4eaf766329e631f5ed4e57&=&format=webp&quality=lossless&width=306&height=385)" alt="Giovanni Ramos"  style="margin-bottom: 5px;" width="800"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-            Arenas Conde, José Anthony
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Por lo general, me veo a mí mismo como alguien capaz de superar adversidades y hábil en varios campos, como la expresión verbal y escrita. También poseo conocimientos en la elaboración de productos, adquiridos a través de cursos previos. Como miembro de este equipo, mi meta es contribuir a la creación de un producto de calidad que satisfaga las necesidades de nuestros usuarios. Asimismo, soy alguien que sabe trabajar en conjunto y ha participado en numerosas empresas grupales en el pasado. Tengo la habilidad de escuchar y comprometerse con mis colegas, además de estar dispuesto a aceptar responsabilidades y contribuir con mi esfuerzo para alcanzar las metas del equipo.
-        </td>
-    </tr>
-    <tr align="center">
-        <td rowspan="3">
             <img src="https://media.discordapp.net/attachments/1228537935368945717/1282026507916677234/7afa87f0-059c-4ea8-98bf-2b9f74fd82fb.png?ex=66dddbba&is=66dc8a3a&hm=586155cecd320bdb58131d442b8d3ea2d3bd31ca62545daad526ae1cf54b7a09&=&format=webp&quality=lossless&width=313&height=417" alt="Quenta Leon"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
