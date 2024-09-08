@@ -586,11 +586,11 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 | **Entrevistado 01**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| **Nombre y apellidos**                                       | No proporcionado                                                                    |
+| **Nombre y apellidos**                                       | Sonia Hcayhualla Anco                                                                    |
 | **Imagen**                                                   | ![Texto alternativo](assets/entrevista/entrevista01.png)                                                                    |
-| **Inicio de la entrevista**                                  | 00:00                                                                                |
-| **Fin de la entrevista**                                     | 06:08                                                                                |
-| **Duración**                                                 | 06:08                                                                               |
+| **Inicio de la entrevista**                                  | 00:05                                                                                |
+| **Fin de la entrevista**                                     | 06:40                                                                                |
+| **Duración**                                                 | 06:40                                                                              |
 | **Enlace de entrevista**                                     | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=sKQKoh) |
 | **Resumen de la entrevista**                                 | En la entrevista, la participante, proveniente de la región de Cuno, se dedica al cultivo y venta de fresas en un invernadero. A pesar de no haber utilizado tecnología hasta ahora, muestra un claro interés en incorporarla para mejorar sus prácticas agrícolas. Identifica el riego como el mayor gasto y desea optimizar el consumo de agua y energía. También menciona la importancia de monitorear los cultivos en tiempo real y estaría dispuesta a invertir en una aplicación móvil que permita realizar estas funciones, aunque no tiene un presupuesto definido. La entrevistada valora la capacitación para utilizar nuevas tecnologías y espera que una aplicación le permita ampliar su mercado, generar más demanda y aumentar sus ganancias mediante procesos como el riego automático y otros beneficios que facilitarían su labor agrícola. |
 
@@ -600,9 +600,9 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | **Nombre y apellidos**                                       | Fabio Orna                                                                          |
 |**Imagen**                                                   | ![Texto alternativo](assets/entrevista/entrevista02.png)                                  |
-| **Inicio de la entrevista**                                  | 00:01                                                                               |
-| **Fin de la entrevista**                                     | 03:50                                                                               |
-| **Duración**                                                 | 03:49                                                                               |
+| **Inicio de la entrevista**                                  | 06:40                                                                               |
+| **Fin de la entrevista**                                     | 11:00                                                                               |
+| **Duración**                                                 | 04:60                                                                               |
 | **Enlace de entrevista**                                     | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=sKQKoh)                                                                    |
 | **Resumen de la entrevista**                                 | En la entrevista, Fabio Orna, de 42 años, expresa un fuerte interés en la automatización y el control total en su invernadero de tomates y fresas. Enfrenta retos en la optimización del uso de agua y energía, y considera que el monitoreo en tiempo real es crucial para tomar decisiones sobre sus cultivos. Utiliza herramientas como rociadores automáticos y lámparas especiales, y está dispuesto a invertir en aplicaciones tecnológicas para mejorar su operación. Destaca la importancia de recibir capacitación en tecnologías IoT y valora características como la visualización de datos en tiempo real y la gestión de inventarios en plataformas de gestión de cultivos. |
 
@@ -610,17 +610,18 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 | **Entrevistado 03**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| **Nombre y apellidos**                                       | López (primer nombre no proporcionado)                                               |
+| **Nombre y apellidos**                                       |  Fee López                                               |
 | **Imagen**                                                   | ![Texto alternativo](assets/entrevista/entrevista03.png)                           |
-| **Inicio de la entrevista**                                  | 00:00                                                                               |
-| **Fin de la entrevista**                                     | 08:32                                                                               |
-| **Duración**                                                 | 08:32                                                                               |
+| **Inicio de la entrevista**                                  | 11:00                                                                               |
+| **Fin de la entrevista**                                     | 20:01                                                                               |
+| **Duración**                                                 | 09:01                                                                               |
 | **Enlace de entrevista**                                     | [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=sKQKoh)                                                                    |
 | **Resumen de la entrevista**                                 | En la entrevista, López, de 29 años y con formación en Ingeniería Ambiental, discute su interés en la tecnología aplicada a la agricultura. Menciona que actualmente cultiva tomates, pimientos y pepinos en su invernadero y enfrenta retos en la optimización del uso de agua y energía. Destaca la importancia del monitoreo en tiempo real para mantener las condiciones adecuadas para sus cultivos. Aunque no utiliza actualmente herramientas tecnológicas, está explorando sistemas de riego automático y reconoce que la falta de conocimientos en tecnología es un obstáculo. Está dispuesto a invertir en soluciones tecnológicas si el costo es justo y valora características como el control de riego, la gestión de nutrientes y la regulación del clima en una plataforma de gestión de cultivos. También considera importante recibir capacitación en el uso de tecnologías IoT y está motivado por la necesidad de adaptarse a los avances tecnológicos para mejorar la eficiencia y sostenibilidad de su operación. |
 
 <br><br>
 
 **Segemento02**
+
 
 
 
