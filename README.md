@@ -473,7 +473,7 @@ GreenTools debe tener una interfaz sencilla, intuitiva y responsive, que permita
 #### 1.2.2.4. Lean UX Canvas
 
 <div align=center>
-    <img src="https://i.imgur.com/96Ok3zu.jpeg" alt="Canvas"/>
+    <img src="assets/canvas.jpg" alt="Canvas"/>
 </div>
 
 ## 1.3. Segmentos objetivo
