@@ -952,7 +952,7 @@ API Clients:
 
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
-![Crop Status Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150692697669685/GreenTools-2024-09-07_20-27_1.png?ex=66de4f62&is=66dcfde2&hm=c7fb353f3e617af167dae216d22a39e1c4cdd9ea0cd82bf481e177409eda3687&=&format=webp&quality=lossless&width=947&height=671)
+![Crop Status Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150692420583454/GreenTools-2024-09-07_20-28.png?ex=66de4f62&is=66dcfde2&hm=7b71bf96310cd7066836c673a41fafb42b0b2507b6cb5993d6c21b2ab6c027f8&=&format=webp&quality=lossless&width=947&height=671)
 
 ### 4.2.4. Bounded Context: \<Crop Status>
 
@@ -995,7 +995,7 @@ API Clients:
 
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
 
-![Crop Status Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150692420583454/GreenTools-2024-09-07_20-28.png?ex=66de4f62&is=66dcfde2&hm=7b71bf96310cd7066836c673a41fafb42b0b2507b6cb5993d6c21b2ab6c027f8&=&format=webp&quality=lossless&width=947&height=671)
+![Crop Status Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150692697669685/GreenTools-2024-09-07_20-27_1.png?ex=66de4f62&is=66dcfde2&hm=c7fb353f3e617af167dae216d22a39e1c4cdd9ea0cd82bf481e177409eda3687&=&format=webp&quality=lossless&width=947&height=671)
 
 # Capítulo V: Solution UI/UX Design
 
