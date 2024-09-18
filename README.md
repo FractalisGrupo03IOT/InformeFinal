@@ -1231,9 +1231,67 @@ API Clients:
 # Capítulo V: Solution UI/UX Design
 
 ## 5.1. Style Guidelines
+En esta sección, se definen las directrices de estilo que garantizarán una presentación visual coherente para todo el equipo de desarrollo. Se incluye un repositorio centralizado con assets, fuentes y otros recursos comunes para mantener la consistencia en las aplicaciones web y móvil. Estas guías están divididas en **General Style Guidelines**, **Web Style Guidelines**, y **Mobile Style Guidelines** para asegurar la homogeneidad en toda la plataform que  facilita el reconocimiento instantáneo por parte de nuestros clientes y stakeholders.
+### General Style Guidelines
 
-  ### 5.1.1. General Style Guidelines
-  _Contenido por añadir..._
+En esta sección se describen las decisiones y referencias visuales clave que establecen los fundamentos de la identidad visual de **GreenTools**. Estas directrices abarcan **Branding**, **Typography**, **Colors**, **Spacing**, así como las dimensiones para el **tono de comunicación y lenguaje aplicado**. Estas decisiones visuales se alinean con los principios del diseño de la marca y el sistema visual adoptado.
+
+#### Branding
+El **branding** de GreenTools está centrado en reflejar su misión de sostenibilidad y tecnología avanzada. La identidad de la marca es clara, orientada a la optimización de la agricultura mediante IoT, lo que se refleja en un **logotipo limpio y simple** que simboliza innovación (bombillo) y naturaleza (planta).
+
+- **Valores clave**: Sostenibilidad, Innovación, Eficiencia.
+- **Tono visual**: Natural, Tecnológico, Futurista.
+- **Logotipo**: 
+    ![Logo](https://drive.google.com/uc?export=view&id=15RvMnlCJf7e-WBn3nUwddx3yADLhFJg3)
+  - El logotipo combina un bombillo con una planta en su interior, simbolizando la fusión entre tecnología y agricultura ecológica.
+
+
+#### Typography
+La elección de tipografía sigue una estética moderna y funcional, utilizando fuentes sans-serif como **Roboto**, **Arial** o **Open Sans**, que ofrecen buena legibilidad tanto en interfaces web como móviles. Estas tipografías reflejan claridad y simplicidad, alineándose con la misión de ofrecer una solución tecnológica fácil de usar.
+
+- **Fuente principal**: **Roboto** (o alternativa sans-serif). Puedes descargar la fuente desde [Google Fonts](https://fonts.google.com/specimen/Roboto).
+- **Tamaños de fuente**:
+  - **Títulos**: Tamaños mayores para encabezados, en torno a 24px - 32px.
+  - **Subtítulos**: Tamaños intermedios para subcategorías, 18px - 24px.
+  - **Cuerpo de texto**: Texto general entre 14px - 16px para garantizar una lectura cómoda.
+
+El uso de **espaciado entre letras** y **líneas de texto** debe ser amplio para evitar aglomeración, mejorando así la experiencia del usuario.
+
+##### Colors
+La paleta de colores de GreenTools refleja su compromiso con la sostenibilidad y el enfoque natural-tecnológico. Los colores están pensados para transmitir serenidad, profesionalismo y modernidad.
+
+- **Verde Claro (#A8D5BA, RGB: 168, 213, 186)**: Color de fondo principal. Transmite calma, equilibrio y un enfoque natural.
+  - Muestra de color: ![Verde Claro](https://example.com/verde-claro)
+- **Verde Oscuro (#3A795D, RGB: 58, 121, 93)**: Usado en iconos y acentos. Refleja confianza, estabilidad y conexión con la naturaleza.
+  - Muestra de color: ![Verde Oscuro](https://example.com/verde-oscuro)
+- **Rojo (#D0605E, RGB: 208, 96, 94)**: Reservado para botones de acción (CTAs) y alertas. Su uso está dirigido a captar la atención en puntos importantes o críticos.
+  - Muestra de color: ![Rojo](https://example.com/rojo)
+
+Puedes descargar la paleta de colores completa en formato [ASE](https://example.com/paleta-ase) para usarla en tus herramientas de diseño.
+
+#### Spacing
+El **espaciado** juega un papel clave en el diseño limpio y funcional de GreenTools. Los márgenes y rellenos entre elementos visuales deben garantizar una separación suficiente, permitiendo que cada componente tenga espacio para respirar sin saturar al usuario con demasiada información en pantalla.
+
+- **Márgenes**: Utilizar un margen consistente entre secciones, idealmente de **16px** a **24px** para pantallas grandes, y **8px** a **12px** en móviles.
+- **Padding**: Los botones y elementos interactivos deben tener un relleno interno que garantice que el contenido sea fácil de interactuar, con un mínimo de **16px** de padding.
+
+#### Tono de Comunicación y Lenguaje Aplicado
+El tono de comunicación de GreenTools está cuidadosamente equilibrado entre lo **formal** y lo **entusiasta**, con un enfoque **respetuoso** y **sereno**, adecuado para los usuarios agrícolas que buscan soluciones tecnológicas.
+
+- **Formal/Casual**: El tono debe ser **formal** pero accesible, permitiendo que los usuarios se sientan guiados y apoyados en sus decisiones, sin que el lenguaje sea demasiado técnico o inaccesible.
+- **Entusiasta/Sereno**: Se busca un enfoque más **sereno** que entusiasta, dado que los usuarios necesitan claridad y precisión para tomar decisiones críticas sobre sus cultivos.
+- **Respetuoso/Irreverente**: Siempre **respetuoso** y profesional, reflejando el compromiso de GreenTools con el éxito y la sostenibilidad agrícola.
+
+#### Referencias Visuales
+Para garantizar consistencia en todas las plataformas, se puede tomar como referencia el **[Material Design System](https://material.io/design)** de Google, el cual proporciona una base sólida para la organización de los componentes visuales y la interacción. Las adaptaciones hechas al sistema existente tienen en cuenta las particularidades del sector agrícola y la necesidad de un diseño más sobrio y accesible.
+
+#### Principios de Diseño
+1. **Simplicidad**: La interfaz debe ser clara y fácil de navegar, eliminando distracciones innecesarias.
+2. **Funcionalidad**: Cada decisión de diseño debe estar orientada a facilitar el uso de las herramientas, minimizando la complejidad.
+3. **Coherencia**: Asegurarse de que todas las decisiones de diseño sean consistentes en toda la plataforma, tanto en la versión web como en la móvil.
+4. **Accesibilidad**: Se debe priorizar que los elementos sean accesibles para todos los usuarios, considerando buenas prácticas de diseño inclusivo (como contraste adecuado y tamaños de fuente legibles).
+
+Estas directrices generales ofrecen las bases para crear una experiencia visual y comunicacional que esté alineada con la identidad de GreenTools, reflejando sus valores y objetivos de sostenibilidad y eficiencia.
 
   ### 5.1.2. Web, Mobile and IoT Style Guidelines
   _Contenido por añadir..._
