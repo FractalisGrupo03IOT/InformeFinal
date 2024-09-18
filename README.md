@@ -62,15 +62,7 @@ URL de nuestro repositorio para el Project Report:[https://github.com/FractalisG
 
 ![image](https://media.discordapp.net/attachments/1282304254929010689/1282317904641134652/Captura_de_pantalla_2024-09-08_073253.png?ex=66deeb1c&is=66dd999c&hm=b5bfc3f9ef375659fc3b8656eeb9848f000356ab41477e433e2faf5c636af843&=&format=webp&quality=lossless&width=559&height=671)
 
-
-
-
-
-
-
-
-
-# Contenido
+#Contenido
 
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
@@ -130,7 +122,7 @@ URL de nuestro repositorio para el Project Report:[https://github.com/FractalisG
       - [4.2.1.7.1. Bounded Context Domain Layer Class Diagrams](#42171-bounded-context-domain-layer-class-diagrams)
       - [4.2.1.7.2. Bounded Context Database Design Diagram](#42172-bounded-context-database-design-diagram)
 
- - [Capítulo V: Solution UI/UX Design](#capítulo-v-solution-uiux-design)
+- [Capítulo V: Solution UI/UX Design](#capítulo-v-solution-uiux-design)
   - [5.1. Style Guidelines](#51-style-guidelines)
     - [5.1.1. General Style Guidelines](#511-general-style-guidelines)
     - [5.1.2. Web, Mobile and IoT Style Guidelines](#512-web-mobile-and-iot-style-guidelines)
@@ -165,7 +157,7 @@ URL de nuestro repositorio para el Project Report:[https://github.com/FractalisG
       - [6.2.1.5. Execution Evidence for Sprint Review](#6215-execution-evidence-for-sprint-review)
       - [6.2.1.6. Services Documentation Evidence for Sprint Review](#6216-services-documentation-evidence-for-sprint-review)
       - [6.2.1.7. Software Deployment Evidence for Sprint Review](#6217-software-deployment-evidence-for-sprint-review)
-      - [6.2.1.8. Team Collaboration Insights during Sprint](#6218-team-collaboration-insights-during-sprint)    
+      - [6.2.1.8. Team Collaboration Insights during Sprint](#6218-team-collaboration-insights-during-sprint)
 - [Conclusiones](#42173-conclusiones)
 - [Bibliografía](#42174-conclusiones)
 - [Anexos](#42175-conclusiones)
