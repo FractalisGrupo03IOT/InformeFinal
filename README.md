@@ -897,15 +897,15 @@ El **Product Backlog** contiene todas las **Historias de Usuario** priorizadas y
 
 ---
 
-## **Herramienta Utilizada para el Product Backlog**
+### **Herramienta Utilizada para el Product Backlog**
 
 Se ha utilizado **Trello** para gestionar y mantener el Product Backlog. A continuación, se incluye una captura de pantalla de la configuración actual del Product Backlog en Trello y el enlace público para acceder al mismo.
 
-### **Captura de Pantalla del Product Backlog en Trello**
+#### **Captura de Pantalla del Product Backlog en Trello**
 
 ![Captura de Pantalla de Trello](https://example.com/screenshot.png)
 
-### **Enlace Público al Product Backlog en Trello**
+#### **Enlace Público al Product Backlog en Trello**
 
 [Acceder al Product Backlog en Trello](https://trello.com/b/tu-tablero-de-product-backlog)
 
