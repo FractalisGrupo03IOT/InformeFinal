@@ -318,79 +318,121 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 
 ## 1.2. Solution Profile
 
-- **Nombre del Producto:** <br><br>
+### Antecedentes y Problemática
 
-- GreenTools es una plataforma tecnológica innovadora que transforma la gestión agrícola a través de la integración de dispositivos IoT y tecnologías avanzadas. Disponible tanto en aplicaciones móviles como web, la plataforma permite a los agricultores monitorear y gestionar sus cultivos en tiempo real, optimizando el uso de recursos y mejorando la eficiencia operativa. <br><br>
+**Enunciado del Problema:**
+La agricultura moderna enfrenta desafíos crecientes relacionados con el uso ineficiente de recursos, la falta de datos en tiempo real sobre las condiciones de los cultivos y la dificultad para automatizar procesos clave como el riego y la ventilación. Los pequeños y medianos agricultores, en particular, carecen de acceso a tecnologías avanzadas que optimicen sus operaciones y reduzcan los costos.
 
-- **Descripción del Producto:** <br><br>
+**Puntos Importantes a Resolver:**
+1. **Monitoreo en Tiempo Real**: Los agricultores necesitan tener información actualizada sobre las condiciones de sus cultivos (temperatura, humedad, luz, nutrientes) para tomar decisiones informadas.
+2. **Automatización de Procesos**: Es fundamental reducir el desperdicio de recursos como agua y energía mediante la automatización de procesos agrícolas.
+3. **Acceso a Tecnología**: Hacer accesible la tecnología avanzada sin una inversión inicial considerable para pequeños agricultores.
 
-- Utilizando dispositivos Arduino y sensores avanzados, GreenTools recoge datos precisos sobre las condiciones de los cultivos, incluyendo temperatura, humedad, luz y niveles de nutrientes. Cada dispositivo está registrado con un código de identificación único, facilitando su integración y control dentro del sistema. La plataforma también automatiza procesos críticos, como el riego y la ventilación, contribuyendo a reducir el desperdicio de recursos y a mejorar los rendimientos de los cultivos.<br><br>
-GreenTools está diseñada para ser adaptable a las necesidades específicas de diferentes tipos de agricultores, con planes personalizados para dueños de invernaderos enfocados en monocultivos y propietarios de microcultivos que manejan múltiples tipos de cultivos simultáneamente.<br><br>
+**Objetivos del Proyecto:**
+1. Desarrollar una plataforma que permita el monitoreo y gestión eficiente de cultivos en tiempo real.
+2. Integrar dispositivos IoT para automatizar y optimizar los recursos utilizados en la agricultura.
+3. Ofrecer una solución asequible a agricultores mediante un modelo de suscripción y alquiler de equipos tecnológicos.
 
-- **Monetización:** <br><br>
+**Restricciones del Proyecto:**
+1. La plataforma debe ser fácil de usar tanto en dispositivos móviles como web.
+2. El sistema debe ser escalable para adaptarse a diferentes tamaños de cultivo.
+3. Los dispositivos y sensores deben tener un costo accesible y mantenimiento sencillo.
 
-- GreenTools opera bajo un modelo de negocio dual que combina suscripciones SaaS con el alquiler de equipos IoT, asegurando que todos los agricultores tengan acceso continuo a las herramientas y tecnologías necesarias para optimizar sus operaciones. <br><br>
+### Lean UX Process
 
-- **Plan Monocultivo:** <br><br>
+**Hipótesis del Producto:**
+GreenTools ayudará a los agricultores a optimizar el uso de recursos y a mejorar la eficiencia operativa mediante el monitoreo en tiempo real y la automatización de procesos críticos como el riego.
 
-- Este plan está diseñado para dueños de invernaderos que se especializan en un único tipo de cultivo. Ofrece acceso completo a las funcionalidades avanzadas de GreenTools, incluyendo monitoreo en tiempo real, análisis predictivo, informes detallados y soporte técnico prioritario. Además, este plan incluye el alquiler de dispositivos Arduino y sensores optimizados para el monocultivo, garantizando una alta precisión y eficiencia en la gestión de un solo tipo de cultivo.
- <br><br>
+**Ejecución del Lean UX:**
+1. **Entrevistas a Usuarios**: Se realizaron entrevistas con agricultores para identificar las principales dificultades en la gestión de sus cultivos y la falta de herramientas tecnológicas accesibles.
+2. **Prototipado y Pruebas**: Se desarrolló un prototipo de la plataforma GreenTools y se probó con un grupo piloto de agricultores. El enfoque inicial fue mejorar la interfaz y asegurar la integración fluida de los dispositivos IoT.
+3. **Iteraciones**: Tras las pruebas, se ajustó la funcionalidad de la plataforma, simplificando la visualización de datos y mejorando la precisión de los sensores.
 
-- **Plan Multicultivo:** <br><br>
-
-- Dirigido a dueños de microcultivos y agricultores que cultivan múltiples especies simultáneamente, este plan también ofrece acceso completo a todas las funcionalidades avanzadas de la plataforma. Incluye el alquiler de dispositivos Arduino y sensores diseñados para manejar una variedad de cultivos, proporcionando información específica y detallada para cada tipo de cultivo y facilitando la optimización del uso de recursos en entornos diversos. <br><br>
-
-- Ambos planes incluyen el alquiler de los equipos Arduino con sensores, lo que permite a los agricultores acceder a tecnología avanzada sin una inversión inicial significativa, haciendo que GreenTools sea una solución accesible y flexible. Además, la plataforma ofrece la posibilidad de adquirir productos y servicios adicionales a través de un marketplace interno, diversificando las fuentes de ingresos.<br><br>
-
+GreenTools sigue validando su efectividad en cultivos específicos a través de pruebas en condiciones reales con agricultores de diferentes tamaños y especialidades.
 
 ### 1.2.1. Antecedentes y problemática
 
-- **Who?** <br><br>
+- **Who?**  
+Nuestros usuarios son dueños de invernaderos y microcultivos que buscan optimizar la gestión y monitoreo de sus cultivos. Estos agricultores, a menudo pequeños y medianos, están interesados en mejorar la eficiencia y sostenibilidad de sus operaciones mediante la implementación de tecnología avanzada.
 
-Nuestros usuarios son dueños de invernaderos y microcultivos que buscan optimizar la gestión y monitoreo de sus cultivos. Estos agricultores, a menudo pequeños y medianos, están interesados en mejorar la eficiencia y sostenibilidad de sus operaciones mediante la implementación de tecnología avanzada.<br><br>
+- **What?**  
+El problema que enfrentan nuestros usuarios es la falta de acceso a soluciones tecnológicas accesibles y efectivas que integren sensores IoT con herramientas de gestión agrícola. Esta carencia impide que los agricultores obtengan datos en tiempo real y automatizar procesos críticos, lo que resulta en una gestión ineficiente de los recursos y bajos rendimientos de sus cultivos.
 
-- **What?** <br><br>
+- **When?**  
+El problema descrito se presenta de manera continua, cada vez que los agricultores intentan gestionar sus cultivos sin las herramientas tecnológicas adecuadas. Esto conduce a una pérdida constante de recursos, menores rendimientos y mayores dificultades para mantener prácticas agrícolas sostenibles.
 
-El problema que enfrentan nuestros usuarios es la falta de acceso a soluciones tecnológicas accesibles y efectivas que integren sensores IoT con herramientas de gestión agrícola. Esta carencia impide que los agricultores obtengan datos en tiempo real y automatizar procesos críticos, lo que resulta en una gestión ineficiente de los recursos y bajos rendimientos de sus cultivos.<br><br>
+- **Where?**  
+El problema se encuentra principalmente en las operaciones de pequeños y medianos agricultores, especialmente aquellos que operan invernaderos y microcultivos. Estos productores a menudo no tienen acceso a tecnologías avanzadas que les permitan optimizar sus procesos y competir eficazmente en el mercado.
 
-- **When?** <br><br>
+- **Why?**  
+Nuestros usuarios no logran encontrar en el mercado soluciones tecnológicas que integren de manera efectiva los sensores IoT con la automatización de procesos agrícolas. Las opciones disponibles son a menudo costosas, difíciles de implementar o carecen de la funcionalidad necesaria para mejorar significativamente sus operaciones.
 
-El problema descrito se presenta de manera continua, cada vez que los agricultores intentan gestionar sus cultivos sin las herramientas tecnológicas adecuadas. Esto conduce a una pérdida constante de recursos, menores rendimientos y mayores dificultades para mantener prácticas agrícolas sostenibles.<br><br>
+- **How?**  
+Para nuestros usuarios, resulta muy complicado encontrar una solución que no solo sea tecnológicamente avanzada, sino también accesible y fácil de usar. Esta problemática ha impulsado la creación de GreenTools, una plataforma que conectará sensores y dispositivos IoT en invernaderos y microcultivos, permitiendo a los agricultores monitorear, automatizar y optimizar sus operaciones de manera eficiente desde cualquier lugar.
 
-- **Where?** <br><br>
+- **How much?**  
+La problemática se origina debido a la falta de soluciones accesibles y efectivas en el mercado para la integración de IoT en la agricultura. Esto lleva a que los agricultores desperdicien recursos y obtengan bajos rendimientos, lo que afecta tanto la viabilidad económica de sus operaciones como su capacidad para practicar una agricultura sostenible. GreenTools abordará este vacío proporcionando una plataforma IoT intuitiva que permitirá a los agricultores mejorar significativamente la eficiencia y productividad de sus cultivos.
 
-El problema se encuentra principalmente en las operaciones de pequeños y medianos agricultores, especialmente aquellos que operan invernaderos y microcultivos. Estos productores a menudo no tienen acceso a tecnologías avanzadas que les permitan optimizar sus procesos y competir eficazmente en el mercado. <br><br>
 
-- **Why?** <br><br>
-
-Nuestros usuarios no logran encontrar en el mercado soluciones tecnológicas que integren de manera efectiva los sensores IoT con la automatización de procesos agrícolas. Las opciones disponibles son a menudo costosas, difíciles de implementar o carecen de la funcionalidad necesaria para mejorar significativamente sus operaciones.<br><br>
-
-- **How?** <br><br>
-
-Para nuestros usuarios, resulta muy complicado encontrar una solución que no solo sea tecnológicamente avanzada, sino también accesible y fácil de usar. Esta problemática ha impulsado la creación de GreenTools, una plataforma que conectará sensores y dispositivos IoT en invernaderos y microcultivos, permitiendo a los agricultores monitorear, automatizar y optimizar sus operaciones de manera eficiente desde cualquier lugar.<br><br>
-
-- **How much?** <br><br>
-
-La problemática se origina debido a la falta de soluciones accesibles y efectivas en el mercado para la integración de IoT en la agricultura. Esto lleva a que los agricultores desperdicien recursos y obtengan bajos rendimientos, lo que afecta tanto la viabilidad económica de sus operaciones como su capacidad para practicar una agricultura sostenible. GreenTools abordará este vacío proporcionando una plataforma IoT intuitiva que permitirá a los agricultores mejorar significativamente la eficiencia y productividad de sus cultivos. <br><br>
 
 ### 1.2.2. Lean UX Process
 
-#### 1.2.2.1. Lean UX Problem Statements
+### 1.2.2.1. Lean UX Problem Statements
 
-La gestión agrícola en pequeños y medianos invernaderos y microcultivos enfrenta desafíos considerables debido a la falta de integración tecnológica accesible y adaptable a sus necesidades específicas. A pesar de los avances tecnológicos significativos en la agricultura de precisión, la adopción de estas tecnologías entre los pequeños agricultores sigue siendo limitada. Esto se debe, en gran medida, a la ausencia de soluciones tecnológicas que no solo sean rentables, sino que también ofrezcan una interfaz fácil de usar y se adapten a las condiciones específicas de cada tipo de cultivo y entorno agrícola (Hundal et al., 2023).
+#### 1. Domain
 
+El dominio de GreenTools abarca la gestión agrícola para pequeños y medianos agricultores, específicamente aquellos que operan invernaderos y microcultivos. La solución busca resolver los problemas relacionados con la falta de acceso a herramientas tecnológicas avanzadas, asequibles y fáciles de usar para optimizar sus procesos agrícolas. 
 
-Muchos agricultores intentan optimizar la gestión y monitoreo de sus cultivos con el objetivo de mejorar la eficiencia en el uso de recursos y aumentar la productividad. Sin embargo, se encuentran con barreras sustanciales, como la falta de acceso a herramientas de gestión que integren sensores IoT y sistemas de análisis de datos en tiempo real. Esta carencia no solo impide la optimización de procesos, sino que también resulta en una gestión ineficiente de los recursos, con consecuencias negativas tales como rendimientos bajos, desperdicio de insumos, y, en última instancia, una mayor vulnerabilidad frente a los cambios climáticos y las fluctuaciones del mercado (Dibbern et al., 2024).
+#### 2. Customer Segments
 
+El segmento de clientes incluye:
+- **Dueños de invernaderos**: Agricultores que gestionan cultivos bajo condiciones controladas y requieren herramientas para monitorear y automatizar procesos críticos como el riego y la ventilación.
+- **Microcultivadores**: Agricultores con pequeños lotes de cultivos diversificados, que necesitan soluciones de bajo costo que les permitan optimizar el uso de recursos y mejorar la productividad.
 
-Aunque existen tecnologías avanzadas que podrían abordar estos problemas, estas suelen ser prohibitivamente costosas y excesivamente complejas para los pequeños agricultores. La falta de recursos financieros y la dificultad para adquirir conocimientos técnicos necesarios para operar estas tecnologías agravan el problema, creando una brecha tecnológica significativa entre los grandes productores y los pequeños agricultores. Esta situación no solo limita la capacidad de los agricultores para acceder a datos críticos en tiempo real, sino que también restringe la automatización de procesos fundamentales que podrían mejorar la eficiencia operativa y la sostenibilidad de las operaciones agrícolas (Ahmad et al., 2025).
+#### 3. Pain Points
 
+Los principales puntos de dolor que enfrentan los agricultores incluyen:
+- **Acceso limitado a la tecnología**: Las soluciones tecnológicas actuales son costosas y complicadas de implementar.
+- **Ineficiencia en la gestión de recursos**: Los agricultores no cuentan con herramientas adecuadas para optimizar el uso de agua, luz y otros insumos críticos.
+- **Falta de automatización**: Los procesos manuales incrementan el riesgo de error humano y resultan en desperdicio de recursos.
+- **Falta de datos en tiempo real**: Sin datos actualizados, es difícil tomar decisiones informadas sobre el estado de los cultivos.
 
-En este contexto, surge una necesidad urgente de desarrollar una solución integrada que haga uso de la tecnología IoT de una manera que sea accesible, rentable y fácil de implementar. Esta solución debe permitir a los pequeños y medianos agricultores monitorear y gestionar sus cultivos de manera más eficiente, ofreciendo herramientas que se ajusten a sus capacidades y necesidades específicas. Al ofrecer una plataforma que integre sensores IoT con sistemas de gestión agrícola, se podría facilitar un uso más eficiente de los recursos, aumentar los rendimientos y reducir los desperdicios, todo mientras se promueve una agricultura más sostenible y resiliente (Hundal et al., 2023; Dibbern et al., 2024).
+#### 4. Gap
 
+Existe una brecha entre las necesidades tecnológicas de los pequeños y medianos agricultores y las soluciones tecnológicas disponibles en el mercado. Las soluciones actuales son costosas, complejas y no se adaptan bien a las condiciones específicas de estos agricultores. Esto ha impedido que muchos adopten tecnologías de automatización y monitoreo para mejorar la eficiencia de sus operaciones.
 
-La pregunta clave que nuestra startup busca resolver es: ¿Cómo podemos aplicar nuestro conocimiento tecnológico para ofrecer una plataforma accesible y eficaz que permita a los pequeños y medianos agricultores optimizar la gestión y monitoreo de sus cultivos? Al abordar esta cuestión, nuestra solución pretende cerrar la brecha tecnológica existente y proporcionar a los agricultores las herramientas necesarias para competir en un mercado cada vez más digitalizado.
+#### 5. Visión/Estrategia
 
+La estrategia de GreenTools es cerrar esta brecha tecnológica al proporcionar una plataforma de gestión agrícola accesible, económica y fácil de usar, que integre sensores IoT y sistemas de monitoreo en tiempo real. La visión es democratizar el acceso a la tecnología avanzada en la agricultura, permitiendo a los pequeños y medianos agricultores mejorar su productividad y sostenibilidad. Al implementar GreenTools, los agricultores podrán gestionar mejor sus recursos, automatizar procesos clave y obtener información precisa y en tiempo real para optimizar sus operaciones.
+
+#### 6. Initial Segment
+
+El segmento inicial de usuarios son los pequeños y medianos agricultores, en particular aquellos que gestionan invernaderos y microcultivos. Este grupo ha sido seleccionado debido a su necesidad crítica de soluciones tecnológicas accesibles que puedan mejorar la eficiencia operativa sin requerir grandes inversiones iniciales.
+
+---
+
+### Assumptions
+
+- **Los agricultores pequeños y medianos están dispuestos a adoptar soluciones tecnológicas si son accesibles y fáciles de implementar.**
+- **La automatización de procesos como el riego y la ventilación reducirá significativamente el desperdicio de recursos y aumentará los rendimientos.**
+- **El acceso a datos en tiempo real ayudará a los agricultores a tomar decisiones más informadas y mejorar la eficiencia general de sus operaciones.**
+
+### Hypothesis Statements
+
+1. Si proporcionamos una plataforma de monitoreo en tiempo real y automatización basada en IoT, los agricultores podrán reducir el desperdicio de recursos en al menos un 20%.
+2. Si GreenTools es asequible y fácil de usar, al menos el 50% de los pequeños y medianos agricultores estarán dispuestos a adoptar la solución en el primer año de lanzamiento.
+3. Si los agricultores pueden acceder a datos precisos sobre sus cultivos, podrán mejorar la productividad en un 15% en un plazo de seis meses.
+
+### Lean UX Canvas
+
+| **Aspecto**        | **Descripción**                                                                                                                                      |
+|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Usuarios**       | Dueños de invernaderos y microcultivos que buscan optimizar sus operaciones mediante tecnologías accesibles.                                           |
+| **Problema**       | Falta de acceso a tecnologías asequibles y efectivas para optimizar la gestión agrícola y el uso de recursos.                                          |
+| **Solución**       | Plataforma de monitoreo y automatización basada en IoT, que ofrece herramientas para la gestión eficiente de cultivos en tiempo real.                 |
+| **Beneficios**     | Mejora en la eficiencia operativa, reducción del desperdicio de recursos, aumento de la productividad y sostenibilidad en las operaciones agrícolas.   |
+| **Suposiciones**   | Los agricultores adoptarán tecnologías si son accesibles, fáciles de usar y demuestran un impacto positivo en la eficiencia y productividad.           |
+| **Métricas**       | Reducción del desperdicio de recursos en un 20%, mejora en la productividad en un 15%, tasa de adopción del 50% en el primer año.                     |
 
 #### 1.2.2.2. Lean UX Assumptions
 **Business outcomes:**
