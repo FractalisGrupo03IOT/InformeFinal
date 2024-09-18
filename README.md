@@ -1377,6 +1377,7 @@ En esta sección explicamos y mostramos las decisiones clave sobre los estándar
   
 
 ## 5.2. Information Architecture
+En esta sección, hemos tomado decisiones clave sobre la arquitectura de la información para asegurar que los usuarios puedan navegar de manera intuitiva y sin esfuerzo a través de las experiencias tanto en la web como en las aplicaciones móviles. Nuestro enfoque ha sido diseñar la estructura de manera que los visitantes y usuarios encuentren lo que necesitan rápidamente, facilitando la adopción de las funcionalidades de GreenTools. A continuación, describimos los Organization Systems, Labeling Systems, Navigation Systems, y Searching Systems que guían nuestra arquitectura de la información.
 
   ### 5.2.1. Organization Systems
   _Contenido por añadir..._
