@@ -840,9 +840,13 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 ## 3.3. Impact Mapping
 El Impact Mapping de GreenTools muestra cómo los cultivadores de invernadero y los microcultivadores de precisión pueden lograr los Business Goals de la plataforma mediante cambios de comportamiento específicos, funcionalidades clave y la integración de tecnologías IoT.
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1aoa8aKWnhcx5sy6CKkLCSotOURZwXKAu)
+---
 ![Primera imagen](https://drive.google.com/uc?export=view&id=1Ss4vWunEo6qt3-9Lu_4mFqWtAIIJkxKn)
+---
 ![Segunda imagen](https://drive.google.com/uc?export=view&id=1jCcMtueHfu5nX50f6WfUEAEZB5pbdD4B)
+---
 ![Tercera imagen](https://drive.google.com/uc?export=view&id=1-P7aGhfw3ixaPG4aqA8WMvLPqKfhjPlV)
+
 El Impact Mapping conecta los objetivos del negocio con los cambios de comportamiento deseados en los usuarios, los productos y funcionalidades necesarios para lograr esos cambios, y las historias de usuario que permiten su implementación. Esto asegura que GreenTools provea herramientas eficaces para que los usuarios maximicen la eficiencia en la gestión de sus cultivos a través de la tecnología IoT y la agricultura de precisión.
 
 ## 3.4. Product Backlog
