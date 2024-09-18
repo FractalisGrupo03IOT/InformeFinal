@@ -956,7 +956,7 @@ Como primer paso de este proceso hemos realizado una lluvia de ideas sobre los e
 #### 4.1.1.1. Candidate Context Discovery
 ##### Step 1: Unstructured Exploration
 Comenzamos con la lluvia de ideas de los eventos relaciones con el dominio empresarial que exploramos. Los eventos se formulan en tiempo pasado.
-![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407433528737846/Green_Tols.jpg?ex=66dd3dd8&is=66dbec58&hm=490e815a0472aa1209b5dda819f8c01eab4e19c918f98ef7728708462c33eee6&=&format=webp&width=802&height=1610)
+![Texto alternativo](assets/ASSETS CHAPTER 4/policies.jpg)
 ##### Step 2: Timelines
 Organizamos los eventos en el orden que ocurren dentro del dominio empresarial. Se comienza con un flujo que define un escenario empresarial exitoso, a continuación se evalúan otros escenarios alternativos. 
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407433260564520/Green_Tols_1.jpg?ex=66dd3dd8&is=66dbec58&hm=e682ed582b49aa106216ffa37e5c55b2066af6fc939c5e0a8536ce954a4c9669&=&format=webp&width=2014&height=1610)
