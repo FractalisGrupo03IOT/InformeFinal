@@ -1243,9 +1243,9 @@ El **branding** de GreenTools está centrado en reflejar su misión de sostenibi
 - **Tono visual**: Natural, Tecnológico, Futurista.
 - **Logotipo**: 
 
-  ![Logo](https://drive.google.com/uc?export=view&id=15RvMnlCJf7e-WBn3nUwddx3yADLhFJg3)
+                             ![Logo](https://drive.google.com/uc?export=view&id=15RvMnlCJf7e-WBn3nUwddx3yADLhFJg3)
   
-  - El logotipo combina un bombillo con una planta en su interior, simbolizando la fusión entre tecnología y agricultura ecológica.
+El logotipo combina un bombillo con una planta en su interior, simbolizando la fusión entre tecnología y agricultura ecológica.
 
 #### Typography
 La elección de tipografía sigue una estética moderna y funcional, utilizando fuentes sans-serif como **Roboto**, **Arial** o **Open Sans**, que ofrecen buena legibilidad tanto en interfaces web como móviles. Estas tipografías reflejan claridad y simplicidad, alineándose con la misión de ofrecer una solución tecnológica fácil de usar.
@@ -1283,7 +1283,8 @@ El tono de comunicación de GreenTools está cuidadosamente equilibrado entre lo
 - **Respetuoso/Irreverente**: Siempre **respetuoso** y profesional, reflejando el compromiso de GreenTools con el éxito y la sostenibilidad agrícola.
 
 #### Referencias Visuales
-Para garantizar consistencia en todas las plataformas, se puede tomar como referencia el **[Material Design System](https://material.io/design)** de Google, el cual proporciona una base sólida para la organización de los componentes visuales y la interacción. Las adaptaciones hechas al sistema existente tienen en cuenta las particularidades del sector agrícola y la necesidad de un diseño más sobrio y accesible.
+Para garantizar consistencia en todas las plataformas, utilizaremos de referencia Material design de Google, el cual proporciona una base sólida para la organización de los componentes visuales y la interacción. Las adaptaciones hechas al sistema existente tienen en cuenta las particularidades del sector agrícola y la necesidad de un diseño más sobrio y accesible.
+- Link :**[Material Design System](https://material.io/design)**
 
 #### Principios de Diseño
 1. **Simplicidad**: La interfaz debe ser clara y fácil de navegar, eliminando distracciones innecesarias.
