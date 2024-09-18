@@ -840,6 +840,7 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 ## 3.3. Impact Mapping
 ![image](https://drive.google.com/file/d/1aoa8aKWnhcx5sy6CKkLCSotOURZwXKAu/view?usp=drive_link)
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1aoa8aKWnhcx5sy6CKkLCSotOURZwXKAu)
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1aoa8aKWnhcx5sy6CKkLCSotOURZwXKAu)
 
 
 ## 3.4. Product Backlog
