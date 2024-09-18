@@ -1294,8 +1294,87 @@ Para garantizar consistencia en todas las plataformas, utilizaremos de referenci
 
 Estas directrices generales ofrecen las bases para crear una experiencia visual y comunicacional que esté alineada con la identidad de GreenTools, reflejando sus valores y objetivos de sostenibilidad y eficiencia.
 
+
   ### 5.1.2. Web, Mobile and IoT Style Guidelines
-  _Contenido por añadir..._
+En esta sección explicamos y mostramos las decisiones clave sobre los estándares visuales y de interacción para las interfaces web responsivas, aplicaciones móviles e interfaces de usuario para IoT. Nuestra prioridad es asegurar una experiencia de usuario consistente, accesible y optimizada para todas las plataformas, manteniendo la coherencia con la identidad visual y los objetivos de GreenTools.
+
+#### 1. Responsive Web Interfaces
+
+##### Diseño Visual
+- **Grid Layout**: Hemos adoptado un diseño basado en un **grid fluido**, siguiendo un enfoque **mobile-first**. Para pantallas de escritorio utilizamos una cuadrícula de **12 columnas** que se reduce a **8 columnas** en tablets y a **4 columnas** en dispositivos móviles. Esto nos permite ofrecer una disposición visual clara y bien estructurada en cualquier tamaño de pantalla.
+  
+- **Breakpoints**:
+  - **Pantallas grandes (≥ 1200px)**: Utilizamos un layout de 12 columnas con márgenes laterales de **16px**.
+  - **Pantallas medianas (768px - 1199px)**: Ajustamos el diseño a 8 columnas.
+  - **Pantallas pequeñas (≤ 767px)**: Optamos por un layout de 4 columnas, centrando los elementos para mejorar la experiencia de usuario en dispositivos táctiles.
+
+- **Tipografía**: Para mantener la coherencia visual, aplicamos los tamaños de texto recomendados:
+  - **H1 (32px)** para títulos principales.
+  - **H2 (24px)** para subtítulos.
+  - **Texto base (16px)** para los párrafos y el cuerpo de contenido.
+
+- **Paleta de colores**: Utilizamos nuestra paleta de **verdes** y **blancos** como base para transmitir confianza y serenidad, mientras que el **rojo** se reserva para alertas y botones de acción crítica.
+
+- **Accesibilidad**: Nos aseguramos de cumplir con las pautas **WCAG 2.0**, manteniendo un contraste mínimo de **4.5:1** entre el texto y el fondo. Además, todos los elementos interactivos tienen un área de clic de al menos **44x44px** para facilitar su uso.
+
+##### Interacción
+- **Navegación**:
+  - En dispositivos móviles, utilizamos un **menú hamburguesa** que se expande al tocarlo, mientras que en pantallas grandes implementamos una **barra de navegación horizontal fija** en la parte superior de la página.
+  
+- **Botones y CTA**:
+  - Nuestros botones son claramente distinguibles, con diferentes estados visuales: **hover**, **activo** y **deshabilitado**. Esto garantiza que los usuarios reciban retroalimentación inmediata.
+  - Los **botones principales** utilizan el **verde oscuro** para destacar sobre el fondo y guiar al usuario en acciones importantes.
+
+- **Formularios**:
+  - Los formularios están diseñados con **campos grandes y espaciados**, con alineación vertical en móviles para minimizar errores de toque. También optimizamos el flujo de interacción con validaciones instantáneas y mensajes de error claros.
+
+#### 2. Mobile Application Interfaces
+
+##### Diseño Visual
+- **Grid Adaptativo**: En nuestras aplicaciones móviles, seguimos un diseño basado en un grid de **4 columnas**, lo que nos permite crear interfaces táctiles fáciles de usar en pantallas más pequeñas.
+
+- **Tipografía**:
+  - Ajustamos los tamaños de texto para pantallas móviles: **H1 (24px)** para títulos, **H2 (18px)** para subtítulos y **texto base (14px)** para párrafos. Esto mejora la legibilidad en dispositivos de menor tamaño.
+
+- **Paleta de colores**:
+  - Utilizamos la misma paleta que en la versión web, pero adaptada para pantallas OLED. Los tonos de **verde oscuro** ayudan a reducir el brillo y mejorar la duración de la batería, sin comprometer la estética.
+
+- **Accesibilidad**:
+  - Implementamos botones y elementos interactivos con un área mínima de **44px** de altura para asegurar una fácil interacción táctil.
+  - Nos aseguramos de ofrecer un contraste adecuado en todas las pantallas, y nuestras interfaces están diseñadas para ser compatibles con **lectores de pantalla** y gestos.
+
+##### Interacción
+- **Navegación**:
+  - En la aplicación móvil, la navegación se centra en una **barra fija en la parte inferior**, accesible con el pulgar. Los iconos son claros y están alineados con las funcionalidades principales.
+  - Las opciones secundarias están disponibles a través de un **menú hamburguesa** o mediante gestos de deslizamiento.
+
+- **Botones**:
+  - Los **botones de acción rápida** se encuentran en la parte inferior de la pantalla, asegurando que sean fácilmente accesibles. Además, todas las interacciones son rápidas y tienen animaciones suaves para proporcionar una experiencia fluida.
+
+- **Notificaciones**:
+  - Las alertas críticas se destacan mediante notificaciones emergentes acompañadas de una **vibración sutil** que no interrumpe la experiencia del usuario pero capta su atención de inmediato.
+
+#### 3. IoT Application User Interfaces
+
+##### Diseño Visual
+- **Dashboard de monitoreo**: En nuestras aplicaciones IoT, nos enfocamos en ofrecer un **dashboard visual y funcional**, con gráficos de fácil lectura que muestran datos en tiempo real. Para esto, utilizamos **gráficos de líneas, barras y diales**, adecuados para monitorizar variables como temperatura, humedad, y otros factores relevantes para el cultivo.
+
+- **Colores**:
+  - Usamos el **verde** para indicar que las condiciones están dentro del rango óptimo.
+  - El **rojo** se reserva para alertas que indiquen condiciones fuera de los límites permitidos.
+  - El **gris** se emplea para datos en espera o estados desactivados.
+
+##### Interacción
+- **Control remoto**:
+  - Los usuarios pueden activar o desactivar dispositivos (como sistemas de riego) mediante un botón grande y visible. Nos aseguramos de que las acciones sean inmediatas y proporcionamos retroalimentación visual que confirme que el comando fue recibido y ejecutado.
+
+- **Alertas**:
+  - Las alertas críticas se muestran de manera prominente, utilizando **colores brillantes** y notificaciones emergentes para asegurar que el usuario tome acción rápidamente.
+
+- **Gráficos y Visualización**:
+  - Los gráficos son **interactivos** y permiten a los usuarios realizar acercamientos (zoom) para inspeccionar datos históricos. Estos gráficos se actualizan en **tiempo real**, y los usuarios pueden ajustar los intervalos de actualización según sus preferencias (cada minuto, cada 5 minutos, etc.).
+
+  
 
 ## 5.2. Information Architecture
 
