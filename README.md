@@ -1228,6 +1228,115 @@ API Clients:
 
 ![Crop Status Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150692697669685/GreenTools-2024-09-07_20-27_1.png?ex=66de4f62&is=66dcfde2&hm=c7fb353f3e617af167dae216d22a39e1c4cdd9ea0cd82bf481e177409eda3687&=&format=webp&quality=lossless&width=947&height=671)
 
+# Capítulo V: Solution UI/UX Design
+
+## 5.1. Style Guidelines
+
+  ### 5.1.1. General Style Guidelines
+  _Contenido por añadir..._
+
+  ### 5.1.2. Web, Mobile and IoT Style Guidelines
+  _Contenido por añadir..._
+
+## 5.2. Information Architecture
+
+  ### 5.2.1. Organization Systems
+  _Contenido por añadir..._
+
+  ### 5.2.2. Labeling Systems
+  _Contenido por añadir..._
+
+  ### 5.2.3. SEO Tags and Meta Tags
+  _Contenido por añadir..._
+
+  ### 5.2.4. Searching Systems
+  _Contenido por añadir..._
+
+  ### 5.2.5. Navigation Systems
+  _Contenido por añadir..._
+
+## 5.3. Landing Page UI Design
+
+  ### 5.3.1. Landing Page Wireframe
+  _Contenido por añadir..._
+
+  ### 5.3.2. Landing Page Mock-up
+  _Contenido por añadir..._
+
+## 5.4. Applications UX/UI Design
+
+  ### 5.4.1. Applications Wireframes
+  _Contenido por añadir..._
+
+  ### 5.4.2. Applications Wireflow Diagrams
+  _Contenido por añadir..._
+
+  ### 5.4.3. Applications Mock-ups
+  _Contenido por añadir..._
+
+  ### 5.4.4. Applications User Flow Diagrams
+  _Contenido por añadir..._
+
+## 5.5. Applications Prototyping
+_Contenido por añadir..._
+
+# Capítulo VI: Product Implementation, Validation & Deployment
+
+## 6.1. Software Configuration Management
+
+  ### 6.1.1. Software Development Environment Configuration
+  _Contenido por añadir..._
+  
+  ### 6.1.2. Source Code Management
+  _Contenido por añadir..._
+  
+  ### 6.1.3. Source Code Style Guide & Conventions
+  _Contenido por añadir..._
+  
+  ### 6.1.4. Software Deployment Configuration
+  _Contenido por añadir..._
+
+## 6.2. Landing Page, Services & Applications Implementation
+
+  ### 6.2.1. Sprint 1
+
+    #### 6.2.1.1. Sprint Planning n
+    _Contenido por añadir..._
+    
+    #### 6.2.1.2. Sprint Backlog n
+    _Contenido por añadir..._
+    
+    #### 6.2.1.3. Development Evidence for Sprint Review
+    _Contenido por añadir..._
+    
+    #### 6.2.1.4. Testing Suite Evidence for Sprint Review
+    _Contenido por añadir..._
+    
+    #### 6.2.1.5. Execution Evidence for Sprint Review
+    _Contenido por añadir..._
+    
+    #### 6.2.1.6. Services Documentation Evidence for Sprint Review
+    _Contenido por añadir..._
+    
+    #### 6.2.1.7. Software Deployment Evidence for Sprint Review
+    _Contenido por añadir..._
+    
+    #### 6.2.1.8. Team Collaboration Insights during Sprint
+    _Contenido por añadir..._
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Conclusiones
 La implementación de user personas fue fundamental durante la fase de arquitectura de nuestro proyecto IoT. Al enfocar el diseño en dueños de invernaderos y microcultivos, pudimos estructurar la arquitectura de forma que cada uno de los bounded contexts —IoT system, inventario, reporte y cuenta— reflejara sus necesidades. Esto nos permitió visualizar cómo la plataforma atendería de manera eficiente la gestión de sensores, cultivos, análisis de datos y administración de usuarios, asegurando que la solución esté alineada con las expectativas y flujos de trabajo reales de los usuarios.
 
