@@ -1242,8 +1242,9 @@ El **branding** de GreenTools está centrado en reflejar su misión de sostenibi
 - **Valores clave**: Sostenibilidad, Innovación, Eficiencia.
 - **Tono visual**: Natural, Tecnológico, Futurista.
 - **Logotipo**: 
-  - ![Logo](https://drive.google.com/uc?export=view&id=15RvMnlCJf7e-WBn3nUwddx3yADLhFJg3)
 
+  ![Logo](https://drive.google.com/uc?export=view&id=15RvMnlCJf7e-WBn3nUwddx3yADLhFJg3)
+  
   - El logotipo combina un bombillo con una planta en su interior, simbolizando la fusión entre tecnología y agricultura ecológica.
 
 #### Typography
@@ -1255,6 +1256,7 @@ La elección de tipografía sigue una estética moderna y funcional, utilizando 
   - **Subtítulos**: Tamaños intermedios para subcategorías, 18px - 24px.
   - **Cuerpo de texto**: Texto general entre 14px - 16px para garantizar una lectura cómoda.
   - Link de la fuente : [Google Fonts](https://fonts.google.com/specimen/Roboto).
+
 El uso de **espaciado entre letras** y **líneas de texto** debe ser amplio para evitar aglomeración, mejorando así la experiencia del usuario.
 
 ##### Colors
@@ -1266,8 +1268,6 @@ La paleta de colores de GreenTools refleja su compromiso con la sostenibilidad y
   - Muestra de color: ![Verde Oscuro](https://example.com/verde-oscuro)
 - **Rojo (#D0605E, RGB: 208, 96, 94)**: Reservado para botones de acción (CTAs) y alertas. Su uso está dirigido a captar la atención en puntos importantes o críticos.
   - Muestra de color: ![Rojo](https://example.com/rojo)
-
-Puedes descargar la paleta de colores completa en formato [ASE](https://example.com/paleta-ase) para usarla en tus herramientas de diseño.
 
 #### Spacing
 El **espaciado** juega un papel clave en el diseño limpio y funcional de GreenTools. Los márgenes y rellenos entre elementos visuales deben garantizar una separación suficiente, permitiendo que cada componente tenga espacio para respirar sin saturar al usuario con demasiada información en pantalla.
