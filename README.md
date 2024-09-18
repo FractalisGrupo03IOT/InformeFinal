@@ -1032,19 +1032,19 @@ En esta sección se describen los contactos y relaciones entre los contextos del
 Para desarrollar la arquitectura de nuestro software hemos usado el modelo C4, el cuál descompone la estructura del sistema en contenedores y componentes. Hemos usado la herramienta Visual Paradigm para generar nuestros diagramas de arquitectura. En esta sección se aboradrán los diagramas en los niveles de contexto, contenedores y despliegue.
 #### 4.1.3.1. Software Architecture System Landscape Diagram
 Este diagrama permite ver nuestro sistema funcionando en el mundo real, abarcando más alla de sistemas externos y usuarios de nuestro dominio. Nuestro sistema aparte de ser usados por los dueños de los invernaderos, será usado por las personas encargadas de dar mantenimiento a los cultivos.
-![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280938931776651388/Green_Tools-Landscape.png?ex=66dd3298&is=66dbe118&hm=15994e1d32299191c71bc4f5f105d539ee0f49456573b9fcf51940e5158aa039&=&format=webp&quality=lossless&width=1428&height=1208)
+![Texto alternativo](/assets/chapter4/GreenToolsLandscape.png)
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
 Este diagram nos permite ver nuestros sistema de manera más general, el cual se representa como una caja en el centro y rodeado por los usuarios y sistema externos con los que interactua. Para nuestro dominio existen dos tipos de usuarios, los dueños de microcultivos e invernaderos.
-![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280938932044959745/Green_Tools-Context.png?ex=66dd3298&is=66dbe118&hm=930576b10800f2235126febb777546b662773c1153ab35c36b0aa324b1003630&=&format=webp&quality=lossless&width=1088&height=650)
+![Texto alternativo](/assets/chapter4/GreenToolsContext.png)
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams.
 Los contenedores son los servidores o productos de software que conforman nuestro sistema, es en esencia una unidad desplegable o ejecutable que compila código o almacena datos. Nuestos sistema usa una Aplicación Web para entregar el contenido estático y dinámico como el Landing Page y Single Page App. El Single Page App es el que provee de todas las funcionalidades para monitorear el cultivo, la aplicación móvil provee las mimas funcionalidades pero para dispositivos móvil. Nuestra API almacena los reportes de los cultivos, estos reportes se generan con los datos que envía el Edge Computing Server, el cuál recolecta y resume la información enviada por los sensores a través del Embedded App. Este último es el software que corre en el microcontrolador ESP32 para el funcionamiento de los sensores y actuadores.
-![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1282166668872908821/Green_Tools-Containers_1.png?ex=66de5e43&is=66dd0cc3&hm=ee475c4fb134b62a57dc8b381d6329ac534451fbbe90a41689217e5003bcb06b&=&format=webp&quality=lossless&width=854&height=671)
+![Texto alternativo](/assets/chapter4/GreenToolsContainers.png)
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams
 Este último diagrama muestra las plataformas y herramientas de despliegue para cada uno de nuestros contenedores. El single Page App funciona en el navegador del usuario, la aplicación móvil en el smarthpone del usuario y el Embedded App en el microcontrolador ESP32. Los otros contenedores si necesitan ser desplegados en servidores Apache Tomcat y Azure DB para las bases de datos.
-![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1282166668553879654/Green_Tools-Deployment_1.png?ex=66de5e43&is=66dd0cc3&hm=ab4f1b5ae5b06cbcc6771af5de75291bef0d90461b7b7f33e6acee0aa933e7bf&=&format=webp&quality=lossless&width=876&height=671)
+![Texto alternativo](/assets/chapter4/GreenToolsDeployment.png)
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
