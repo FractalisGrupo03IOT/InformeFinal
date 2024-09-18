@@ -838,7 +838,7 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 | EP6/US9             | Configuración de monitoreo de tráfico en el backend   | Como **developer**, quiero monitorear el tráfico de datos en el backend distribuido para asegurar la estabilidad y eficiencia del sistema.                                                                                       | 1. **Dado** que el backend distribuido está activo, **Cuando** un administrador revisa las métricas de tráfico, **Entonces** el sistema muestra la cantidad de solicitudes y la distribución de la carga entre los servidores.<br>2. **Dado** que el tráfico supera un umbral predefinido, **Cuando** se produce un pico de solicitudes, **Entonces** el sistema genera una alerta automática para que el administrador tome acción.                                                                              | EP6                           |
 
 ## 3.3. Impact Mapping
-![image](https://github.com/user-attachments/assets/13ac363f-26bf-4bb7-8f05-6116676e091c)
+![image](https://drive.google.com/file/d/1aoa8aKWnhcx5sy6CKkLCSotOURZwXKAu/view?usp=drive_link)
 
 
 ## 3.4. Product Backlog
