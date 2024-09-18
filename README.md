@@ -921,61 +921,100 @@ Se ha utilizado **Trello** para gestionar y mantener el Product Backlog. A conti
 # Capítulo IV: Solution Software Design
 
 ## 4.1. Strategic-Level Domain-Driven Design
-
+El proceso que hemos seguido abarca el uso de herramientas de EventStorming, Candidate Context Discovery, Domain Message Flows Modeling, Bounded Context Canvases y Context Mapping para definir los contextos delimitados de nuestra solución, los eventos que desencadenan el uso de un contexto, el flujo que ocurre para que se cumpla un escenario y las relaciones entre los contextos delimitados. Así mismo hemos aplicado el resultado de este proceso para el diseño de nuestra arquitectura de software usando C4.
 ### 4.1.1. EventStorming
-
+Como primer paso de este proceso hemos realizado una lluvia de ideas sobre los eventos que ocurren en nuestro sistema.
 #### 4.1.1.1. Candidate Context Discovery
 ##### Step 1: Unstructured Exploration
+Comenzamos con la lluvia de ideas de los eventos relaciones con el dominio empresarial que exploramos. Los eventos se formulan en tiempo pasado.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407433528737846/Green_Tols.jpg?ex=66dd3dd8&is=66dbec58&hm=490e815a0472aa1209b5dda819f8c01eab4e19c918f98ef7728708462c33eee6&=&format=webp&width=802&height=1610)
 ##### Step 2: Timelines
+Organizamos los eventos en el orden que ocurren dentro del dominio empresarial. Se comienza con un flujo que define un escenario empresarial exitoso, a continuación se evalúan otros escenarios alternativos. 
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407433260564520/Green_Tols_1.jpg?ex=66dd3dd8&is=66dbec58&hm=e682ed582b49aa106216ffa37e5c55b2066af6fc939c5e0a8536ce954a4c9669&=&format=webp&width=2014&height=1610)
 ##### Step 3: Paint Points
+Identificamos los puntos en el proceso que requieren atención. Pueden ser cuellos de botella, pasos que requieren autorización o dudas sobre el evento.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407433017036830/Green_Tols_2.jpg?ex=66dd3dd8&is=66dbec58&hm=9e17ce2fdef2a1c54e3fdb47472a58dff905c2c8eee93b6023ff4fe33701752e&=&format=webp&width=2070&height=1610)
 ##### Step 4: Pivotal Points
+Buscamos eventos comerciales importantes que indiquen un cambio en el contexto o fase. A estos se denominan eventos fundamentales y se les marca con una barra vertical que divida los eventos antes y después del fundamental.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407432702459946/Green_Tols_3.jpg?ex=66dd3dd8&is=66dbec58&hm=034f7e93a2b7c58021265a1fb469b19c967ccf435835a647e107ad32f09bb765&=&format=webp&width=1768&height=1610)
 ##### Step 5: Commands
+Un comando describe qué desencadena  un evento o un flujo de eventos. Describen operaciones del sistema y se formula en imperativo.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280409740698062858/Green_Tols_18.jpg?ex=66dd3fff&is=66dbee7f&hm=6383f0a6519feacadef7d6916e99a8ecdf7d2713d6b585997e383ba299e9b466&=&format=webp&width=2154&height=1344)
 ##### Step 6: Policies
+Normalmente los comandos no tienen un actor asociados con ellos. Para esto, se buscan políticas de automatización que ejecuten estos comandos. Estos son escenarios en el que un evento desencadena la ejecución de un comando.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407435223236618/Green_Tols_4.jpg?ex=66dd3dd9&is=66dbec59&hm=e5814907475a52c907b222a306d55025543d1e5bbb5716aaf697ffd221596ad8&=&format=webp&width=2154&height=1384)
 ##### Step 7: Read Models
+Un modelo de lectura es la vista que el actor usa para ejecutar un comando. 
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407434778902639/Green_Tols_5.jpg?ex=66dd3dd9&is=66dbec59&hm=544be4151f5db810364cf5d3fb87266b341fcb69c811de6f1377a69b026982cc&=&format=webp&width=2154&height=1318)
 ##### Step 8: External Systems
 No hay sistemas externos
 ##### Step 9: Aggregates
+Cuando todos los eventos y comandos se relizaron, se organizan conceptos relacionados en un agregado, este recibe comandos y produce eventos.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280411167126196297/Green_Tols_19.jpg?ex=66dd4153&is=66dbefd3&hm=b91ce8c89c4af641dc4bab6103b4ce6f565230500bff4aa532ed3aac8ca334e5&=&format=webp&width=2154&height=1344)
 ##### Step 10: Bounded Contexts
+Finalmente se buscan agregados que esten relacionados entre sí, ya sea por funcionalidades dependientes o porque están acoplados por las políticas. Estos grupos de agregados forman los limites de contextos delimitados.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407434518597652/Green_Tols_6.jpg?ex=66dd3dd9&is=66dbec59&hm=b4d4dcb685406e0aa7cbb34ee418d9e9a0241dc18d67d97f418be017c3f3763e&=&format=webp&width=2154&height=1296)
 
 #### 4.1.1.2. Domain Message Flows Modeling
+En esta sección se evidencia el proceso para visualizar la colaboración entre bounded context para resolver los casos que se presentan dentro de nuestro sistema. Hemos usado la técnica de visualización Domain Storytelling.
+
+##### Caso 1: Un cliente cambia su tipo de membresía
+El dueño del cultivo genera un evento para cambiar su membresía. Este evento pasa al bounded context "Cuenta" donde se asigna el nuevo tipo de membresía escogido por el dueño del cultivo.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407493847154719/Green_Tols_12.jpg?ex=66dd3de7&is=66dbec67&hm=f01bcc0041e91047298e627305be686963f17568f8c4cc1fa0612ac5d537b6de&=&format=webp&width=2154&height=1202)
+##### Caso 2: Un usuario crea una cuenta
+El dueño del cultivo genera un evento para registrarse en el sistema. Este evento pasa al bounded context "Cuenta" donde se registra los datos del dueño del cultivo y su tipo de membresía.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407494287687774/Green_Tols_11.jpg?ex=66dd3de7&is=66dbec67&hm=4bb2b1b81f3c4fbc3a86902f425a29149be32961557043185bedb3f1bb579449&=&format=webp&width=2154&height=1198)
+##### Caso 3: El usuario aumenta un nuevo cultivo
+El dueño del cultivo usa un comando para añadir un cultivo en su inventario. Este pasa al bounded context "Inventario de cultivo" donde se asignan los sensores correspondientes y se actualiza el inventario de usuario.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407494690345094/Green_Tols_10.jpg?ex=66dd3de7&is=66dbec67&hm=a96ae7b4242b9c9bab169c20a33fb9e8352438fa7a53b0591b128283970b7824&=&format=webp&width=2154&height=1200)
+##### Caso 4: El usuario solicita el estado actual de su cultivo
+El dueño del cultivo genera query, el cual pasa al bounded context "Estado del cultivo", se genera un comando para obtener los datos de su cultivo y se devuelven al usuario.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407495176622122/Green_Tols_9.jpg?ex=66dd3de7&is=66dbec67&hm=4ba1c916a017431e83a37edbe54ea331ee22524a9dcc2c7dfa4d4fb0e4c0033b&=&format=webp&width=2154&height=1186)
+##### Caso 5: El cliente solicita el reporte de su cultivo
+El dueño del cultivo genera query para obtener un reporte de su cultivo, el cual pasa al bounded context "Estado del cultivo", se genera un comando para generar un reporte y enviarselo al usuario.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407495499710547/Green_Tols_8.jpg?ex=66dd3de7&is=66dbec67&hm=8ba42519a8997dbff171e44fe5b82712aaf39df130d78cbb8d6cb096ccacdd5f&=&format=webp&width=2154&height=1204)
+##### Caso 6: Los sensores recolectan información
+Los sensores generan eventos periodicamente para recolectar información y enviarlos al bounded context "Solución IoT", el cual luego de procesar y resumir los datos, los envía a "Estado de cultivo", donde se almacena la información de los cultivos para estar disponible para los usuarios.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407495843516416/Green_Tols_7.jpg?ex=66dd3de7&is=66dbec67&hm=41fd712de0f93dbfe112e45b1619a09c868e1d9690fb22ba7905081854ff7860&=&format=webp&width=2154&height=1222)
 
 #### 4.1.1.3. Bounded Context Canvases
+##### Bounded context: Inventario del cultivo
+Este contexto permite administrar los cultivos de los usuarios a través de un inventario. Brinda soporte, genera compromiso con el usuario y es una característica genérica. El comando "Añadir cultivo" genera un cambio de contexto entrante. Inventario se refiere a la colección de cultivos por usuario. Una política importante a resaltar es que, si el cliente tiene una membresía monocultivo, su inventario solo puede adiministrar un cultivo. Los eventos salientes están relacionados al registro y actualización del inventario.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407496107888672/Green_Tols_16.jpg?ex=66dd3de7&is=66dbec67&hm=4087c1b2aa1c53d978130fbe3ce47a1f60391dcab6c1c2fd64e17eb4f182ac50&=&format=webp&width=2154&height=1264)
+
+##### Bounded context: Cuenta
+Este contexto permite manejar la información de los usuarios y los tipos de cultivos que tendrán a través de sus membresías. Los comandos relacionados al registro, inicio de sesión y cambio de membresía generan el cambio de contexto entrante. Un usuario es un cliente con uno o más cultivos y la membresía es el plan de suscripción del usuario. No se puede cambiar de membresía a una ya existente, tiene que ser nueva o de otro tipo. Los eventos salientes están relacionados al registro exitoso y el nuevo tipo de membresía escogida.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407493406625823/Green_Tols_13.jpg?ex=66dd3de7&is=66dbec67&hm=4999dd9b5b210f8e422f9ed5a87f7c114dfeb874c83d7f2a69ef34c564864765&=&format=webp&width=2154&height=1242)
+
+##### Bounded context: Estado del cultivo
+Este contexto realiza un análisis del estado de los cultivos a través de la información recolectada por los sensores. Las características de este contexto brindan soporte al usuario, generan compromiso y es un producto ya usado en el mercado, pero personalizado para nuestro sistema. Los comandos para generar reportes y ver el estado actual del cultivo son entrantes a este contexto. El reporte es el análisis de todos los datos recolectados de un cultivo, mientras que el estado actual son los datos recientes de un cultivo. Los eventos salientes se relacionan a los reportes generados y solicitudes para la recolección de datos.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407496489439332/Green_Tols_15.jpg?ex=66dd3de7&is=66dbec67&hm=01ec1e56d1201ca09311d6ab71e95147e65806b2e9b4de548e3f86aa92becede&=&format=webp&width=2154&height=1246)
+
+##### Bounded context: Sistema IoT
+Este contexto nos brinda datos como temeperatura, pH y humedad del suelo a través de los sensores. Este context es el centro del dominio, es lo que nos permite generar ganancias y se personaliza para cada cliente. Los eventos relacionados a la recolección de datos y evaluación del uso del actuador son los que permiten entrar a este contexto. Actuador de refiere al sistema de riego del cultivo, el cuál se activará si la humedad del suelo no es óptima. Los eventos salientes son los que generen el reporte del cultivo, los cuales son eventos de entrada para el bounded context "Estado de cultivo".
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407496875315232/Green_Tols_14.jpg?ex=66dd3de8&is=66dbec68&hm=fd4ebdd935a15f39e047358ddbcafa0302c23a138a47a47b6ed181e6bdc2febd&=&format=webp&width=2154&height=1242)
 
 ### 4.1.2. Context Mapping
 
+En esta sección se describen los contactos y relaciones entre los contextos delimitados con sus patrones correspondientes. La relación entre "Estado de cultivo" y "Solución IoT" es de tipo Upstream Dowstream, ya que los cambios en la recolección de datos de los sensores tienen un impacto en la forma en la que se generan los reportes de los cultivos de los usuarios, sin embargo cualquier cambio o falla de "Estao de cultivo" no tiene un impacto en la recolección de datos IoT. Los sensores y actuadores siguen funcionando sin problema. Por otro lado, "Estado de cultivo" y "Cuenta" tienen una relación Partnership ya que un error en cualquiera de los dos, termina afectando a ambos contextos. Si la cuenta falla, el usuario no puede ver los reportes de su cultivo, y si los reportes fallan, aunque pueda iniciar sesión, no sirve de nada ya que no tiene acceso a las funcionalidades del sistema. El mismo tipo de relación ocurre entre "Cuenta" e "Inventario de cultivo".
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280407512658612314/Green_Tols_17.jpg?ex=66dd3deb&is=66dbec6b&hm=c7f7894771cd4d7dc3c54aaeb3478a5de65d301a0a6570f002e94a1d5b7e80cd&=&format=webp&width=798&height=700)
 
 ### 4.1.3. Software Architecture
-
+Para desarrollar la arquitectura de nuestro software hemos usado el modelo C4, el cuál descompone la estructura del sistema en contenedores y componentes. Hemos usado la herramienta Visual Paradigm para generar nuestros diagramas de arquitectura. En esta sección se aboradrán los diagramas en los niveles de contexto, contenedores y despliegue.
 #### 4.1.3.1. Software Architecture System Landscape Diagram
+Este diagrama permite ver nuestro sistema funcionando en el mundo real, abarcando más alla de sistemas externos y usuarios de nuestro dominio. Nuestro sistema aparte de ser usados por los dueños de los invernaderos, será usado por las personas encargadas de dar mantenimiento a los cultivos.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280938931776651388/Green_Tools-Landscape.png?ex=66dd3298&is=66dbe118&hm=15994e1d32299191c71bc4f5f105d539ee0f49456573b9fcf51940e5158aa039&=&format=webp&quality=lossless&width=1428&height=1208)
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
+Este diagram nos permite ver nuestros sistema de manera más general, el cual se representa como una caja en el centro y rodeado por los usuarios y sistema externos con los que interactua. Para nuestro dominio existen dos tipos de usuarios, los dueños de microcultivos e invernaderos.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1280938932044959745/Green_Tools-Context.png?ex=66dd3298&is=66dbe118&hm=930576b10800f2235126febb777546b662773c1153ab35c36b0aa324b1003630&=&format=webp&quality=lossless&width=1088&height=650)
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams.
+Los contenedores son los servidores o productos de software que conforman nuestro sistema, es en esencia una unidad desplegable o ejecutable que compila código o almacena datos. Nuestos sistema usa una Aplicación Web para entregar el contenido estático y dinámico como el Landing Page y Single Page App. El Single Page App es el que provee de todas las funcionalidades para monitorear el cultivo, la aplicación móvil provee las mimas funcionalidades pero para dispositivos móvil. Nuestra API almacena los reportes de los cultivos, estos reportes se generan con los datos que envía el Edge Computing Server, el cuál recolecta y resume la información enviada por los sensores a través del Embedded App. Este último es el software que corre en el microcontrolador ESP32 para el funcionamiento de los sensores y actuadores.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1282166668872908821/Green_Tools-Containers_1.png?ex=66de5e43&is=66dd0cc3&hm=ee475c4fb134b62a57dc8b381d6329ac534451fbbe90a41689217e5003bcb06b&=&format=webp&quality=lossless&width=854&height=671)
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams
+Este último diagrama muestra las plataformas y herramientas de despliegue para cada uno de nuestros contenedores. El single Page App funciona en el navegador del usuario, la aplicación móvil en el smarthpone del usuario y el Embedded App en el microcontrolador ESP32. Los otros contenedores si necesitan ser desplegados en servidores Apache Tomcat y Azure DB para las bases de datos.
 ![Texto alternativo](https://media.discordapp.net/attachments/1280405882517196875/1282166668553879654/Green_Tools-Deployment_1.png?ex=66de5e43&is=66dd0cc3&hm=ab4f1b5ae5b06cbcc6771af5de75291bef0d90461b7b7f33e6acee0aa933e7bf&=&format=webp&quality=lossless&width=876&height=671)
 
 ## 4.2. Tactical-Level Domain-Driven Design
