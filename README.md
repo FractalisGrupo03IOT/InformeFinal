@@ -1242,19 +1242,19 @@ El **branding** de GreenTools está centrado en reflejar su misión de sostenibi
 - **Valores clave**: Sostenibilidad, Innovación, Eficiencia.
 - **Tono visual**: Natural, Tecnológico, Futurista.
 - **Logotipo**: 
-    ![Logo](https://drive.google.com/uc?export=view&id=15RvMnlCJf7e-WBn3nUwddx3yADLhFJg3)
-  - El logotipo combina un bombillo con una planta en su interior, simbolizando la fusión entre tecnología y agricultura ecológica.
+  - ![Logo](https://drive.google.com/uc?export=view&id=15RvMnlCJf7e-WBn3nUwddx3yADLhFJg3)
 
+  - El logotipo combina un bombillo con una planta en su interior, simbolizando la fusión entre tecnología y agricultura ecológica.
 
 #### Typography
 La elección de tipografía sigue una estética moderna y funcional, utilizando fuentes sans-serif como **Roboto**, **Arial** o **Open Sans**, que ofrecen buena legibilidad tanto en interfaces web como móviles. Estas tipografías reflejan claridad y simplicidad, alineándose con la misión de ofrecer una solución tecnológica fácil de usar.
 
-- **Fuente principal**: **Roboto** (o alternativa sans-serif). Puedes descargar la fuente desde [Google Fonts](https://fonts.google.com/specimen/Roboto).
+- **Fuente principal**: **Roboto**
 - **Tamaños de fuente**:
   - **Títulos**: Tamaños mayores para encabezados, en torno a 24px - 32px.
   - **Subtítulos**: Tamaños intermedios para subcategorías, 18px - 24px.
   - **Cuerpo de texto**: Texto general entre 14px - 16px para garantizar una lectura cómoda.
-
+  - Link de la fuente : [Google Fonts](https://fonts.google.com/specimen/Roboto).
 El uso de **espaciado entre letras** y **líneas de texto** debe ser amplio para evitar aglomeración, mejorando así la experiencia del usuario.
 
 ##### Colors
