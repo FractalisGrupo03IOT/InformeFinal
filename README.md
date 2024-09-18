@@ -912,17 +912,11 @@ Se ha utilizado **Trello** para gestionar y mantener el Product Backlog. A conti
 
 #### **Captura de Pantalla del Product Backlog en Trello**
 
-![Captura de Pantalla de Trello](https://example.com/screenshot.png)
+![Imagen](https://drive.google.com/uc?export=view&id=1KirGckMAWOuiEIgC7Uh8aqo-mFdD2roO)
 
 #### **Enlace Público al Product Backlog en Trello**
 
-[Acceder al Product Backlog en Trello](https://trello.com/b/tu-tablero-de-product-backlog)
-
-
-
-
-
-
+[Acceder al Product Backlog en Trello](https://trello.com/b/ECT6oUU8/greentools)
 
 # Capítulo IV: Solution Software Design
 
