@@ -1263,11 +1263,11 @@ El uso de **espaciado entre letras** y **líneas de texto** debe ser amplio para
 La paleta de colores de GreenTools refleja su compromiso con la sostenibilidad y el enfoque natural-tecnológico. Los colores están pensados para transmitir serenidad, profesionalismo y modernidad.
 
 - **Verde Claro (#A8D5BA, RGB: 168, 213, 186)**: Color de fondo principal. Transmite calma, equilibrio y un enfoque natural.
-  - Muestra de color: ![Verde Claro](https://example.com/verde-claro)
 - **Verde Oscuro (#3A795D, RGB: 58, 121, 93)**: Usado en iconos y acentos. Refleja confianza, estabilidad y conexión con la naturaleza.
-  - Muestra de color: ![Verde Oscuro](https://example.com/verde-oscuro)
 - **Rojo (#D0605E, RGB: 208, 96, 94)**: Reservado para botones de acción (CTAs) y alertas. Su uso está dirigido a captar la atención en puntos importantes o críticos.
-  - Muestra de color: ![Rojo](https://example.com/rojo)
+- **Blanco (#FFFFFF, RGB: 255, 255, 255)**: El color blanco es el símbolo de la pureza, simplicidad y claridad. Es un lienzo en blanco, lleno de posibilidades, que transmite una sensación de espacio abierto, luz y renovación.
+
+![Paltera de Colore](https://drive.google.com/uc?export=view&id=1BX7OGVtfsmkWmgnB4yk4hgmIOQeIG-VN)
 
 #### Spacing
 El **espaciado** juega un papel clave en el diseño limpio y funcional de GreenTools. Los márgenes y rellenos entre elementos visuales deben garantizar una separación suficiente, permitiendo que cada componente tenga espacio para respirar sin saturar al usuario con demasiada información en pantalla.
