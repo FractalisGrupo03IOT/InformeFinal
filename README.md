@@ -785,11 +785,9 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 | EP1         | Landing Page                          | Desarrollo de la página de aterrizaje para GreenTools con secciones de encabezado, beneficios, características, planes y precios, testimonios y footer.                                                                            |
 | EP2         | Aplicación Móvil                      | Desarrollo de la aplicación móvil en Flutter que incluye monitoreo en tiempo real, control remoto, visualización de datos históricos, gestión de perfiles de cultivo, alertas y notificaciones, y configuración de horarios de dispositivos. |
 | EP3         | Aplicación Web                        | Desarrollo de la aplicación web en Angular que incluye dashboard centralizado, administración de cultivos, análisis y reportes, gestión de dispositivos IoT, y gestión de usuarios y permisos.                                         |
-| EP4         | Backend, Lógica de Negocio e IoT      | Desarrollo del backend en Spring Boot para la gestión de cultivos, sensores, dispositivos, usuarios, automatización, integración con IoT y generación de reportes. Además, incluye la configuración de un simulador IoT utilizando Wokwi con ESP32 para la simulación de sensores y actuadores como un servo motor para la automatización. |
-| EP5         | Embedded App                          | Desarrollo de una aplicación embebida para manejar sensores y dispositivos IoT en tiempo real, optimizando el procesamiento local y asegurando la comunicación continua con el backend.                                               |
-| EP6         | Backend Distribuido y Balanceo de Carga | Extensión del backend para gestionar mejor la carga de datos IoT, implementando un segundo backend o microservicios para distribuir eficientemente la recolección de datos y mejorar la latencia.                                        |
-
----
+| EP4         | Backend, Lógica de Negocio e IoT      | Desarrollo del backend en Spring Boot para la gestión de cultivos de precision toda la logica de negocio como, sensores, dispositivos, usuarios, automatización, integración y generación de reportes|
+| EP5         | Embedded App                          |Desarrollo y la configuración de un simulador IoT utilizando Wokwi con ESP32 para la simulación de sensores y actuadores como un servo motor para la automatización.                                               |
+| EP6         | Backend Distribuido Fake Api | Extensión del backend para gestionar mejor la carga de datos IoT, implementando un segundo backend para distribuir eficientemente la recolección de datos y optimizarla para mandar datos y mejorar la latencia.                                        |
 
 ## **Tabla de Historias de Usuario**
 
