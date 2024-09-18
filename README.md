@@ -1243,7 +1243,7 @@ El **branding** de GreenTools está centrado en reflejar su misión de sostenibi
 - **Tono visual**: Natural, Tecnológico, Futurista.
 - **Logotipo**: 
 
-                             ![Logo](https://drive.google.com/uc?export=view&id=15RvMnlCJf7e-WBn3nUwddx3yADLhFJg3)
+  ![Logo](https://drive.google.com/uc?export=view&id=15RvMnlCJf7e-WBn3nUwddx3yADLhFJg3)
   
 El logotipo combina un bombillo con una planta en su interior, simbolizando la fusión entre tecnología y agricultura ecológica.
 
@@ -1300,7 +1300,7 @@ En esta sección explicamos y mostramos las decisiones clave sobre los estándar
 
 #### 1. Responsive Web Interfaces
 
-##### Diseño Visual
+##### **Diseño Visual**
 - **Grid Layout**: Hemos adoptado un diseño basado en un **grid fluido**, siguiendo un enfoque **mobile-first**. Para pantallas de escritorio utilizamos una cuadrícula de **12 columnas** que se reduce a **8 columnas** en tablets y a **4 columnas** en dispositivos móviles. Esto nos permite ofrecer una disposición visual clara y bien estructurada en cualquier tamaño de pantalla.
   
 - **Breakpoints**:
@@ -1317,7 +1317,7 @@ En esta sección explicamos y mostramos las decisiones clave sobre los estándar
 
 - **Accesibilidad**: Nos aseguramos de cumplir con las pautas **WCAG 2.0**, manteniendo un contraste mínimo de **4.5:1** entre el texto y el fondo. Además, todos los elementos interactivos tienen un área de clic de al menos **44x44px** para facilitar su uso.
 
-##### Interacción
+##### **Interacción**
 - **Navegación**:
   - En dispositivos móviles, utilizamos un **menú hamburguesa** que se expande al tocarlo, mientras que en pantallas grandes implementamos una **barra de navegación horizontal fija** en la parte superior de la página.
   
@@ -1330,7 +1330,7 @@ En esta sección explicamos y mostramos las decisiones clave sobre los estándar
 
 #### 2. Mobile Application Interfaces
 
-##### Diseño Visual
+##### **Diseño Visual**
 - **Grid Adaptativo**: En nuestras aplicaciones móviles, seguimos un diseño basado en un grid de **4 columnas**, lo que nos permite crear interfaces táctiles fáciles de usar en pantallas más pequeñas.
 
 - **Tipografía**:
@@ -1343,7 +1343,7 @@ En esta sección explicamos y mostramos las decisiones clave sobre los estándar
   - Implementamos botones y elementos interactivos con un área mínima de **44px** de altura para asegurar una fácil interacción táctil.
   - Nos aseguramos de ofrecer un contraste adecuado en todas las pantallas, y nuestras interfaces están diseñadas para ser compatibles con **lectores de pantalla** y gestos.
 
-##### Interacción
+##### **Interacción**
 - **Navegación**:
   - En la aplicación móvil, la navegación se centra en una **barra fija en la parte inferior**, accesible con el pulgar. Los iconos son claros y están alineados con las funcionalidades principales.
   - Las opciones secundarias están disponibles a través de un **menú hamburguesa** o mediante gestos de deslizamiento.
@@ -1356,7 +1356,7 @@ En esta sección explicamos y mostramos las decisiones clave sobre los estándar
 
 #### 3. IoT Application User Interfaces
 
-##### Diseño Visual
+##### **Diseño Visual**
 - **Dashboard de monitoreo**: En nuestras aplicaciones IoT, nos enfocamos en ofrecer un **dashboard visual y funcional**, con gráficos de fácil lectura que muestran datos en tiempo real. Para esto, utilizamos **gráficos de líneas, barras y diales**, adecuados para monitorizar variables como temperatura, humedad, y otros factores relevantes para el cultivo.
 
 - **Colores**:
@@ -1364,7 +1364,7 @@ En esta sección explicamos y mostramos las decisiones clave sobre los estándar
   - El **rojo** se reserva para alertas que indiquen condiciones fuera de los límites permitidos.
   - El **gris** se emplea para datos en espera o estados desactivados.
 
-##### Interacción
+##### **Interacción**
 - **Control remoto**:
   - Los usuarios pueden activar o desactivar dispositivos (como sistemas de riego) mediante un botón grande y visible. Nos aseguramos de que las acciones sean inmediatas y proporcionamos retroalimentación visual que confirme que el comando fue recibido y ejecutado.
 
