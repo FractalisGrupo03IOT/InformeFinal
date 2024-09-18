@@ -1300,41 +1300,29 @@ _Contenido por añadir..._
 
   ### 6.2.1. Sprint 1
 
-    #### 6.2.1.1. Sprint Planning n
+  #### 6.2.1.1. Sprint Planning n
+  _Contenido por añadir..._
+    
+  #### 6.2.1.2. Sprint Backlog n
+  _Contenido por añadir..._
+    
+  #### 6.2.1.3. Development Evidence for Sprint Review
     _Contenido por añadir..._
     
-    #### 6.2.1.2. Sprint Backlog n
+  #### 6.2.1.4. Testing Suite Evidence for Sprint Review
     _Contenido por añadir..._
     
-    #### 6.2.1.3. Development Evidence for Sprint Review
+  #### 6.2.1.5. Execution Evidence for Sprint Review
     _Contenido por añadir..._
     
-    #### 6.2.1.4. Testing Suite Evidence for Sprint Review
+  #### 6.2.1.6. Services Documentation Evidence for Sprint Review
     _Contenido por añadir..._
     
-    #### 6.2.1.5. Execution Evidence for Sprint Review
+  #### 6.2.1.7. Software Deployment Evidence for Sprint Review
     _Contenido por añadir..._
     
-    #### 6.2.1.6. Services Documentation Evidence for Sprint Review
+  #### 6.2.1.8. Team Collaboration Insights during Sprint
     _Contenido por añadir..._
-    
-    #### 6.2.1.7. Software Deployment Evidence for Sprint Review
-    _Contenido por añadir..._
-    
-    #### 6.2.1.8. Team Collaboration Insights during Sprint
-    _Contenido por añadir..._
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Conclusiones
