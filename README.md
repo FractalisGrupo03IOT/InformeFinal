@@ -1039,7 +1039,7 @@ Este contexto permite manejar la información de los usuarios y los tipos de cul
 ##### Bounded context: Estado del cultivo
 Este contexto realiza un análisis del estado de los cultivos a través de la información recolectada por los sensores. Las características de este contexto brindan soporte al usuario, generan compromiso y es un producto ya usado en el mercado, pero personalizado para nuestro sistema. Los comandos para generar reportes y ver el estado actual del cultivo son entrantes a este contexto. El reporte es el análisis de todos los datos recolectados de un cultivo, mientras que el estado actual son los datos recientes de un cultivo. Los eventos salientes se relacionan a los reportes generados y solicitudes para la recolección de datos.
 
-![Texto alternativo](/assets/chapter4/canvasReporte.jpg)
+![Texto alternativo](/assets/chapter4/canvasResporte.jpg)
 
 ##### Bounded context: Sistema IoT
 Este contexto nos brinda datos como temeperatura, pH y humedad del suelo a través de los sensores. Este context es el centro del dominio, es lo que nos permite generar ganancias y se personaliza para cada cliente. Los eventos relacionados a la recolección de datos y evaluación del uso del actuador son los que permiten entrar a este contexto. Actuador de refiere al sistema de riego del cultivo, el cuál se activará si la humedad del suelo no es óptima. Los eventos salientes son los que generen el reporte del cultivo, los cuales son eventos de entrada para el bounded context "Estado de cultivo".
