@@ -951,8 +951,12 @@ Se ha utilizado **Trello** para gestionar y mantener el Product Backlog. A conti
 
 ## 4.1. Strategic-Level Domain-Driven Design
 El proceso que hemos seguido abarca el uso de herramientas de EventStorming, Candidate Context Discovery, Domain Message Flows Modeling, Bounded Context Canvases y Context Mapping para definir los contextos delimitados de nuestra solución, los eventos que desencadenan el uso de un contexto, el flujo que ocurre para que se cumpla un escenario y las relaciones entre los contextos delimitados. Así mismo hemos aplicado el resultado de este proceso para el diseño de nuestra arquitectura de software usando C4.
+
+![Texto alternativo](/assets/chapter4/strategicLevel.jpg)
 ### 4.1.1. EventStorming
 Como primer paso de este proceso hemos realizado una lluvia de ideas sobre los eventos que ocurren en nuestro sistema.
+
+![Texto alternativo](/assets/chapter4/eventStormingCapture.jpg)
 #### 4.1.1.1. Candidate Context Discovery
 ##### Step 1: Unstructured Exploration
 Comenzamos con la lluvia de ideas de los eventos relaciones con el dominio empresarial que exploramos. Los eventos se formulan en tiempo pasado.
