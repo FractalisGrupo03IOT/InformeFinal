@@ -1433,7 +1433,51 @@ La landing page de GreenTools aplica sistemas de organización de manera efectiv
 
 
   ### 5.2.2. Labeling Systems
-  En esta sección se detallan los SEO Tags y Meta Tags que se implementarán en las páginas principales de la experiencia, tanto para la **Landing Page** como para la **Web Application**. Además, se incluyen elementos de **ASO** (App Store Optimization) para las aplicaciones móviles.
+
+El sistema de etiquetado de GreenTools está diseñado para ser intuitivo y accesible, tanto en la landing page como en la web app y la app móvil. A continuación, se describen las estrategias de etiquetado para cada plataforma, asegurando simplicidad y claridad.
+
+#### Landing Page
+
+1. **Etiquetas Claras y Concisas**:
+   - **Inicio**: Redirige a la página principal.
+   - **Servicios**: Muestra las soluciones disponibles.
+   - **Sobre Nosotros**: Información sobre la empresa y su misión.
+   - **Beneficios**: Detalla las ventajas de usar GreenTools.
+   - **Clientes**: Testimonios y casos de éxito.
+   - **Contacto**: Formulario y datos para consultas.
+   - **Idiomas**: Opción para cambiar entre Inglés y Español.
+
+2. **Asociaciones Visuales**:
+   - Las etiquetas son acompañadas por íconos simples que refuerzan su significado, como un sobre para **Contacto** o un gráfico para **Beneficios**.
+
+#### Web App
+
+1. **Etiquetas Funcionales**:
+   - **Dashboard**: Acceso al panel de control principal.
+   - **Monitoreo**: Datos en tiempo real de los cultivos.
+   - **Configuración**: Personalización de dispositivos IoT.
+   - **Alertas**: Notificaciones de condiciones críticas.
+   - **Historial**: Análisis de datos pasados.
+
+2. **Navegación Intuitiva**:
+   - Las etiquetas se agrupan de forma jerárquica, permitiendo un acceso rápido a funcionalidades relacionadas, como “Configuración” que incluye “Horarios” y “Dispositivos”.
+
+#### App Móvil
+
+1. **Etiquetas Adaptadas a Pantalla Pequeña**:
+   - **Inicio**: Regreso a la pantalla principal.
+   - **Riego Automático**: Control rápido de riego.
+   - **Alertas**: Notificaciones visibles en tiempo real.
+   - **Datos**: Acceso fácil a información de cultivos.
+   - **Perfil**: Configuración del usuario.
+
+2. **Claridad en la Interacción**:
+   - Las etiquetas son táctiles y están diseñadas para ser fácilmente seleccionadas con el pulgar, con un tamaño mínimo de área de clic de 44px, y acompañadas de retroalimentación visual.
+
+
+
+  ### 5.2.3. SEO Tags and Meta Tags
+    En esta sección se detallan los SEO Tags y Meta Tags que se implementarán en las páginas principales de la experiencia, tanto para la **Landing Page** como para la **Web Application**. Además, se incluyen elementos de **ASO** (App Store Optimization) para las aplicaciones móviles.
 
   ##### 1. Landing Page
   - **Title**: GreenTools - Innovación Tecnológica para la Agricultura Moderna
@@ -1452,11 +1496,6 @@ La landing page de GreenTools aplica sistemas de organización de manera efectiv
   - **App Keywords**: agricultura, IoT, gestión de cultivos, monitoreo, automatización, alertas agrícolas
   - **App Subtitle**: Optimiza tu producción agrícola con tecnología avanzada.
   - **App Description**: GreenTools te permite monitorear y gestionar tus cultivos en tiempo real. Aprovecha la automatización y recibe alertas críticas para optimizar tus recursos. Regístrate y transforma la manera en que trabajas en el campo.
-
-
-  ### 5.2.3. SEO Tags and Meta Tags
-  _Contenido por añadir..._
-
   ### 5.2.4. Searching Systems
   _Contenido por añadir..._
 
