@@ -1408,7 +1408,29 @@ En esta sección explicamos y mostramos las decisiones clave sobre los estándar
 En esta sección, hemos tomado decisiones clave sobre la arquitectura de la información para asegurar que los usuarios puedan navegar de manera intuitiva y sin esfuerzo a través de las experiencias tanto en la web como en las aplicaciones móviles. Nuestro enfoque ha sido diseñar la estructura de manera que los visitantes y usuarios encuentren lo que necesitan rápidamente, facilitando la adopción de las funcionalidades de GreenTools. A continuación, describimos los Organization Systems, Labeling Systems, Navigation Systems, y Searching Systems que guían nuestra arquitectura de la información.
 
   ### 5.2.1. Organization Systems
-  _Contenido por añadir..._
+La landing page de GreenTools aplica sistemas de organización de manera efectiva. Se utiliza una jerarquía visual clara para resaltar la información más importante, se organiza la información secuencialmente para guiar a los usuarios a través de las funcionalidades, y se estructura de forma matricial para presentar múltiples beneficios de manera accesible. Además, la categorización por tópicos y según audiencia enriquece la experiencia del usuario, asegurando que la información sea fácilmente navegable y relevante.
+  
+1. **Grupos de Información y Sistemas de Organización**:
+   - **Jerárquica (Visual Hierarchy)**: 
+     - La landing page utiliza una estructura jerárquica para presentar información clave, comenzando con el nombre y el eslogan de GreenTools en la parte superior. A continuación, se destacan secciones como **Misión** y **Visión**, que están en un tamaño de fuente mayor y en negrita, capturando la atención del usuario y estableciendo el propósito de la empresa. Las subsecciones dentro de **Nuestra Solución** están organizadas de tal forma que los títulos son claramente diferenciables del texto descriptivo.
+
+   - **Organización Secuencial (Step-by-Step to Accomplish)**: 
+     - En la sección **Nuestra Solución**, la organización es secuencial. Los usuarios son guiados a través de las funcionalidades del servicio desde el **Monitoreo en Tiempo Real** hasta la **Sincronización Multiplataforma**. Esta secuencia refleja cómo los usuarios pueden implementar la solución de manera efectiva paso a paso, destacando cada función clave y su utilidad en el proceso agrícola.
+
+   - **Matricial**:
+     - La sección de **Beneficios** puede considerarse una organización matricial, donde múltiples beneficios (como **Optimización de Recursos** y **Decisiones Basadas en Datos**) se presentan en un formato que permite la comparación. Cada beneficio es un bloque que los usuarios pueden evaluar simultáneamente, facilitando una rápida comprensión de lo que ofrece GreenTools.
+
+2. **Esquemas de Categorización de Contenido**:
+   - **Por Tópicos**:
+     - Las secciones de **Servicios**, **Beneficios**, y **Nuestro Equipo** están claramente categorizadas por tópicos. Esto permite que los visitantes encuentren rápidamente la información relevante según su interés, lo que mejora la experiencia del usuario al navegar por la página.
+
+   - **Según Audiencia (Grupos de Usuarios)**:
+     - La inclusión de testimonios específicos de diferentes tipos de usuarios (por ejemplo, propietarios de invernaderos y microcultivadores) crea una categorización según audiencia. Esta organización permite a los visitantes identificarse con las experiencias compartidas y entender cómo GreenTools puede satisfacer sus necesidades específicas.
+
+   - **Alfabético**:
+     - Aunque no se aplica directamente en la landing page actual, un esquema alfabético podría ser implementado en futuras secciones, como un FAQ o una base de conocimientos, donde se pueden listar temas o preguntas comunes en orden alfabético para facilitar la búsqueda.
+
+
 
   ### 5.2.2. Labeling Systems
   _Contenido por añadir..._
