@@ -1606,31 +1606,26 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
 
    ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1KTEny6QDtW9yy41Pn6K0IGqZNBpIhL04)
 
-- **Sección Hero:**
-  - Imagen destacada acompañada de un título potente que comunica la propuesta de valor de **GreenTools**.
-  - Botón de llamada a la acción (**CTA**) centralizado.
-
+- **Sección Inicio:**
+  - Imagen destacada acompañada de un título potente que comunica la propuesta de valor de **GreenTools** y la breve descripcion al lado izquierdo la imagen de la aplicacion movil con diseño.
+  - Botón de llamada a la acción (**CTA**) centralizado para que puedan descargar la aplicacion movil.
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1KTEny6QDtW9yy41Pn6K0IGqZNBpIhL04)
 
 
 - **Sección About:**
   - Breve descripción de la empresa y su misión.
-
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1nJksLPPPFrnKVQEls3F8OtkDV1Cs8u1K)
 
 - **Sección Solutions:**
   - Descripción de las soluciones ofrecidas, con iconos representativos para cada servicio.
-
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1hBfF_8iHYd5vYfX_ia384za5zTKx7KPR)
 
 - **Sección IoT Device:**
   - Detalle sobre el dispositivo IoT y su integración con los servicios ofrecidos.
-
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1s5Nw2QY9Qgi2QS4fsCbOn03UM5tLTSYr)
 
 - **Sección Team:**
   - Perfiles del equipo clave, con fotos y descripciones breves.
-
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1_srCrqjjGm19qiCx2x62ileI86F4bQ3S)
 
 - **Sección Benefits:**
@@ -1639,7 +1634,6 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
 
 - **Sección Clients:**
   - Logotipos o testimonios de los principales clientes que han usado la plataforma.
-
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1N42p1n9QyNXPHSyL4KGEvkHAfdfr0cB_)
 
 - **Sección Contactos y footer:**
