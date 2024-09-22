@@ -1532,6 +1532,7 @@ En esta sección explicamos los mecanismos de búsqueda que GreenTools implement
 
 - **Resultados Adaptados a Pantallas Móviles**:
   - **Formato**: Los resultados se mostrarán en una lista scrollable, optimizada para móviles, con previsualizaciones rápidas que faciliten la interacción desde dispositivos táctiles.
+
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1EF0W72Ed7xpedxQ585hdFqRlLpl6g91R)
 
 
@@ -1543,26 +1544,32 @@ En esta sección explicamos los mecanismos de búsqueda que GreenTools implement
 
 - **Visualización de Resultados**:
   - **Formato**: Los resultados aparecerán en una tabla de datos, permitiendo al usuario comparar varias opciones al mismo tiempo, con detalles claros como el nombre del producto, características clave, precio y disponibilidad.
- ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1mf-kMvSLiYpd22uJqiWibqNoM4cOyebo)
+
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1mf-kMvSLiYpd22uJqiWibqNoM4cOyebo)
+
 
 ### 5.2.3. Navigation Systems
 
 En esta sección, el equipo detalla las acciones y técnicas que guiarán a los usuarios a través del **Landing Page** y la aplicación de **GreenTools**, permitiéndoles cumplir sus objetivos de manera efectiva.
 
 #### Navegación en el Landing Page
-
 1. **Menú Principal:**
    - El encabezado incluirá un menú claro con secciones como **Inicio**, **Servicios**, **Sobre Nosotros**, **Beneficios**, **Clientes**, y **Contacto**.
    - Las etiquetas de cada sección se diseñarán para que los usuarios asocien fácilmente su contenido, evitando la saturación de información.
+![Landing1](https://drive.google.com/uc?export=view&id=1L1CHYnO_OV3d3bD8ARUnONMRgKdMvc_4)
 
 2. **Botones de Llamada a la Acción (CTA):**
    - Se implementarán botones destacados como **"Solicitar Demostración"** y **"Contáctanos"**, ubicados estratégicamente para guiar al usuario hacia acciones clave.
 
+![landing8](https://drive.google.com/uc?export=view&id=1xdxDzzWlFmCtQFR9QwE32Zx6aH1RhfYm)
+![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4)
+
 3. **Footer:**
    - El footer incluirá enlaces a **Términos y Condiciones**, **Política de Privacidad**, y redes sociales, asegurando que los usuarios puedan encontrar información adicional de manera sencilla.
 
-#### Navegación en la Aplicación Móvil
+![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4)
 
+#### Navegación en la Aplicación Móvil
 1. **Menú de Navegación Inferior:**
    - Un menú de navegación inferior con iconos intuitivos permitirá a los usuarios acceder rápidamente a funciones clave como **Dashboard**, **Cultivos**, y **Perfil**.
 
@@ -1573,6 +1580,10 @@ En esta sección, el equipo detalla las acciones y técnicas que guiarán a los 
    - Las notificaciones dentro de la aplicación guiarán a los usuarios hacia eventos importantes, ayudando a que interactúen efectivamente con el sistema.
 
 Estas estrategias de navegación están diseñadas para proporcionar una experiencia fluida, ayudando a los usuarios a interactuar de manera efectiva con **GreenTools** y alcanzar sus metas agrícolas.
+
+
+
+
 
 ## 5.3. Landing Page UI Design
 
