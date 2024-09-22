@@ -1294,8 +1294,7 @@ La paleta de colores de GreenTools refleja su compromiso con la sostenibilidad y
 - **Verde Oscuro (#3A795D, RGB: 58, 121, 93)**: Usado en iconos y acentos. Refleja confianza, estabilidad y conexión con la naturaleza.
 - **Rojo (#D0605E, RGB: 208, 96, 94)**: Reservado para botones de acción (CTAs) y alertas. Su uso está dirigido a captar la atención en puntos importantes o críticos.
 - **Blanco (#FFFFFF, RGB: 255, 255, 255)**: El color blanco es el símbolo de la pureza, simplicidad y claridad. Es un lienzo en blanco, lleno de posibilidades, que transmite una sensación de espacio abierto, luz y renovación.
-
-![Paltera de Colore](https://drive.google.com/uc?export=view&id=1BX7OGVtfsmkWmgnB4yk4hgmIOQeIG-VN)
+![Paltera](https://drive.google.com/uc?export=view&id=1BX7OGVtfsmkWmgnB4yk4hgmIOQeIG-VN)
 
 #### Spacing
 El **espaciado** juega un papel clave en el diseño limpio y funcional de GreenTools. Los márgenes y rellenos entre elementos visuales deben garantizar una separación suficiente, permitiendo que cada componente tenga espacio para respirar sin saturar al usuario con demasiada información en pantalla.
