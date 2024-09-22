@@ -1435,26 +1435,26 @@ La landing page de GreenTools aplica sistemas de organización de manera efectiv
   ### 5.2.2. Labeling Systems
   En esta sección se detallan los SEO Tags y Meta Tags que se implementarán en las páginas principales de la experiencia, tanto para la **Landing Page** como para la **Web Application**. Además, se incluyen elementos de **ASO** (App Store Optimization) para las aplicaciones móviles.
 
-#### 1. Landing Page
+  #### 1. Landing Page
 
-- **Title**: GreenTools - Innovación Tecnológica para la Agricultura Moderna
-- **Meta Description**: Descubre cómo GreenTools transforma la gestión agrícola a través de IoT y automatización. Optimiza tus cultivos y mejora la eficiencia.
-- **Meta Keywords**: agricultura, IoT, automatización, gestión agrícola, soluciones tecnológicas, optimización de cultivos
-- **Meta Author**: GreenTools Team
+    - **Title**: GreenTools - Innovación Tecnológica para la Agricultura Moderna
+    - **Meta Description**: Descubre cómo GreenTools transforma la gestión agrícola a través de IoT y automatización. Optimiza tus cultivos y mejora la eficiencia.
+    - **Meta Keywords**: agricultura, IoT, automatización, gestión agrícola, soluciones tecnológicas, optimización de cultivos
+    - **Meta Author**: GreenTools Team
 
-#### 2. Web Application
+  #### 2. Web Application
 
-- **Title**: Plataforma GreenTools - Monitoreo y Gestión de Cultivos en Tiempo Real
-- **Meta Description**: Accede a herramientas avanzadas para el monitoreo y la gestión de tus cultivos. Automatiza procesos y toma decisiones informadas.
-- **Meta Keywords**: gestión de cultivos, monitoreo en tiempo real, alertas agrícolas, automatización de procesos, tecnología agrícola
-- **Meta Author**: GreenTools Team
+    - **Title**: Plataforma GreenTools - Monitoreo y Gestión de Cultivos en Tiempo Real
+    - **Meta Description**: Accede a herramientas avanzadas para el monitoreo y la gestión de tus cultivos. Automatiza procesos y toma decisiones informadas.
+    - **Meta Keywords**: gestión de cultivos, monitoreo en tiempo real, alertas agrícolas, automatización de procesos, tecnología agrícola
+    - **Meta Author**: GreenTools Team
 
-#### 3. Elementos de ASO para Aplicaciones Móviles
-
-- **App Title**: GreenTools - Agricultura Inteligente
-- **App Keywords**: agricultura, IoT, gestión de cultivos, monitoreo, automatización, alertas agrícolas
-- **App Subtitle**: Optimiza tu producción agrícola con tecnología avanzada.
-- **App Description**: GreenTools te permite monitorear y gestionar tus cultivos en tiempo real. Aprovecha la automatización y recibe alertas críticas para optimizar tus recursos. Regístrate y transforma la manera en que trabajas en el campo.
+  #### 3. Elementos de ASO para Aplicaciones Móviles
+  
+    - **App Title**: GreenTools - Agricultura Inteligente
+    - **App Keywords**: agricultura, IoT, gestión de cultivos, monitoreo, automatización, alertas agrícolas
+    - **App Subtitle**: Optimiza tu producción agrícola con tecnología avanzada.
+    - **App Description**: GreenTools te permite monitorear y gestionar tus cultivos en tiempo real. Aprovecha la automatización y recibe alertas críticas para optimizar tus recursos. Regístrate y transforma la manera en que trabajas en el campo.
 
 
   ### 5.2.3. SEO Tags and Meta Tags
