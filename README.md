@@ -1429,7 +1429,15 @@ La landing page de GreenTools aplica sistemas de organización de manera efectiv
 
    - **Alfabético**:
      - Aunque no se aplica directamente en la landing page actual, un esquema alfabético podría ser implementado en futuras secciones, como un FAQ o una base de conocimientos, donde se pueden listar temas o preguntas comunes en orden alfabético para facilitar la búsqueda.
-
+![Landing1](https://drive.google.com/uc?export=view&id=1L1CHYnO_OV3d3bD8ARUnONMRgKdMvc_4)
+![Landing2](https://drive.google.com/uc?export=view&id=1XLz1lE3Jn9pkYYZ7TX3pDIUz5ztLGS7m)
+![Landing3](https://drive.google.com/uc?export=view&id=1k9cjfm64Q_2ZJgux-cuEm5uOi2Wh6a6J)
+![landing4](https://drive.google.com/uc?export=view&id=1O7ifjY_nTYIt8kGZs4i2qrQt8sK4x0Dp)
+![landing5](https://drive.google.com/uc?export=view&id=1qzLr8rzxcwk_SFNzcRI6DjrKbqmFMzw3)
+![landing6](https://drive.google.com/uc?export=view&id=1xQ_iN2nqbi9iY2hnt6gwHQUJFPFc16Kn)
+![Landing7](https://drive.google.com/uc?export=view&id=1-anD5o6ndQJzrDEiwE6zLRsdEJUzyRmx)
+![landing8](https://drive.google.com/uc?export=view&id=1xdxDzzWlFmCtQFR9QwE32Zx6aH1RhfYm)
+![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4)
 
 
   ### 5.2.2. Labeling Systems
@@ -1477,7 +1485,7 @@ El sistema de etiquetado de GreenTools está diseñado para ser intuitivo y acce
 
 
   ### 5.2.3. SEO Tags and Meta Tags
-    En esta sección se detallan los SEO Tags y Meta Tags que se implementarán en las páginas principales de la experiencia, tanto para la **Landing Page** como para la **Web Application**. Además, se incluyen elementos de **ASO** (App Store Optimization) para las aplicaciones móviles.
+En esta sección se detallan los SEO Tags y Meta Tags que se implementarán en las páginas principales de la experiencia, tanto para la **Landing Page** como para la **Web Application**. Además, se incluyen elementos de **ASO** (App Store Optimization) para las aplicaciones móviles.
 
   ##### 1. Landing Page
   - **Title**: GreenTools - Innovación Tecnológica para la Agricultura Moderna
@@ -1496,6 +1504,7 @@ El sistema de etiquetado de GreenTools está diseñado para ser intuitivo y acce
   - **App Keywords**: agricultura, IoT, gestión de cultivos, monitoreo, automatización, alertas agrícolas
   - **App Subtitle**: Optimiza tu producción agrícola con tecnología avanzada.
   - **App Description**: GreenTools te permite monitorear y gestionar tus cultivos en tiempo real. Aprovecha la automatización y recibe alertas críticas para optimizar tus recursos. Regístrate y transforma la manera en que trabajas en el campo.
+    
   ### 5.2.4. Searching Systems
   _Contenido por añadir..._
 
