@@ -1457,6 +1457,7 @@ El sistema de etiquetado de GreenTools está diseñado para ser intuitivo y acce
 
 2. **Asociaciones Visuales**:
    - Las etiquetas son acompañadas por íconos simples que refuerzan su significado, como un sobre para **Contacto** o un gráfico para **Beneficios**.
+![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4) 
 
 #### Web App
 
