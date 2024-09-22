@@ -1643,7 +1643,7 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
 #### Principios de Diseño y Diseño Inclusivo
 
 Se aplican principios de diseño como la **jerarquía visual**, el uso de **espacios en blanco** para resaltar elementos clave y la **accesibilidad**, utilizando fuentes legibles, contrastes adecuados y botones grandes para facilitar su uso en dispositivos móviles. La arquitectura de la información se ha diseñado para permitir que los usuarios naveguen fácilmente por el contenido, encontrando la información clave de manera rápida y sin distracciones.
-
+Link del figma: (https://www.figma.com/design/Dl2B8YKkM5KRoCNkax3hXB/Untitled?node-id=0-1&node-type=canvas&t=VDAtRB9dPZtOc3BS-0)
   ### 5.3.2. Landing Page Mock-up
   _Contenido por añadir..._
 
