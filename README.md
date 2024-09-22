@@ -1571,13 +1571,19 @@ En esta sección, el equipo detalla las acciones y técnicas que guiarán a los 
 
 #### Navegación en la Aplicación Móvil
 1. **Menú de Navegación Inferior:**
-   - Un menú de navegación inferior con iconos intuitivos permitirá a los usuarios acceder rápidamente a funciones clave como **Dashboard**, **Cultivos**, y **Perfil**.
+   - Un menú de navegación inferior con iconos intuitivos permitirá a los usuarios acceder rápidamente a funciones clave como **Riego**, **Cultivos**, y  **Datos**, **Perfil**.
+
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1FNVaOcphtP-Ha4gs4omHUD7Gt8woF3hk)
 
 2. **Barra de Búsqueda:**
    - Se incluirá una barra de búsqueda en la parte superior, facilitando que los usuarios encuentren información específica sin complicaciones.
 
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1EF0W72Ed7xpedxQ585hdFqRlLpl6g91R)
+
 3. **Notificaciones:**
    - Las notificaciones dentro de la aplicación guiarán a los usuarios hacia eventos importantes, ayudando a que interactúen efectivamente con el sistema.
+
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1VHClFTveGCst9iok3Kl0fuNZjMWHHoAK)
 
 Estas estrategias de navegación están diseñadas para proporcionar una experiencia fluida, ayudando a los usuarios a interactuar de manera efectiva con **GreenTools** y alcanzar sus metas agrícolas.
 
