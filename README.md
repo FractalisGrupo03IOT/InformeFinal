@@ -1462,28 +1462,29 @@ El sistema de etiquetado de GreenTools está diseñado para ser intuitivo y acce
 #### Web App
 
 1. **Etiquetas Funcionales**:
-   - **Dashboard**: Acceso al panel de control principal.
-   - **Monitoreo**: Datos en tiempo real de los cultivos.
-   - **Configuración**: Personalización de dispositivos IoT.
+   - **Menu Bar**: Se vizualiza todas las funciones intuitivas y facil acceso.
+   - **Dashboard**: Datos en tiempo real de los cultivos.
+   - **Personalizar**: Personalización de dispositivos IoT.
    - **Alertas**: Notificaciones de condiciones críticas.
    - **Historial**: Análisis de datos pasados.
 
 2. **Navegación Intuitiva**:
    - Las etiquetas se agrupan de forma jerárquica, permitiendo un acceso rápido a funcionalidades relacionadas, como “Configuración” que incluye “Horarios” y “Dispositivos”.
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=13nAl8fzFAMsm0zfXx041ypKhpQpYWvTh)
 
 #### App Móvil
 
 1. **Etiquetas Adaptadas a Pantalla Pequeña**:
    - **Inicio**: Regreso a la pantalla principal.
    - **Riego Automático**: Control rápido de riego.
-   - **Alertas**: Notificaciones visibles en tiempo real.
+   - **Cultivos**: Puedes agregar el cultivo de precision.
    - **Datos**: Acceso fácil a información de cultivos.
    - **Perfil**: Configuración del usuario.
 
 2. **Claridad en la Interacción**:
    - Las etiquetas son táctiles y están diseñadas para ser fácilmente seleccionadas con el pulgar, con un tamaño mínimo de área de clic de 44px, y acompañadas de retroalimentación visual.
 
-
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1OJwZEzO7GLQ3hPjvX0K3hE8O3fhVWk-Y)
 
   ### 5.2.3. SEO Tags and Meta Tags
 En esta sección se detallan los SEO Tags y Meta Tags que se implementarán en las páginas principales de la experiencia, tanto para la **Landing Page** como para la **Web Application**. Además, se incluyen elementos de **ASO** (App Store Optimization) para las aplicaciones móviles.
