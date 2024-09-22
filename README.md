@@ -1508,10 +1508,71 @@ En esta sección se detallan los SEO Tags y Meta Tags que se implementarán en l
   - **App Description**: GreenTools te permite monitorear y gestionar tus cultivos en tiempo real. Aprovecha la automatización y recibe alertas críticas para optimizar tus recursos. Regístrate y transforma la manera en que trabajas en el campo.
     
   ### 5.2.4. Searching Systems
-  _Contenido por añadir..._
+  
+En esta sección explicamos los mecanismos de búsqueda que GreenTools implementa en sus distintas plataformas (Landing Page, app móvil y aplicación web) para ayudar a los usuarios a encontrar información de manera rápida y eficiente, evitando que se sientan perdidos entre el volumen de datos.
 
-  ### 5.2.5. Navigation Systems
-  _Contenido por añadir..._
+#### **Landing Page**
+- **Barra de Búsqueda Global**:
+  - **Descripción**: Una barra de búsqueda global visible desde la parte superior de la landing page.
+  - **Funcionalidad**: Ofrecerá sugerencias mientras el usuario escribe y mostrará resultados relevantes, sin necesidad de cargar una nueva página.
+  - **Filtros Disponibles**: No aplicable, ya que la búsqueda está enfocada en términos generales.
+
+- **Presentación de Resultados**:
+  - **Formato**: Los resultados se mostrarán en tarjetas visuales, que incluyen imágenes, descripciones cortas y enlaces directos al contenido relevante.
+![Landing1](https://drive.google.com/uc?export=view&id=1L1CHYnO_OV3d3bD8ARUnONMRgKdMvc_4)
+![Landing2](https://drive.google.com/uc?export=view&id=1XLz1lE3Jn9pkYYZ7TX3pDIUz5ztLGS7m)
+![landing8](https://drive.google.com/uc?export=view&id=1xdxDzzWlFmCtQFR9QwE32Zx6aH1RhfYm)
+![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4)
+
+#### **Aplicación Móvil**
+- **Barra de Búsqueda Interactiva**:
+  - **Descripción**: Una barra de búsqueda accesible desde el menú principal o el dashboard.
+  - **Funcionalidad**: Soporta búsqueda por texto y por voz, ofreciendo sugerencias predictivas mientras el usuario escribe.
+  - **Filtros Disponibles**: Filtros simples por categorías como "Producto", "Precios" o "Testimonios".
+
+- **Resultados Adaptados a Pantallas Móviles**:
+  - **Formato**: Los resultados se mostrarán en una lista scrollable, optimizada para móviles, con previsualizaciones rápidas que faciliten la interacción desde dispositivos táctiles.
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1EF0W72Ed7xpedxQ585hdFqRlLpl6g91R)
+
+
+#### **Aplicación Web**
+- **Búsqueda Avanzada**:
+  - **Descripción**: Un sistema de búsqueda avanzada que incluye opciones detalladas para personalizar los términos de búsqueda.
+  - **Funcionalidad**: Ofrece búsquedas por palabra clave, además de filtros detallados como tipo de producto, rango de precios, testimonios de clientes, y características técnicas específicas.
+  - **Filtros Disponibles**: Filtros complejos que permiten refinar la búsqueda por múltiples categorías, como producto, precio, características y fecha.
+
+- **Visualización de Resultados**:
+  - **Formato**: Los resultados aparecerán en una tabla de datos, permitiendo al usuario comparar varias opciones al mismo tiempo, con detalles claros como el nombre del producto, características clave, precio y disponibilidad.
+ ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1mf-kMvSLiYpd22uJqiWibqNoM4cOyebo)
+
+### 5.2.3. Navigation Systems
+
+En esta sección, el equipo detalla las acciones y técnicas que guiarán a los usuarios a través del **Landing Page** y la aplicación de **GreenTools**, permitiéndoles cumplir sus objetivos de manera efectiva.
+
+#### Navegación en el Landing Page
+
+1. **Menú Principal:**
+   - El encabezado incluirá un menú claro con secciones como **Inicio**, **Servicios**, **Sobre Nosotros**, **Beneficios**, **Clientes**, y **Contacto**.
+   - Las etiquetas de cada sección se diseñarán para que los usuarios asocien fácilmente su contenido, evitando la saturación de información.
+
+2. **Botones de Llamada a la Acción (CTA):**
+   - Se implementarán botones destacados como **"Solicitar Demostración"** y **"Contáctanos"**, ubicados estratégicamente para guiar al usuario hacia acciones clave.
+
+3. **Footer:**
+   - El footer incluirá enlaces a **Términos y Condiciones**, **Política de Privacidad**, y redes sociales, asegurando que los usuarios puedan encontrar información adicional de manera sencilla.
+
+#### Navegación en la Aplicación Móvil
+
+1. **Menú de Navegación Inferior:**
+   - Un menú de navegación inferior con iconos intuitivos permitirá a los usuarios acceder rápidamente a funciones clave como **Dashboard**, **Cultivos**, y **Perfil**.
+
+2. **Barra de Búsqueda:**
+   - Se incluirá una barra de búsqueda en la parte superior, facilitando que los usuarios encuentren información específica sin complicaciones.
+
+3. **Notificaciones:**
+   - Las notificaciones dentro de la aplicación guiarán a los usuarios hacia eventos importantes, ayudando a que interactúen efectivamente con el sistema.
+
+Estas estrategias de navegación están diseñadas para proporcionar una experiencia fluida, ayudando a los usuarios a interactuar de manera efectiva con **GreenTools** y alcanzar sus metas agrícolas.
 
 ## 5.3. Landing Page UI Design
 
