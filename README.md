@@ -1592,9 +1592,63 @@ Estas estrategias de navegación están diseñadas para proporcionar una experie
 
 
 ## 5.3. Landing Page UI Design
+En esta sección, el equipo presenta la propuesta de diseño de la interfaz de usuario (UI) para el **Landing Page**. Esta propuesta refleja las decisiones previamente discutidas sobre la arquitectura de la información, diseño inclusivo y los principios fundamentales de diseño visual.
 
-  ### 5.3.1. Landing Page Wireframe
-  _Contenido por añadir..._
+#### 5.3.1. Wireframe del Landing Page
+
+El wireframe de la **Landing Page** es una representación visual que traduce las decisiones de diseño para asegurar que los usuarios interactúen de manera intuitiva con el producto. Se describen los wireframes para las dos plataformas principales: **Desktop Web Browser** y **Mobile Web Browser**.
+
+##### a. **Wireframe para Desktop Web Browser**
+
+- **Encabezado:**
+  - Menú de navegación en la parte superior con las secciones clave: **Inicio**, **About**, **Solutions**, **IoT Device**, **Team**, **Benefits**, **Contacts y footer**.
+  - Botones de **"Descargar Apliacion"** y **"Contáctanos"**  en el lado derecho del menú.
+
+   ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1KTEny6QDtW9yy41Pn6K0IGqZNBpIhL04)
+
+- **Sección Hero:**
+  - Imagen destacada acompañada de un título potente que comunica la propuesta de valor de **GreenTools**.
+  - Botón de llamada a la acción (**CTA**) centralizado.
+
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1KTEny6QDtW9yy41Pn6K0IGqZNBpIhL04)
+
+
+- **Sección About:**
+  - Breve descripción de la empresa y su misión.
+
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1nJksLPPPFrnKVQEls3F8OtkDV1Cs8u1K)
+
+- **Sección Solutions:**
+  - Descripción de las soluciones ofrecidas, con iconos representativos para cada servicio.
+
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1hBfF_8iHYd5vYfX_ia384za5zTKx7KPR)
+
+- **Sección IoT Device:**
+  - Detalle sobre el dispositivo IoT y su integración con los servicios ofrecidos.
+
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1s5Nw2QY9Qgi2QS4fsCbOn03UM5tLTSYr)
+
+- **Sección Team:**
+  - Perfiles del equipo clave, con fotos y descripciones breves.
+
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1_srCrqjjGm19qiCx2x62ileI86F4bQ3S)
+
+- **Sección Benefits:**
+  - Presentación en columnas de los principales beneficios de la plataforma.
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1E3lJnvuaWRRX5J9LgOEAuIUuf113mDMz)
+
+- **Sección Clients:**
+  - Logotipos o testimonios de los principales clientes que han usado la plataforma.
+
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1N42p1n9QyNXPHSyL4KGEvkHAfdfr0cB_)
+
+- **Sección Contactos y footer:**
+  - Formulario con datos de entrada para solicitad servicios o consultas.
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=15EyH4LVynXc_DkmxEyOIFeeokYLkliQV)
+
+#### Principios de Diseño y Diseño Inclusivo
+
+Se aplican principios de diseño como la **jerarquía visual**, el uso de **espacios en blanco** para resaltar elementos clave y la **accesibilidad**, utilizando fuentes legibles, contrastes adecuados y botones grandes para facilitar su uso en dispositivos móviles. La arquitectura de la información se ha diseñado para permitir que los usuarios naveguen fácilmente por el contenido, encontrando la información clave de manera rápida y sin distracciones.
 
   ### 5.3.2. Landing Page Mock-up
   _Contenido por añadir..._
