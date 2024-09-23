@@ -1588,9 +1588,6 @@ En esta sección, el equipo detalla las acciones y técnicas que guiarán a los 
 Estas estrategias de navegación están diseñadas para proporcionar una experiencia fluida, ayudando a los usuarios a interactuar de manera efectiva con **GreenTools** y alcanzar sus metas agrícolas.
 
 
-
-
-
 ## 5.3. Landing Page UI Design
 En esta sección, el equipo presenta la propuesta de diseño de la interfaz de usuario (UI) para el **Landing Page**. Esta propuesta refleja las decisiones previamente discutidas sobre la arquitectura de la información, diseño inclusivo y los principios fundamentales de diseño visual.
 
@@ -1646,7 +1643,51 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
 
 
   ### 5.3.2. Landing Page Mock-up
-  _Contenido por añadir..._
+ Esta sección presenta y explica los Mock-ups del **Landing Page**, tanto en su versión para **Desktop Web Browser** como para **Mobile Web Browser**. En la propuesta y la explicación se evidencia la aplicación de principios de diseño, elementos visuales, diseño inclusivo, y la arquitectura de información, así como el **Design System** establecido para los productos digitales.
+
+#### a. **Mock-up para Desktop Web Browser**
+
+- **Encabezado:**
+  - Menú de navegación claro y accesible que incluye las secciones: **Inicio**, **About**, **Solutions**, **IoT Device**, **Team**, **Benefits**, **Clients**, y **Contact**.
+  - Los botones de **"Descargar Aplicación"** y **"Contáctanos"** están diseñados para destacar visualmente, utilizando colores contrastantes que invitan a la acción.
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1W0mdBpV5sctm3SErZ6bUdHqsy9dsdPbY)
+
+- **Sección Inicio:**
+  - Un diseño atractivo con una imagen principal que representa la propuesta de valor de **GreenTools**. La breve descripción al lado izquierdo proporciona contexto adicional, mientras que el botón **CTA** centrado facilita la descarga de la aplicación móvil.
+![Landing1](https://drive.google.com/uc?export=view&id=1L1CHYnO_OV3d3bD8ARUnONMRgKdMvc_4)
+
+- **Sección About:**
+  - La descripción de la empresa se presenta en un formato claro y conciso, utilizando tipografías legibles que garantizan la accesibilidad.
+![Landing2](https://drive.google.com/uc?export=view&id=1XLz1lE3Jn9pkYYZ7TX3pDIUz5ztLGS7m)
+- **Sección Solutions:**
+  - Los iconos representativos para cada servicio permiten a los usuarios identificar rápidamente las soluciones ofrecidas. Esto se complementa con breves descripciones que refuerzan la comprensión.
+![Landing3](https://drive.google.com/uc?export=view&id=1k9cjfm64Q_2ZJgux-cuEm5uOi2Wh6a6J)
+- **Sección IoT Device:**
+  - Un diseño que destaca las características clave del dispositivo IoT, utilizando imágenes de alta calidad y texto explicativo.
+![landing4](https://drive.google.com/uc?export=view&id=1O7ifjY_nTYIt8kGZs4i2qrQt8sK4x0Dp)
+- **Sección Team:**
+  - Los perfiles del equipo se muestran en un diseño organizado, con fotos y descripciones que aportan un toque humano a la plataforma.
+![landing5](https://drive.google.com/uc?export=view&id=1qzLr8rzxcwk_SFNzcRI6DjrKbqmFMzw3)
+
+- **Sección Benefits:**
+  - Los beneficios están organizados en columnas, permitiendo una visualización rápida de las ventajas de utilizar **GreenTools**.
+![landing6](https://drive.google.com/uc?export=view&id=1xQ_iN2nqbi9iY2hnt6gwHQUJFPFc16Kn)
+
+- **Sección Clients:**
+  - Se muestran logotipos de clientes destacados, lo que genera confianza y credibilidad en la marca.
+![Landing7](https://drive.google.com/uc?export=view&id=1-anD5o6ndQJzrDEiwE6zLRsdEJUzyRmx)
+![landing8](https://drive.google.com/uc?export=view&id=1xdxDzzWlFmCtQFR9QwE32Zx6aH1RhfYm)
+
+- **Sección Contactos y Footer:**
+  - Un formulario de contacto accesible permite a los usuarios solicitar servicios o hacer consultas. El footer incluye enlaces relevantes y redes sociales, organizado de manera que sea fácil de navegar.
+![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4)
+
+#### Principios de Diseño y Diseño Inclusivo
+
+- Se ha implementado una **jerarquía visual** clara, utilizando **espacios en blanco** estratégicos que permiten que los elementos clave se destaquen.
+- Se han elegido **tipografías legibles** y **contrastes adecuados** para asegurar la accesibilidad en todos los dispositivos.
+- El diseño incluye **botones grandes** y fácilmente clicables, facilitando su uso en dispositivos móviles.
+- El **Design System** utilizado establece una base coherente en todos los elementos del diseño, garantizando una experiencia de usuario fluida y consistente.
 
 ## 5.4. Applications UX/UI Design
 
