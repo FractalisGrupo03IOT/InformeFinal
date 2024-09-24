@@ -797,12 +797,16 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 
 ## 3.1. To-Be Scenario Mapping
 ### Cultivadores de invernadero
+- Buscan **automatización completa** en sensores y actuadores, con acceso fácil a datos históricos y notificaciones solo en casos críticos.
+- Priorizan la **eficiencia y tranquilidad**, confiando en que la aplicación gestionará todo sin complicaciones.
 
-![Imagen de Cultivadores de invernadero](https://media.discordapp.net/attachments/1228537935368945717/1277297738538815602/Diagrama_en_blanco_-_Pagina_1_1.png?ex=66dd2277&is=66dbd0f7&hm=76955413de78a6701e14fe2f56c79f69b49266772ca2a19b51e60667d9ba1f4a&=&format=webp&quality=lossless&width=1025&height=345)
+![Imagen de Cultivadores de invernadero](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727215949/Diagrama_en_blanco_-_Pagina_1_1_xsxsqr.webp)
 
 ### Micro cultivo
-
-![Imagen de Micro cultivo](https://media.discordapp.net/attachments/1228537935368945717/1277297738903589117/Diagrama_en_blanco_-_Pagina_1.png?ex=66dd2277&is=66dbd0f7&hm=dac1156e5fd3a1d76c553a76d72e6591a17365f1031ec626019c5e52a5326d4e&=&format=webp&quality=lossless&width=1025&height=345)
+- Necesitan una **configuración rápida y simple** con ajustes automáticos para cultivos pequeños.
+- Valoran la **simplicidad** y **mínima intervención**, confiando en que solo recibirán alertas cuando sea realmente necesario.
+  
+![Imagen de Micro cultivo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727216000/Diagrama_en_blanco_-_Pagina_1_req6sa.webp)
 
 
 ## 3.2. User Stories
