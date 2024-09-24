@@ -873,13 +873,13 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 ## 3.3. Impact Mapping
 El Impact Mapping de GreenTools muestra cómo los cultivadores de invernadero y los microcultivadores de precisión pueden lograr los Business Goals de la plataforma mediante cambios de comportamiento específicos, funcionalidades clave y la integración de tecnologías IoT.
 
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1aoa8aKWnhcx5sy6CKkLCSotOURZwXKAu)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727216173/IMG3_bbxtra.png)
 ---
-![Primera imagen](https://drive.google.com/uc?export=view&id=1Ss4vWunEo6qt3-9Lu_4mFqWtAIIJkxKn)
+![Primera imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727216232/IMG4_bxm9sh.png)
 ---
-![Segunda imagen](https://drive.google.com/uc?export=view&id=1jCcMtueHfu5nX50f6WfUEAEZB5pbdD4B)
+![Segunda imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727216272/IMG5_cuvjxs.png)
 ---
-![Tercera imagen](https://drive.google.com/uc?export=view&id=1-P7aGhfw3ixaPG4aqA8WMvLPqKfhjPlV)
+![Tercera imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727216310/image_adsias.webp)
 
 Los Business Goals de GreenTools se centran en incrementar la eficiencia y sostenibilidad en la gestión de cultivos mediante la adopción de tecnologías IoT y soluciones de precisión. El objetivo principal es atraer usuarios al plan Premium y ofrecerles herramientas para optimizar el uso de recursos, a través del monitoreo en tiempo real, la automatización del riego y la toma de decisiones basada en datos, GreenTools busca reducir costos operativos y aumentar la productividad agrícola, facilitando una gestión más eficiente de los cultivos, tanto para cultivadores de invernadero como para microcultivadores de precisión.
 
