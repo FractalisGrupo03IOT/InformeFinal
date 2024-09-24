@@ -945,7 +945,7 @@ Se ha utilizado **Trello** para gestionar y mantener el Product Backlog. A conti
 
 #### **Captura de Pantalla del Product Backlog en Trello**
 
-![Imagen](https://drive.google.com/uc?export=view&id=1KirGckMAWOuiEIgC7Uh8aqo-mFdD2roO)
+![Imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727216439/TRELLO_zs22o0.png)
 
 #### **Enlace Público al Product Backlog en Trello**
 
@@ -1275,7 +1275,7 @@ El **branding** de GreenTools está centrado en reflejar su misión de sostenibi
 - **Tono visual**: Natural, Tecnológico, Futurista.
 - **Logotipo**: 
 
-  ![Logo](https://drive.google.com/uc?export=view&id=15RvMnlCJf7e-WBn3nUwddx3yADLhFJg3)
+  ![Logo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727216656/logo_ddmnt3.webp)
   
 El logotipo combina un bombillo con una planta en su interior, simbolizando la fusión entre tecnología y agricultura ecológica.
 
@@ -1298,7 +1298,7 @@ La paleta de colores de GreenTools refleja su compromiso con la sostenibilidad y
 - **Verde Oscuro (#3A795D, RGB: 58, 121, 93)**: Usado en iconos y acentos. Refleja confianza, estabilidad y conexión con la naturaleza.
 - **Rojo (#D0605E, RGB: 208, 96, 94)**: Reservado para botones de acción (CTAs) y alertas. Su uso está dirigido a captar la atención en puntos importantes o críticos.
 - **Blanco (#FFFFFF, RGB: 255, 255, 255)**: El color blanco es el símbolo de la pureza, simplicidad y claridad. Es un lienzo en blanco, lleno de posibilidades, que transmite una sensación de espacio abierto, luz y renovación.
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1BX7OGVtfsmkWmgnB4yk4hgmIOQeIG-VN)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727216656/colores_zobxdi.png)
 
 
 #### Spacing
