@@ -635,7 +635,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 | **Entrevistado 01**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | **Nombre y apellidos**                                       | Sonia Hcayhualla Anco                                                                    |
-| **Imagen**                                                   | ![Texto alternativo](https://media.discordapp.net/attachments/1282304254929010689/1282304308351598715/entrevista01.png?ex=66dede73&is=66dd8cf3&hm=100d3f22c8c308e6363a4f9a06914c0e96cd38f235b708838eefdb1449be0253&=&format=webp&quality=lossless&width=720&height=301)                                                                    |
+| **Imagen**                                                   | ![Texto alternativo](https://res-console.cloudinary.com/dbe3tjasl/thumbnails/v1/image/upload/v1727215250/aW1hZ2VfcTRmZjJ1/preview)                                                                    |
 | **Inicio de la entrevista**                                  | 00:05                                                                                |
 | **Fin de la entrevista**                                     | 06:40                                                                                |
 | **Duración**                                                 | 06:40                                                                              |
