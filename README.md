@@ -1436,13 +1436,13 @@ La landing page de GreenTools aplica sistemas de organización de manera efectiv
 ![Landing1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/Lading1_p41esp.png)
 ![Landing2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing2_lmg1p0.png)
 ![Landing3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing3_r9vup6.png)
-![alquilerendispotivoiot](https://drive.google.com/uc?export=view&id=1O7ifjY_nTYIt8kGZs4i2qrQt8sK4x0Dp)
-![nuestroequipo](https://drive.google.com/uc?export=view&id=1qzLr8rzxcwk_SFNzcRI6DjrKbqmFMzw3)
+![alquilerendispotivoiot](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727234639/landing6_vqdil4.png)
+![nuestroequipo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727234647/landing7_tkjnsc.png)
 ![landing6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing5_qwyf7m.png)
 ![Landing7](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing6_pw5muq.png)
 ![landing8](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727225539/landing8_hdb8ow.png)
-![landing9](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing7_i2o0pr.png)
-
+![landing9](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727234648/lading8_b8oefd.png)
+![Footer](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727234647/lading9_qflxbh.png)
 
   ### 5.2.2. Labeling Systems
 
