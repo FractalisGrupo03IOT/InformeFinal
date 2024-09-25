@@ -1433,15 +1433,15 @@ La landing page de GreenTools aplica sistemas de organización de manera efectiv
 
    - **Alfabético**:
      - Aunque no se aplica directamente en la landing page actual, un esquema alfabético podría ser implementado en futuras secciones, como un FAQ o una base de conocimientos, donde se pueden listar temas o preguntas comunes en orden alfabético para facilitar la búsqueda.
-![Landing1](https://drive.google.com/uc?export=view&id=1L1CHYnO_OV3d3bD8ARUnONMRgKdMvc_4)
-![Landing2](https://drive.google.com/uc?export=view&id=1XLz1lE3Jn9pkYYZ7TX3pDIUz5ztLGS7m)
-![Landing3](https://drive.google.com/uc?export=view&id=1k9cjfm64Q_2ZJgux-cuEm5uOi2Wh6a6J)
-![landing4](https://drive.google.com/uc?export=view&id=1O7ifjY_nTYIt8kGZs4i2qrQt8sK4x0Dp)
-![landing5](https://drive.google.com/uc?export=view&id=1qzLr8rzxcwk_SFNzcRI6DjrKbqmFMzw3)
-![landing6](https://drive.google.com/uc?export=view&id=1xQ_iN2nqbi9iY2hnt6gwHQUJFPFc16Kn)
-![Landing7](https://drive.google.com/uc?export=view&id=1-anD5o6ndQJzrDEiwE6zLRsdEJUzyRmx)
-![landing8](https://drive.google.com/uc?export=view&id=1xdxDzzWlFmCtQFR9QwE32Zx6aH1RhfYm)
-![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4)
+![Landing1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/Lading1_p41esp.png)
+![Landing2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing2_lmg1p0.png)
+![Landing3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing3_r9vup6.png)
+![alquilerendispotivoiot](https://drive.google.com/uc?export=view&id=1O7ifjY_nTYIt8kGZs4i2qrQt8sK4x0Dp)
+![nuestroequipo](https://drive.google.com/uc?export=view&id=1qzLr8rzxcwk_SFNzcRI6DjrKbqmFMzw3)
+![landing6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing5_qwyf7m.png)
+![Landing7](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing6_pw5muq.png)
+![landing8](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727225539/landing8_hdb8ow.png)
+![landing9](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing7_i2o0pr.png)
 
 
   ### 5.2.2. Labeling Systems
@@ -1461,7 +1461,7 @@ El sistema de etiquetado de GreenTools está diseñado para ser intuitivo y acce
 
 2. **Asociaciones Visuales**:
    - Las etiquetas son acompañadas por íconos simples que refuerzan su significado, como un sobre para **Contacto** o un gráfico para **Beneficios**.
-![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4) 
+![landing9](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing7_i2o0pr.png) 
 
 #### Web App
 
@@ -1474,7 +1474,7 @@ El sistema de etiquetado de GreenTools está diseñado para ser intuitivo y acce
 
 2. **Navegación Intuitiva**:
    - Las etiquetas se agrupan de forma jerárquica, permitiendo un acceso rápido a funcionalidades relacionadas, como “Configuración” que incluye “Horarios” y “Dispositivos”.
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=13nAl8fzFAMsm0zfXx041ypKhpQpYWvTh)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727225632/navbar_rgtfhm.png)
 
 #### App Móvil
 
@@ -1488,7 +1488,7 @@ El sistema de etiquetado de GreenTools está diseñado para ser intuitivo y acce
 2. **Claridad en la Interacción**:
    - Las etiquetas son táctiles y están diseñadas para ser fácilmente seleccionadas con el pulgar, con un tamaño mínimo de área de clic de 44px, y acompañadas de retroalimentación visual.
 
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1OJwZEzO7GLQ3hPjvX0K3hE8O3fhVWk-Y)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727225965/appweb_ytkddz.png)
 
   ### 5.2.3. SEO Tags and Meta Tags
 En esta sección se detallan los SEO Tags y Meta Tags que se implementarán en las páginas principales de la experiencia, tanto para la **Landing Page** como para la **Web Application**. Además, se incluyen elementos de **ASO** (App Store Optimization) para las aplicaciones móviles.
@@ -1523,10 +1523,10 @@ En esta sección explicamos los mecanismos de búsqueda que GreenTools implement
 
 - **Presentación de Resultados**:
   - **Formato**: Los resultados se mostrarán en tarjetas visuales, que incluyen imágenes, descripciones cortas y enlaces directos al contenido relevante.
-![Landing1](https://drive.google.com/uc?export=view&id=1L1CHYnO_OV3d3bD8ARUnONMRgKdMvc_4)
-![Landing2](https://drive.google.com/uc?export=view&id=1XLz1lE3Jn9pkYYZ7TX3pDIUz5ztLGS7m)
-![landing8](https://drive.google.com/uc?export=view&id=1xdxDzzWlFmCtQFR9QwE32Zx6aH1RhfYm)
-![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4)
+![Landing1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/Lading1_p41esp.png)
+![Landing2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing2_lmg1p0.png)
+![landing8](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727225539/landing8_hdb8ow.png)
+![landing9](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing7_i2o0pr.png)
 
 #### **Aplicación Móvil**
 - **Barra de Búsqueda Interactiva**:
