@@ -1521,8 +1521,8 @@ En esta sección explicamos los mecanismos de búsqueda que GreenTools implement
   - **Filtros Disponibles**: No aplicable, ya que la búsqueda está enfocada en términos generales.
 
 - **Presentación de Resultados**:
-  - **Formato**: Los resultados se mostrarán en tarjetas visuales, que incluyen imágenes, descripciones cortas y enlaces directos al contenido relevante.
-![Landing1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/Lading1_p41esp.png)
+  - **Formato**: Los resultados se mostrarán de acuerdo a la palabra que busque en la barra y le redireccionara al apartado.
+
 ![Landing2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing2_lmg1p0.png)
 ![landing8](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727225539/landing8_hdb8ow.png)
 ![landing9](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing7_i2o0pr.png)
@@ -1563,10 +1563,10 @@ En esta sección, el equipo detalla las acciones y técnicas que guiarán a los 
 ![Landing1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727381262/navbar_zmnffn.png)
 
 2. **Botones de Llamada a la Acción (CTA):**
-   - Se implementarán botones destacados como **"Solicitar Demostración"** y **"Contáctanos"**, ubicados estratégicamente para guiar al usuario hacia acciones clave.
+   - Se implementarán botones destacados como **"Descargar Apliacion"** y **"Contáctanos"**, ubicados estratégicamente para guiar al usuario hacia acciones clave.
 
-![landing8](https://drive.google.com/uc?export=view&id=1xdxDzzWlFmCtQFR9QwE32Zx6aH1RhfYm)
-![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4)
+![landing8](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/Lading1_p41esp.png)
+![landing9](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727234648/lading8_b8oefd.png)
 
 3. **Footer:**
    - El footer incluirá enlaces a **Términos y Condiciones**, **redirecionamiento alas redes sociales y derechos de autor**, y redes sociales, asegurando que los usuarios puedan encontrar información adicional de manera sencilla.
@@ -1577,17 +1577,17 @@ En esta sección, el equipo detalla las acciones y técnicas que guiarán a los 
 1. **Menú de Navegación Inferior:**
    - Un menú de navegación inferior con iconos intuitivos permitirá a los usuarios acceder rápidamente a funciones clave como **Riego**, **Cultivos**, y  **Datos**, **Perfil**.
 
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1FNVaOcphtP-Ha4gs4omHUD7Gt8woF3hk)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727383096/menu_de_navegacion_pr7cku.png)
 
 2. **Barra de Búsqueda:**
    - Se incluirá una barra de búsqueda en la parte superior, facilitando que los usuarios encuentren información específica sin complicaciones.
 
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1EF0W72Ed7xpedxQ585hdFqRlLpl6g91R)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727383096/busqueda_rqr23c.png)
 
 3. **Notificaciones:**
    - Las notificaciones dentro de la aplicación guiarán a los usuarios hacia eventos importantes, ayudando a que interactúen efectivamente con el sistema.
 
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1VHClFTveGCst9iok3Kl0fuNZjMWHHoAK)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727383096/notificacion_ljdsul.png)
 
 Estas estrategias de navegación están diseñadas para proporcionar una experiencia fluida, ayudando a los usuarios a interactuar de manera efectiva con **GreenTools** y alcanzar sus metas agrícolas.
 
