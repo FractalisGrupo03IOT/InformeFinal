@@ -1537,19 +1537,19 @@ En esta sección explicamos los mecanismos de búsqueda que GreenTools implement
 - **Resultados Adaptados a Pantallas Móviles**:
   - **Formato**: Los resultados se mostrarán en una lista scrollable, optimizada para móviles, con previsualizaciones rápidas que faciliten la interacción desde dispositivos táctiles.
 
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1EF0W72Ed7xpedxQ585hdFqRlLpl6g91R)
-
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727380792/searchimg_cgh5zq.png)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727381128/ooo_t2ubz4.png)
 
 #### **Aplicación Web**
 - **Búsqueda Avanzada**:
-  - **Descripción**: Un sistema de búsqueda avanzada que incluye opciones detalladas para personalizar los términos de búsqueda.
-  - **Funcionalidad**: Ofrece búsquedas por palabra clave, además de filtros detallados como tipo de producto, rango de precios, testimonios de clientes, y características técnicas específicas.
+  - **Descripción**: Un sistema de búsqueda avanzada que incluye opciones detalladas para la busqueda de plantas en especifico.
+  - **Funcionalidad**: Ofrece búsquedas por palabra clave, además de filtros detallados como tipo de planta, y algunos rangos de busqueda como fecha y mas..
   - **Filtros Disponibles**: Filtros complejos que permiten refinar la búsqueda por múltiples categorías, como producto, precio, características y fecha.
 
 - **Visualización de Resultados**:
-  - **Formato**: Los resultados aparecerán en una tabla de datos, permitiendo al usuario comparar varias opciones al mismo tiempo, con detalles claros como el nombre del producto, características clave, precio y disponibilidad.
+  - **Formato**: Los resultados aparecerán en una tabla de datos, permitiendo al usuario vizualizar las plantas de su cultivo.
 
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1mf-kMvSLiYpd22uJqiWibqNoM4cOyebo)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727381043/busqueda_ttqak4.png)
 
 
 ### 5.2.3. Navigation Systems
@@ -1560,7 +1560,7 @@ En esta sección, el equipo detalla las acciones y técnicas que guiarán a los 
 1. **Menú Principal:**
    - El encabezado incluirá un menú claro con secciones como **Inicio**, **Servicios**, **Sobre Nosotros**, **Beneficios**, **Clientes**, y **Contacto**.
    - Las etiquetas de cada sección se diseñarán para que los usuarios asocien fácilmente su contenido, evitando la saturación de información.
-![Landing1](https://drive.google.com/uc?export=view&id=1L1CHYnO_OV3d3bD8ARUnONMRgKdMvc_4)
+![Landing1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727381262/navbar_zmnffn.png)
 
 2. **Botones de Llamada a la Acción (CTA):**
    - Se implementarán botones destacados como **"Solicitar Demostración"** y **"Contáctanos"**, ubicados estratégicamente para guiar al usuario hacia acciones clave.
@@ -1569,9 +1569,9 @@ En esta sección, el equipo detalla las acciones y técnicas que guiarán a los 
 ![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4)
 
 3. **Footer:**
-   - El footer incluirá enlaces a **Términos y Condiciones**, **Política de Privacidad**, y redes sociales, asegurando que los usuarios puedan encontrar información adicional de manera sencilla.
+   - El footer incluirá enlaces a **Términos y Condiciones**, **redirecionamiento alas redes sociales y derechos de autor**, y redes sociales, asegurando que los usuarios puedan encontrar información adicional de manera sencilla.
 
-![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4)
+![landing9](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727234647/lading9_qflxbh.png)
 
 #### Navegación en la Aplicación Móvil
 1. **Menú de Navegación Inferior:**
