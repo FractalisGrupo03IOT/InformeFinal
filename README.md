@@ -1724,10 +1724,11 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
    #### Versión Móvil
 - El diseño móvil está enfocado en la simplicidad y la accesibilidad. Las pantallas de **login** y **registro** presentan campos claros para ingresar el correo, la contraseña y otros datos, con botones grandes y bien ubicados para facilitar la interacción. La pantalla principal permite gestionar estaciones de microcultivo con un solo toque, con opciones accesibles en la parte inferior para navegar entre estaciones, notificaciones y el perfil del usuario.
 - En cuanto al monitoreo de los cultivos, la versión móvil ofrece una visualización rápida y comprensible de los datos relevantes, como la **temperatura** y **humedad**, en gráficos simplificados que permiten al usuario verificar el estado del cultivo de manera eficiente.
-
-
-
-
+![LINK1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727390640/LINK1_l4oxqd.png)
+![LINK2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727390638/LINK2_sgwwh3.png)
+![LINK3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727390636/LINK3_bbrfpc.png)
+![LINK4](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727390634/LINK4_aflvvg.png)
+![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727390633/LINK5_wnbzxi.png)
 
 #### Versión Web
 - La versión web aprovecha el mayor espacio disponible en las pantallas para organizar la información de manera más amplia y visualmente atractiva. Las pantallas de **login** y **registro** siguen el mismo esquema que en móvil, pero con una distribución más espaciosa para mejorar la experiencia en pantallas más grandes.
