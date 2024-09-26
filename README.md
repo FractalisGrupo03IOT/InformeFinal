@@ -1651,45 +1651,52 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
 
 - **Encabezado:**
   - Menú de navegación claro y accesible que incluye las secciones: **Inicio**, **About**, **Solutions**, **IoT Device**, **Team**, **Benefits**, **Clients**, y **Contact**.
-  - Los botones de **"Descargar Aplicación"** y **"Contáctanos"** están diseñados para destacar visualmente, utilizando colores contrastantes que invitan a la acción.
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1W0mdBpV5sctm3SErZ6bUdHqsy9dsdPbY)
+  - Intaraciones con el  **"switch"** el cual permite que cambias de idioma el pague de ingles a español.
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727386708/lading1_ga0n8y.png)
 
 - **Sección Inicio:**
-  - Un diseño atractivo con una imagen principal que representa la propuesta de valor de **GreenTools**. La breve descripción al lado izquierdo proporciona contexto adicional, mientras que el botón **CTA** centrado facilita la descarga de la aplicación móvil.
-![Landing1](https://drive.google.com/uc?export=view&id=1L1CHYnO_OV3d3bD8ARUnONMRgKdMvc_4)
+    - Imagen destacada acompañada de un título potente que comunica la propuesta de valor de **GreenTools** y la breve descripcion al lado izquierdo la imagen de la aplicacion movil con diseño.
+    - Botón de llamada a la acción (**CTA**) en la parte izquierda para que puedan descargar la aplicacion movil y la parte superior las opciones para que apartado desde descargar la aplicacion movil.
+![Landing1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727386707/landing2_ctyxih.png)
 
 - **Sección About:**
-  - La descripción de la empresa se presenta en un formato claro y conciso, utilizando tipografías legibles que garantizan la accesibilidad.
-![Landing2](https://drive.google.com/uc?export=view&id=1XLz1lE3Jn9pkYYZ7TX3pDIUz5ztLGS7m)
+  - La descripción de la empresa se presenta en un formato claro y conciso, mostrando mision y visiion del Startup utilizando tipografías legibles que garantizan la accesibilidad.
+![Landing2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727386705/landing3_hkshmm.png)
 - **Sección Solutions:**
   - Los iconos representativos para cada servicio permiten a los usuarios identificar rápidamente las soluciones ofrecidas. Esto se complementa con breves descripciones que refuerzan la comprensión.
-![Landing3](https://drive.google.com/uc?export=view&id=1k9cjfm64Q_2ZJgux-cuEm5uOi2Wh6a6J)
+![Landing3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727386697/lannding4_i28piq.png)
 - **Sección IoT Device:**
   - Un diseño que destaca las características clave del dispositivo IoT, utilizando imágenes de alta calidad y texto explicativo.
-![landing4](https://drive.google.com/uc?export=view&id=1O7ifjY_nTYIt8kGZs4i2qrQt8sK4x0Dp)
+  - Dos cards vizualizando los precios de cada paquete de IoT para el segmento que el ususario pertenece.
+![landing4](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727386699/landing5_b8alsi.png)
 - **Sección Team:**
-  - Los perfiles del equipo se muestran en un diseño organizado, con fotos y descripciones que aportan un toque humano a la plataforma.
-![landing5](https://drive.google.com/uc?export=view&id=1qzLr8rzxcwk_SFNzcRI6DjrKbqmFMzw3)
+  - Los perfiles del equipo se muestran en un diseño organizado y descripcion de que aportan un toque humano a la plataforma.
+![landing5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727386699/landing6_b4ftwt.png)
 
 - **Sección Benefits:**
   - Los beneficios están organizados en columnas, permitiendo una visualización rápida de las ventajas de utilizar **GreenTools**.
-![landing6](https://drive.google.com/uc?export=view&id=1xQ_iN2nqbi9iY2hnt6gwHQUJFPFc16Kn)
+![landing6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727386701/landing7_obfmys.png)
 
-- **Sección Clients:**
+- **Sección key features:**
+  - En esta sección del landing page, se visualizan **6 tarjetas** destacadas que presentan las principales características de nuestra aplicación:
+![landing6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727386701/landing8_kzoslx.png)
+
+- **Sección Testimonials Clients:**
   - Se muestran logotipos de clientes destacados, lo que genera confianza y credibilidad en la marca.
-![Landing7](https://drive.google.com/uc?export=view&id=1-anD5o6ndQJzrDEiwE6zLRsdEJUzyRmx)
-![landing8](https://drive.google.com/uc?export=view&id=1xdxDzzWlFmCtQFR9QwE32Zx6aH1RhfYm)
+![Landing7](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727386703/landing9_xp7nqd.png)
 
 - **Sección Contactos y Footer:**
   - Un formulario de contacto accesible permite a los usuarios solicitar servicios o hacer consultas. El footer incluye enlaces relevantes y redes sociales, organizado de manera que sea fácil de navegar.
-![landing9](https://drive.google.com/uc?export=view&id=1IrgKAgxOOQt7CEJ5ymdGzhkr_CLtiZ_4)
+![landing9](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727386704/lainding10_phi6by.png)
 
 #### Principios de Diseño y Diseño Inclusivo
-
 - Se ha implementado una **jerarquía visual** clara, utilizando **espacios en blanco** estratégicos que permiten que los elementos clave se destaquen.
 - Se han elegido **tipografías legibles** y **contrastes adecuados** para asegurar la accesibilidad en todos los dispositivos.
 - El diseño incluye **botones grandes** y fácilmente clicables, facilitando su uso en dispositivos móviles.
 - El **Design System** utilizado establece una base coherente en todos los elementos del diseño, garantizando una experiencia de usuario fluida y consistente.
+
+- Enlace de la landing pague : https://ornate-caramel-2c563c.netlify.app
+
 
 ## 5.4. Applications UX/UI Design
 
