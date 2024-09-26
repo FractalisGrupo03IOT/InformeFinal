@@ -1174,17 +1174,37 @@ API Clients:
 #### 4.2.3.1. Domain Layer
 
 Entities:
-Value Objects: 
+- Representa un sensor individual (e.g., humedad, temperatura).
+Value Objects:
+- SensorData: Contiene los datos recolectados por un sensor (e.g., valor, timestamp).
 Aggregates:
+- Cultivo: Agrupa múltiples Sensor y asocia el grupo a un userId y a un cultivo específico.
 Repositories:
+- ICultivoRepository: Interface para acceder a los cultivos almacenados en el contexto del IoT System.
 Services:
-
+- DataValidationService: Valida la integridad y consistencia de los datos de los sensores.
 #### 4.2.3.2. Interface Layer
+Clases Principales:
 
-API Endpoints:
-DTOs:
-View Models: 
-Controllers:
+- Controllers:
+
+  - SensorController: Expone endpoints para recibir y gestionar datos de sensores asociados a un cultivo.
+- Consumers:
+
+  - SensorDataConsumer: Escucha mensajes entrantes de los sensores a través del Edge Server.
+Descripción de las Clases:
+
+- SensorController:
+
+  - Responsabilidad: Proveer endpoints REST para la recepción y gestión de datos de sensores asociados a un cultivo específico.
+  - Endpoints Principales:
+    - POST /cultivos/{cultivoId}/sensores/data: Recibe datos de sensores desde el Edge Server.
+    - GET /cultivos/{cultivoId}/sensores: Obtiene la lista de sensores asociados a un cultivo.
+    - GET /cultivos/{cultivoId}/sensores/{sensorId}: Obtiene información detallada de un sensor específico.
+- SensorDataConsumer:
+
+  - Responsabilidad: Consumir mensajes del Message Broker provenientes del Edge Server.
+  - Funcionalidad: Procesar datos en tiempo real y enviar comandos si es necesario.
 
 #### 4.2.3.3. Application Layer
 
