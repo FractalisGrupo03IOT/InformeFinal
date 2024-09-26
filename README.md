@@ -1695,7 +1695,7 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
 - El diseño incluye **botones grandes** y fácilmente clicables, facilitando su uso en dispositivos móviles.
 - El **Design System** utilizado establece una base coherente en todos los elementos del diseño, garantizando una experiencia de usuario fluida y consistente.
 
-- Enlace de la landing pague : https://ornate-caramel-2c563c.netlify.app
+- Enlace de la landing pague : https://greentools-landing-page.netlify.app/es/index.html
 
 
 ## 5.4. Applications UX/UI Design
