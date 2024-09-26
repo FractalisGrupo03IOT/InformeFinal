@@ -1724,6 +1724,14 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
    #### Versión Móvil
 - El diseño móvil está enfocado en la simplicidad y la accesibilidad. Las pantallas de **login** y **registro** presentan campos claros para ingresar el correo, la contraseña y otros datos, con botones grandes y bien ubicados para facilitar la interacción. La pantalla principal permite gestionar estaciones de microcultivo con un solo toque, con opciones accesibles en la parte inferior para navegar entre estaciones, notificaciones y el perfil del usuario.
 - En cuanto al monitoreo de los cultivos, la versión móvil ofrece una visualización rápida y comprensible de los datos relevantes, como la **temperatura** y **humedad**, en gráficos simplificados que permiten al usuario verificar el estado del cultivo de manera eficiente.
+Entonces en la **app móvil**, se cumple los criterios de la siguiente manera:
+
+- **Diseño Inclusivo**: Cumplo parcialmente. Los botones son claros y accesibles, pero debo mejorar el contraste entre texto y fondo para una mejor accesibilidad visual.
+  
+- **Elementos de Diseño**: Cumplo. La interfaz es consistente, con botones bien ubicados y pantallas organizadas de forma clara. Las secciones como **notificaciones**, **pago** y **estaciones** son intuitivas y fáciles de navegar.
+
+- **Arquitectura de Información**: Cumplo. La información está bien distribuida y es fácil de seguir. Los datos clave como el estado de las plantas, notificaciones y opciones de pago están claramente diferenciados, lo que facilita la navegación.
+
 ![LINK1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727390640/LINK1_l4oxqd.png)
 ![LINK2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727390638/LINK2_sgwwh3.png)
 ![LINK3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727390636/LINK3_bbrfpc.png)
@@ -1736,18 +1744,16 @@ En los wireframes de la version web, se observa lo siguiente de forma directa y 
 - **Diseño Inclusivo**: Cumple parcialmente. Los elementos son grandes y bien posicionados, pero falta mejorar el contraste y accesibilidad visual.
 - **Elementos de Diseño**: Cumple. La interfaz es consistente, con un diseño claro en cada pantalla (e.g., encabezados, botones y secciones bien organizadas).
 - **Arquitectura de Información**: Cumple. La información está distribuida lógicamente, con un flujo de navegación claro y fácil de seguir entre pantallas (e.g., notificaciones, pago, estaciones).
-
-
-
-
-
+![LINK1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727393931/web1_xacsqz.png)
+![LINK2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727393930/web2_ddpemu.png)
+![LINK3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727393928/web3_g6pltp.png)
+![LINK4](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727393927/web4_g1iplg.png)
+![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727393926/web5_vgw5rs.png)
+![LINK6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727393925/web6_gay4cn.png)
+![LINK7](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727393637/web7_ldyelo.png)
 ---
 Este diseño asegura una experiencia consistente en ambos formatos, adaptándose a las necesidades de los usuarios que prefieren gestionar sus microcultivos tanto desde dispositivos móviles como desde una computadora.
-
-
-
-
-  
+ 
   ### 5.4.2. Applications Wireflow Diagrams
   _Contenido por añadir..._
 
