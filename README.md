@@ -1701,8 +1701,29 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
 ## 5.4. Applications UX/UI Design
 
   ### 5.4.1. Applications Wireframes
-  _Contenido por añadir..._
+   #### Versión Móvil
+- El diseño móvil está enfocado en la simplicidad y la accesibilidad. Las pantallas de **login** y **registro** presentan campos claros para ingresar el correo, la contraseña y otros datos, con botones grandes y bien ubicados para facilitar la interacción. La pantalla principal permite gestionar estaciones de microcultivo con un solo toque, con opciones accesibles en la parte inferior para navegar entre estaciones, notificaciones y el perfil del usuario.
+- En cuanto al monitoreo de los cultivos, la versión móvil ofrece una visualización rápida y comprensible de los datos relevantes, como la **temperatura** y **humedad**, en gráficos simplificados que permiten al usuario verificar el estado del cultivo de manera eficiente.
 
+
+
+
+
+#### Versión Web
+- La versión web aprovecha el mayor espacio disponible en las pantallas para organizar la información de manera más amplia y visualmente atractiva. Las pantallas de **login** y **registro** siguen el mismo esquema que en móvil, pero con una distribución más espaciosa para mejorar la experiencia en pantallas más grandes.
+- En la **pantalla principal**, los usuarios pueden ver sus estaciones de cultivo representadas con imágenes más grandes y detalladas, facilitando la gestión de múltiples estaciones desde el escritorio. El menú de navegación se ubica en la parte superior, permitiendo un acceso rápido a las funciones principales, como las estaciones, las notificaciones y la configuración del perfil.
+- El monitoreo en la versión web incluye gráficos más detallados y ampliados, lo que permite a los usuarios seguir el estado de sus cultivos con mayor precisión, viendo métricas como **temperatura** y **humedad** en tiempo real, todo dispuesto de manera organizada y fácil de leer.
+
+
+
+
+---
+Este diseño asegura una experiencia consistente en ambos formatos, adaptándose a las necesidades de los usuarios que prefieren gestionar sus microcultivos tanto desde dispositivos móviles como desde una computadora.
+
+
+
+
+  
   ### 5.4.2. Applications Wireflow Diagrams
   _Contenido por añadir..._
 
