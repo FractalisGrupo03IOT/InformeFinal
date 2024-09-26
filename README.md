@@ -1731,9 +1731,19 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
 ![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727390633/LINK5_wnbzxi.png)
 
 #### Versión Web
-- La versión web aprovecha el mayor espacio disponible en las pantallas para organizar la información de manera más amplia y visualmente atractiva. Las pantallas de **login** y **registro** siguen el mismo esquema que en móvil, pero con una distribución más espaciosa para mejorar la experiencia en pantallas más grandes.
-- En la **pantalla principal**, los usuarios pueden ver sus estaciones de cultivo representadas con imágenes más grandes y detalladas, facilitando la gestión de múltiples estaciones desde el escritorio. El menú de navegación se ubica en la parte superior, permitiendo un acceso rápido a las funciones principales, como las estaciones, las notificaciones y la configuración del perfil.
-- El monitoreo en la versión web incluye gráficos más detallados y ampliados, lo que permite a los usuarios seguir el estado de sus cultivos con mayor precisión, viendo métricas como **temperatura** y **humedad** en tiempo real, todo dispuesto de manera organizada y fácil de leer.
+En los wireframes de la version web, se observa lo siguiente de forma directa y concisa:- **Pantallas**: Hay pantallas principales para **notificaciones**, **pago**, **estado**, **mejoras** y **estaciones**.
+  
+- **Diseño**: Todas las pantallas siguen un diseño con un encabezado constante que contiene un **título**, un **ID de usuario** y botones para navegación (e.g., "Upgrade", "button").
+  
+- **Notificaciones**: Divididas por secciones de **Hoy**, **Ayer** y **Sistema**, con cajas para descripciones de texto.
+  
+- **Pago**: Presenta un área para una **imagen**, **descripción de texto**, campos de información y botones.
+  
+- **Estado**: Muestra **gráficos** y texto explicativo en formato visual, con un enfoque en la representación de datos.
+  
+- **Mejoras y Estaciones**: Ofrecen opciones para ver **estaciones** o realizar **mejoras**, con botones de acción en cada sección.
+  
+- **Consistencia**: Todos los wireframes mantienen el mismo layout básico con **encabezados fijos** y botones accesibles en la parte superior, junto con un área central dinámica según la pantalla.
 
 
 
