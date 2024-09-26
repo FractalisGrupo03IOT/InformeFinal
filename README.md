@@ -1732,18 +1732,11 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
 
 #### Versión Web
 En los wireframes de la version web, se observa lo siguiente de forma directa y concisa:- **Pantallas**: Hay pantallas principales para **notificaciones**, **pago**, **estado**, **mejoras** y **estaciones**.
-  
-- **Diseño**: Todas las pantallas siguen un diseño con un encabezado constante que contiene un **título**, un **ID de usuario** y botones para navegación (e.g., "Upgrade", "button").
-  
-- **Notificaciones**: Divididas por secciones de **Hoy**, **Ayer** y **Sistema**, con cajas para descripciones de texto.
-  
-- **Pago**: Presenta un área para una **imagen**, **descripción de texto**, campos de información y botones.
-  
-- **Estado**: Muestra **gráficos** y texto explicativo en formato visual, con un enfoque en la representación de datos.
-  
-- **Mejoras y Estaciones**: Ofrecen opciones para ver **estaciones** o realizar **mejoras**, con botones de acción en cada sección.
-  
-- **Consistencia**: Todos los wireframes mantienen el mismo layout básico con **encabezados fijos** y botones accesibles en la parte superior, junto con un área central dinámica según la pantalla.
+
+- **Diseño Inclusivo**: Cumple parcialmente. Los elementos son grandes y bien posicionados, pero falta mejorar el contraste y accesibilidad visual.
+- **Elementos de Diseño**: Cumple. La interfaz es consistente, con un diseño claro en cada pantalla (e.g., encabezados, botones y secciones bien organizadas).
+- **Arquitectura de Información**: Cumple. La información está distribuida lógicamente, con un flujo de navegación claro y fácil de seguir entre pantallas (e.g., notificaciones, pago, estaciones).
+
 
 
 
