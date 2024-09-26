@@ -1438,7 +1438,6 @@ La landing page de GreenTools aplica sistemas de organización de manera efectiv
 ![Landing3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing3_r9vup6.png)
 ![alquilerendispotivoiot](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727234639/landing6_vqdil4.png)
 ![nuestroequipo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727234647/landing7_tkjnsc.png)
-![landing6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing5_qwyf7m.png)
 ![Landing7](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing6_pw5muq.png)
 ![landing8](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727225539/landing8_hdb8ow.png)
 ![landing9](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727234648/lading8_b8oefd.png)
@@ -1560,6 +1559,7 @@ En esta sección, el equipo detalla las acciones y técnicas que guiarán a los 
 1. **Menú Principal:**
    - El encabezado incluirá un menú claro con secciones como **Inicio**, **Servicios**, **Sobre Nosotros**, **Beneficios**, **Clientes**, y **Contacto**.
    - Las etiquetas de cada sección se diseñarán para que los usuarios asocien fácilmente su contenido, evitando la saturación de información.
+   
 ![Landing1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727381262/navbar_zmnffn.png)
 
 2. **Botones de Llamada a la Acción (CTA):**
