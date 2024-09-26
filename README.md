@@ -658,8 +658,8 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 | **Entrevistado 03**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
-| **Nombre y apellidos**                                       |  Fer López                                               |
-| **Imagen**                                                   | ![Texto alternativo](https://media.discordapp.net/attachments/1282304254929010689/1282304308943130714/entrevista03.png?ex=66dede73&is=66dd8cf3&hm=c4875e66d98a756b4c971a6e747ef976699893cf8ea65877113a11f958e48517&=&format=webp&quality=lossless&width=720&height=205)                           |
+| **Nombre y apellidos**                                       |  Fernando López                                               |
+| **Imagen**                                                   | ![Texto alternativo](/assets/chapter4/entrevista-felopez.png)                           |
 | **Inicio de la entrevista**                                  | 11:00                                                                               |
 | **Fin de la entrevista**                                     | 20:01                                                                               |
 | **Duración**                                                 | 09:01                                                                               |
@@ -736,9 +736,9 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 Los User Personas son esenciales para el éxito de GreenTools para ofrecer soluciones personalizadas que aborden de manera eficaz los desafíos únicos de cada segmento objetivo. Desde la implementación de tecnologías IoT para dueños de invernaderos interesados en maximizar la eficiencia y sostenibilidad de sus cultivos, hasta la diversificación y optimización de recursos para propietarios de microcultivos, los User Personas guían el diseño de nuestra oferta, asegurando que responda con precisión a las demandas tanto de principiantes en la adopción tecnológica como de expertos que buscan innovación avanzada en sus operaciones agrícolas.
 
-![User01](https://media.discordapp.net/attachments/624357483116232707/1279965053931622420/image.png?ex=66d85619&is=66d70499&hm=7dfdf7d098c72c25bf9cf0c4f2071f82121929bdc8a7d63bda6e03718c32f2ec&=&format=webp&quality=lossless&width=334&height=468)
+![User01](/assets/chapter4/US-Roberto.png)
 
-![User02](https://media.discordapp.net/attachments/624357483116232707/1279965078413774971/image.png?ex=66d8561f&is=66d7049f&hm=a45f0a6ce90d0bb2a7470c478dbee81fa9c849e2ae4642bbf8ef56188c98370e&=&format=webp&quality=lossless&width=292&height=468)
+![User02](/assets/chapter4/US-Ana.png)
 
 
 ### 2.3.2. User Task Matrix
@@ -778,9 +778,9 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 
 ### 2.3.5. As-is Scenario Mapping
 
-![ASM-01](https://media.discordapp.net/attachments/1282304254929010689/1282315339442426000/Imagen2.jpg?ex=66dee8b9&is=66dd9739&hm=1ba29bd8cacdcbf601d739750267e8c145d59d57543c7ca887875c931bdd675e&=&format=webp)
+![ASM-01](/assets/chapter4/As-Is-Invernadero.jpg)
 
-![ASM-02](https://media.discordapp.net/attachments/1282304254929010689/1282316078697156771/Imagen3.jpg?ex=66dee969&is=66dd97e9&hm=c7f815eb24f72baccd97677488b7f652d5d78b7d914bfaeed07f91eea19b9c3d&=&format=webp)
+![ASM-02](/assets/chapter4/As-Is-Microcultivo.jpg)
 
 ## 2.4. Ubiquitous Language
 
@@ -788,7 +788,6 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 
 - **Microfarm (Microcultivo):** Pequeñas parcelas de terreno dedicadas al cultivo de diversas especies agrícolas, generalmente en áreas urbanas o residenciales.
 
-- **IoT (Internet of Things - Internet de las Cosas):** Red de dispositivos conectados que intercambian datos automáticamente, aplicados en la agricultura para el monitoreo y control remoto de cultivos y sistemas de irrigación.
 
 - **Subscription Model (Modelo de Suscripción):** Modelo de negocio en el que los usuarios pagan una tarifa recurrente para acceder a servicios o productos, como el acceso a plataformas de gestión agrícola y el alquiler de equipos IoT.
 
