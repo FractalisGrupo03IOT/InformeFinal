@@ -1601,44 +1601,43 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
 ##### a. **Wireframe para Desktop Web Browser**
 
 - **Encabezado:**
-  - Menú de navegación en la parte superior con las secciones clave: **Inicio**, **About**, **Solutions**, **IoT Device**, **Team**, **Benefits**, **Contacts y footer**.
-  - Botones de **"Descargar Apliacion"** y **"Contáctanos"**  en el lado derecho del menú.
+  - Menú de navegación en la parte superior con las secciones clave :**Inicio** **Inicio**, **About**, **Solutions**, **IoT Device**, **Team**, **Benefits**, **Contacts y footer**.
+  - Intaraciones con el  **"switch"** el cual permite que cambias de idioma el pague de ingles a español.
 
-   ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1KTEny6QDtW9yy41Pn6K0IGqZNBpIhL04)
+   ![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727384465/siberbarlading_rirq3d.png)
 
 - **Sección Inicio:**
   - Imagen destacada acompañada de un título potente que comunica la propuesta de valor de **GreenTools** y la breve descripcion al lado izquierdo la imagen de la aplicacion movil con diseño.
-  - Botón de llamada a la acción (**CTA**) centralizado para que puedan descargar la aplicacion movil.
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1KTEny6QDtW9yy41Pn6K0IGqZNBpIhL04)
-
+  - Botón de llamada a la acción (**CTA**) en la parte izquierda para que puedan descargar la aplicacion movil y la parte superior las opciones para que apartado desde descargar la aplicacion movil.
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727384466/landing2_vqkuia.png)
 
 - **Sección About:**
   - Breve descripción de la empresa y su misión.
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1nJksLPPPFrnKVQEls3F8OtkDV1Cs8u1K)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727384466/landing3_wq5izv.png)
 
 - **Sección Solutions:**
   - Descripción de las soluciones ofrecidas, con iconos representativos para cada servicio.
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1hBfF_8iHYd5vYfX_ia384za5zTKx7KPR)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727384467/landing4_bxgvk5.png)
 
 - **Sección IoT Device:**
   - Detalle sobre el dispositivo IoT y su integración con los servicios ofrecidos.
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1s5Nw2QY9Qgi2QS4fsCbOn03UM5tLTSYr)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727384468/landing5_qfyecv.png)
 
 - **Sección Team:**
   - Perfiles del equipo clave, con fotos y descripciones breves.
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1_srCrqjjGm19qiCx2x62ileI86F4bQ3S)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727384469/landing6_mbr1nl.png)
 
 - **Sección Benefits:**
-  - Presentación en columnas de los principales beneficios de la plataforma.
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1E3lJnvuaWRRX5J9LgOEAuIUuf113mDMz)
+  - Presentación en columnas de cards de los principales beneficios de la plataforma.
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727384470/landing7_olwled.png)
 
-- **Sección Clients:**
-  - Logotipos o testimonios de los principales clientes que han usado la plataforma.
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1N42p1n9QyNXPHSyL4KGEvkHAfdfr0cB_)
+- **Sección Testimonials Users:**
+  - Testimonios de los principales clientes que han usado la plataforma.
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727384471/landing8_p0ewii.png)
 
 - **Sección Contactos y footer:**
   - Formulario con datos de entrada para solicitad servicios o consultas.
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=15EyH4LVynXc_DkmxEyOIFeeokYLkliQV)
+![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727384464/landing9_q9aoxg.png)
 
 #### Principios de Diseño y Diseño Inclusivo
 - Se aplican principios de diseño como la **jerarquía visual**, el uso de **espacios en blanco** para resaltar elementos clave y la **accesibilidad**, utilizando fuentes legibles, contrastes adecuados y botones grandes para facilitar su uso en dispositivos móviles. La arquitectura de la información se ha diseñado para permitir que los usuarios naveguen fácilmente por el contenido, encontrando la información clave de manera rápida y sin distracciones.
