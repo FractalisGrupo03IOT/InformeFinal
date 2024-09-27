@@ -2077,7 +2077,80 @@ Web application:
 ![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727411736/web5_jshbd2.png)
 
 ### 5.4.4. Applications User Flow Diagrams
-  _Contenido por añadir..._
+#### User Flow Diagrams - Aplicación Móvil
+##### 1. Login
+**User Goal**: Iniciar sesión en la cuenta.
+- **Flujo**:
+  1. Selecciona "Login" en la pantalla de bienvenida.
+  2. Ingresa correo y contraseña.
+  3. Accede a la pantalla principal.
+- **Unhappy Path**:
+  - Error por datos incorrectos.
+  - Opción para recuperar la contraseña.
+![Login](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727412358/mov1_rjsz3m.png)
+
+##### 2. Sign Up
+**User Goal**: Registrarse en la aplicación.
+- **Flujo**:
+  1. Selecciona "Register" en la pantalla de bienvenida.
+  2. Completa el formulario de registro.
+  3. Crea o selecciona una estación.
+  4. Realiza un pago si es necesario.
+  5. Pantalla de confirmación.
+- **Unhappy Path**:
+  - Error en el registro por datos incorrectos.
+  - Cancelación del proceso.
+![Sign Up](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727412358/mov2_c18rgx.png)
+
+##### 3. Create My Station
+**User Goal**: Crear una nueva estación.
+- **Flujo**:
+  1. Inicia la creación de una estación.
+  2. Ingresa el nombre y tipo de estación.
+  3. Añade plantas a la estación.
+  4. Se muestra la nueva estación en la lista.
+- **Unhappy Path**:
+  - Error por falta de información.
+  - Cancelación de la creación.
+![Create My Station](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727412357/mov4_klfgow.png)
+
+##### 4. Add a Plant to My Station
+**User Goal**: Agregar una nueva planta a la estación.
+- **Flujo**:
+  1. Selecciona su estación.
+  2. Elige la categoría de la estación.
+  3. Selecciona una planta del catálogo.
+  4. Añade información adicional y guarda.
+- **Unhappy Path**:
+  - Cancelación en cualquier punto.
+  - Falta de datos requeridos.
+![Add a Plant to My Station](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727412358/mov5_azoay2.png)
+
+##### 5. See My Plants
+**User Goal**: Ver el estado de las plantas.
+- **Flujo**:
+  1. Selecciona una estación.
+  2. Elige una planta para ver detalles.
+  3. Visualiza gráficos de estado de la planta.
+- **Unhappy Path**:
+  - Fallo en la carga de datos.
+  - Regreso a la pantalla principal.
+![See My Plants](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727412432/mov3_abt0so.png)
+
+##### 6. Change Plan
+**User Goal**: Cambiar el plan de la estación.
+- **Flujo**:
+  1. El usuario selecciona su estación.
+  2. Elige el plan a actualizar.
+  3. Completa el formulario de pago.
+  4. Recibe una pantalla de confirmación.
+- **Unhappy Path**: 
+  - Cancelación en el pago.
+  - Falla en la transacción.
+![Change Plan](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727412357/mov6_mljfqv.png)
+
+
+
 
 ## 5.5. Applications Prototyping
 _Contenido por añadir..._
