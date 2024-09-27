@@ -2023,8 +2023,6 @@ Web application:
 ![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408633/web5_xumspq.png)
 ![LINK6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408635/web6_uvjovr.png)
 - enlace: https://www.figma.com/design/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=41-2&node-type=canvas&t=j4pRuLe8OcggKtSi-0
-
-
 ### 5.4.3. Applications Mock-ups
 
 #### Mock-ups de la Aplicación Móvil
