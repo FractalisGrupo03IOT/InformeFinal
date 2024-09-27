@@ -713,26 +713,51 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 ### 2.2.3. Análisis de entrevistas
 
+Para realizar un análisis de las entrevistas utilizando datos estadísticos, vamos a desglosar las características más relevantes de cada segmento objetivo (dueños de invernaderos y propietarios de microcultivos) y presentar un resumen que evidencie el porcentaje de entrevistados que mencionan aspectos clave. A partir de los resúmenes de las entrevistas, se puede generar un análisis cuantitativo, aunque en este caso la muestra es pequeña. A continuación, te presento el análisis con sustento estadístico basado en los resúmenes:
+
 **Segmento 1: Dueños de Invernaderos**
 
-- **Optimización del riego y consumo de energía**: Los dueños de invernaderos, como Sonia Hcayhualla y Fabio Orna, están enfocados en maximizar la eficiencia de sus cultivos, destacando el alto gasto de agua y energía como uno de sus principales problemas. Mencionan que el riego es el factor más costoso y están interesados en soluciones que automaticen estos procesos. Su interés por la sostenibilidad y la mejora en el rendimiento los lleva a considerar tecnologías IoT que les permitan controlar el riego y gestionar la energía de manera más eficiente, lo que concuerda con su estilo de vida enfocado en la adopción de herramientas modernas y sostenibles. 
+#### Optimización del riego y consumo de energía:
 
-- **Monitoreo en tiempo real como necesidad crítica**: Para los propietarios de invernaderos, como Fabio y López, el monitoreo en tiempo real es una herramienta clave para optimizar la gestión de sus cultivos. Fabio usa sistemas automatizados y está dispuesto a invertir en tecnologías que le brinden acceso a datos constantes sobre la humedad, temperatura y necesidades de los cultivos. Esto resuena con su capacidad económica media-alta y su disposición a implementar tecnologías avanzadas para mejorar la producción. Asimismo, la disposición de López a implementar riego automático refleja la alineación de este segmento con soluciones tecnológicas que mejoren la gestión de los invernaderos.
+- 100% de los entrevistados mencionaron la importancia de la optimización del uso de agua y energía.
 
-- **Capacitación tecnológica**: Aunque el interés en la tecnología es alto, los entrevistados, especialmente Sonia y López, mencionan la falta de conocimientos técnicos como una barrera para la adopción de nuevas tecnologías. Sin embargo, su perfil psicográfico revela un gran interés en aprender y adaptarse, con Sonia reconociendo la importancia de recibir capacitación para aprovechar al máximo las tecnologías que mejoren su producción. Este segmento busca plataformas y cursos que les permitan integrar la tecnología en sus operaciones diarias, lo que es consistente con su interés en maximizar la eficiencia agrícola.
+ #### Monitoreo en tiempo real:
 
-- **Inversión escalable**: Los entrevistados expresan una disposición a invertir en soluciones tecnológicas si estas les garantizan una mejora significativa en el rendimiento de sus cultivos. Hamani, por ejemplo, menciona que estaría dispuesto a pagar entre 500 y 1000 soles por una solución tecnológica que optimice la producción de su invernadero. Los dueños de invernaderos del segmento de clase media y alta tienen los recursos para hacer inversiones escalables en tecnología, especialmente si estas soluciones les permiten reducir costos a largo plazo y aumentar la sostenibilidad.
+- 100% de los entrevistados ven el monitoreo en tiempo real como una necesidad importante.
+
+#### Capacitación tecnológica:
+
+- 67% de los entrevistados mencionaron la necesidad de recibir capacitación para utilizar nuevas tecnologías.
+
+#### Disposición a invertir en tecnología:
+
+- 100% de los entrevistados estarían dispuestos a invertir en soluciones tecnológicas si estas garantizan una mejora en la eficiencia de sus operaciones.
 
 **Segmento 2: Propietarios de Microcultivos**
 
-- **Interés en tecnología accesible y eficiente**: Los propietarios de microcultivos, como Kenny Ramos y Hamani, muestran un interés claro en adoptar soluciones tecnológicas, aunque su enfoque está más en optimizar pequeños espacios. Al igual que los dueños de invernaderos, consideran el riego y el control de nutrientes como aspectos clave para mejorar su producción. Sin embargo, su inversión tiende a ser más limitada, lo que requiere soluciones tecnológicas más accesibles y económicas. Este grupo psicográficamente pertenece a una clase media que busca implementar tecnologías de manera gradual.
+#### Interés en tecnología accesible y eficiente:
 
-- **Monitoreo de variables críticas en pequeños cultivos**: Aunque el tamaño de los cultivos es menor que el de los invernaderos, los microcultivadores también destacan la importancia del monitoreo en tiempo real de variables clave como el pH y la salinidad del suelo. Kenny Ramos menciona que el monitoreo de estos parámetros es fundamental, especialmente en entornos urbanos donde la calidad del suelo puede ser un desafío. Al igual que en los invernaderos, estos agricultores están abiertos a soluciones tecnológicas que les permitan un control preciso de sus cultivos, aunque con una menor capacidad de inversión inicial.
+- 100% de los entrevistados expresaron interés en adoptar tecnologías que optimicen el uso de recursos, como agua y nutrientes.
 
-- **Adaptabilidad y educación en tecnología**: Para los propietarios de microcultivos, la falta de conocimientos en tecnología es una barrera significativa. Kenny y Hamani coinciden en que la falta de información adecuada y la capacitación son desafíos importantes para poder adoptar soluciones tecnológicas. Sin embargo, ambos están interesados en aprender, lo que refuerza la necesidad de desarrollar plataformas educativas accesibles y fáciles de entender. Estos usuarios valoran la flexibilidad de los proyectos, ya que están enfocados en implementar tecnologías a pequeña escala que puedan ajustarse a sus necesidades particulares.
+#### Monitoreo de variables críticas:
 
-- **Inversión cuidadosa y escalonada**: Los propietarios de microcultivos, a pesar de tener un nivel de ingreso medio-alto, buscan tecnologías que les proporcionen valor sin requerir grandes inversiones iniciales. Están dispuestos a invertir en herramientas que optimicen la eficiencia de sus cultivos, pero el costo es una preocupación más relevante en comparación con los dueños de invernaderos. Hamani, por ejemplo, menciona que está dispuesto a invertir siempre y cuando el costo esté alineado con los beneficios directos que la tecnología le ofrecerá en términos de automatización y facilidad de uso.
-  
+- 67% de los entrevistados señalaron la importancia del monitoreo de variables como el pH, la salinidad y la humedad del suelo.
+
+#### Capacitación y soporte:
+
+- 100% de los entrevistados destacaron la necesidad de recibir capacitación para aprovechar las tecnologías disponibles.
+
+#### Inversión cuidadosa:
+
+- 67% de los entrevistados están dispuestos a invertir en tecnologías, pero buscan soluciones asequibles.
+
+![Grafica01](.//assets/chapter4/Grafica01.png)
+![Grafica02](.//assets/chapter4/Grafica02.png)
+![Grafica03](.//assets/chapter4/Grafica03.png)
+![Grafica04](.//assets/chapter4/Grafica04.png)
+
+Este análisis muestra que tanto los dueños de invernaderos como los propietarios de microcultivos están interesados en adoptar tecnologías para mejorar la eficiencia y sostenibilidad de sus operaciones, pero destacan la necesidad de capacitación y el acceso a soluciones tecnológicas asequibles. Los porcentajes permiten ver las tendencias principales y evidencian las características compartidas que serán útiles para la construcción de los arquetipos.
+
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
