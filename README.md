@@ -2154,6 +2154,7 @@ Web application:
   - Falla en la transacción.
 ![Change Plan](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727412357/mov6_mljfqv.png)
 
+- Enlace : https://www.figma.com/design/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=102-2&node-type=canvas&t=j4pRuLe8OcggKtSi-0
 
 #### User Flow Diagrams - Aplicación Web
 ##### 1. Login
@@ -2226,6 +2227,8 @@ Web application:
   - Cancelación en el pago.
   - Falla en la transacción.
 ![Change Plan](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727413934/w6_mb9ion.png)
+
+-Enlace: https://www.figma.com/design/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=41-2&node-type=canvas&t=j4pRuLe8OcggKtSi-0
 
 ## 5.5. Applications Prototyping
 _Contenido por añadir..._
