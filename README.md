@@ -1928,7 +1928,7 @@ Este diseño asegura una experiencia consistente en ambos formatos, adaptándose
 3. **Validación**: La aplicación verifica las credenciales.
 4. **Pantalla Principal**: Tras la validación exitosa, accede a la pantalla principal de la aplicación, donde puede ver y gestionar sus estaciones.
 ##### Explicación del flujo:
-Este wireflow refleja el proceso típico de inicio de sesión para Carlos. Comienza con la **Pantalla de Bienvenida**, que le da la opción de iniciar sesión o registrarse. Tras elegir iniciar sesión, introduce sus credenciales y accede a la **Pantalla Principal**, donde puede gestionar sus estaciones. Cada paso del wireflow muestra cómo cambia el estado de la aplicación a medida que avanza en el flujo.
+- Este wireflow refleja el proceso típico de inicio de sesión. Comienza con la **Pantalla de Bienvenida**, que le da la opción de iniciar sesión o registrarse. Tras elegir iniciar sesión, introduce sus credenciales y accede a la **Pantalla Principal**, donde puede gestionar sus estaciones. Cada paso del wireflow muestra cómo cambia el estado de la aplicación a medida que avanza en el flujo.
 ---
 #### User Goal 2: Añadir una nueva estación
 **Descripción del User Persona**: 
