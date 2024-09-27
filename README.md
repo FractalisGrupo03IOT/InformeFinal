@@ -1177,7 +1177,7 @@ Descripción de las Clases:
 
 ##### 4.2.1.6.2. Bounded Context Database Design Diagram
 
-![Account Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150691657224233/GreenTools-2024-09-07_20-27.png?ex=66de4f62&is=66dcfde2&hm=78cb1a1e0b5af71acbf18ef5dddd8c4eba049437e4d70e7ed651338c2a5d18f8&=&format=webp&quality=lossless&width=947&height=671)
+![Account Bounded Context](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727411824/si2-2024-09-26_23-36_1_g5jzcp.png)
 
 ### 4.2.2. Bounded Context: \<IoT System>
 
@@ -1259,7 +1259,7 @@ Clases Principales:
 
 ##### 4.2.2.6.2. Bounded Context Database Design Diagram
 
-![IoT System Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150691997225001/GreenTools-2024-09-07_20-28_1.png?ex=66de4f62&is=66dcfde2&hm=7fcb74b595b854f0976ba9fa710032cea580ae34bde69358a6c975dfcf399713&=&format=webp&quality=lossless&width=947&height=671)
+![IoT System Bounded Context](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727411824/si2-2024-09-26_23-35_do5hyx.png)
 
 ### 4.2.3. Bounded Context: \<Crop Inventory>
 
@@ -1360,7 +1360,7 @@ Descripción de las Clases:
 
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
-![Crop Status Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150692420583454/GreenTools-2024-09-07_20-28.png?ex=66de4f62&is=66dcfde2&hm=7b71bf96310cd7066836c673a41fafb42b0b2507b6cb5993d6c21b2ab6c027f8&=&format=webp&quality=lossless&width=947&height=671)
+![Crop Status Bounded Context](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727411824/si2-2024-09-26_23-36_1_g5jzcp.png)
 
 ### 4.2.4. Bounded Context: \<Crop Status>
 
@@ -1440,7 +1440,7 @@ Clases Principales:
 
 ##### 4.2.4.6.2. Bounded Context Database Design Diagram
 
-![Crop Status Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150692697669685/GreenTools-2024-09-07_20-27_1.png?ex=66de4f62&is=66dcfde2&hm=c7fb353f3e617af167dae216d22a39e1c4cdd9ea0cd82bf481e177409eda3687&=&format=webp&quality=lossless&width=947&height=671)
+![Crop Status Bounded Context](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727411824/si2-2024-09-26_23-35_1_awutss.png)
 
 # Capítulo V: Solution UI/UX Design
 
