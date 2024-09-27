@@ -1360,7 +1360,7 @@ Descripción de las Clases:
 
 ##### 4.2.3.6.2. Bounded Context Database Design Diagram
 
-![Crop Status Bounded Context](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727411824/si2-2024-09-26_23-36_1_g5jzcp.png)
+![Crop Status Bounded Context](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727411824/si2-2024-09-26_23-36_itz88h.png)
 
 ### 4.2.4. Bounded Context: \<Crop Status>
 
