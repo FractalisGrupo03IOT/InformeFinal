@@ -1084,31 +1084,81 @@ Este último diagrama muestra las plataformas y herramientas de despliegue para 
 #### 4.2.1.1. Domain Layer
 
 Entities:
-Value Objects: 
+- Usuario: Representa a un usuario del sistema.
+Value Objects:
+- Membresia: Representa el tipo de membresía (básica o avanzada).
 Aggregates:
+- CuentaAggregate: Agrupa Usuario y su Membresia.
+Factories:
+- UsuarioFactory: Crea nuevas cuentas de usuario.
+Domain Services:
+- AutenticacionService: Maneja la autenticación y autorización de usuarios.
 Repositories:
-Services:
+- IUsuarioRepository: Interface para acceder a los usuarios almacenados.
 
 #### 4.2.1.2. Interface Layer
 
-API Endpoints:
-DTOs:
-View Models: 
-Controllers:
+Clases Principales:
+
+- Controllers:
+
+  - CuentaController: Expone endpoints para gestionar cuentas de usuario.
+- Consumers:
+
+  - CuentaConsumer: Escucha eventos relacionados con la gestión de cuentas.
+Descripción de las Clases:
+
+- CuentaController:
+
+  - Responsabilidad: Proveer endpoints REST para la gestión de cuentas de usuario.
+  - Endpoints Principales:
+    - POST /cuenta/register: Registro de nuevos usuarios.
+    - POST /cuenta/login: Autenticación de usuarios.
+    - PUT /cuenta/{usuarioId}/membresia: Actualización de la membresía del usuario.
+    - GET /cuenta/{usuarioId}: Obtiene información de la cuenta del usuario.
+- CuentaConsumer:
+  - Responsabilidad: Consumir eventos relacionados con cambios en las cuentas, como actualizaciones de membresía.
+  - Funcionalidad: Notificar a otros bounded contexts sobre cambios en la cuenta del usuario.
 
 #### 4.2.1.3. Application Layer
 
-Services:
-Commands/Queries:
-Command Handlers: 
-Event Handlers:
+Clases Principales:
+
+- Command Handlers:
+
+  - RegistrarUsuarioCommandHandler: Maneja el registro de nuevos usuarios.
+  - ActualizarMembresiaCommandHandler: Maneja la actualización de membresías.
+
+Descripción de las Clases:
+
+- RegistrarUsuarioCommandHandler:
+  - Responsabilidad: Registrar un nuevo usuario en el sistema.
+- ActualizarMembresiaCommandHandler:
+  - Responsabilidad: Actualizar la membresía de un usuario existente.
 
 #### 4.2.1.4. Infrastructure Layer
 
-Persistence Mechanisms:
-External Service Integrations:
-Factories:
-API Clients: 
+Clases Principales:
+
+- Repositories Implementations:
+
+  - UsuarioRepository: Implementa IUsuarioRepository utilizando una base de datos específica (e.g., PostgreSQL, MongoDB).
+- External Services:
+
+  - EdgeServerService: Comunicación con el Edge Server para sincronizar información de cuenta si es necesario.
+Descripción de las Clases:
+
+- UsuarioRepository:
+
+  - Responsabilidad: Proveer métodos para acceder y manipular datos de Usuario y sus Membresia.
+  - Métodos Principales:
+    - getByEmail(String email): Usuario
+    - getById(UUID usuarioId): Usuario
+    - save(Usuario usuario): void
+
+- EdgeServerService:
+
+  - Responsabilidad: Establecer comunicación con el Edge Server para sincronizar información de cuenta si es necesario.
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -1129,51 +1179,6 @@ API Clients:
 #### 4.2.2.1. Domain Layer
 
 Entities:
-Value Objects: 
-Aggregates:
-Repositories:
-Services:
-
-#### 4.2.2.2. Interface Layer
-
-API Endpoints:
-DTOs:
-View Models: 
-Controllers:
-
-#### 4.2.2.3. Application Layer
-
-Services:
-Commands/Queries:
-Command Handlers: 
-Event Handlers:
-
-#### 4.2.2.4. Infrastructure Layer
-
-Persistence Mechanisms:
-External Service Integrations:
-Factories:
-API Clients: 
-
-#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
-
-![IoT System Bounded ContextC4](https://github.com/user-attachments/assets/88b59230-c175-48ea-a85f-d2af94296e17)
-
-#### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
-
-##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
-
-![IoT System Bounded Context-DiagramC](https://media.discordapp.net/attachments/1280405882517196875/1282145122741391380/BC_SISTEMA_IOT.png?ex=66de4a32&is=66dcf8b2&hm=db13828d866641dd0e45c3c80b9d7012a06ec4e20560a9bec6957151394987db&=&format=webp&quality=lossless&width=195&height=638)
-
-##### 4.2.2.6.2. Bounded Context Database Design Diagram
-
-![IoT System Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150691997225001/GreenTools-2024-09-07_20-28_1.png?ex=66de4f62&is=66dcfde2&hm=7fcb74b595b854f0976ba9fa710032cea580ae34bde69358a6c975dfcf399713&=&format=webp&quality=lossless&width=947&height=671)
-
-### 4.2.3. Bounded Context: \<Crop Inventory>
-
-#### 4.2.3.1. Domain Layer
-
-Entities:
 - Representa un sensor individual (e.g., humedad, temperatura).
 Value Objects:
 - SensorData: Contiene los datos recolectados por un sensor (e.g., valor, timestamp).
@@ -1183,7 +1188,9 @@ Repositories:
 - ICultivoRepository: Interface para acceder a los cultivos almacenados en el contexto del IoT System.
 Services:
 - DataValidationService: Valida la integridad y consistencia de los datos de los sensores.
-#### 4.2.3.2. Interface Layer
+
+#### 4.2.2.2. Interface Layer
+
 Clases Principales:
 
 - Controllers:
@@ -1206,19 +1213,126 @@ Descripción de las Clases:
   - Responsabilidad: Consumir mensajes del Message Broker provenientes del Edge Server.
   - Funcionalidad: Procesar datos en tiempo real y enviar comandos si es necesario.
 
+#### 4.2.2.3. Application Layer
+
+Clases Principales:
+
+- Command Handlers:
+
+  - ReceiveSensorDataCommandHandler: Maneja la recepción y procesamiento de datos de sensores asociados a un cultivo.
+Event Handlers:
+
+  - SensorDataProcessedEventHandler: Procesa eventos después de validar y almacenar datos, y notifica a otros bounded contexts si es necesario.
+Descripción de las Clases:
+
+
+#### 4.2.2.4. Infrastructure Layer
+
+Clases Principales:
+
+- Repositories Implementations:
+
+  - CultivoRepository: Implementa ICultivoRepository utilizando una base de datos específica (e.g., PostgreSQL, MongoDB).
+- External Services:
+
+  - MessageBrokerService: Gestiona la comunicación con sistemas de mensajería como MQTT o RabbitMQ.
+  - EdgeServerService: Interactúa con el Edge Server para recibir datos filtrados de sensores.
+
+#### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
+
+![IoT System Bounded ContextC4](https://github.com/user-attachments/assets/88b59230-c175-48ea-a85f-d2af94296e17)
+
+#### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
+
+##### 4.2.2.6.1. Bounded Context Domain Layer Class Diagrams
+
+![IoT System Bounded Context-DiagramC](https://media.discordapp.net/attachments/1280405882517196875/1282145122741391380/BC_SISTEMA_IOT.png?ex=66de4a32&is=66dcf8b2&hm=db13828d866641dd0e45c3c80b9d7012a06ec4e20560a9bec6957151394987db&=&format=webp&quality=lossless&width=195&height=638)
+
+##### 4.2.2.6.2. Bounded Context Database Design Diagram
+
+![IoT System Bounded Context](https://media.discordapp.net/attachments/1280405882517196875/1282150691997225001/GreenTools-2024-09-07_20-28_1.png?ex=66de4f62&is=66dcfde2&hm=7fcb74b595b854f0976ba9fa710032cea580ae34bde69358a6c975dfcf399713&=&format=webp&quality=lossless&width=947&height=671)
+
+### 4.2.3. Bounded Context: \<Crop Inventory>
+
+#### 4.2.3.1. Domain Layer
+
+Entities:
+- Inventario: Representa el inventario de cultivos de un usuario.
+- CultivoInventario: Referencia a los cultivos gestionados en el inventario.
+Value Objects:
+- Cantidad: Representa cantidades de recursos (e.g., agua, fertilizante).
+Aggregates:
+- InventarioAggregate: Agrupa Inventario y sus CultivoInventario.
+Factories:
+- InventarioFactory: Crea instancias de Inventario para nuevos usuarios.
+Domain Services:
+- GestorInventarioService: Lógica para añadir o eliminar cultivos según la membresía.
+Repositories:
+- IInventarioRepository: Interface para acceder al inventario almacenado.
+
+#### 4.2.3.2. Interface Layer
+
+Clases Principales:
+
+- Controllers:
+
+  - InventarioController: Expone endpoints para gestionar el inventario de cultivos.
+- Consumers:
+
+  - InventarioConsumer: Escucha eventos relacionados con la gestión de inventarios.
+Descripción de las Clases:
+
+- InventarioController:
+
+  - Responsabilidad: Proveer endpoints REST para la gestión del inventario de cultivos.
+  - Endpoints Principales:
+    - GET /inventarios/{inventarioId}: Obtiene el inventario de un usuario.
+    - POST /inventarios/{inventarioId}/cultivos: Añade un nuevo cultivo al inventario.
+    - DELETE /inventarios/{inventarioId}/cultivos/{cultivoId}: Elimina un cultivo del inventario.
+- InventarioConsumer:
+
+  - Responsabilidad: Consumir eventos relacionados con cambios en la membresía o en los cultivos.
+  - Funcionalidad: Actualizar el inventario según los eventos recibidos.
+
 #### 4.2.3.3. Application Layer
 
-Services:
-Commands/Queries:
-Command Handlers: 
-Event Handlers:
+Clases Principales:
+
+- Command Handlers:
+  - AgregarCultivoCommandHandler: Maneja la adición de nuevos cultivos al inventario.
+  - EliminarCultivoCommandHandler: Maneja la eliminación de cultivos del inventario.
+- Event Handlers:
+  - MembresiaActualizadaEventHandler: Ajusta el inventario cuando cambia la membresía del usuario.
+  - CultivoEstadoChangedEventHandler: Actualiza el inventario basado en cambios en el estado del cultivo.
 
 #### 4.2.3.4. Infrastructure Layer
 
-Persistence Mechanisms:
-External Service Integrations:
-Factories:
-API Clients: 
+Clases Principales:
+
+- Repositories Implementations:
+
+  - InventarioRepository: Implementa IInventarioRepository utilizando una base de datos específica (e.g., PostgreSQL, MongoDB).
+- External Services:
+
+  - MembershipService: Interactúa con el bounded context de Cuenta para verificar membresías.
+  - EdgeServerService: Comunica con el Edge Server para obtener datos de inventario si es necesario.
+Descripción de las Clases:
+
+- InventarioRepository:
+
+  - Responsabilidad: Proveer métodos para acceder y manipular datos de Inventario y sus CultivoInventario.
+  - Métodos Principales:
+    - getByUserId(UUID userId): Inventario
+    - save(Inventario inventario): void
+- MembershipService:
+
+  - Responsabilidad: Verificar la membresía del usuario para determinar permisos en el inventario.
+  - Funcionalidad: Consultar al bounded context de Cuenta para obtener detalles de la membresía.
+- EdgeServerService:
+
+  - Responsabilidad: Establecer comunicación con el Edge Server para obtener datos de inventario si es necesario.
+  - Métodos Principales:
+    - fetchInventoryData(UUID cultivoId): InventoryData
 
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
@@ -1239,31 +1353,61 @@ API Clients:
 #### 4.2.4.1. Domain Layer
 
 Entities:
-Value Objects: 
+- CultivoEstado: Representa el estado actual de un cultivo específico.
+- Actuador: Dispositivo que puede modificar el estado del cultivo (e.g., riego).
+Value Objects:
+- ParametrosCultivo: Incluye parámetros como temperatura máxima/mínima, humedad mínima.
 Aggregates:
+- CultivoEstadoAggregate: Agrupa CultivoEstado, Actuador y ParametrosCultivo.
+Factories:
+- CultivoEstadoFactory: Crea instancias de CultivoEstado con parámetros iniciales.
+Domain Services:
+- RiegoService: Lógica para activar el actuador de riego basado en la humedad.
 Repositories:
-Services:
+- ICultivoEstadoRepository: Interface para acceder a los estados de los cultivos almacenados.
 
 #### 4.2.4.2. Interface Layer
 
-API Endpoints:
-DTOs:
-View Models: 
-Controllers:
+Clases Principales:
+
+- Controllers:
+  - CultivoEstadoController: Expone endpoints para gestionar el estado de los cultivos.
+- Consumers:
+  - ActuadorConsumer: Escucha comandos para activar los actuadores desde el Edge Server.
+Descripción de las Clases:
+- CultivoEstadoController:
+  - Responsabilidad: Proveer endpoints REST para la gestión del estado de los cultivos.
+  - Endpoints Principales:
+    - GET /cultivos/{cultivoId}/estado: Obtiene el estado actual de un cultivo.
+    - PUT /cultivos/{cultivoId}/estado: Actualiza el estado de un cultivo (e.g., parámetros).
+ActuadorConsumer:
+  - Responsabilidad: Consumir comandos desde el Edge Server para activar o desactivar actuadores.
+  - Funcionalidad: Procesar comandos y actualizar el estado de los actuadores correspondientes.
 
 #### 4.2.4.3. Application Layer
 
-Services:
-Commands/Queries:
-Command Handlers: 
+Clases Principales:
+
+- Command Handlers:
+
+  - UpdateParametrosCultivoCommandHandler: Maneja actualizaciones de parámetros de cultivo.
+  - ActivateActuadorCommandHandler: Maneja la activación de actuadores.
 Event Handlers:
+
+  - HumedadBajaEventHandler: Activa el servicio de riego cuando la humedad está baja.
+  - CultivoEstadoActualizadoEventHandler: Notifica a otros bounded contexts sobre cambios en el estado del cultivo.
 
 #### 4.2.4.4. Infrastructure Layer
 
-Persistence Mechanisms:
-External Service Integrations:
-Factories:
-API Clients: 
+Clases Principales:
+
+- Repositories Implementations:
+
+  - CultivoEstadoRepository: Implementa ICultivoEstadoRepository utilizando una base de datos específica (e.g., PostgreSQL, MongoDB).
+- External Services:
+
+  - ActuadorService: Interactúa con los actuadores físicos.
+  - EdgeServerService: Comunica con el Edge Server para enviar comandos a los actuadores.
 
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
 
