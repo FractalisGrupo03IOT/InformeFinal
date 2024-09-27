@@ -1939,7 +1939,7 @@ Este wireflow refleja el proceso típico de inicio de sesión para Carlos. Comie
 3. **Confirmación**: Revisa los detalles y confirma la adición.
 4. **Actualización de la Pantalla Principal**: La nueva estación aparece en la lista de estaciones.
 ##### Explicación del flujo:
-Este wireflow muestra cómo el cultivador añade una nueva estación. Desde la **Pantalla Principal**, selecciona la opción de **añadir estación**, completa los datos requeridos y confirma la acción. Luego, la pantalla principal se actualiza para mostrar la nueva estación. Cada cambio de pantalla se refleja en el wireflow.
+- Este wireflow muestra cómo el cultivador añade una nueva estación. Desde la **Pantalla Principal**, selecciona la opción de **añadir estación**, completa los datos requeridos y confirma la acción. Luego, la pantalla principal se actualiza para mostrar la nueva estación. Cada cambio de pantalla se refleja en el wireflow.
 ---
 #### User Goal 3: Ver el estado de una planta
 **Descripción del User Persona**: 
@@ -1949,7 +1949,7 @@ Este wireflow muestra cómo el cultivador añade una nueva estación. Desde la *
 2. **Pantalla de Estado**: Accede al estado de la planta, donde puede ver datos en tiempo real como temperatura y humedad.
 3. **Pantalla de Análisis**: Tiene la opción de ver un análisis detallado de los datos históricos.
 ##### Explicación del flujo:
-Este wireflow refleja el flujo de cultivador al consultar el estado de una planta. Desde la **Pantalla Principal**, accede a la **Pantalla de Estado**, donde puede ver los datos actuales. Si lo desea, puede profundizar en el análisis de datos históricos. El flujo se refleja con la representación de cada pantalla en los wireframes.
+- Este wireflow refleja el flujo de cultivador al consultar el estado de una planta. Desde la **Pantalla Principal**, accede a la **Pantalla de Estado**, donde puede ver los datos actuales. Si lo desea, puede profundizar en el análisis de datos históricos. El flujo se refleja con la representación de cada pantalla en los wireframes.
 ---
 #### User Goal 4: Realizar un pago por una actualización
 **Descripción del User Persona**: 
@@ -1960,9 +1960,13 @@ Este wireflow refleja el flujo de cultivador al consultar el estado de una plant
 3. **Confirmación de Pago**: Recibe una confirmación de que el pago ha sido exitoso.
 4. **Pantalla Principal**: El plan mejorado se refleja en sus opciones.
 ##### Explicación del flujo:
-Este wireflow muestra el proceso de cultivador al mejorar su plan de monitoreo. Desde la **Pantalla de Estaciones**, selecciona la opción de mejora, completa el pago y recibe una confirmación. La pantalla principal se actualiza para reflejar su nuevo plan.
+- Este wireflow muestra el proceso de cultivador al mejorar su plan de monitoreo. Desde la **Pantalla de Estaciones**, selecciona la opción de mejora, completa el pago y recibe una confirmación. La pantalla principal se actualiza para reflejar su nuevo plan.
 --- 
-
+![LINK1]()
+![LINK2](https://res.cl)
+![LINK3](https://res.cloudinary.com/dbe3tjasl)
+![LINK4](https://res.cloudinary.com/dbe3tjasl/image/ug)
+![LINK5](https://res.cloudinar)
 
 Web application:
 #### User Goal 1: Iniciar sesión en la web app
@@ -1974,7 +1978,7 @@ Web application:
 3. **Validación de Credenciales**: La aplicación valida sus credenciales.
 4. **Pantalla Principal**: Tras la validación exitosa, Carlos accede a su cuenta y puede ver y gestionar sus estaciones desde la web.
 ##### Explicación del flujo:
-Este wireflow describe el proceso de inicio de sesión de Carlos en la **Web App**. Comienza con la **Pantalla de Inicio**, donde elige iniciar sesión. Introduce sus credenciales en la **Pantalla de Login** y, tras la validación, accede a la **Pantalla Principal** de la aplicación, donde puede ver sus estaciones activas.
+- Este wireflow describe el proceso de inicio de sesión de Carlos en la **Web App**. Comienza con la **Pantalla de Inicio**, donde elige iniciar sesión. Introduce sus credenciales en la **Pantalla de Login** y, tras la validación, accede a la **Pantalla Principal** de la aplicación, donde puede ver sus estaciones activas.
 ---
 #### User Goal 2: Añadir una nueva estación desde la web
 **Descripción del User Persona**: 
@@ -1985,7 +1989,7 @@ Este wireflow describe el proceso de inicio de sesión de Carlos en la **Web App
 3. **Confirmación de Estación**: Revisa los detalles de la nueva estación y confirma.
 4. **Pantalla Principal Actualizada**: La nueva estación aparece en la lista de estaciones.
 ##### Explicación del flujo:
-Este wireflow refleja cómo María añade una nueva estación desde la web. Tras seleccionar la opción de añadir una estación en la **Pantalla Principal**, introduce los detalles en el formulario correspondiente. Luego, la estación se añade y la pantalla principal se actualiza para mostrar la nueva estación.
+- Este wireflow refleja cómo María añade una nueva estación desde la web. Tras seleccionar la opción de añadir una estación en la **Pantalla Principal**, introduce los detalles en el formulario correspondiente. Luego, la estación se añade y la pantalla principal se actualiza para mostrar la nueva estación.
 ---
 #### User Goal 3: Consultar el estado de una planta
 **Descripción del User Persona**: 
@@ -1995,7 +1999,7 @@ Este wireflow refleja cómo María añade una nueva estación desde la web. Tras
 2. **Pantalla de Estado**: Ve los datos actuales de la planta, como la temperatura, humedad y condiciones generales.
 3. **Pantalla de Análisis**: Si lo desea, puede profundizar en el análisis detallado de los datos históricos y gráficos comparativos.
 ##### Explicación del flujo:
-Este wireflow describe cómo Carlos revisa el estado de sus plantas. Desde la **Pantalla Principal**, accede al estado de la planta y puede ver los datos en tiempo real. Si quiere más detalles, puede acceder a la **Pantalla de Análisis**, que ofrece gráficos y datos históricos.
+- Este wireflow describe cómo Carlos revisa el estado de sus plantas. Desde la **Pantalla Principal**, accede al estado de la planta y puede ver los datos en tiempo real. Si quiere más detalles, puede acceder a la **Pantalla de Análisis**, que ofrece gráficos y datos históricos.
 ---
 #### User Goal 4: Realizar un pago por una actualización del plan
 **Descripción del User Persona**: 
@@ -2006,7 +2010,7 @@ Este wireflow describe cómo Carlos revisa el estado de sus plantas. Desde la **
 3. **Confirmación de Pago**: El pago se procesa y Luis recibe una confirmación de que el pago fue exitoso.
 4. **Pantalla Principal Actualizada**: El nuevo plan se refleja en las opciones de su cuenta.
 ##### Explicación del flujo:
-Este wireflow muestra cómo Luis mejora su plan desde la **Web App**. Tras seleccionar la opción de **Mejorar Plan** en la **Pantalla de Estaciones**, introduce los detalles del pago, confirma la transacción, y la pantalla principal se actualiza para reflejar el nuevo plan.
+- Este wireflow muestra cómo Luis mejora su plan desde la **Web App**. Tras seleccionar la opción de **Mejorar Plan** en la **Pantalla de Estaciones**, introduce los detalles del pago, confirma la transacción, y la pantalla principal se actualiza para reflejar el nuevo plan.
 
 
 
