@@ -2023,8 +2023,31 @@ Web application:
 ![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408633/web5_xumspq.png)
 ![LINK6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408635/web6_uvjovr.png)
 - enlace: https://www.figma.com/design/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=41-2&node-type=canvas&t=j4pRuLe8OcggKtSi-0
+
+
   ### 5.4.3. Applications Mock-ups
-  _Contenido por añadir..._
+#### Mock-ups de la Aplicación Móvil
+##### 1. Pantalla de Notificaciones
+- **Punto clave**: Las notificaciones están organizadas de forma cronológica, permitiendo al usuario priorizar los eventos recientes.
+##### 2. Pantalla de Pago
+- **Punto clave**: Los campos de entrada para el pago están claramente etiquetados y los botones de acción están bien diferenciados.
+##### 3. Pantalla de Estado de la Planta
+- **Punto clave**: Los gráficos permiten una visualización clara de los datos relevantes (temperatura, UV/Solar, humedad), optimizando la toma de decisiones.
+##### 4. Pantalla de Inicio de Sesión
+- **Punto clave**: Los campos de inicio de sesión y los botones principales son grandes y visibles, con un diseño limpio y accesible.
+---
+# Cumplimiento de las Heurísticas de Diseño
+1. **Diseño Consistente**: La disposición de los botones y la paleta de colores es uniforme en todas las vistas.
+2. **Diseño Inclusivo**: Se asegura accesibilidad con botones grandes y textos legibles en todas las pantallas.
+3. **Arquitectura de la Información**: La información está jerarquizada y organizada de manera lógica para facilitar la navegación.
+4. **Design System**: Se respetan colores, tipografías y estilos coherentes en todas las pantallas, garantizando una experiencia visual consistente.
+------
+![LINK1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727410254/movil1_duaunk.png)
+![LINK2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727410254/movil2_h4gtfj.png)
+![LINK3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727410254/movil3_lkxxfl.png)
+![LINK4](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727410255/movil4_yev98j.png)
+![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727410254/movil5_k33kc8.png)
+#### Mock-ups de la Aplicación Web
 
   ### 5.4.4. Applications User Flow Diagrams
   _Contenido por añadir..._
