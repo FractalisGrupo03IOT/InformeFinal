@@ -1544,7 +1544,7 @@ En esta sección explicamos los mecanismos de búsqueda que GreenTools implement
 
 ![Landing2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing2_lmg1p0.png)
 ![landing8](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727225539/landing8_hdb8ow.png)
-![landing9](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727224723/landing7_i2o0pr.png)
+![landing9](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727386704/lainding10_phi6by.png)
 
 #### **Aplicación Móvil**
 - **Barra de Búsqueda Interactiva**:
