@@ -1916,8 +1916,10 @@ En los wireframes de la version web, se observa lo siguiente de forma directa y 
 ![LINK7](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727393637/web7_ldyelo.png)
 ---
 Este diseño asegura una experiencia consistente en ambos formatos, adaptándose a las necesidades de los usuarios que prefieren gestionar sus microcultivos tanto desde dispositivos móviles como desde una computadora.
+
+
  
-  ### 5.4.2. Applications Wireflow Diagrams
+ ### 5.4.2. Applications Wireflow Diagrams
   Mobile App:
   #### User Goal 1: Iniciar sesión en la aplicación
 **Descripción del User Persona**: 
@@ -1962,11 +1964,12 @@ Este diseño asegura una experiencia consistente en ambos formatos, adaptándose
 ##### Explicación del flujo:
 - Este wireflow muestra el proceso de cultivador al mejorar su plan de monitoreo. Desde la **Pantalla de Estaciones**, selecciona la opción de mejora, completa el pago y recibe una confirmación. La pantalla principal se actualiza para reflejar su nuevo plan.
 --- 
-![LINK1]()
-![LINK2](https://res.cl)
-![LINK3](https://res.cloudinary.com/dbe3tjasl)
-![LINK4](https://res.cloudinary.com/dbe3tjasl/image/ug)
-![LINK5](https://res.cloudinar)
+![LINK1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727407769/movil1_extavo.png)
+![LINK2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727407768/movil2_sl9l5y.png)
+![LINK3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727407767/movil3_f9lq0i.png)
+![LINK4](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727407765/movil4_ksizgp.png)
+![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727407764/movil5_bmio2b.png)
+![LINK6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727407763/movil6_h8ildd.png)
 
 Web application:
 #### User Goal 1: Iniciar sesión en la web app
