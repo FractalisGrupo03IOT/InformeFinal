@@ -1821,7 +1821,6 @@ El wireframe de la **Landing Page** es una representación visual que traduce la
 - **Sección Contactos y footer:**
   - Formulario con datos de entrada para solicitad servicios o consultas.
 ![Descripción de la imagen](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727384464/landing9_q9aoxg.png)
-
 #### Principios de Diseño y Diseño Inclusivo
 - Se aplican principios de diseño como la **jerarquía visual**, el uso de **espacios en blanco** para resaltar elementos clave y la **accesibilidad**, utilizando fuentes legibles, contrastes adecuados y botones grandes para facilitar su uso en dispositivos móviles. La arquitectura de la información se ha diseñado para permitir que los usuarios naveguen fácilmente por el contenido, encontrando la información clave de manera rápida y sin distracciones.
 - Link del figma: https://www.figma.com/design/Dl2B8YKkM5KRoCNkax3hXB/Untitled?node-id=0-1&node-type=canvas&t=VDAtRB9dPZtOc3BS-0
@@ -1900,7 +1899,8 @@ Entonces en la **app móvil**, se cumple los criterios de la siguiente manera:
 ![LINK3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727390636/LINK3_bbrfpc.png)
 ![LINK4](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727390634/LINK4_aflvvg.png)
 ![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727390633/LINK5_wnbzxi.png)
-
+- enlace: https://www.figma.com/design/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=102-2&node-type=canvas&t=j4pRuLe8OcggKtSi-0
+  
 #### Versión Web
 En los wireframes de la version web, se observa lo siguiente de forma directa y concisa:- **Pantallas**: Hay pantallas principales para **notificaciones**, **pago**, **estado**, **mejoras** y **estaciones**.
 
@@ -1915,8 +1915,8 @@ En los wireframes de la version web, se observa lo siguiente de forma directa y 
 ![LINK6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727393925/web6_gay4cn.png)
 ![LINK7](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727393637/web7_ldyelo.png)
 ---
-Este diseño asegura una experiencia consistente en ambos formatos, adaptándose a las necesidades de los usuarios que prefieren gestionar sus microcultivos tanto desde dispositivos móviles como desde una computadora.
-
+- Este diseño asegura una experiencia consistente en ambos formatos, adaptándose a las necesidades de los usuarios que prefieren gestionar sus microcultivos tanto desde dispositivos móviles como desde una computadora.
+- enlace: https://www.figma.com/design/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=102-2&node-type=canvas&t=j4pRuLe8OcggKtSi-0
 
  
  ### 5.4.2. Applications Wireflow Diagrams
@@ -1970,6 +1970,7 @@ Este diseño asegura una experiencia consistente en ambos formatos, adaptándose
 ![LINK4](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727407765/movil4_ksizgp.png)
 ![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727407764/movil5_bmio2b.png)
 ![LINK6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727407763/movil6_h8ildd.png)
+- enlace: https://www.figma.com/design/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=102-2&node-type=canvas&t=j4pRuLe8OcggKtSi-0 
 
 Web application:
 #### User Goal 1: Iniciar sesión en la web app
@@ -2021,7 +2022,7 @@ Web application:
 ![LINK4](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408632/web4_l8mj0a.png)
 ![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408633/web5_xumspq.png)
 ![LINK6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408635/web6_uvjovr.png)
-
+- enlace: https://www.figma.com/design/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=41-2&node-type=canvas&t=j4pRuLe8OcggKtSi-0
   ### 5.4.3. Applications Mock-ups
   _Contenido por añadir..._
 
