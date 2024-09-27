@@ -2014,8 +2014,13 @@ Web application:
 4. **Pantalla Principal Actualizada**: El nuevo plan se refleja en las opciones de su cuenta.
 ##### Explicación del flujo:
 - Este wireflow muestra cómo Luis mejora su plan desde la **Web App**. Tras seleccionar la opción de **Mejorar Plan** en la **Pantalla de Estaciones**, introduce los detalles del pago, confirma la transacción, y la pantalla principal se actualiza para reflejar el nuevo plan.
-
-
+---
+![LINK1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408637/web1_bqafha.png)
+![LINK2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408638/web2_s4mkbq.png)
+![LINK3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408632/web3_kpoo7x.png)
+![LINK4](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408632/web4_l8mj0a.png)
+![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408633/web5_xumspq.png)
+![LINK6](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727408635/web6_uvjovr.png)
 
   ### 5.4.3. Applications Mock-ups
   _Contenido por añadir..._
