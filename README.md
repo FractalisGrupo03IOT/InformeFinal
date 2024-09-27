@@ -2231,7 +2231,31 @@ Web application:
 -Enlace: https://www.figma.com/design/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=41-2&node-type=canvas&t=j4pRuLe8OcggKtSi-0
 
 ## 5.5. Applications Prototyping
-_Contenido por añadir..._
+#### Introducción
+- Esta sección presenta los prototipos de UI para **Desktop Web Browser** y **Mobile Web Browser**. Se simula la interacción y navegación de cada plataforma siguiendo los caminos propuestos en los diagramas de flujo de usuario. Las decisiones de interacción se basaron en la arquitectura de la información, priorizando un sistema de navegación intuitivo y eficiente, con interacciones sencillas y consistentes entre ambas plataformas.
+### Desktop Web Browser
+#### Criterios de Interacción:
+- **Sistema de navegación**: Menú lateral fijo para acceso rápido a las principales secciones.
+- **Interacciones seleccionadas**: Clics y desplazamientos en scroll largo para maximizar la visibilidad del contenido.
+- **Decisión de arquitectura**: Se priorizó una jerarquía clara de información y accesos rápidos a los elementos más utilizados por el usuario.
+#### Captura de Pantalla:
+![Captura de Pantalla - Desktop](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727416394/videoweb_jfm9ja.png)
+#### Enlace a Video:
+[Demostración de interacción en Desktop Web Browser](https://youtu.be/li9X4Ik_eBo) 
+- Enlace Figma: https://www.figma.com/proto/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=110-23336&node-type=canvas&t=DkCV4Ff2rKHG6Fb7-0&scaling=min-zoom&content-scaling=fixed&page-id=41%3A2&starting-point-node-id=110%3A23336 
+---
+### Mobile APP
+#### Criterios de Interacción:
+- **Sistema de navegación**: Barra inferior de navegación para accesos rápidos adaptados a la visualización móvil.
+- **Interacciones seleccionadas**: Gestos táctiles como deslizamientos y toques simples, priorizando el uso de una mano.
+- **Decisión de arquitectura**: Se simplificó el contenido por pantalla para evitar sobrecarga visual y se optimizó el tiempo de carga en conexiones móviles.
+#### Captura de Pantalla:
+![Captura de Pantalla - Mobile](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727416394/video_zvczi7.png)
+#### Enlace a Video:
+[Demostración de interacción en Mobile](https://youtu.be/li9X4Ik_eBo)
+- Enlace Figma: https://www.figma.com/proto/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=110-1192&node-type=canvas&t=DkCV4Ff2rKHG6Fb7-0&scaling=scale-down&content-scaling=fixed&page-id=102%3A2&starting-point-node-id=110%3A1192 
+
+
 
 # Capítulo VI: Product Implementation, Validation & Deployment
 
