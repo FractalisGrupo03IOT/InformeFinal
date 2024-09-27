@@ -1924,7 +1924,7 @@ En los wireframes de la version web, se observa lo siguiente de forma directa y 
   #### User Goal 1: Iniciar sesión en la aplicación
 **Descripción del User Persona**: 
 - Un cultivador, quiere iniciar sesión en su aplicación para gestionar sus estaciones de microcultivo.
-##### Task Flow:
+  ##### Task Flow:
 1. **Pantalla de Bienvenida**: abre la aplicación y se le presenta la opción de **Login** o **Registro**.
 2. **Pantalla de Inicio de Sesión**: Introduce su correo electrónico y contraseña.
 3. **Validación**: La aplicación verifica las credenciales.
@@ -2025,7 +2025,8 @@ Web application:
 - enlace: https://www.figma.com/design/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=41-2&node-type=canvas&t=j4pRuLe8OcggKtSi-0
 
 
-  ### 5.4.3. Applications Mock-ups
+### 5.4.3. Applications Mock-ups
+
 #### Mock-ups de la Aplicación Móvil
 ##### 1. Pantalla de Notificaciones
 - **Punto clave**: Las notificaciones están organizadas de forma cronológica, permitiendo al usuario priorizar los eventos recientes.
@@ -2035,8 +2036,7 @@ Web application:
 - **Punto clave**: Los gráficos permiten una visualización clara de los datos relevantes (temperatura, UV/Solar, humedad), optimizando la toma de decisiones.
 ##### 4. Pantalla de Inicio de Sesión
 - **Punto clave**: Los campos de inicio de sesión y los botones principales son grandes y visibles, con un diseño limpio y accesible.
----
-# Cumplimiento de las Heurísticas de Diseño
+##### Cumplimiento de las Heurísticas de Diseño
 1. **Diseño Consistente**: La disposición de los botones y la paleta de colores es uniforme en todas las vistas.
 2. **Diseño Inclusivo**: Se asegura accesibilidad con botones grandes y textos legibles en todas las pantallas.
 3. **Arquitectura de la Información**: La información está jerarquizada y organizada de manera lógica para facilitar la navegación.
