@@ -1918,7 +1918,97 @@ En los wireframes de la version web, se observa lo siguiente de forma directa y 
 Este diseño asegura una experiencia consistente en ambos formatos, adaptándose a las necesidades de los usuarios que prefieren gestionar sus microcultivos tanto desde dispositivos móviles como desde una computadora.
  
   ### 5.4.2. Applications Wireflow Diagrams
-  _Contenido por añadir..._
+  Mobile App:
+  #### User Goal 1: Iniciar sesión en la aplicación
+**Descripción del User Persona**: 
+- Un cultivador, quiere iniciar sesión en su aplicación para gestionar sus estaciones de microcultivo.
+##### Task Flow:
+1. **Pantalla de Bienvenida**: abre la aplicación y se le presenta la opción de **Login** o **Registro**.
+2. **Pantalla de Inicio de Sesión**: Introduce su correo electrónico y contraseña.
+3. **Validación**: La aplicación verifica las credenciales.
+4. **Pantalla Principal**: Tras la validación exitosa, accede a la pantalla principal de la aplicación, donde puede ver y gestionar sus estaciones.
+##### Explicación del flujo:
+Este wireflow refleja el proceso típico de inicio de sesión para Carlos. Comienza con la **Pantalla de Bienvenida**, que le da la opción de iniciar sesión o registrarse. Tras elegir iniciar sesión, introduce sus credenciales y accede a la **Pantalla Principal**, donde puede gestionar sus estaciones. Cada paso del wireflow muestra cómo cambia el estado de la aplicación a medida que avanza en el flujo.
+---
+#### User Goal 2: Añadir una nueva estación
+**Descripción del User Persona**: 
+- el cultivador, necesita añadir una nueva estación para monitorear un nuevo invernadero.
+##### Task Flow:
+1. **Pantalla Principal**: cultivador selecciona la opción de **añadir estación**.
+2. **Pantalla de Añadir Estación**: Introduce el nombre de la nueva estación y selecciona el tipo de cultivo.
+3. **Confirmación**: Revisa los detalles y confirma la adición.
+4. **Actualización de la Pantalla Principal**: La nueva estación aparece en la lista de estaciones.
+##### Explicación del flujo:
+Este wireflow muestra cómo el cultivador añade una nueva estación. Desde la **Pantalla Principal**, selecciona la opción de **añadir estación**, completa los datos requeridos y confirma la acción. Luego, la pantalla principal se actualiza para mostrar la nueva estación. Cada cambio de pantalla se refleja en el wireflow.
+---
+#### User Goal 3: Ver el estado de una planta
+**Descripción del User Persona**: 
+- el cultivador, ya registrado en la aplicación, quiere consultar el estado de una planta específica.
+##### Task Flow:
+1. **Pantalla Principal**: cultivador selecciona una estación activa.
+2. **Pantalla de Estado**: Accede al estado de la planta, donde puede ver datos en tiempo real como temperatura y humedad.
+3. **Pantalla de Análisis**: Tiene la opción de ver un análisis detallado de los datos históricos.
+##### Explicación del flujo:
+Este wireflow refleja el flujo de cultivador al consultar el estado de una planta. Desde la **Pantalla Principal**, accede a la **Pantalla de Estado**, donde puede ver los datos actuales. Si lo desea, puede profundizar en el análisis de datos históricos. El flujo se refleja con la representación de cada pantalla en los wireframes.
+---
+#### User Goal 4: Realizar un pago por una actualización
+**Descripción del User Persona**: 
+- cultivador, un usuario avanzado, quiere comprar una actualización para su plan de monitoreo.
+##### Task Flow:
+1. **Pantalla de Estaciones**: selecciona la opción de **Mejorar Plan**.
+2. **Pantalla de Pago**: Introduce los datos de su tarjeta de crédito.
+3. **Confirmación de Pago**: Recibe una confirmación de que el pago ha sido exitoso.
+4. **Pantalla Principal**: El plan mejorado se refleja en sus opciones.
+##### Explicación del flujo:
+Este wireflow muestra el proceso de cultivador al mejorar su plan de monitoreo. Desde la **Pantalla de Estaciones**, selecciona la opción de mejora, completa el pago y recibe una confirmación. La pantalla principal se actualiza para reflejar su nuevo plan.
+--- 
+
+
+Web application:
+#### User Goal 1: Iniciar sesión en la web app
+**Descripción del User Persona**: 
+- Carlos, un agricultor, quiere iniciar sesión desde su computadora para gestionar sus estaciones de microcultivo.
+##### Task Flow:
+1. **Pantalla de Inicio**: Carlos abre la página web y tiene las opciones de **Login** o **Registro**.
+2. **Pantalla de Inicio de Sesión**: Introduce su correo electrónico y contraseña.
+3. **Validación de Credenciales**: La aplicación valida sus credenciales.
+4. **Pantalla Principal**: Tras la validación exitosa, Carlos accede a su cuenta y puede ver y gestionar sus estaciones desde la web.
+##### Explicación del flujo:
+Este wireflow describe el proceso de inicio de sesión de Carlos en la **Web App**. Comienza con la **Pantalla de Inicio**, donde elige iniciar sesión. Introduce sus credenciales en la **Pantalla de Login** y, tras la validación, accede a la **Pantalla Principal** de la aplicación, donde puede ver sus estaciones activas.
+---
+#### User Goal 2: Añadir una nueva estación desde la web
+**Descripción del User Persona**: 
+- María, una productora, quiere añadir una nueva estación para monitorear un invernadero utilizando su computadora.
+##### Task Flow:
+1. **Pantalla Principal**: María selecciona la opción de **añadir estación**.
+2. **Formulario de Añadir Estación**: Introduce los datos necesarios, como el nombre de la estación y el tipo de cultivo.
+3. **Confirmación de Estación**: Revisa los detalles de la nueva estación y confirma.
+4. **Pantalla Principal Actualizada**: La nueva estación aparece en la lista de estaciones.
+##### Explicación del flujo:
+Este wireflow refleja cómo María añade una nueva estación desde la web. Tras seleccionar la opción de añadir una estación en la **Pantalla Principal**, introduce los detalles en el formulario correspondiente. Luego, la estación se añade y la pantalla principal se actualiza para mostrar la nueva estación.
+---
+#### User Goal 3: Consultar el estado de una planta
+**Descripción del User Persona**: 
+- Carlos quiere revisar el estado de sus plantas de forma detallada desde su computadora.
+##### Task Flow:
+1. **Pantalla Principal**: Carlos selecciona una de sus estaciones.
+2. **Pantalla de Estado**: Ve los datos actuales de la planta, como la temperatura, humedad y condiciones generales.
+3. **Pantalla de Análisis**: Si lo desea, puede profundizar en el análisis detallado de los datos históricos y gráficos comparativos.
+##### Explicación del flujo:
+Este wireflow describe cómo Carlos revisa el estado de sus plantas. Desde la **Pantalla Principal**, accede al estado de la planta y puede ver los datos en tiempo real. Si quiere más detalles, puede acceder a la **Pantalla de Análisis**, que ofrece gráficos y datos históricos.
+---
+#### User Goal 4: Realizar un pago por una actualización del plan
+**Descripción del User Persona**: 
+- Luis, un usuario, desea mejorar su plan de monitoreo y realizar el pago correspondiente.
+##### Task Flow:
+1. **Pantalla de Estaciones**: Luis selecciona la opción de **Mejorar Plan**.
+2. **Formulario de Pago**: Introduce los datos de su tarjeta de crédito.
+3. **Confirmación de Pago**: El pago se procesa y Luis recibe una confirmación de que el pago fue exitoso.
+4. **Pantalla Principal Actualizada**: El nuevo plan se refleja en las opciones de su cuenta.
+##### Explicación del flujo:
+Este wireflow muestra cómo Luis mejora su plan desde la **Web App**. Tras seleccionar la opción de **Mejorar Plan** en la **Pantalla de Estaciones**, introduce los detalles del pago, confirma la transacción, y la pantalla principal se actualiza para reflejar el nuevo plan.
+
+
 
   ### 5.4.3. Applications Mock-ups
   _Contenido por añadir..._
