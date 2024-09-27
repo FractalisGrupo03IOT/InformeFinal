@@ -2045,9 +2045,38 @@ Web application:
 ![LINK3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727410254/movil3_lkxxfl.png)
 ![LINK4](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727410255/movil4_yev98j.png)
 ![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727410254/movil5_k33kc8.png)
-#### Mock-ups de la Aplicación Web
 
-  ### 5.4.4. Applications User Flow Diagrams
+#### Mock-ups de la Aplicación Web
+##### Pantalla de Bienvenida
+- **Criterio**: Diseño Inclusivo
+  - **Cumplimiento**: Los botones de **Registro** y **Login** son grandes y bien visibles, lo que facilita la interacción incluso para usuarios con dificultades visuales o motrices.
+##### Pantalla de Notificaciones
+- **Criterio**: Arquitectura de la Información
+  - **Cumplimiento**: La organización cronológica de las notificaciones y el uso de íconos específicos ayudan a priorizar la información de forma clara y lógica.
+##### Pantalla de Estaciones
+- **Criterio**: Diseño Consistente
+  - **Cumplimiento**: Las tarjetas de estaciones siguen un formato repetitivo, con imágenes y botones de acción en la misma posición, lo que refuerza la coherencia visual y la familiaridad del usuario con la interfaz.
+##### Pantalla de Pago
+- **Criterio**: Diseño Centrado en el Usuario
+  - **Cumplimiento**: Los campos de entrada están claramente etiquetados y separados, mientras que el botón de **Pago** es de gran tamaño y utiliza un color distintivo, lo que asegura que el usuario complete la acción sin confusiones.
+##### Pantalla de Estado de la Planta
+- **Criterio**: Visualización de Datos
+  - **Cumplimiento**: Los gráficos de temperatura, UV/Solar y humedad están diseñados para una rápida interpretación, permitiendo que el usuario entienda el estado de sus plantas sin esfuerzo.
+----
+##### Cumplimiento de las Heurísticas de Diseño 
+1. **Diseño Consistente**: La misma estructura de botones, fuentes y colores se utiliza en todas las pantallas, asegurando una experiencia fluida y predecible.
+2. **Diseño Inclusivo**: Botones grandes y textos legibles en todas las pantallas, asegurando que cualquier usuario pueda interactuar fácilmente con la aplicación.
+3. **Arquitectura de la Información**: La información se presenta de manera clara y secuencial, ayudando a los usuarios a entender qué acción tomar en cada pantalla.
+4. **Design System**: Paletas de colores consistentes, tipografía coherente y estilo de botones uniforme en toda la aplicación, ofreciendo una experiencia de usuario cohesiva y profesional.
+----
+![LINK1](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727411734/web0_f7xzqa.png)
+![LINK2](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727411734/web1_owcfmy.png)
+![LINK3](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727411735/web2_finx3x.png)
+![LINK4](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727411735/web3_gmfify.png)
+![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727411735/web4_ysihnz.png)
+![LINK5](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727411736/web5_jshbd2.png)
+
+### 5.4.4. Applications User Flow Diagrams
   _Contenido por añadir..._
 
 ## 5.5. Applications Prototyping
