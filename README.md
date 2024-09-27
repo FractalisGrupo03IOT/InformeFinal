@@ -662,7 +662,7 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 | **Entrevistado 03**                                         |                                                                                     |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | **Nombre y apellidos**                                       |  Fernando López                                               |
-| **Imagen**                                                   | ![Texto alternativo](/assets/chapter4/entrevista-felopez.png)                           |
+| **Imagen**                                                   | ![Texto alternativo](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477590/entrevista-felopez_fqp93h.png)                           |
 | **Inicio de la entrevista**                                  | 11:00                                                                               |
 | **Fin de la entrevista**                                     | 20:01                                                                               |
 | **Duración**                                                 | 09:01                                                                               |
@@ -751,10 +751,10 @@ Para realizar un análisis de las entrevistas utilizando datos estadísticos, va
 
 - 67% de los entrevistados están dispuestos a invertir en tecnologías, pero buscan soluciones asequibles.
 
-![Grafica01](.//assets/chapter4/Grafica01.png)
-![Grafica02](.//assets/chapter4/Grafica02.png)
-![Grafica03](.//assets/chapter4/Grafica03.png)
-![Grafica04](.//assets/chapter4/Grafica04.png)
+![Grafica01](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477701/Grafica01_kteii5.png)
+![Grafica02](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477709/Grafica02_xvmnos.png)
+![Grafica03](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477716/Grafica03_unchbm.png)
+![Grafica04](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477723/Grafica04_asvewg.png)
 
 Este análisis muestra que tanto los dueños de invernaderos como los propietarios de microcultivos están interesados en adoptar tecnologías para mejorar la eficiencia y sostenibilidad de sus operaciones, pero destacan la necesidad de capacitación y el acceso a soluciones tecnológicas asequibles. Los porcentajes permiten ver las tendencias principales y evidencian las características compartidas que serán útiles para la construcción de los arquetipos.
 
@@ -764,9 +764,9 @@ Este análisis muestra que tanto los dueños de invernaderos como los propietari
 
 Los User Personas son esenciales para el éxito de GreenTools para ofrecer soluciones personalizadas que aborden de manera eficaz los desafíos únicos de cada segmento objetivo. Desde la implementación de tecnologías IoT para dueños de invernaderos interesados en maximizar la eficiencia y sostenibilidad de sus cultivos, hasta la diversificación y optimización de recursos para propietarios de microcultivos, los User Personas guían el diseño de nuestra oferta, asegurando que responda con precisión a las demandas tanto de principiantes en la adopción tecnológica como de expertos que buscan innovación avanzada en sus operaciones agrícolas.
 
-![User01](/assets/chapter4/US-Roberto.png)
+![User01](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477808/US-Roberto_unjv7l.png)
 
-![User02](/assets/chapter4/US-Ana.png)
+![User02](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477830/US-Ana_dw2bko.png)
 
 
 ### 2.3.2. User Task Matrix
@@ -790,25 +790,25 @@ Los User Personas son esenciales para el éxito de GreenTools para ofrecer soluc
 
 Segmento Objetivo: Dueños de Invernaderos
 
-![UJM-01](https://media.discordapp.net/attachments/624357483116232707/1279962158813417603/journey-01.png?ex=66d85367&is=66d701e7&hm=70b6bf079e7663566343faa8e89c8991dc8c66b64419ac2fb0decb3a3f21c072&=&format=webp&quality=lossless&width=648&height=468)
+![UJM-01](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477872/journey-01_zimffp.png)
 
 Segmento Objetivo: Propietarios de Microcultivos
 
-![UJM-02](https://media.discordapp.net/attachments/624357483116232707/1279965113813827655/image.png?ex=66d85627&is=66d704a7&hm=919342a2261955c5855b9b266669d12b11469a87b81123e56e7d97b486770db6&=&format=webp&quality=lossless&width=718&height=468)
+![UJM-02](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727478024/user-journey-02_nx5jnk.png)
 
 ### 2.3.4. Empathy Mapping
 
 Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso sigue un enfoque colaborativo para comprender a fondo a cada usuario, enfocándonos en sus emociones, necesidades, frustraciones y expectativas.
 
-![EM-01](https://media.discordapp.net/attachments/624357483116232707/1279963429704044645/user01.png?ex=66d85496&is=66d70316&hm=e57eee7148406abe0a52bc95b084a409a224ce98189b1846ba89dbaf50a5db98&=&format=webp&quality=lossless&width=420&height=468)
+![EM-01](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727478293/user-empaty_r9ccdm.png)
 
-![EM-02](https://media.discordapp.net/attachments/624357483116232707/1279963447248949329/user02.png?ex=66d8549a&is=66d7031a&hm=19e4f57a19cd33daae335cb11f4a473a61105177a24653f9f8bd88e7004c233d&=&format=webp&quality=lossless&width=410&height=468)
+![EM-02](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727478165/user02_cvwzuy.png)
 
 ### 2.3.5. As-is Scenario Mapping
 
-![ASM-01](/assets/chapter4/As-Is-Invernadero.jpg)
+![ASM-01](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727478362/As-Is-Invernadero_qp5exm.jpg)
 
-![ASM-02](/assets/chapter4/As-Is-Microcultivo.jpg)
+![ASM-02](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727478364/As-Is-Microcultivo_zpqv3d.jpg)
 
 ## 2.4. Ubiquitous Language
 
