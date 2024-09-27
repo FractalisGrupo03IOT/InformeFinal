@@ -1063,22 +1063,22 @@ Para desarrollar la arquitectura de nuestro software hemos usado el modelo C4, e
 #### 4.1.3.1. Software Architecture System Landscape Diagram
 Este diagrama permite ver nuestro sistema funcionando en el mundo real, abarcando más alla de sistemas externos y usuarios de nuestro dominio. Nuestro sistema aparte de ser usados por los dueños de los invernaderos, será usado por las personas encargadas de dar mantenimiento a los cultivos.
 
-![Texto alternativo](/assets/chapter4/GreenToolsLandscape.png)
+![Texto alternativo](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727422823/Green_Tools-Landscape_fqfuse.png)
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams
 Este diagram nos permite ver nuestros sistema de manera más general, el cual se representa como una caja en el centro y rodeado por los usuarios y sistema externos con los que interactua. Para nuestro dominio existen dos tipos de usuarios, los dueños de microcultivos e invernaderos.
 
-![Texto alternativo](/assets/chapter4/GreenToolsContext.png)
+![Texto alternativo](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727422821/Green_Tools-Context_cqktyy.png)
 
 #### 4.1.3.3. Software Architecture Container Level Diagrams.
 Los contenedores son los servidores o productos de software que conforman nuestro sistema, es en esencia una unidad desplegable o ejecutable que compila código o almacena datos. Nuestos sistema usa una Aplicación Web para entregar el contenido estático y dinámico como el Landing Page y Single Page App. El Single Page App es el que provee de todas las funcionalidades para monitorear el cultivo, la aplicación móvil provee las mimas funcionalidades pero para dispositivos móvil. Nuestra API almacena los reportes de los cultivos, estos reportes se generan con los datos que envía el Edge Computing Server, el cuál recolecta y resume la información enviada por los sensores a través del Embedded App. Este último es el software que corre en el microcontrolador ESP32 para el funcionamiento de los sensores y actuadores.
 
-![Texto alternativo](/assets/chapter4/GreenToolsContainers.png)
+![Texto alternativo](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727422821/Green_Tools-Containers_1_y4ij67.png)
 
 #### 4.1.3.4. Software Architecture Deployment Diagrams
 Este último diagrama muestra las plataformas y herramientas de despliegue para cada uno de nuestros contenedores. El single Page App funciona en el navegador del usuario, la aplicación móvil en el smarthpone del usuario y el Embedded App en el microcontrolador ESP32. Los otros contenedores si necesitan ser desplegados en servidores Apache Tomcat y Azure DB para las bases de datos.
 
-![Texto alternativo](/assets/chapter4/GreenToolsDeployment.png)
+![Texto alternativo](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727422821/Green_Tools-Deployment_1_ud0weq.png)
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
@@ -1170,7 +1170,7 @@ Descripción de las Clases:
 
 #### 4.2.1.5. Bounded Context Software Architecture Component Level Diagrams
 
-![Account Bounded ContextC4](https://github.com/user-attachments/assets/5366a07f-ec6b-4cd9-92d3-4dd93e46b638)
+![Account Bounded ContextC4](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727422821/Green_Tools-AccountComponents_syotva.png)
 
 #### 4.2.1.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1252,7 +1252,7 @@ Clases Principales:
 
 #### 4.2.2.5. Bounded Context Software Architecture Component Level Diagrams
 
-![IoT System Bounded ContextC4](https://github.com/user-attachments/assets/88b59230-c175-48ea-a85f-d2af94296e17)
+![IoT System Bounded ContextC4](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727422823/Green_Tools-IoTSystemComponents_buggkj.png)
 
 #### 4.2.2.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1353,7 +1353,7 @@ Descripción de las Clases:
 
 #### 4.2.3.5. Bounded Context Software Architecture Component Level Diagrams
 
-![Crop Inventory Bounded ContextC4](https://github.com/user-attachments/assets/e91bac39-f8ab-44ef-8056-f28f784ab8f5)
+![Crop Inventory Bounded ContextC4](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727422823/Green_Tools-CopInventoryComponents_ykeeti.png)
 
 #### 4.2.3.6. Bounded Context Software Architecture Code Level Diagrams
 
@@ -1433,7 +1433,7 @@ Clases Principales:
 
 #### 4.2.4.5. Bounded Context Software Architecture Component Level Diagrams
 
-![Crop Status Bounded ContextC4](https://github.com/user-attachments/assets/c4c60e07-357c-438e-bd78-021fac633696)
+![Crop Status Bounded ContextC4](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727422821/Green_Tools-CropStatusComponents_dvi342.png)
 
 #### 4.2.4.6. Bounded Context Software Architecture Code Level Diagrams
 
