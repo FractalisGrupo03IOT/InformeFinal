@@ -1085,14 +1085,19 @@ Este último diagrama muestra las plataformas y herramientas de despliegue para 
 
 Entities:
 - Usuario: Representa a un usuario del sistema.
+
 Value Objects:
 - Membresia: Representa el tipo de membresía (básica o avanzada).
+
 Aggregates:
 - CuentaAggregate: Agrupa Usuario y su Membresia.
+
 Factories:
 - UsuarioFactory: Crea nuevas cuentas de usuario.
+
 Domain Services:
 - AutenticacionService: Maneja la autenticación y autorización de usuarios.
+
 Repositories:
 - IUsuarioRepository: Interface para acceder a los usuarios almacenados.
 
@@ -1180,12 +1185,16 @@ Descripción de las Clases:
 
 Entities:
 - Representa un sensor individual (e.g., humedad, temperatura).
+
 Value Objects:
 - SensorData: Contiene los datos recolectados por un sensor (e.g., valor, timestamp).
+
 Aggregates:
 - Cultivo: Agrupa múltiples Sensor y asocia el grupo a un userId y a un cultivo específico.
+
 Repositories:
 - ICultivoRepository: Interface para acceder a los cultivos almacenados en el contexto del IoT System.
+
 Services:
 - DataValidationService: Valida la integridad y consistencia de los datos de los sensores.
 
@@ -1259,14 +1268,19 @@ Clases Principales:
 Entities:
 - Inventario: Representa el inventario de cultivos de un usuario.
 - CultivoInventario: Referencia a los cultivos gestionados en el inventario.
+
 Value Objects:
 - Cantidad: Representa cantidades de recursos (e.g., agua, fertilizante).
+
 Aggregates:
 - InventarioAggregate: Agrupa Inventario y sus CultivoInventario.
+
 Factories:
 - InventarioFactory: Crea instancias de Inventario para nuevos usuarios.
+
 Domain Services:
 - GestorInventarioService: Lógica para añadir o eliminar cultivos según la membresía.
+
 Repositories:
 - IInventarioRepository: Interface para acceder al inventario almacenado.
 
@@ -1355,14 +1369,19 @@ Descripción de las Clases:
 Entities:
 - CultivoEstado: Representa el estado actual de un cultivo específico.
 - Actuador: Dispositivo que puede modificar el estado del cultivo (e.g., riego).
+
 Value Objects:
 - ParametrosCultivo: Incluye parámetros como temperatura máxima/mínima, humedad mínima.
+
 Aggregates:
 - CultivoEstadoAggregate: Agrupa CultivoEstado, Actuador y ParametrosCultivo.
+
 Factories:
 - CultivoEstadoFactory: Crea instancias de CultivoEstado con parámetros iniciales.
+
 Domain Services:
 - RiegoService: Lógica para activar el actuador de riego basado en la humedad.
+
 Repositories:
 - ICultivoEstadoRepository: Interface para acceder a los estados de los cultivos almacenados.
 
