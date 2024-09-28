@@ -413,7 +413,7 @@ La problemática se origina debido a la falta de soluciones accesibles y efectiv
 
 #### 1. Domain
 
-El dominio de GreenTools abarca la gestión agrícola para pequeños y medianos agricultores, específicamente aquellos que operan invernaderos y microcultivos. La solución busca resolver los problemas relacionados con la falta de acceso a herramientas tecnológicas avanzadas, asequibles y fáciles de usar para optimizar sus procesos agrícolas. 
+El dominio de GreenTools se centra en la gestión agrícola para pequeños y medianos agricultores, con un enfoque especial en aquellos que manejan invernaderos y microcultivos. Estos usuarios se enfrentan a la falta de acceso a tecnologías avanzadas para optimizar sus procesos, lo que impacta su eficiencia y sostenibilidad. GreenTools aborda estos desafíos mediante la integración de IoT y automatización de bajo costo, diseñados específicamente para satisfacer las necesidades de este segmento.
 
 #### 2. Customer Segments
 
@@ -425,21 +425,21 @@ El segmento de clientes incluye:
 
 Los principales puntos de dolor que enfrentan los agricultores incluyen:
 - **Acceso limitado a la tecnología**: Las soluciones tecnológicas actuales son costosas y complicadas de implementar.
-- **Ineficiencia en la gestión de recursos**: Los agricultores no cuentan con herramientas adecuadas para optimizar el uso de agua, luz y otros insumos críticos.
-- **Falta de automatización**: Los procesos manuales incrementan el riesgo de error humano y resultan en desperdicio de recursos.
-- **Falta de datos en tiempo real**: Sin datos actualizados, es difícil tomar decisiones informadas sobre el estado de los cultivos.
+- **Ineficiencia en la gestión de recursos**: La falta de datos en tiempo real y de automatización conduce a un uso ineficiente de recursos clave como el agua y la energía.
+- **Falta de automatización**: Las tareas manuales aumentan el riesgo de errores humanos, lo que puede causar desperdicio de recursos y pérdida de productividad.
+- **Falta de datos en tiempo real**: Sin acceso a datos actualizados sobre las condiciones del cultivo, los agricultores no pueden tomar decisiones informadas.
 
 #### 4. Gap
 
-Existe una brecha entre las necesidades tecnológicas de los pequeños y medianos agricultores y las soluciones tecnológicas disponibles en el mercado. Las soluciones actuales son costosas, complejas y no se adaptan bien a las condiciones específicas de estos agricultores. Esto ha impedido que muchos adopten tecnologías de automatización y monitoreo para mejorar la eficiencia de sus operaciones.
+Al comparar las necesidades del usuario con las soluciones disponibles en el mercado, se observa una clara brecha. Las soluciones actuales son costosas, difíciles de implementar y no se adaptan bien a las condiciones particulares de los pequeños y medianos agricultores. GreenTools tiene como objetivo cerrar esta brecha con una plataforma asequible, sencilla y escalable, diseñada específicamente para los desafíos que enfrentan estos usuarios.
 
 #### 5. Visión/Estrategia
 
-La estrategia de GreenTools es cerrar esta brecha tecnológica al proporcionar una plataforma de gestión agrícola accesible, económica y fácil de usar, que integre sensores IoT y sistemas de monitoreo en tiempo real. La visión es democratizar el acceso a la tecnología avanzada en la agricultura, permitiendo a los pequeños y medianos agricultores mejorar su productividad y sostenibilidad. Al implementar GreenTools, los agricultores podrán gestionar mejor sus recursos, automatizar procesos clave y obtener información precisa y en tiempo real para optimizar sus operaciones.
+La estrategia de GreenTools sigue los principios Lean UX al centrarse en la validación continua de las necesidades del usuario. Nuestra visión es democratizar el acceso a la tecnología avanzada en la agricultura, permitiendo a los pequeños agricultores aumentar su productividad y adoptar prácticas sostenibles. Esto se logra mediante la implementación de un MVP que proporciona el valor esencial desde las primeras etapas, y que evoluciona en función de las pruebas y la retroalimentación del usuario.
 
 #### 6. Initial Segment
 
-El segmento inicial de usuarios son los pequeños y medianos agricultores, en particular aquellos que gestionan invernaderos y microcultivos. Este grupo ha sido seleccionado debido a su necesidad crítica de soluciones tecnológicas accesibles que puedan mejorar la eficiencia operativa sin requerir grandes inversiones iniciales.
+El primer segmento de usuarios con el que se prueba GreenTools son los pequeños agricultores que gestionan invernaderos y microcultivos. Este grupo ha sido elegido porque presenta una necesidad urgente de soluciones tecnológicas accesibles. El proceso Lean UX implica realizar ciclos iterativos de desarrollo y prueba con este segmento, ajustando el producto según los datos obtenidos.
 
 ---
 
@@ -460,25 +460,30 @@ El segmento inicial de usuarios son los pequeños y medianos agricultores, en pa
 | **Aspecto**        | **Descripción**                                                                                                                                      |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Usuarios**       | Dueños de invernaderos y microcultivos que buscan optimizar sus operaciones mediante tecnologías accesibles.                                           |
-| **Problema**       | Falta de acceso a tecnologías asequibles y efectivas para optimizar la gestión agrícola y el uso de recursos.                                          |
-| **Solución**       | Plataforma de monitoreo y automatización basada en IoT, que ofrece herramientas para la gestión eficiente de cultivos en tiempo real.                 |
-| **Beneficios**     | Mejora en la eficiencia operativa, reducción del desperdicio de recursos, aumento de la productividad y sostenibilidad en las operaciones agrícolas.   |
-| **Suposiciones**   | Los agricultores adoptarán tecnologías si son accesibles, fáciles de usar y demuestran un impacto positivo en la eficiencia y productividad.           |
-| **Métricas**       | Reducción del desperdicio de recursos en un 20%, mejora en la productividad en un 15%, tasa de adopción del 50% en el primer año.                     |
+| **Problema**       | Falta de acceso a tecnologías asequibles que optimicen la gestión agrícola y el uso de recursos.                                          |
+| **Solución**       | Plataforma IoT para monitoreo en tiempo real y automatización de procesos agrícolas clave.                 |
+| **Beneficios**     | Reducción del desperdicio de recursos, mejora en la eficiencia operativa y aumento de la productividad.   |
+| **Suposiciones**   | Los agricultores adoptarán tecnologías si son accesibles, fáciles de usar y tienen un impacto positivo.           |
+| **Métricas**       | Reducción del 20% en el desperdicio de recursos, aumento del 15% en la productividad, 50% de adopción.                     |
 
 #### 1.2.2.2. Lean UX Assumptions
-**Business outcomes:**
+**Business assumptions:**
 
--Los usuarios de GreenTools están interesados en optimizar la gestión y monitoreo de sus cultivos a través de la tecnología IoT.
--Los usuarios valoran la posibilidad de automatizar procesos agrícolas para mejorar la eficiencia operativa.
--Los usuarios desean una plataforma intuitiva, fácil de usar, que les permita gestionar sus cultivos desde cualquier lugar.
--Los usuarios buscan funcionalidades adicionales, como alertas personalizadas y análisis predictivos basados en datos históricos.
--La plataforma debe ser compatible con múltiples dispositivos y navegadores modernos.
--Los usuarios están dispuestos a pagar por planes de suscripción que incluyan el alquiler de equipos IoT avanzados.
--Los usuarios valoran el soporte técnico eficiente y la posibilidad de integrar sus operaciones agrícolas con otras herramientas de -gestión.
+- Creemos que al implementar GreenTools, los agricultores podrán reducir el uso excesivo de agua y energía mediante la automatización y monitoreo en tiempo real, lo que mejorará la eficiencia operativa.
 
+- Suponemos que los pequeños agricultores preferirán pagar una suscripción o alquilar equipos IoT en lugar de realizar una compra inicial significativa, debido a sus limitaciones presupuestarias.
 
-**Users: assumptions**
+- Creemos que si los agricultores experimentan mejoras significativas en sus operaciones agrícolas, estarán dispuestos a recomendar GreenTools a otros agricultores, impulsando una adopción orgánica sin necesidad de grandes campañas de marketing.
+
+- Suponemos que más de la mitad de los pequeños y medianos agricultores adoptarán GreenTools durante el primer año de lanzamiento, motivados por su propuesta de valor (optimización de recursos, accesibilidad y facilidad de uso).
+
+- Suponemos que GreenTools puede adaptarse a diversas regiones y prácticas agrícolas, y que su expansión internacional será viable con ajustes mínimos en la plataforma para responder a diferentes necesidades locales.
+
+- Suponemos que la flexibilidad de usar GreenTools tanto en dispositivos móviles como en la web será un factor clave para la adopción, permitiendo a los agricultores gestionar sus operaciones de manera remota y en tiempo real.
+
+- Suponemos que los agricultores apreciarán la compatibilidad de GreenTools con los sensores IoT que ya utilizan o que están disponibles en el mercado, lo que facilitará su adopción sin necesidad de inversiones adicionales en nuevos dispositivos.
+
+**Users assumptions**
 
 - **¿Quién es el usuario?**
 
@@ -504,26 +509,90 @@ Las características más importantes incluyen la capacidad de monitoreo en tiem
 
 GreenTools debe tener una interfaz sencilla, intuitiva y responsive, que permita a los usuarios gestionar sus cultivos de manera eficiente sin complicaciones. La plataforma debe ser rápida, confiable y ofrecer un soporte técnico accesible para resolver cualquier problema que los usuarios puedan enfrentar.
 
-**Features:**
+**Features assumptions**
 
-1. **Monitoreo en tiempo real**: Los usuarios pueden monitorear las condiciones clave del cultivo, como la humedad del suelo, temperatura y otras variables críticas en tiempo real.
-2. **Automatización de procesos**: La plataforma permite automatizar tareas como el riego y la ventilación, ajustándose a las condiciones actuales del cultivo.
-3. **Alertas personalizadas**: Se envían notificaciones basadas en parámetros predefinidos por el usuario, como cambios críticos en la temperatura o humedad.
-4. **Análisis predictivos**: La plataforma ofrece análisis predictivos que anticipan necesidades futuras y problemas potenciales basados en datos históricos.
-5. **Compatibilidad con múltiples dispositivos**: La plataforma es accesible desde cualquier dispositivo (smartphone, tablet, ordenador) y funciona en los navegadores modernos.
+- **¿Cómo puede ocasionar un impacto social?**: 
+  - GreenTools podría generar un impacto social significativo al ayudar a los pequeños y medianos agricultores a optimizar el uso de recursos naturales como el agua y la energía. Al reducir el desperdicio de estos recursos, se contribuirá al cuidado del medio ambiente, promoviendo prácticas agrícolas sostenibles que beneficien tanto a las comunidades rurales como al entorno global. Además, el acceso a tecnología asequible permitirá que más agricultores adopten soluciones tecnológicas avanzadas, mejorando su calidad de vida y la seguridad alimentaria en sus comunidades.
 
+- **¿Qué problema social logrará solucionar?**: 
+  - El principal problema social que GreenTools busca solucionar es la brecha tecnológica en la agricultura, especialmente entre los pequeños agricultores que no tienen acceso a herramientas avanzadas para gestionar eficientemente sus cultivos. Esto les impide competir con grandes productores, afectando su viabilidad económica y la sustentabilidad de sus prácticas. Al democratizar el acceso a la tecnología agrícola, GreenTools contribuirá a reducir las desigualdades en el sector agrícola y a mejorar los medios de vida de los agricultores pequeños.
+
+- **¿En qué situaciones será útil?**: GreenTools será útil en cualquier situación donde los agricultores necesiten optimizar el uso de recursos y tomar decisiones basadas en datos en tiempo real. Esto incluye:
+  - Monitorear las condiciones de sus cultivos (humedad, temperatura, nutrientes) para ajustar el riego y otros procesos.
+  - Automatizar procesos agrícolas clave, como el riego y la ventilación, en invernaderos y microcultivos.
+  - Recibir alertas personalizadas cuando las condiciones del cultivo cambien y necesiten atención inmediata.
+  - Analizar datos históricos y generar predicciones para anticipar problemas y mejorar la planificación agrícola.
+
+- **¿Cuáles son los sectores más influyentes?**: 
+  - Agricultura sostenible: GreenTools puede tener un impacto considerable en el sector de la agricultura sostenible, donde la optimización del uso de recursos es clave.
+  - Pequeñas y medianas explotaciones agrícolas: Este es el principal segmento de usuarios, donde la tecnología avanzada aún no está ampliamente disponible.
+  - Gestión de recursos hídricos y energéticos: Sectores donde GreenTools puede integrarse para mejorar el uso eficiente de agua y energía, reduciendo la huella ambiental.
+  - Tecnología IoT: GreenTools se posiciona dentro del sector de tecnología IoT aplicada a la agricultura, creando un ecosistema de soluciones interconectadas para mejorar la productividad y sostenibilidad.
+
+- **¿Qué beneficios considera que podría ayudar a las remodelaciones de hogares?**:
+  - Aunque GreenTools está centrado en la agricultura, algunas de sus características como el monitoreo en tiempo real y la automatización podrían adaptarse a sistemas de hogares inteligentes para optimizar el uso de recursos como el agua y la energía en jardines o sistemas domésticos de producción de alimentos (como huertos urbanos o invernaderos pequeños). Además, el enfoque en la eficiencia de recursos y sostenibilidad podría inspirar soluciones similares para automatizar y optimizar el uso de energía y agua en proyectos de remodelación de hogares.
+
+- **¿Qué características te diferencian de tu competencia?**:
+  - Accesibilidad económica: GreenTools ofrece una solución IoT asequible y adaptable, lo que lo diferencia de otras soluciones tecnológicas agrícolas costosas que solo están al alcance de grandes productores.
+  - Modelo de suscripción o alquiler: En lugar de requerir una inversión inicial elevada, GreenTools se basa en un modelo de suscripción que facilita el acceso a la tecnología para pequeños agricultores.
+  - Simplicidad y facilidad de uso: A diferencia de muchos productos competidores, GreenTools está diseñado para ser intuitivo y fácil de usar, incluso para agricultores con poca experiencia tecnológica.
+  - Integración con dispositivos IoT existentes: La plataforma es compatible con una amplia gama de sensores y dispositivos IoT, lo que permite a los agricultores utilizar el equipo que ya poseen.
+  - Monitoreo y automatización en tiempo real: Ofrece monitoreo en tiempo real de los cultivos y automatización de procesos, lo que proporciona un control total de los recursos y procesos clave.
+  - Análisis predictivo: GreenTools no solo recolecta datos, sino que también ofrece análisis predictivos basados en el comportamiento de los cultivos y el historial de datos.
+
+
+- **¿Qué características te diferencian de tu competencia?**: 
+  - GreenTools debería tener una interfaz sencilla, intuitiva y visualmente atractiva, diseñada para que los usuarios puedan acceder rápidamente a la información crítica de sus cultivos. La plataforma debe ser responsive, lo que significa que funcione sin problemas en dispositivos móviles y computadoras de escritorio, facilitando su uso en el campo o en la oficina.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- Creemos que GreenTools será una herramienta invaluable para los agricultores que buscan mejorar la gestión de sus invernaderos y microcultivos mediante tecnología IoT. Sabremos que tuvimos éxito cuando más del 80% de nuestros usuarios expresen satisfacción con la plataforma y reporten mejoras en la eficiencia operativa.
+- Hypothesis Statement 1
 
-- Creemos que la automatización de procesos agrícolas permitirá a los usuarios de GreenTools optimizar el uso de recursos y mejorar los rendimientos de sus cultivos. Sabremos que tuvimos éxito cuando los usuarios reporten un aumento significativo en el rendimiento de sus cultivos tras el uso de la plataforma.
+  **Creemos que** al proporcionar una plataforma de monitoreo en tiempo real y automatización basada en IoT, los agricultores podrán reducir el desperdicio de recursos (agua, energía) en al menos un 20%.
+
+  **Sabremos** que tuvimos éxito cuando al menos el 80% de los usuarios reporten una disminución en el uso de agua y energía.
+
+  **Cuando** los usuarios hayan utilizado GreenTools durante un ciclo de cultivo completo y comparen el ahorro con sus métodos previos.
+
+- Hypothesis Statement 2
+
+  **Creemos que** el modelo de suscripción de GreenTools será preferido por los pequeños y medianos agricultores, en lugar de una compra única de dispositivos IoT.
+
+  **Sabremos** que tuvimos éxito cuando al menos el 60% de los nuevos usuarios opten por un plan de suscripción.
+
+  **Cuando** estos usuarios elijan la opción de suscripción en los primeros seis meses de disponibilidad, en lugar de una compra directa de equipos.
   
-- Creemos que los agricultores estarán dispuestos a suscribirse a GreenTools y alquilar los equipos IoT necesarios para la optimización de sus operaciones. Sabremos que tuvimos éxito cuando alcancemos una tasa de renovación de suscripciones superior al 70%.
+- Hypothesis Statement 3
 
-- Creemos que la plataforma será utilizada por agricultores de pequeños y medianos invernaderos y microcultivos, siendo este nuestro segmento objetivo. Sabremos que tuvimos éxito cuando la mayoría de nuestros usuarios pertenezca a este segmento y encuentren valor en las funcionalidades de la plataforma.
+  **Creemos que** si GreenTools es fácil de usar y no requiere experiencia técnica avanzada, al menos el 75% de los agricultores sin experiencia tecnológica adoptarán la plataforma.
 
-- Creemos que una interfaz intuitiva y responsive es crucial para la adopción exitosa de GreenTools. Sabremos que tuvimos éxito cuando más del 80% de los usuarios reporten que la plataforma es fácil de usar y eficiente en encuestas de satisfacción.
+  **Sabremos** que tuvimos éxito cuando el 80% de los usuarios con poca o ninguna experiencia tecnológica puedan implementar y utilizar GreenTools sin asistencia técnica significativa.
+
+  **Cuando** los agricultores reporten que pudieron instalar y usar GreenTools sin ayuda externa dentro de un corto período.
+
+- Hypothesis Statement 4
+
+  **Creemos que** el acceso a datos precisos y en tiempo real sobre las condiciones de los cultivos mejorará la productividad de los agricultores en un 15% dentro de los primeros seis meses de uso.
+
+  **Sabremos** que tuvimos éxito cuando al menos el 70% de los usuarios reporten un aumento en la productividad de sus cultivos.
+
+  **Cuando** los agricultores puedan vincular directamente ese aumento a la información provista por GreenTools.
+
+- Hypothesis Statement 5
+
+  **Creemos que** si los agricultores encuentran que GreenTools les ayuda a gestionar mejor sus cultivos, la tasa de retención de usuarios superará el 70% después del primer año.
+
+  **Sabremos** que tuvimos éxito cuando más del 70% de los usuarios renueven su suscripción o continúen utilizando GreenTools después del primer ciclo de cultivo.
+
+  **Cuando** analicemos las tasas de renovación y uso continuo tras un año de suscripción.
+
+- Hypothesis Statement 6
+
+  **Creemos que** GreenTools será adoptado por agricultores en una variedad de sectores (invernaderos, microcultivos, etc.) y regiones geográficas, debido a su adaptabilidad.
+
+  **Sabremos** que tuvimos éxito cuando al menos el 50% de los nuevos usuarios provengan de sectores y regiones fuera de nuestro mercado inicial de prueba.
+
+  **Cuando** realicemos pruebas piloto en diversas áreas y notemos una adopción significativa en diferentes mercados.
 
 #### 1.2.2.4. Lean UX Canvas
 
