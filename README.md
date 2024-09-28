@@ -2660,7 +2660,7 @@ En este Sprint, realizamos el despliegue de la **Landing Page** y la **Web Appli
 
 4. **Despliegue de la Web Application**:
     - Se desplegó una versión preliminar de la Web Application. Esto nos permitió realizar pruebas de accesibilidad y navegación antes de continuar con un despliegue en un servidor de producción.
-    ![Web Application desplegada](enlace_a_la_imagen)
+    ![Web Application desplegada](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727495536/image_izdxml.png)
     
 
 ##### Próximos Pasos en el Proceso de Despliegue
