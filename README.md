@@ -196,163 +196,63 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 
 - **Misión:** En Fractalis, nuestra misión es desarrollar y proporcionar soluciones tecnológicas avanzadas que integren IoT y automatización, permitiendo a los agricultores optimizar la gestión de sus cultivos. Nos dedicamos a mejorar la eficiencia operativa, reducir el desperdicio de recursos y fomentar prácticas sostenibles, ayudando a agricultores de todos los tamaños a enfrentar los desafíos del futuro agrícola con éxito y responsabilidad.
 
-<table align="center"  border="1" width="70%" style="text-align:center;">
-    <tr align="center">
-        <td rowspan="4">
-            <img src="https://media.discordapp.net/attachments/1282304254929010689/1282304307798081546/franco.jpg?ex=66dede73&is=66dd8cf3&hm=204a64c30aa310b6206a98e322eb6aec5934963cdeaf608197b2ea8bfdf78130&=&format=webp" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="800"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-            Yance Gutierrez, Franco Felix 
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Código de Estudiante:</b>
-        <br>
-        202022353
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Soy una persona apasionada por la tecnología y la programación, siempre interesado en estar al día con las últimas tendencias y avances en el área. Me encanta trabajar en equipo y colaborar para idear soluciones innovadoras y efectivas a problemáticas de la vida real. También me atrae el mundo de las start-ups y cómo pueden tener un impacto positivo en la sociedad a través de la tecnología. Me caracterizo por tener un pensamiento analítico y creativo, y siempre busco dar distintos puntos de vista a la hora de realizar un trabajo. Estoy comprometido en seguir aprendiendo y contribuyendo al desarrollo de la industria de la tecnología. 
-        </td>
-    </tr>
-    <tr align="center">
-        <td rowspan="4">
-            <img src="https://media.discordapp.net/attachments/1282304254929010689/1282304307244306532/94036246_229317588318715_8422413077701459968_n.jpg?ex=66dede72&is=66dd8cf2&hm=c5c2ebe2f37fa4dd3254e4ea0161ef734e05c40d23187d153e5232f2b4fd1595&=&format=webp" alt="Jean Patrick Yemsi Sanchez Rios" style="margin-bottom: 5px;" width="800"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-            Sanchez Rios, Jean Patrick Yemsi
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Código de Estudiante:</b>
-        <br>
-        202023456
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Poseo conocimientos en programación en el entorno del lenguaje C++. Estoy dispuesto a aportar nuevas ideas al equipo, tengo fácil adaptación a los roles designados y buena organización. Soy responsable y dispongo de la capacidad para aportar ideas innovadoras en beneficio de nuestro proyecto.
-        </td>
-    </tr>
-    <tr align="center">
-        <td rowspan="4">
-            <img src="https://media.discordapp.net/attachments/1280405882517196875/1282200057986420777/image.png?ex=66de7d5b&is=66dd2bdb&hm=9a9bd990d00a6e9ae32c3d1b9479d5358e36c91d9a4eaf766329e631f5ed4e57&=&format=webp&quality=lossless&width=481&height=603" alt="Giovanni Ramos"  style="margin-bottom: 5px;" width="800"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-            Giovanni Andrés Ramos Calderón
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Código de Estudiante:</b>
-        <br>
-        202021234
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Soy estudiante de la carrera de ingeniería de software, me considero una persona responsable en mis entregas y apasionada por el mundo tecnológico. Siento que puedo aportar mucho de mi en este grupo para poder realizar un buen producto. Tengo conocimientos en algunos lenguajes de programación como C++, Python y en desarrollo web. Pienso que nuestro grupo de trabajo puede generar resultados satisfactorios en base a los entregables y evidencias que mostremos a lo largo del curso.
-        </td>
-    </tr>
-    <tr align="center">
-        <td rowspan="4">
-            <img src="https://media.discordapp.net/attachments/1228537935368945717/1282026507916677234/7afa87f0-059c-4ea8-98bf-2b9f74fd82fb.png?ex=66dddbba&is=66dc8a3a&hm=586155cecd320bdb58131d442b8d3ea2d3bd31ca62545daad526ae1cf54b7a09&=&format=webp&quality=lossless&width=313&height=417" alt="Quenta Leon"  style="margin-bottom: 5px;" width="800"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-           Quenta Leon, Lino Abraham
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Código de Estudiante:</b>
-        <br>
-        202024789
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Me considero a mí mismo como una persona responsable, y apasionada por la tecnología. Poseo conocimientos en programación, en lenguajes como C++, C#, Java y Python. Me gusta aprender cosas nuevas y mejorar mis conocimientos, cuando no estoy estudiando me gusta leer, y escuchar música. Una de mis mejores cualidades es el trabajo en equipo, me considero alguien resiliente y productivo.
-        </td>
-    </tr>
-  <tr align="center">
-        <td rowspan="4">
-            <img src="https://res.cloudinary.com/dpiz0lawn/image/upload/v1727498034/foto2_brqa4w.png" alt="Miguel Angel Ramirez Alfaro"  style="margin-bottom: 5px;" width="800"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>            
-           Miguel Angel Ramirez Alfaro
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        Ingeniería de Software
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Código de Estudiante:</b>
-        <br>
-        202117152
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        Soy estudiante de 8vo ciclo de la carrera profesional de Ingeniería de Software. Me apasiona la tecnología y sus infinitas aplicaciones. Me considero un joven innovador, soñador, responsable y comprometido. Además, me gusta trabajar en equipo, solucionar problemas y mejorar los procesos que nos faciliten el trabajo, pero sobre todo, mejorar la experiencia del usuario (cliente).
-        </td>
-    </tr>
-</table>
+# Perfil del equipo
+
+## Integrantes del proyecto
+
+### Franco Félix Yance Gutiérrez
+
+![Foto Franco Félix Yance Gutiérrez](https://media.discordapp.net/attachments/1282304254929010689/1282304307798081546/franco.jpg?ex=66dede73&is=66dd8cf3&hm=204a64c30aa310b6206a98e322eb6aec5934963cdeaf608197b2ea8bfdf78130&=&format=webp)
+
+- **Nombre completo:** Yance Gutiérrez, Franco Félix
+- **Carrera:** Ingeniería de Software
+- **Código de Estudiante:** 202022353
+- **Acerca de:** Soy una persona apasionada por la tecnología y la programación, siempre interesado en estar al día con las últimas tendencias y avances en el área. Me encanta trabajar en equipo y colaborar para idear soluciones innovadoras y efectivas a problemáticas de la vida real. También me atrae el mundo de las start-ups y cómo pueden tener un impacto positivo en la sociedad a través de la tecnología. Me caracterizo por tener un pensamiento analítico y creativo, y siempre busco dar distintos puntos de vista a la hora de realizar un trabajo. Estoy comprometido en seguir aprendiendo y contribuyendo al desarrollo de la industria de la tecnología.
+
+---
+
+### Jean Patrick Yemsi Sánchez Ríos
+
+![Foto Jean Patrick Yemsi Sánchez Ríos](https://media.discordapp.net/attachments/1282304254929010689/1282304307244306532/94036246_229317588318715_8422413077701459968_n.jpg?ex=66dede72&is=66dd8cf2&hm=c5c2ebe2f37fa4dd3254e4ea0161ef734e05c40d23187d153e5232f2b4fd1595&=&format=webp)
+
+- **Nombre completo:** Sánchez Ríos, Jean Patrick Yemsi
+- **Carrera:** Ingeniería de Software
+- **Código de Estudiante:** 202023456
+- **Acerca de:** Poseo conocimientos en programación en el entorno del lenguaje C++. Estoy dispuesto a aportar nuevas ideas al equipo, tengo fácil adaptación a los roles designados y buena organización. Soy responsable y dispongo de la capacidad para aportar ideas innovadoras en beneficio de nuestro proyecto.
+
+---
+
+### Giovanni Andrés Ramos Calderón
+
+![Foto Giovanni Andrés Ramos Calderón](https://media.discordapp.net/attachments/1280405882517196875/1282200057986420777/image.png?ex=66de7d5b&is=66dd2bdb&hm=9a9bd990d00a6e9ae32c3d1b9479d5358e36c91d9a4eaf766329e631f5ed4e57&=&format=webp&quality=lossless&width=481&height=603)
+
+- **Nombre completo:** Giovanni Andrés Ramos Calderón
+- **Carrera:** Ingeniería de Software
+- **Código de Estudiante:** 202021234
+- **Acerca de:** Soy estudiante de la carrera de ingeniería de software, me considero una persona responsable en mis entregas y apasionada por el mundo tecnológico. Siento que puedo aportar mucho de mi en este grupo para poder realizar un buen producto. Tengo conocimientos en algunos lenguajes de programación como C++, Python y en desarrollo web. Pienso que nuestro grupo de trabajo puede generar resultados satisfactorios en base a los entregables y evidencias que mostremos a lo largo del curso.
+
+---
+
+### Lino Abraham Quenta León
+
+![Foto Lino Abraham Quenta León](https://media.discordapp.net/attachments/1228537935368945717/1282026507916677234/7afa87f0-059c-4ea8-98bf-2b9f74fd82fb.png?ex=66dddbba&is=66dc8a3a&hm=586155cecd320bdb58131d442b8d3ea2d3bd31ca62545daad526ae1cf54b7a09&=&format=webp&quality=lossless&width=313&height=417)
+
+- **Nombre completo:** Quenta León, Lino Abraham
+- **Carrera:** Ingeniería de Software
+- **Código de Estudiante:** 202024789
+- **Acerca de:** Me considero a mí mismo como una persona responsable y apasionada por la tecnología. Poseo conocimientos en programación en lenguajes como C++, C#, Java y Python. Me gusta aprender cosas nuevas y mejorar mis conocimientos. Cuando no estoy estudiando, me gusta leer y escuchar música. Una de mis mejores cualidades es el trabajo en equipo; me considero resiliente y productivo.
+
+---
+
+### Miguel Ángel Ramírez Alfaro
+
+![Foto Miguel Ángel Ramírez Alfaro](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727498034/foto2_brqa4w.png)
+
+- **Nombre completo:** Ramírez Alfaro, Miguel Ángel
+- **Carrera:** Ingeniería de Software
+- **Código de Estudiante:** 202117152
+- **Acerca de:** Soy estudiante de 8vo ciclo de la carrera profesional de Ingeniería de Software. Me apasiona la tecnología y sus infinitas aplicaciones. Me considero un joven innovador, soñador, responsable y comprometido. Me gusta trabajar en equipo, solucionar problemas y mejorar los procesos que nos faciliten el trabajo, pero sobre todo, mejorar la experiencia del usuario (cliente).
+
 
 
 ## 1.2. Solution Profile
