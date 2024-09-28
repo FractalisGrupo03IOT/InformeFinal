@@ -2642,10 +2642,55 @@ Aunque no se desarrollaron endpoints reales con **OpenAPI**, los endpoints simul
 En los próximos sprints, desarrollaremos Web Services reales que estarán documentados con **OpenAPI** para cubrir todas las funcionalidades que actualmente hemos simulado. Se incluirán los métodos de autenticación, gestión de cultivos, alertas, entre otros.
     
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
-    _Contenido por añadir..._
+#### 6.2.1.7. Software Deployment Evidence for Sprint Review
+##### Resumen del Sprint
+En este Sprint, realizamos el despliegue de la **Landing Page** y la **Web Application** utilizando servicios de GitHub Pages y configuraciones básicas para simular un entorno de despliegue. Este despliegue nos permitió verificar que ambas aplicaciones fueran accesibles externamente y funcionaran de manera adecuada. Los principales pasos realizados incluyen:
+
+1. **Creación de Repositorios en GitHub**: Se crearon repositorios específicos para la **Landing Page** y la **Web Application**, lo cual nos permitió mantener un control de versiones y facilitar el trabajo colaborativo.
+    - Repositorio de Landing Page: [Landing Page Repo](https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git)
+    - Repositorio de Web Application: [Web Application Repo](https://github.com/FractalisGrupo03IOT/GreenTools-WebApp.git)
+
+2. **Configuración de GitHub Pages para Despliegue**:
+    - **Landing Page**: Se configuró GitHub Pages para el despliegue automático de la Landing Page directamente desde el repositorio. Esto nos permitió tener una versión de la Landing Page accesible para pruebas y demostraciones.
+    - **Captura de Pantalla del Despliegue en GitHub Pages**
+      ![Despliegue de la Landing Page](enlace_a_la_imagen)
+      *Descripción*: Esta captura muestra la configuración de GitHub Pages utilizada para desplegar la Landing Page del proyecto.
+
+3. **Configuración de Recursos Locales para Desarrollo**:
+    - Durante el desarrollo de la **Web Application**, utilizamos entornos locales para pruebas. Esto incluía configuraciones con la API fake alojada en GitHub (`https://my-json-server.typicode.com/FractalisGrupo03IOT/fakeApi`) que permitió simular el comportamiento de los servicios reales.
+
+4. **Despliegue de la Web Application**:
+    - Se desplegó una versión preliminar de la Web Application. Esto nos permitió realizar pruebas de accesibilidad y navegación antes de continuar con un despliegue en un servidor de producción.
+    ![Web Application desplegada](enlace_a_la_imagen)
+    
+
+##### Próximos Pasos en el Proceso de Despliegue
+- **Implementación en un Cloud Provider**: En los siguientes sprints, planeamos realizar el despliegue completo de la Web Application y los Web Services en un proveedor de nube (Azure) para asegurar la disponibilidad y escalabilidad del sistema.
+
     
 #### 6.2.1.8. Team Collaboration Insights during Sprint
-    _Contenido por añadir..._
+##### Resumen de Colaboración del Equipo
+Durante este Sprint, el equipo trabajó de forma colaborativa para completar la **Landing Page** y la **Web Application** de GreenTools. Utilizamos **GitHub Projects** para gestionar las tareas y asegurar la participación equitativa de todos los miembros.
+
+##### Evidencia de Colaboración
+1. **Historial de Commits**:
+   - Cada miembro del equipo realizó commits frecuentes en los repositorios de **Landing Page** y **Web Application**, garantizando una integración continua.
+   - ![Historial de Commits](enlace_a_la_imagen)
+
+2. **Analítica de Colaboración**:
+   - Utilizamos **GitHub Insights** para analizar la contribución de cada miembro, mostrando una distribución equitativa de las tareas.
+   - ![Analítica de Colaboración en GitHub Insights](enlace_a_la_imagen)
+
+3. **Revisiones Cruzadas**:
+   - Implementamos revisiones cruzadas de código mediante **pull requests**, asegurando la calidad del desarrollo.
+   - ![Revisiones de Pull Requests](enlace_a_la_imagen)
+
+4. **Reuniones Virtuales**:
+   - Se realizaron reuniones virtuales para sincronizar avances y resolver bloqueos.
+   - ![Reunión Virtual](enlace_a_la_imagen)
+
+##### Reflexión
+La colaboración fue efectiva, con todos los miembros contribuyendo activamente. La gestión de tareas con **GitHub Projects** y las revisiones de código ayudaron a mantener una alta calidad y resolver desafíos de forma conjunta.
 
 
 # Conclusiones
