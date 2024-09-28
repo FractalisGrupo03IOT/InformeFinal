@@ -2610,8 +2610,9 @@ Todos los componentes mencionados fueron completados exitosamente, cumpliendo co
   *Descripción*: Se muestra cómo, utilizando una API falsa de GitHub, el usuario puede hacer clic en una estación específica para ver los **Crops** asociados. Esto simula la conectividad y gestión de cultivos reales de manera interactiva.
 
 ##### Video de Demostración
-Para una demostración completa del progreso y las funcionalidades desarrolladas durante este Sprint, puedes consultar el siguiente video: [Video de la landing page](enlace_al_video).
- [Video de la web applications](enlace_al_video).
+Para una demostración completa del progreso y las funcionalidades desarrolladas durante este Sprint, puedes consultar el siguiente video: 
+[Video de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EZCPXB4lvRpMjPmHT5ZpacIBa0AtxXVyJdaOW9vTvSUBow?e=86f5yx).
+[Video de la web applications]([enlace_al_video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EdE3GV68FehKi_TcSHFtZOcBePLEEIfHQDbxuFWhFJpmxw?e=uckz3i)).
 
 *Descripción del Video*: El video comienza mostrando la **Landing Page**, con todas sus secciones: encabezado, beneficios, características, precios, y testimonios. Luego, se navega hacia la **Web Application**, donde se visualizan las **Stations** y se muestra la navegación mediante el **Toolbar**. Además, se ilustra la función de **Notifications** y cómo se pueden visualizar los **Crops** dentro de una estación específica, utilizando la **Api Fake**.
 
@@ -2726,3 +2727,5 @@ upc-pre-202402-si572-WV71-Fractalis-entrevista-tb1
 
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=ybOhvp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=ybOhvp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+upc-pre-202402-si572-WV71-Fractalis-expo-tp1
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EVt2-jDf-c9HgC7IvDM1PHwBrfitg_t6FMiSBYMjUlW9fQ?e=LPHiwN](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EVt2-jDf-c9HgC7IvDM1PHwBrfitg_t6FMiSBYMjUlW9fQ?e=LPHiwN)
