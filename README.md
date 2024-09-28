@@ -342,7 +342,7 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
         <td align="left">
         <b>Código de Estudiante:</b>
         <br>
-        202026345
+        202117152
         </td>
     </tr>
     <tr>
