@@ -187,7 +187,7 @@ URL de nuestro repositorio para el Project Report:[https://github.com/FractalisG
 
 Fractalis es una startup dedicada a transformar la agricultura mediante la innovación tecnológica. Nos especializamos en desarrollar soluciones que integran el Internet de las Cosas (IoT) y la automatización para empoderar a agricultores de todo el mundo. En Fractalis, creemos en la convergencia de tecnología y sostenibilidad para crear un futuro agrícola más eficiente y responsable. Nuestro objetivo es revolucionar el sector, brindando herramientas accesibles y escalables que mejoran la productividad, optimizan el uso de recursos y promueven prácticas agrícolas sostenibles. Fractalis es más que una startup; es un movimiento hacia la modernización de la agricultura global.
 
-![logo].(https://res.cloudinary.com/drg1vvwvl/image/upload/v1727500481/logo_rl6utt.webp)
+![logo](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727500782/logo_wrflxu.png)
 
 - **Visión:** Nuestra visión en Fractalis es liderar la transformación global de la agricultura a través de la tecnología, empoderando a agricultores de todo el mundo con herramientas inteligentes que hagan la agricultura más eficiente, sostenible y resiliente. Aspiramos a ser un referente en la innovación agrícola, promoviendo un futuro donde la tecnología y la naturaleza trabajen en armonía para asegurar la seguridad alimentaria y el bienestar del planeta.
 
@@ -500,9 +500,7 @@ GreenTools debe tener una interfaz sencilla, intuitiva y responsive, que permita
 
 #### 1.2.2.4. Lean UX Canvas
 
-<div align=center>
-    <img src="https://media.discordapp.net/attachments/1282304254929010689/1282304307512873010/canvas.jpg?ex=66dede72&is=66dd8cf2&hm=64c195014c52cbb5de045b4f24db8451630da23f1cdb786ca2d9b32584157e16&=&format=webp&width=720&height=366" alt="Canvas"/>
-</div>
+![Lean UX Canvas](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727500781/lean-ux-canvas_w9fi7s.png)
 
 ## 1.3. Segmentos objetivo
 
