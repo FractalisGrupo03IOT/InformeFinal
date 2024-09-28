@@ -56,12 +56,18 @@ URL de nuestro repositorio para el Project Report:[https://github.com/FractalisG
 - **Franco Yance**: Adicion del "Startup profile, Lean UX Problem Statements, antecedentes y problematica".
 - **Miguel Angel**: Estructura inicial del informe y mejora de "User Personas".
 - **Lino Quenta**: Adición de "Lean UX Process", "Impact Mapping", y mejoras en las historias de usuario.
-- **Giovanni Andres**: Desarrollo de "Software Architecture"
+- **Giovanni Andres**: Desarrollo de Sprint Backlog
 - **Jean Patrick**: Actualización de "Software Architecture" y adición de "Solution UX Design".
+### Entrega 2 (TP1)
+
+- **Franco Yance**: Adicion del Product Implementation Validation & Deployment  
+- **Miguel Angel**: Desarrollo de Applications UX/UI Design.
+- **Lino Quenta**: Adición de "Lean UX Process", "Impact Mapping", y mejoras en las historias de usuario.
+- **Giovanni Andres**: Desarrollo de Style Guidelines. 
+- **Jean Patrick**: Desarrollo de Testing Suite Evidence for Sprint Review
+
 
 ## Evidencia de colaboración
-
-![image](https://media.discordapp.net/attachments/1282304254929010689/1282317904641134652/Captura_de_pantalla_2024-09-08_073253.png?ex=66deeb1c&is=66dd999c&hm=b5bfc3f9ef375659fc3b8656eeb9848f000356ab41477e433e2faf5c636af843&=&format=webp&quality=lossless&width=559&height=671)
 
 #Contenido
 
@@ -2650,6 +2656,8 @@ En los próximos sprints, desarrollaremos Web Services reales que estarán docum
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
 ##### Resumen del Sprint
 En este Sprint, realizamos el despliegue de la **Landing Page** y la **Web Application** utilizando servicios de GitHub Pages y configuraciones básicas para simular un entorno de despliegue. Este despliegue nos permitió verificar que ambas aplicaciones fueran accesibles externamente y funcionaran de manera adecuada. Los principales pasos realizados incluyen:
+**landing desplegada**:[Landing Page](https://greentools-landing-page.netlify.app/es/index.html)
+**Web Applications**: [Web Application](https://greentools-dcc30.web.app/crops/station)
 
 1. **Creación de Repositorios en GitHub**: Se crearon repositorios específicos para la **Landing Page** y la **Web Application**, lo cual nos permitió mantener un control de versiones y facilitar el trabajo colaborativo.
     - Repositorio de Landing Page: [Landing Page Repo](https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git)
