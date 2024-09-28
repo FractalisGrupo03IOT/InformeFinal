@@ -413,7 +413,7 @@ La problemática se origina debido a la falta de soluciones accesibles y efectiv
 
 #### 1. Domain
 
-El dominio de GreenTools abarca la gestión agrícola para pequeños y medianos agricultores, específicamente aquellos que operan invernaderos y microcultivos. La solución busca resolver los problemas relacionados con la falta de acceso a herramientas tecnológicas avanzadas, asequibles y fáciles de usar para optimizar sus procesos agrícolas. 
+El dominio de GreenTools se centra en la gestión agrícola para pequeños y medianos agricultores, con un enfoque especial en aquellos que manejan invernaderos y microcultivos. Estos usuarios se enfrentan a la falta de acceso a tecnologías avanzadas para optimizar sus procesos, lo que impacta su eficiencia y sostenibilidad. GreenTools aborda estos desafíos mediante la integración de IoT y automatización de bajo costo, diseñados específicamente para satisfacer las necesidades de este segmento.
 
 #### 2. Customer Segments
 
@@ -425,21 +425,21 @@ El segmento de clientes incluye:
 
 Los principales puntos de dolor que enfrentan los agricultores incluyen:
 - **Acceso limitado a la tecnología**: Las soluciones tecnológicas actuales son costosas y complicadas de implementar.
-- **Ineficiencia en la gestión de recursos**: Los agricultores no cuentan con herramientas adecuadas para optimizar el uso de agua, luz y otros insumos críticos.
-- **Falta de automatización**: Los procesos manuales incrementan el riesgo de error humano y resultan en desperdicio de recursos.
-- **Falta de datos en tiempo real**: Sin datos actualizados, es difícil tomar decisiones informadas sobre el estado de los cultivos.
+- **Ineficiencia en la gestión de recursos**: La falta de datos en tiempo real y de automatización conduce a un uso ineficiente de recursos clave como el agua y la energía.
+- **Falta de automatización**: Las tareas manuales aumentan el riesgo de errores humanos, lo que puede causar desperdicio de recursos y pérdida de productividad.
+- **Falta de datos en tiempo real**: Sin acceso a datos actualizados sobre las condiciones del cultivo, los agricultores no pueden tomar decisiones informadas.
 
 #### 4. Gap
 
-Existe una brecha entre las necesidades tecnológicas de los pequeños y medianos agricultores y las soluciones tecnológicas disponibles en el mercado. Las soluciones actuales son costosas, complejas y no se adaptan bien a las condiciones específicas de estos agricultores. Esto ha impedido que muchos adopten tecnologías de automatización y monitoreo para mejorar la eficiencia de sus operaciones.
+Al comparar las necesidades del usuario con las soluciones disponibles en el mercado, se observa una clara brecha. Las soluciones actuales son costosas, difíciles de implementar y no se adaptan bien a las condiciones particulares de los pequeños y medianos agricultores. GreenTools tiene como objetivo cerrar esta brecha con una plataforma asequible, sencilla y escalable, diseñada específicamente para los desafíos que enfrentan estos usuarios.
 
 #### 5. Visión/Estrategia
 
-La estrategia de GreenTools es cerrar esta brecha tecnológica al proporcionar una plataforma de gestión agrícola accesible, económica y fácil de usar, que integre sensores IoT y sistemas de monitoreo en tiempo real. La visión es democratizar el acceso a la tecnología avanzada en la agricultura, permitiendo a los pequeños y medianos agricultores mejorar su productividad y sostenibilidad. Al implementar GreenTools, los agricultores podrán gestionar mejor sus recursos, automatizar procesos clave y obtener información precisa y en tiempo real para optimizar sus operaciones.
+La estrategia de GreenTools sigue los principios Lean UX al centrarse en la validación continua de las necesidades del usuario. Nuestra visión es democratizar el acceso a la tecnología avanzada en la agricultura, permitiendo a los pequeños agricultores aumentar su productividad y adoptar prácticas sostenibles. Esto se logra mediante la implementación de un MVP que proporciona el valor esencial desde las primeras etapas, y que evoluciona en función de las pruebas y la retroalimentación del usuario.
 
 #### 6. Initial Segment
 
-El segmento inicial de usuarios son los pequeños y medianos agricultores, en particular aquellos que gestionan invernaderos y microcultivos. Este grupo ha sido seleccionado debido a su necesidad crítica de soluciones tecnológicas accesibles que puedan mejorar la eficiencia operativa sin requerir grandes inversiones iniciales.
+El primer segmento de usuarios con el que se prueba GreenTools son los pequeños agricultores que gestionan invernaderos y microcultivos. Este grupo ha sido elegido porque presenta una necesidad urgente de soluciones tecnológicas accesibles. El proceso Lean UX implica realizar ciclos iterativos de desarrollo y prueba con este segmento, ajustando el producto según los datos obtenidos.
 
 ---
 
@@ -460,25 +460,30 @@ El segmento inicial de usuarios son los pequeños y medianos agricultores, en pa
 | **Aspecto**        | **Descripción**                                                                                                                                      |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Usuarios**       | Dueños de invernaderos y microcultivos que buscan optimizar sus operaciones mediante tecnologías accesibles.                                           |
-| **Problema**       | Falta de acceso a tecnologías asequibles y efectivas para optimizar la gestión agrícola y el uso de recursos.                                          |
-| **Solución**       | Plataforma de monitoreo y automatización basada en IoT, que ofrece herramientas para la gestión eficiente de cultivos en tiempo real.                 |
-| **Beneficios**     | Mejora en la eficiencia operativa, reducción del desperdicio de recursos, aumento de la productividad y sostenibilidad en las operaciones agrícolas.   |
-| **Suposiciones**   | Los agricultores adoptarán tecnologías si son accesibles, fáciles de usar y demuestran un impacto positivo en la eficiencia y productividad.           |
-| **Métricas**       | Reducción del desperdicio de recursos en un 20%, mejora en la productividad en un 15%, tasa de adopción del 50% en el primer año.                     |
+| **Problema**       | Falta de acceso a tecnologías asequibles que optimicen la gestión agrícola y el uso de recursos.                                          |
+| **Solución**       | Plataforma IoT para monitoreo en tiempo real y automatización de procesos agrícolas clave.                 |
+| **Beneficios**     | Reducción del desperdicio de recursos, mejora en la eficiencia operativa y aumento de la productividad.   |
+| **Suposiciones**   | Los agricultores adoptarán tecnologías si son accesibles, fáciles de usar y tienen un impacto positivo.           |
+| **Métricas**       | Reducción del 20% en el desperdicio de recursos, aumento del 15% en la productividad, 50% de adopción.                     |
 
 #### 1.2.2.2. Lean UX Assumptions
-**Business outcomes:**
+**Business assumptions:**
 
--Los usuarios de GreenTools están interesados en optimizar la gestión y monitoreo de sus cultivos a través de la tecnología IoT.
--Los usuarios valoran la posibilidad de automatizar procesos agrícolas para mejorar la eficiencia operativa.
--Los usuarios desean una plataforma intuitiva, fácil de usar, que les permita gestionar sus cultivos desde cualquier lugar.
--Los usuarios buscan funcionalidades adicionales, como alertas personalizadas y análisis predictivos basados en datos históricos.
--La plataforma debe ser compatible con múltiples dispositivos y navegadores modernos.
--Los usuarios están dispuestos a pagar por planes de suscripción que incluyan el alquiler de equipos IoT avanzados.
--Los usuarios valoran el soporte técnico eficiente y la posibilidad de integrar sus operaciones agrícolas con otras herramientas de -gestión.
+- Creemos que al implementar GreenTools, los agricultores podrán reducir el uso excesivo de agua y energía mediante la automatización y monitoreo en tiempo real, lo que mejorará la eficiencia operativa.
 
+- Suponemos que los pequeños agricultores preferirán pagar una suscripción o alquilar equipos IoT en lugar de realizar una compra inicial significativa, debido a sus limitaciones presupuestarias.
 
-**Users: assumptions**
+- Creemos que si los agricultores experimentan mejoras significativas en sus operaciones agrícolas, estarán dispuestos a recomendar GreenTools a otros agricultores, impulsando una adopción orgánica sin necesidad de grandes campañas de marketing.
+
+- Suponemos que más de la mitad de los pequeños y medianos agricultores adoptarán GreenTools durante el primer año de lanzamiento, motivados por su propuesta de valor (optimización de recursos, accesibilidad y facilidad de uso).
+
+- Suponemos que GreenTools puede adaptarse a diversas regiones y prácticas agrícolas, y que su expansión internacional será viable con ajustes mínimos en la plataforma para responder a diferentes necesidades locales.
+
+- Suponemos que la flexibilidad de usar GreenTools tanto en dispositivos móviles como en la web será un factor clave para la adopción, permitiendo a los agricultores gestionar sus operaciones de manera remota y en tiempo real.
+
+- Suponemos que los agricultores apreciarán la compatibilidad de GreenTools con los sensores IoT que ya utilizan o que están disponibles en el mercado, lo que facilitará su adopción sin necesidad de inversiones adicionales en nuevos dispositivos.
+
+**Users assumptions**
 
 - **¿Quién es el usuario?**
 
@@ -504,26 +509,90 @@ Las características más importantes incluyen la capacidad de monitoreo en tiem
 
 GreenTools debe tener una interfaz sencilla, intuitiva y responsive, que permita a los usuarios gestionar sus cultivos de manera eficiente sin complicaciones. La plataforma debe ser rápida, confiable y ofrecer un soporte técnico accesible para resolver cualquier problema que los usuarios puedan enfrentar.
 
-**Features:**
+**Features assumptions**
 
-1. **Monitoreo en tiempo real**: Los usuarios pueden monitorear las condiciones clave del cultivo, como la humedad del suelo, temperatura y otras variables críticas en tiempo real.
-2. **Automatización de procesos**: La plataforma permite automatizar tareas como el riego y la ventilación, ajustándose a las condiciones actuales del cultivo.
-3. **Alertas personalizadas**: Se envían notificaciones basadas en parámetros predefinidos por el usuario, como cambios críticos en la temperatura o humedad.
-4. **Análisis predictivos**: La plataforma ofrece análisis predictivos que anticipan necesidades futuras y problemas potenciales basados en datos históricos.
-5. **Compatibilidad con múltiples dispositivos**: La plataforma es accesible desde cualquier dispositivo (smartphone, tablet, ordenador) y funciona en los navegadores modernos.
+- **¿Cómo puede ocasionar un impacto social?**: 
+  - GreenTools podría generar un impacto social significativo al ayudar a los pequeños y medianos agricultores a optimizar el uso de recursos naturales como el agua y la energía. Al reducir el desperdicio de estos recursos, se contribuirá al cuidado del medio ambiente, promoviendo prácticas agrícolas sostenibles que beneficien tanto a las comunidades rurales como al entorno global. Además, el acceso a tecnología asequible permitirá que más agricultores adopten soluciones tecnológicas avanzadas, mejorando su calidad de vida y la seguridad alimentaria en sus comunidades.
 
+- **¿Qué problema social logrará solucionar?**: 
+  - El principal problema social que GreenTools busca solucionar es la brecha tecnológica en la agricultura, especialmente entre los pequeños agricultores que no tienen acceso a herramientas avanzadas para gestionar eficientemente sus cultivos. Esto les impide competir con grandes productores, afectando su viabilidad económica y la sustentabilidad de sus prácticas. Al democratizar el acceso a la tecnología agrícola, GreenTools contribuirá a reducir las desigualdades en el sector agrícola y a mejorar los medios de vida de los agricultores pequeños.
+
+- **¿En qué situaciones será útil?**: GreenTools será útil en cualquier situación donde los agricultores necesiten optimizar el uso de recursos y tomar decisiones basadas en datos en tiempo real. Esto incluye:
+  - Monitorear las condiciones de sus cultivos (humedad, temperatura, nutrientes) para ajustar el riego y otros procesos.
+  - Automatizar procesos agrícolas clave, como el riego y la ventilación, en invernaderos y microcultivos.
+  - Recibir alertas personalizadas cuando las condiciones del cultivo cambien y necesiten atención inmediata.
+  - Analizar datos históricos y generar predicciones para anticipar problemas y mejorar la planificación agrícola.
+
+- **¿Cuáles son los sectores más influyentes?**: 
+  - Agricultura sostenible: GreenTools puede tener un impacto considerable en el sector de la agricultura sostenible, donde la optimización del uso de recursos es clave.
+  - Pequeñas y medianas explotaciones agrícolas: Este es el principal segmento de usuarios, donde la tecnología avanzada aún no está ampliamente disponible.
+  - Gestión de recursos hídricos y energéticos: Sectores donde GreenTools puede integrarse para mejorar el uso eficiente de agua y energía, reduciendo la huella ambiental.
+  - Tecnología IoT: GreenTools se posiciona dentro del sector de tecnología IoT aplicada a la agricultura, creando un ecosistema de soluciones interconectadas para mejorar la productividad y sostenibilidad.
+
+- **¿Qué beneficios considera que podría ayudar a las remodelaciones de hogares?**:
+  - Aunque GreenTools está centrado en la agricultura, algunas de sus características como el monitoreo en tiempo real y la automatización podrían adaptarse a sistemas de hogares inteligentes para optimizar el uso de recursos como el agua y la energía en jardines o sistemas domésticos de producción de alimentos (como huertos urbanos o invernaderos pequeños). Además, el enfoque en la eficiencia de recursos y sostenibilidad podría inspirar soluciones similares para automatizar y optimizar el uso de energía y agua en proyectos de remodelación de hogares.
+
+- **¿Qué características te diferencian de tu competencia?**:
+  - Accesibilidad económica: GreenTools ofrece una solución IoT asequible y adaptable, lo que lo diferencia de otras soluciones tecnológicas agrícolas costosas que solo están al alcance de grandes productores.
+  - Modelo de suscripción o alquiler: En lugar de requerir una inversión inicial elevada, GreenTools se basa en un modelo de suscripción que facilita el acceso a la tecnología para pequeños agricultores.
+  - Simplicidad y facilidad de uso: A diferencia de muchos productos competidores, GreenTools está diseñado para ser intuitivo y fácil de usar, incluso para agricultores con poca experiencia tecnológica.
+  - Integración con dispositivos IoT existentes: La plataforma es compatible con una amplia gama de sensores y dispositivos IoT, lo que permite a los agricultores utilizar el equipo que ya poseen.
+  - Monitoreo y automatización en tiempo real: Ofrece monitoreo en tiempo real de los cultivos y automatización de procesos, lo que proporciona un control total de los recursos y procesos clave.
+  - Análisis predictivo: GreenTools no solo recolecta datos, sino que también ofrece análisis predictivos basados en el comportamiento de los cultivos y el historial de datos.
+
+
+- **¿Qué características te diferencian de tu competencia?**: 
+  - GreenTools debería tener una interfaz sencilla, intuitiva y visualmente atractiva, diseñada para que los usuarios puedan acceder rápidamente a la información crítica de sus cultivos. La plataforma debe ser responsive, lo que significa que funcione sin problemas en dispositivos móviles y computadoras de escritorio, facilitando su uso en el campo o en la oficina.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
-- Creemos que GreenTools será una herramienta invaluable para los agricultores que buscan mejorar la gestión de sus invernaderos y microcultivos mediante tecnología IoT. Sabremos que tuvimos éxito cuando más del 80% de nuestros usuarios expresen satisfacción con la plataforma y reporten mejoras en la eficiencia operativa.
+- Hypothesis Statement 1
 
-- Creemos que la automatización de procesos agrícolas permitirá a los usuarios de GreenTools optimizar el uso de recursos y mejorar los rendimientos de sus cultivos. Sabremos que tuvimos éxito cuando los usuarios reporten un aumento significativo en el rendimiento de sus cultivos tras el uso de la plataforma.
+  **Creemos que** al proporcionar una plataforma de monitoreo en tiempo real y automatización basada en IoT, los agricultores podrán reducir el desperdicio de recursos (agua, energía) en al menos un 20%.
+
+  **Sabremos** que tuvimos éxito cuando al menos el 80% de los usuarios reporten una disminución en el uso de agua y energía.
+
+  **Cuando** los usuarios hayan utilizado GreenTools durante un ciclo de cultivo completo y comparen el ahorro con sus métodos previos.
+
+- Hypothesis Statement 2
+
+  **Creemos que** el modelo de suscripción de GreenTools será preferido por los pequeños y medianos agricultores, en lugar de una compra única de dispositivos IoT.
+
+  **Sabremos** que tuvimos éxito cuando al menos el 60% de los nuevos usuarios opten por un plan de suscripción.
+
+  **Cuando** estos usuarios elijan la opción de suscripción en los primeros seis meses de disponibilidad, en lugar de una compra directa de equipos.
   
-- Creemos que los agricultores estarán dispuestos a suscribirse a GreenTools y alquilar los equipos IoT necesarios para la optimización de sus operaciones. Sabremos que tuvimos éxito cuando alcancemos una tasa de renovación de suscripciones superior al 70%.
+- Hypothesis Statement 3
 
-- Creemos que la plataforma será utilizada por agricultores de pequeños y medianos invernaderos y microcultivos, siendo este nuestro segmento objetivo. Sabremos que tuvimos éxito cuando la mayoría de nuestros usuarios pertenezca a este segmento y encuentren valor en las funcionalidades de la plataforma.
+  **Creemos que** si GreenTools es fácil de usar y no requiere experiencia técnica avanzada, al menos el 75% de los agricultores sin experiencia tecnológica adoptarán la plataforma.
 
-- Creemos que una interfaz intuitiva y responsive es crucial para la adopción exitosa de GreenTools. Sabremos que tuvimos éxito cuando más del 80% de los usuarios reporten que la plataforma es fácil de usar y eficiente en encuestas de satisfacción.
+  **Sabremos** que tuvimos éxito cuando el 80% de los usuarios con poca o ninguna experiencia tecnológica puedan implementar y utilizar GreenTools sin asistencia técnica significativa.
+
+  **Cuando** los agricultores reporten que pudieron instalar y usar GreenTools sin ayuda externa dentro de un corto período.
+
+- Hypothesis Statement 4
+
+  **Creemos que** el acceso a datos precisos y en tiempo real sobre las condiciones de los cultivos mejorará la productividad de los agricultores en un 15% dentro de los primeros seis meses de uso.
+
+  **Sabremos** que tuvimos éxito cuando al menos el 70% de los usuarios reporten un aumento en la productividad de sus cultivos.
+
+  **Cuando** los agricultores puedan vincular directamente ese aumento a la información provista por GreenTools.
+
+- Hypothesis Statement 5
+
+  **Creemos que** si los agricultores encuentran que GreenTools les ayuda a gestionar mejor sus cultivos, la tasa de retención de usuarios superará el 70% después del primer año.
+
+  **Sabremos** que tuvimos éxito cuando más del 70% de los usuarios renueven su suscripción o continúen utilizando GreenTools después del primer ciclo de cultivo.
+
+  **Cuando** analicemos las tasas de renovación y uso continuo tras un año de suscripción.
+
+- Hypothesis Statement 6
+
+  **Creemos que** GreenTools será adoptado por agricultores en una variedad de sectores (invernaderos, microcultivos, etc.) y regiones geográficas, debido a su adaptabilidad.
+
+  **Sabremos** que tuvimos éxito cuando al menos el 50% de los nuevos usuarios provengan de sectores y regiones fuera de nuestro mercado inicial de prueba.
+
+  **Cuando** realicemos pruebas piloto en diversas áreas y notemos una adopción significativa en diferentes mercados.
 
 #### 1.2.2.4. Lean UX Canvas
 
@@ -2290,43 +2359,292 @@ Web application:
 ## 6.1. Software Configuration Management
 
   ### 6.1.1. Software Development Environment Configuration
-  _Contenido por añadir..._
+  Para la identificación del entorno de desarrollo del software el procedimiento aplicado es el siguiente:
+
+  - Selección de elementos de configuración.
+  - Se identifican los productos de trabajos que son utilizados por más de un equipo de desarrollo.
+  - Se identifican los productos de trabajo críticos para el proyecto.
   
+  Según los puntos anteriormente señalados se pueden considerar los productos de trabajo como elementos de configuración:
+
+  #### **Project Management**
+  Hemos utilizado como centro de organización Google Drive para organizar los puntos a realizar, pendientes y realizados. Asimismo, la herramienta de Jira como establecer hitos y fijar límites para las tareas pendientes. 
+  - Link de referencia: https://drive.google.com/drive
+  - Link de referencia: https://www.atlassian.com/es/software/jira
+  #### **Requirements Management**
+  Al realizar las partes designadas a cada integrante, o en casos de consultas utilizamos la herramienta de Discord. En este canal de comunicación las tareas pasan por el criterio de todos para revisar y sugerir algún tipo de cambio. Para así disminuir o evitar errores al momento de presentar el proyecto.
+  - Link de referencia: https://discord.com/login
+  #### **Product UX/UI Design**
+  Hemos implementado esta parte usando la herramienta de Figma para el diseño de los wireframe de alta fidelidad y los bosquejo. Además, se utilizó para realizar el prototipo móvil App y Mobile App.
+  - Link de referencia: https://figma.com
+  #### **Software Development**
+  - *UXPressia:* Aplicación web utilizada en la creación de distintos artefactos de la metodología Lean UX como User Personas, User Journey Maps, Impact Maps, Empathy Maps. Requiere una cuenta en el sitio. Accede a través de: https://uxpressia.com
+  - *Jira:* Se usa para darle seguimiento a las historias de usuario, así como los diferentes hitos presentes en el proyecto. La aplicación se enfoca principalmente en la organización de equipos. Requiere una cuenta. Accede a través de: https://www.atlassian.com/es/software/jira
+  - *Vertabelo:* Aplicación web destinada a la creación de diagramas de bases de datos. Se requiere tener una cuenta en la aplicación Accede a través de: https://vertabelo.com/
+  - *Lucid Chart:* Aplicación web destinada a la elaboración de Wireflows, User Flows y diagramas de clases. Se requiere poseer una cuenta. Accede a través de: https://www.lucidchart.com
+  - *Visual Paradigm:* Aplicación web destinada a la creación de C4 Context, Container y Component. Requiere una cuenta en el sitio. Accede a través de: https://www.visual-paradigm.com
+  - *Figma:* Aplicación web destinada al desarrollo y prototipado de App Mockups y Wireframes. Requiere una cuenta. Accede a través de: https://figma.com
+  - *GitHub:* Aplicación Utilizada para almacenar los repositorios de nuestro proyecto y para su desarrollo. Accede a GitHub a través de: https://github.com/
+  #### **Esquema de identificadores únicos**
+  Para este proyecto, se utiliza el siguiente esquema para la codificación de los elementos de configuración:
+
+  **< StartUp >< proyecto >< type >< name>< versión >**
+
+  - < StartUp >: identificador de la StartUp (FW)
+  - < proyecto >: identificador del tipo del proyecto (RKG)
+  - < type >: identificador del tipo de elemento
+  - < name >: nombre del elemento
+  - < versión >: versión del elemento
+    - Requisitos FW-RKG-REQ
+      - User stories FW-RKG-REQ-US-1.0.0
+      - Sprint Backlog FW-RKG-REQ-SB-1.0.0
+      - Product Backlog FW-RKG-REQ-PB-1.0.0
+    - Repositorios FW-RKG-REP
+      - Landing Page Repository FW-RKG-REP-LP
+      - Movil App Repository FW-RKG-REP-WA
+    - Arquitectura FW-RKG-ARQ
+      - User stories FW-RKG-REQ-US-1.0.0
+      - Sprint Backlog FW-RKG-REQ-SB-1.0.0
+      - Product Backlog FW-RKG-REQ-PB-1.0.0
+
   ### 6.1.2. Source Code Management
-  _Contenido por añadir..._
+  Utilizaremos GitHub como Plataforma y sistema de control de versiones de nuestro proyecto.
+
+  Se ha creado los repositorios en GitHub dentro de nuestra organización.
   
+  | **Sección**    | **Link**                            |
+  |----------------|--------------------------------------------|
+  | **Back-end**    | https://github.com/FractalisGrupo03IOT/fakeApi |
+  | **Web App**   | https://github.com/FractalisGrupo03IOT/GreenTools-WebApp |
+  | **Landing Page**| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools |
+  | **Informe**     | https://github.com/FractalisGrupo03IOT/InformeFinal |
+
+  Bajo el modelo de creación de ramas Gitflow es que se crearon los repositorios para el Back-end y Front-end, donde se crearon las siguientes ramas para el desarrollo del proyecto:
+
+  **Main Branch:** En esta rama se encuentra la versión completa, que ha pasado pruebas y
+  no hay problemas en su ejecución. Por lo tanto, es la que se va a desplegar y mostrar a
+  los usuarios.
+
+  **Hotfix Branch:** En caso hubiera un problema con la versión del proyecto en la rama
+  Main, se usará esta rama como respaldo para encontrar y solucionar el problema lo
+  más rápido posible
+
+  **Release Brach:** En esta rama la aplicación movil se ejecuta sin problema, pero debe
+  pasar por pruebas para validar todas las funcionalidades. Cuando se realicen las
+  pruebas y no haya errores esta versión pasa a la rama Main.
+
+  **Develop Branch:** Esta rama sigue en desarrollo, solucionar distintos problemas o
+  requerimientos aún en desarrollo. Cuando esta rama se encuentre terminada para un
+  sprint, entonces pasa a la Rama Release.
+
+  **Feature Branch:** Estas ramas se irán creando según se necesite agregar una nueva
+  funcionalidad dentro de la aplicación movil.
+    
   ### 6.1.3. Source Code Style Guide & Conventions
-  _Contenido por añadir..._
+  Para el desarrollo de nuestro proyecto hemos adoptado algunas referencias para nombrar elementos y programar en los lenguajes utilizados para la solución.
+  - Convenciones de idioma: El uso del idioma inglés para la elaboración del código de compilación ya sea Back-end como Front-end.
+  - Nomenclatura: Para lo relacionado con el uso y modificación de los distintos repositorios seguiremos utilizando la nomenclatura establecida en Software Development Environment Configuration.
+  - Herramientas: Seguiremos utilizando tecnologías consideradas para el desarrollo de la aplicación como: Rider, Visual Studio Code, Flutter, Dart GitHub, Gitflow, Figma, WebStorm.
+
+  #### *Semantic Versioning*
+  
+  **Conventional Commits**
+  Para la redacción de las siguientes convenciones de commits se utilizó de referencia el articulo Conventional Commits 1.0.0. Se debe seguir la siguiente estructura para un commit: git commit -m “< type> (optional scope) < title>” m “< description>”
+
+  **Types**
+  - Add: se usará para indicar que se añadieron archivos o carpetas.
+  - Fix: este tipo de commit se utilizará para la confirmación de una corrección de un error en el código.
+  - Feat: este tipo de commit se utilizará para la confirmación de que se ha añadido una nueva funcionalidad.
+  - Test: se usará para indicar que se añadieron archivos test.
   
   ### 6.1.4. Software Deployment Configuration
-  _Contenido por añadir..._
+  Para el despliegue de nuestra plataforma, tenemos los siguientes productos.
+
+  - Landing Page
+  - Web Application
+
+  Para el despliegue del landing page hemos utilizado herramientas como:
+
+  - *Git:* Para manejar las versiones del código de la Landing Page.
+  - *GitHub:* Para almacenar el proyecto y poder codificarlo colaborativamente.
+  - *GitFlow:* Para controlar y visualizar el flujo de trabajo del equipo.
+  - *Trello:* Para poder dividirnos las tareas a realizar para la documentación del sprint.
+
+  Para desplegar el landing page se ha utilizado la herramienta Page de GitHub que nos permitió generar un enlace con todas las características que la rama master contiene. Por otro lado, si quieres desplegarlo de manera remota a partir del repositorio del GitHub, puedes clonar nuestro proyecto con: git clone, en el git local.
+
+  | **Sección**    | **Link**                            |
+  |----------------|--------------------------------------------|
+  | **Back-end**    | https://github.com/FractalisGrupo03IOT/fakeApi |
+  | **Web App**   | https://github.com/FractalisGrupo03IOT/GreenTools-WebApp |
+  | **Landing Page**| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools |
+  | **Informe**     | https://github.com/FractalisGrupo03IOT/InformeFinal |
 
 ## 6.2. Landing Page, Services & Applications Implementation
-
+Este capítulo documenta el proceso de implementación de cada componente del sistema, incluyendo la Landing Page, Servicios Web, Aplicaciones Web, Aplicaciones Móviles y Aplicaciones Embebidas. Cada Sprint contiene una subsección detallada que explica el progreso y el trabajo colaborativo del equipo.
   ### 6.2.1. Sprint 1
+  En el Sprint 1, colaboramos para definir claramente los objetivos y trabajar de manera eficiente en la Landing Page y la Web Application
+  
 
-  #### 6.2.1.1. Sprint Planning n
-  _Contenido por añadir..._
-    
+  #### 6.2.1.1. Sprint Planning 1
+| Sprint #     | Sprint 01 |
+| ----------- | ----------- |
+|  Sprint Planning Background 
+| Date  | 2024-09-15      |
+| Time  | 09:00 AM         |
+| Location  | Reunión virtual (Zoom)        |
+| Prepared By  |Franco Yance       |
+| Attendees  | Franco Yance, Lino Quenta, Miguel Angel, Giovanni Andrés, Jean Patrick.       |
+|Sprint n-1 Review   | Como es el primer Sprint, no hay revisión previa, pero se definieron las expectativas iniciales del proyecto y la planificación de la arquitectura.        |
+| Sprint n-1 Retrospective  |  Los miembros discutieron la necesidad de mejorar la comunicación y establecer reuniones más frecuentes para asegurarse de la sincronización del equipo. |
+| Sprint Goal & User Stories|
+| Sprint n Goal   | Nuestro enfoque está en implementar la Landing Page y la estructura básica de la Aplicación Web. Creemos que esto ofrece una primera impresión sólida de la plataforma GreenTools a los usuarios potenciales. Esto se confirmará cuando la página de destino y la aplicación web sean completamente funcionales con un backend simulado, lo que permitirá a los usuarios ver información clave sobre el sistema.       |
+| Sprint n Velocity    | 28 Story Points        |
+| Sum of Story Points   | 28 Story Points        |
   #### 6.2.1.2. Sprint Backlog n
-  _Contenido por añadir..._
-    
+| Sprint #     | Sprint 01 |  |||||
+| -----------        |    -----------  |          ----------- |         ----------- |         ----------- |       ----------- |          ----------- |                   
+|  User Story   |Work-Item / Task|
+| Id   |Title |  Id  | Title | Description |Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| EP1/US1  |Crear Encabezado Principal |  W01  | Diseño del Encabezado| Crear el encabezado visual principal con el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". |8 | Lino Quenta | Done |
+| EP1/US2   |Mostrar Beneficios Clave |  W02  | Implementación de Beneficios | Añadir y configurar la sección de beneficios clave para atraer a los usuarios y explicar por qué elegir GreenTools. | 10 | Franco Yance |  Done |
+| EP1/US3	   |Destacar Características Clave | W03  | Desarrollo de Características | Implementar la sección de características clave, mostrando las principales capacidades del sistema. | 6 | Giovanni Andrés | Done |
+| EP1/US4   |Mostrar Planes y Precios |  W04  | Diseño de Sección de Precios | Diseñar e implementar la sección de precios, incluyendo descripciones de los planes monocultivo y multicultivo |5 | 	Lino Quenta | Done |
+| EP1/US5   |Mostrar Testimonios y Casos de Éxito |  W05  | Implementación de Testimonios | Mostrar testimonios y casos de éxito de clientes usando la API-fake para simular contenido testimonial. |7 | Franco Yance | Done |
+| EP1/US6   |Implementar Footer |  W06  | Creación del Footer | Añadir un footer que incluya enlaces de contacto, redes sociales, y enlaces legales como política de privacidad. |4 | Miguel Angel | Done |
+| EP2/US1   |Crear Sección de Stations |  W07  | Desarrollo de Stations | Implementar la sección de "Stations" en la Web Application, incluyendo la estructura para visualizar y gestionar los "Crops" dentro de cada estación. |12 | Lino Quenta |  Done |
+| EP2/US2   |Crear Toolbar |  W08  | Implementación de Toolbar | Implementación de Toolbar |5 | Giovanni Andrés |  Done |
+| EP2/US3   |Implementar Notification |  W09  | Desarrollo de Notificaciones | Crear el componente de notificaciones que muestre mensajes relevantes al usuario sobre el estado de sus estaciones y cultivos. | 6 | Miguel Angel | Done |
+| EP2/US4   |Visualizar Stations y Crops |  W10  | Interacción con API Falsa| Usar la API-fake de GitHub para visualizar las "Stations" y sus "Crops" asociadas, al hacer clic en una estación específica. |8 | Franco Yance |  Done |
+
   #### 6.2.1.3. Development Evidence for Sprint Review
-    _Contenido por añadir..._
-    
+  
+|Repository| Branch|Commit Id| Commit Message|Commit Message Body| Committed on (Date) |
+| -----------        |    -----------  |          ----------- |         ----------- |         ----------- |       ----------- |      
+| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/header           | a1b2c3d       | feat: create Header               | Creación del encabezado visual principal con el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". | 2024-09-16               |
+| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/benefits         | b2c3d4e       | feat: add Benefits Section        | Añadir y configurar la sección de beneficios clave para atraer a los usuarios y explicar por qué elegir GreenTools. | 2024-09-17               |
+| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/characteristics  | c3d4e5f       | feat: add Characteristics Section | Implementación de la sección de características clave, mostrando las principales capacidades del sistema. | 2024-09-18               |
+| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/plans-prices     | d4e5f6g       | feat: add Plans and Prices        | Diseñar e implementar la sección de precios, incluyendo descripciones de los planes Básico y Premium.              | 2024-09-18               |
+| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/testimonials     | e5f6g7h       | feat: add Testimonials Section    | Mostrar testimonios y casos de éxito de clientes.     | 2024-09-19               |
+| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git  | feature/footer           | f6g7h8i       | feat: create Footer               | Añadir un footer que incluya enlaces de contacto, redes sociales, y enlaces legales como política de privacidad. | 2024-09-19               |
+| https://github.com/FractalisGrupo03IOT/GreenTools-WebApp.git   | feature/stations         | g7h8i9j       | feat: add Stations Section        | Implementar la sección de "Stations" en la Web Application, incluyendo la estructura para visualizar y gestionar los "Crops" dentro de cada estación. | 2024-09-20               |
+| https://github.com/FractalisGrupo03IOT/GreenTools-WebApp.git   | feature/toolbar          | h8i9j0k       | feat: add Toolbar                 | Implementación del toolbar para la navegación principal en la Web Application, incluyendo un botón para visualizar las "Stations". | 2024-09-20               |
+| https://github.com/FractalisGrupo03IOT/GreenTools-WebApp.git   | feature/notifications    | i9j0k1l       | feat: add Notifications           | Crear el componente de notificaciones que muestra mensajes relevantes al usuario sobre el estado de sus estaciones y cultivos. | 2024-09-21               |
+| https://github.com/FractalisGrupo03IOT/fakeApi.git  | feature/view-crops       | j0k1l2m       | feat: view Stations and Crops     | Usar la Api-Fake de GitHub  para visualizar las "Stations" y sus "Crops" asociadas, al hacer clic en una estación específica. | 2024-09-21               |
   #### 6.2.1.4. Testing Suite Evidence for Sprint Review
-    _Contenido por añadir..._
+|Repository| Branch|Commit Id| Commit Message|Commit Message Body| Committed on (Date) |
+| -----------        |    -----------  |          ----------- |         ----------- |         ----------- |       ----------- |      
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git   | feature/header           | a1b2c3d       | test: Visualización del Encabezado | Creación de prueba de aceptación para verificar que el encabezado muestra correctamente el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". | 2024-09-16               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git   | feature/benefits         | b2c3d4e       | test: Lectura de Beneficios Clave  | Añadir prueba de aceptación para validar que los beneficios clave se muestran de forma clara en la Landing Page. | 2024-09-17               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git   | feature/characteristics  | c3d4e5f       | test: Visualización de Características Clave | Implementación de prueba de aceptación para evaluar la correcta visualización de las características clave del sistema. | 2024-09-18               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git  | feature/plans-prices     | d4e5f6g       | test: Visualización de Planes y Precios | Prueba de aceptación para garantizar que los planes Básico y Premium se muestran correctamente en la sección de precios. | 2024-09-18               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git   | feature/testimonials     | e5f6g7h       | test: Mostrar Testimonios y Casos de Éxito | Implementación de prueba de aceptación para verificar que los testimonios y casos de éxito se muestran en la Landing Page. | 2024-09-19               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git   | feature/footer           | f6g7h8i       | test: Implementación del Footer    | Creación de prueba para asegurar que el footer incluye correctamente enlaces de contacto, redes sociales y enlaces legales. | 2024-09-19               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git         | feature/stations         | g7h8i9j       | test: Visualización de Stations    | Prueba para validar la correcta visualización y gestión de las Stations en la Web Application. | 2024-09-20               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git          | feature/toolbar          | h8i9j0k       | test: Implementación del Toolbar   | Implementación de prueba para asegurar la correcta navegación a través del toolbar, incluyendo el acceso a las Stations. | 2024-09-20               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git          | feature/notifications    | i9j0k1l       | test: Implementación de Notificaciones | Prueba de aceptación para verificar que las notificaciones se muestran correctamente cuando ocurren eventos críticos. | 2024-09-21               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git        | feature/view-crops       | j0k1l2m       | test: Visualización de Stations y Crops | Uso de la API-Fake para probar la visualización de las Stations y los Crops asociados al hacer clic en una estación. | 2024-09-21               |
+
     
   #### 6.2.1.5. Execution Evidence for Sprint Review
+  ### 6.2.1.3 Execution Evidence for Sprint Review
+
+#### Resumen del Sprint
+En este Sprint, se implementaron las funcionalidades correspondientes a la **Landing Page** y a la **Web Application** de GreenTools. Los principales logros fueron:
+
+- **Landing Page**: Implementación de componentes como el encabezado, la sección de beneficios clave, características, planes y precios, testimonios, y footer.
+- **Web Application**: Desarrollo de la sección de **Stations**, el **Toolbar** para facilitar la navegación, el componente de **Notifications**, y la funcionalidad para visualizar estaciones y cultivos (**Crops**), utilizando la API falsa proporcionada por GitHub.
+
+Todos los componentes mencionados fueron completados exitosamente, cumpliendo con los objetivos planteados en el Sprint y verificando que las funcionalidades se integren de manera correcta.
+
+#### Capturas de Pantalla de las Principales Vistas Implementadas
+
+##### Landing Page
+
+- **Encabezado y Subtítulo**
+  ![Encabezado y Subtítulo de la Landing Page](enlace_a_la_imagen)
+
+  *Descripción*: Esta captura muestra el encabezado de la página, que contiene el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". Este elemento fue diseñado para captar la atención de los visitantes y presentar de inmediato el objetivo del producto.
+
+- **Sección de Beneficios Clave**
+  ![Beneficios Clave](enlace_a_la_imagen)
+
+  *Descripción*: La sección de beneficios clave muestra las ventajas del uso de GreenTools, como el monitoreo en tiempo real, el control inteligente, análisis avanzados y soporte.
+
+- **Sección de Características Clave**
+  ![Características Clave](enlace_a_la_imagen)
+
+  *Descripción*: En esta imagen se observa la presentación de las características avanzadas de GreenTools, como la integración con IoT, la interfaz intuitiva, alertas personalizables y opciones de personalización.
+
+- **Planes y Precios**
+  ![Planes y Precios](enlace_a_la_imagen)
+
+  *Descripción*: Se muestran los planes Básico y Premium, con sus respectivas descripciones, lo cual permite al usuario decidir cuál es el más adecuado según sus necesidades.
+
+- **Testimonios y Footer**
+  ![Testimonios y Footer](enlace_a_la_imagen)
+
+  *Descripción*: La sección de testimonios presenta comentarios de usuarios satisfechos, mientras que el footer contiene enlaces de contacto, redes sociales, y enlaces legales (política de privacidad y términos de servicio).
+
+##### Web Application
+- **Visualización de Stations**
+  ![Stations en la Web Application](enlace_a_la_imagen)
+
+  *Descripción*: Esta captura muestra la sección de **Stations** implementada en la Web Application. Se puede visualizar cada estación disponible, la cual contiene diferentes cultivos (Crops) que se gestionan desde la aplicación.
+
+- **Toolbar**
+  ![Toolbar de la Web Application](enlace_a_la_imagen)
+
+  *Descripción*: Se muestra la barra de navegación principal de la Web Application, que incluye un botón específico para visualizar las **Stations**, facilitando la navegación y el acceso rápido a las principales funcionalidades.
+
+- **Componente de Notifications**
+  ![Notificaciones en la Web Application](enlace_a_la_imagen)
+
+  *Descripción*: Este componente fue creado para mostrar mensajes importantes al usuario, tales como alertas sobre el estado de los cultivos o condiciones críticas que requieren acción inmediata.
+
+- **Visualización de Stations y Crops (usando API Falsa)**
+  ![Visualización de Stations y Crops](enlace_a_la_imagen)
+
+  *Descripción*: Se muestra cómo, utilizando una API falsa de GitHub, el usuario puede hacer clic en una estación específica para ver los **Crops** asociados. Esto simula la conectividad y gestión de cultivos reales de manera interactiva.
+
+##### Video de Demostración
+Para una demostración completa del progreso y las funcionalidades desarrolladas durante este Sprint, puedes consultar el siguiente video: [Video de Demostración](enlace_al_video).
+
+*Descripción del Video*: El video comienza mostrando la **Landing Page**, con todas sus secciones: encabezado, beneficios, características, precios, y testimonios. Luego, se navega hacia la **Web Application**, donde se visualizan las **Stations** y se muestra la navegación mediante el **Toolbar**. Además, se ilustra la función de **Notifications** y cómo se pueden visualizar los **Crops** dentro de una estación específica, utilizando la **Api Fake**.
+
+    
+#### 6.2.1.6. Services Documentation Evidence for Sprint Review
+
+##### Resumen del Sprint
+En este Sprint no se desarrollaron Web Services completos, ya que nos encontramos en la fase inicial del proyecto. Para la implementación de la **Landing Page** y la **Web Application**, utilizamos una **API fake** disponible en GitHub para simular las respuestas y manejar datos estáticos. Esta API falsa permitió probar las funcionalidades y demostrar la navegación y visualización de estaciones y cultivos (**Stations** y **Crops**) dentro de la aplicación.
+
+La **API Fake** fue creada usando el servicio de GitHub disponible en `https://my-json-server.typicode.com`, lo cual nos permitió simular la estructura de datos que utilizaremos en los Web Services finales durante los siguientes sprints. A continuación, se presenta la documentación y las pruebas realizadas con la API falsa.
+
+##### Documentación de la API fake
+Aunque no se desarrollaron endpoints reales con **OpenAPI**, los endpoints simulados incluyen operaciones básicas para visualizar los datos de las estaciones y los cultivos. A continuación se muestra la relación de las acciones implementadas utilizando la API falsa:
+
+| **Endpoint**               | **HTTP Verbo** | **Descripción**               | **URL (Fake API)**                                     | **Sintaxis de Llamada**       | **Parámetros**    | **Ejemplo de Response**           |
+|----------------------------|----------------|--------------------------------|--------------------------------------------------------|-------------------------------|-------------------|-----------------------------------|
+| `/stations`                | GET            | Obtener la lista de estaciones | `https://my-json-server.typicode.com/FractalisGrupo03IOT/fakeApi` | `GET /stations`               | Ninguno           | Lista de estaciones en JSON       |
+| `/stations/{stationId}`    | GET            | Obtener detalles de una estación específica, incluyendo sus cultivos | `https://my-json-server.typicode.com/FractalisGrupo03IOT/fakeApi/stations/{stationId}` | `GET /stations/{stationId}`   | `{stationId}`     | Detalles de la estación y sus cultivos en JSON  |
+
+#### Capturas de Pantalla de Interacción con la API Falsa
+- **Visualización de Estaciones utilizando la API Falsa**
+  ![Captura de Pantalla - Visualización de Estaciones](enlace_a_la_imagen)
+
+  *Descripción*: Esta captura muestra cómo se utilizan los datos de la API falsa para listar todas las estaciones. Cada estación tiene información que se presenta en la Web Application para facilitar la gestión de los cultivos.
+
+- **Visualización de Detalles de una Estación**
+  ![Captura de Pantalla - Detalles de Estación](enlace_a_la_imagen)
+
+  *Descripción*: Al seleccionar una estación específica, la aplicación utiliza la API falsa para recuperar y mostrar los cultivos asociados a dicha estación. Esto simula cómo se verá la aplicación cuando se integre con los Web Services reales.
+
+##### Próximos Pasos
+En los próximos sprints, desarrollaremos Web Services reales que estarán documentados con **OpenAPI** para cubrir todas las funcionalidades que actualmente hemos simulado. Se incluirán los métodos de autenticación, gestión de cultivos, alertas, entre otros.
+    
+#### 6.2.1.7. Software Deployment Evidence for Sprint Review
     _Contenido por añadir..._
     
-  #### 6.2.1.6. Services Documentation Evidence for Sprint Review
-    _Contenido por añadir..._
-    
-  #### 6.2.1.7. Software Deployment Evidence for Sprint Review
-    _Contenido por añadir..._
-    
-  #### 6.2.1.8. Team Collaboration Insights during Sprint
+#### 6.2.1.8. Team Collaboration Insights during Sprint
     _Contenido por añadir..._
 
 
