@@ -45,7 +45,7 @@ Franco Felix Yance Gutierrez (U202013614)
 
 # Project Report Collaboration Insights
 
-URL de nuestro repositorio para el Project Report:![https://github.com/FractalisGrupo03IOT/InformeFinal](https://github.com/FractalisGrupo03IOT/InformeFinal)
+URL de nuestro repositorio para el Project Report:  [Repositorio](https://github.com/FractalisGrupo03IOT/InformeFinal)
 
 ## Desarrollo de actividades y colaboración
 
