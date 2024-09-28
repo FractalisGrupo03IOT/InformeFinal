@@ -2302,18 +2302,56 @@ Web application:
   _Contenido por añadir..._
 
 ## 6.2. Landing Page, Services & Applications Implementation
-
+Este capítulo documenta el proceso de implementación de cada componente del sistema, incluyendo la Landing Page, Servicios Web, Aplicaciones Web, Aplicaciones Móviles y Aplicaciones Embebidas. Cada Sprint contiene una subsección detallada que explica el progreso y el trabajo colaborativo del equipo.
   ### 6.2.1. Sprint 1
+  En el Sprint 1, colaboramos para definir claramente los objetivos y trabajar de manera eficiente en la Landing Page y la Web Application
+  
 
-  #### 6.2.1.1. Sprint Planning n
-  _Contenido por añadir..._
-    
+  #### 6.2.1.1. Sprint Planning 1
+| Sprint #     | Sprint 01 |
+| ----------- | ----------- |
+|  Sprint Planning Background 
+| Date  | 2024-09-15      |
+| Time  | 09:00 AM         |
+| Location  | Reunión virtual (Zoom)        |
+| Prepared By  |Franco Yance       |
+| Attendees  | Franco Yance, Lino Quenta, Miguel Angel, Giovanni Andrés, Jean Patrick.       |
+|Sprint n-1 Review   | Como es el primer Sprint, no hay revisión previa, pero se definieron las expectativas iniciales del proyecto y la planificación de la arquitectura.        |
+| Sprint n-1 Retrospective  |  Los miembros discutieron la necesidad de mejorar la comunicación y establecer reuniones más frecuentes para asegurarse de la sincronización del equipo. |
+| Sprint Goal & User Stories|
+| Sprint n Goal   | Nuestro enfoque está en implementar la Landing Page y la estructura básica de la Aplicación Web. Creemos que esto ofrece una primera impresión sólida de la plataforma GreenTools a los usuarios potenciales. Esto se confirmará cuando la página de destino y la aplicación web sean completamente funcionales con un backend simulado, lo que permitirá a los usuarios ver información clave sobre el sistema.       |
+| Sprint n Velocity    | 28 Story Points        |
+| Sum of Story Points   | 28 Story Points        |
   #### 6.2.1.2. Sprint Backlog n
-  _Contenido por añadir..._
-    
+| Sprint #     | Sprint 01 |  |||||
+| -----------        |    -----------  |          ----------- |         ----------- |         ----------- |       ----------- |          ----------- |                   
+|  User Story   |Work-Item / Task|
+| Id   |Title |  Id  | Title | Description |Estimation (Hours) | Assigned To | Status (To-do / InProcess / ToReview / Done) |
+| EP1/US1  |Crear Encabezado Principal |  W01  | Diseño del Encabezado| Crear el encabezado visual principal con el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". |8 | Lino Quenta | Done |
+| EP1/US2   |Mostrar Beneficios Clave |  W02  | Implementación de Beneficios | Añadir y configurar la sección de beneficios clave para atraer a los usuarios y explicar por qué elegir GreenTools. | 10 | Franco Yance |  Done |
+| EP1/US3	   |Destacar Características Clave | W03  | Desarrollo de Características | Implementar la sección de características clave, mostrando las principales capacidades del sistema. | 6 | Giovanni Andrés | Done |
+| EP1/US4   |Mostrar Planes y Precios |  W04  | Diseño de Sección de Precios | Diseñar e implementar la sección de precios, incluyendo descripciones de los planes monocultivo y multicultivo |5 | 	Lino Quenta | Done |
+| EP1/US5   |Mostrar Testimonios y Casos de Éxito |  W05  | Implementación de Testimonios | Mostrar testimonios y casos de éxito de clientes usando la API-fake para simular contenido testimonial. |7 | Franco Yance | Done |
+| EP1/US6   |Implementar Footer |  W06  | Creación del Footer | Añadir un footer que incluya enlaces de contacto, redes sociales, y enlaces legales como política de privacidad. |4 | Miguel Angel | Done |
+| EP2/US1   |Crear Sección de Stations |  W07  | Desarrollo de Stations | Implementar la sección de "Stations" en la Web Application, incluyendo la estructura para visualizar y gestionar los "Crops" dentro de cada estación. |12 | Lino Quenta |  Done |
+| EP2/US2   |Crear Toolbar |  W08  | Implementación de Toolbar | Implementación de Toolbar |5 | Giovanni Andrés |  Done |
+| EP2/US3   |Implementar Notification |  W09  | Desarrollo de Notificaciones | Crear el componente de notificaciones que muestre mensajes relevantes al usuario sobre el estado de sus estaciones y cultivos. | 6 | Miguel Angel | Done |
+| EP2/US4   |Visualizar Stations y Crops |  W10  | Interacción con API Falsa| Usar la API-fake de GitHub para visualizar las "Stations" y sus "Crops" asociadas, al hacer clic en una estación específica. |8 | Franco Yance |  Done |
+
   #### 6.2.1.3. Development Evidence for Sprint Review
-    _Contenido por añadir..._
-    
+  
+| **Repository**            | **Branch**               | **Commit Id** | **Commit Message**                | **Commit Message Body**                                                                                     | **Committed on (Date)**  |
+|---------------------------|--------------------------|---------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------|
+| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/header           | a1b2c3d       | feat: create Header               | Creación del encabezado visual principal con el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". | 2024-09-16               |
+| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/benefits         | b2c3d4e       | feat: add Benefits Section        | Añadir y configurar la sección de beneficios clave para atraer a los usuarios y explicar por qué elegir GreenTools. | 2024-09-17               |
+| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/characteristics  | c3d4e5f       | feat: add Characteristics Section | Implementación de la sección de características clave, mostrando las principales capacidades del sistema. | 2024-09-18               |
+| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/plans-prices     | d4e5f6g       | feat: add Plans and Prices        | Diseñar e implementar la sección de precios, incluyendo descripciones de los planes Básico y Premium.              | 2024-09-18               |
+| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/testimonials     | e5f6g7h       | feat: add Testimonials Section    | Mostrar testimonios y casos de éxito de clientes.     | 2024-09-19               |
+| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git  | feature/footer           | f6g7h8i       | feat: create Footer               | Añadir un footer que incluya enlaces de contacto, redes sociales, y enlaces legales como política de privacidad. | 2024-09-19               |
+| https://github.com/FractalisGrupo03IOT/GreenTools-WebApp.git   | feature/stations         | g7h8i9j       | feat: add Stations Section        | Implementar la sección de "Stations" en la Web Application, incluyendo la estructura para visualizar y gestionar los "Crops" dentro de cada estación. | 2024-09-20               |
+| https://github.com/FractalisGrupo03IOT/GreenTools-WebApp.git   | feature/toolbar          | h8i9j0k       | feat: add Toolbar                 | Implementación del toolbar para la navegación principal en la Web Application, incluyendo un botón para visualizar las "Stations". | 2024-09-20               |
+| https://github.com/FractalisGrupo03IOT/GreenTools-WebApp.git   | feature/notifications    | i9j0k1l       | feat: add Notifications           | Crear el componente de notificaciones que muestra mensajes relevantes al usuario sobre el estado de sus estaciones y cultivos. | 2024-09-21               |
+| https://github.com/FractalisGrupo03IOT/fakeApi.git  | feature/view-crops       | j0k1l2m       | feat: view Stations and Crops     | Usar la Api-Fake de GitHub  para visualizar las "Stations" y sus "Crops" asociadas, al hacer clic en una estación específica. | 2024-09-21               |
   #### 6.2.1.4. Testing Suite Evidence for Sprint Review
     _Contenido por añadir..._
     
