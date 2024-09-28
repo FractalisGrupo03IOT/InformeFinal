@@ -2561,28 +2561,28 @@ Todos los componentes mencionados fueron completados exitosamente, cumpliendo co
 ##### Landing Page
 
 - **Encabezado y Subtítulo**
-  ![Encabezado y Subtítulo de la Landing Page](enlace_a_la_imagen)
+  ![Encabezado y Subtítulo de la Landing Page](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494688/encabezado_gepquq.png)
 
   *Descripción*: Esta captura muestra el encabezado de la página, que contiene el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". Este elemento fue diseñado para captar la atención de los visitantes y presentar de inmediato el objetivo del producto.
 
 - **Sección de Beneficios Clave**
-  ![Beneficios Clave](enlace_a_la_imagen)
+  ![Beneficios Clave](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494688/beneficio_ya9yea.png)
 
   *Descripción*: La sección de beneficios clave muestra las ventajas del uso de GreenTools, como el monitoreo en tiempo real, el control inteligente, análisis avanzados y soporte.
 
 - **Sección de Características Clave**
-  ![Características Clave](enlace_a_la_imagen)
+  ![Características Clave](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494689/caracteristicas_clave_hcgj8q.png)
 
   *Descripción*: En esta imagen se observa la presentación de las características avanzadas de GreenTools, como la integración con IoT, la interfaz intuitiva, alertas personalizables y opciones de personalización.
 
 - **Planes y Precios**
-  ![Planes y Precios](enlace_a_la_imagen)
+  ![Planes y Precios](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494689/planesprecio_n50xit.png)
 
   *Descripción*: Se muestran los planes Básico y Premium, con sus respectivas descripciones, lo cual permite al usuario decidir cuál es el más adecuado según sus necesidades.
 
 - **Testimonios y Footer**
-  ![Testimonios y Footer](enlace_a_la_imagen)
-
+  ![Testimonios y Footer](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727495261/testion_hhijxy.png)
+ ![Testimonios y Footer](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494688/footer_i96xhz.png)
   *Descripción*: La sección de testimonios presenta comentarios de usuarios satisfechos, mientras que el footer contiene enlaces de contacto, redes sociales, y enlaces legales (política de privacidad y términos de servicio).
 
 ##### Web Application
