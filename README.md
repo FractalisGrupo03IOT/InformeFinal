@@ -2290,16 +2290,125 @@ Web application:
 ## 6.1. Software Configuration Management
 
   ### 6.1.1. Software Development Environment Configuration
-  _Contenido por añadir..._
+  Para la identificación del entorno de desarrollo del software el procedimiento aplicado es el siguiente:
+
+  - Selección de elementos de configuración.
+  - Se identifican los productos de trabajos que son utilizados por más de un equipo de desarrollo.
+  - Se identifican los productos de trabajo críticos para el proyecto.
   
+  Según los puntos anteriormente señalados se pueden considerar los productos de trabajo como elementos de configuración:
+
+  #### **Project Management**
+  Hemos utilizado como centro de organización Google Drive para organizar los puntos a realizar, pendientes y realizados. Asimismo, la herramienta de Jira como establecer hitos y fijar límites para las tareas pendientes. 
+  - Link de referencia: https://drive.google.com/drive
+  - Link de referencia: https://www.atlassian.com/es/software/jira
+  #### **Requirements Management**
+  Al realizar las partes designadas a cada integrante, o en casos de consultas utilizamos la herramienta de Discord. En este canal de comunicación las tareas pasan por el criterio de todos para revisar y sugerir algún tipo de cambio. Para así disminuir o evitar errores al momento de presentar el proyecto.
+  - Link de referencia: https://discord.com/login
+  #### **Product UX/UI Design**
+  Hemos implementado esta parte usando la herramienta de Figma para el diseño de los wireframe de alta fidelidad y los bosquejo. Además, se utilizó para realizar el prototipo móvil App y Mobile App.
+  - Link de referencia: https://figma.com
+  #### **Software Development**
+  - *UXPressia:* Aplicación web utilizada en la creación de distintos artefactos de la metodología Lean UX como User Personas, User Journey Maps, Impact Maps, Empathy Maps. Requiere una cuenta en el sitio. Accede a través de: https://uxpressia.com
+  - *Jira:* Se usa para darle seguimiento a las historias de usuario, así como los diferentes hitos presentes en el proyecto. La aplicación se enfoca principalmente en la organización de equipos. Requiere una cuenta. Accede a través de: https://www.atlassian.com/es/software/jira
+  - *Vertabelo:* Aplicación web destinada a la creación de diagramas de bases de datos. Se requiere tener una cuenta en la aplicación Accede a través de: https://vertabelo.com/
+  - *Lucid Chart:* Aplicación web destinada a la elaboración de Wireflows, User Flows y diagramas de clases. Se requiere poseer una cuenta. Accede a través de: https://www.lucidchart.com
+  - *Visual Paradigm:* Aplicación web destinada a la creación de C4 Context, Container y Component. Requiere una cuenta en el sitio. Accede a través de: https://www.visual-paradigm.com
+  - *Figma:* Aplicación web destinada al desarrollo y prototipado de App Mockups y Wireframes. Requiere una cuenta. Accede a través de: https://figma.com
+  - *GitHub:* Aplicación Utilizada para almacenar los repositorios de nuestro proyecto y para su desarrollo. Accede a GitHub a través de: https://github.com/
+  #### **Esquema de identificadores únicos**
+  Para este proyecto, se utiliza el siguiente esquema para la codificación de los elementos de configuración:
+
+  **< StartUp >< proyecto >< type >< name>< versión >**
+
+  - < StartUp >: identificador de la StartUp (FW)
+  - < proyecto >: identificador del tipo del proyecto (RKG)
+  - < type >: identificador del tipo de elemento
+  - < name >: nombre del elemento
+  - < versión >: versión del elemento
+    - Requisitos FW-RKG-REQ
+      - User stories FW-RKG-REQ-US-1.0.0
+      - Sprint Backlog FW-RKG-REQ-SB-1.0.0
+      - Product Backlog FW-RKG-REQ-PB-1.0.0
+    - Repositorios FW-RKG-REP
+      - Landing Page Repository FW-RKG-REP-LP
+      - Movil App Repository FW-RKG-REP-WA
+    - Arquitectura FW-RKG-ARQ
+      - User stories FW-RKG-REQ-US-1.0.0
+      - Sprint Backlog FW-RKG-REQ-SB-1.0.0
+      - Product Backlog FW-RKG-REQ-PB-1.0.0
+
   ### 6.1.2. Source Code Management
-  _Contenido por añadir..._
+  Utilizaremos GitHub como Plataforma y sistema de control de versiones de nuestro proyecto.
+
+  Se ha creado los repositorios en GitHub dentro de nuestra organización.
   
+  | **Sección**    | **Link**                            |
+  |----------------|--------------------------------------------|
+  | **Back-end**    | https://github.com/FractalisGrupo03IOT/fakeApi |
+  | **Web App**   | https://github.com/FractalisGrupo03IOT/GreenTools-WebApp |
+  | **Landing Page**| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools |
+  | **Informe**     | https://github.com/FractalisGrupo03IOT/InformeFinal |
+
+  Bajo el modelo de creación de ramas Gitflow es que se crearon los repositorios para el Back-end y Front-end, donde se crearon las siguientes ramas para el desarrollo del proyecto:
+
+  **Main Branch:** En esta rama se encuentra la versión completa, que ha pasado pruebas y
+  no hay problemas en su ejecución. Por lo tanto, es la que se va a desplegar y mostrar a
+  los usuarios.
+
+  **Hotfix Branch:** En caso hubiera un problema con la versión del proyecto en la rama
+  Main, se usará esta rama como respaldo para encontrar y solucionar el problema lo
+  más rápido posible
+
+  **Release Brach:** En esta rama la aplicación movil se ejecuta sin problema, pero debe
+  pasar por pruebas para validar todas las funcionalidades. Cuando se realicen las
+  pruebas y no haya errores esta versión pasa a la rama Main.
+
+  **Develop Branch:** Esta rama sigue en desarrollo, solucionar distintos problemas o
+  requerimientos aún en desarrollo. Cuando esta rama se encuentre terminada para un
+  sprint, entonces pasa a la Rama Release.
+
+  **Feature Branch:** Estas ramas se irán creando según se necesite agregar una nueva
+  funcionalidad dentro de la aplicación movil.
+    
   ### 6.1.3. Source Code Style Guide & Conventions
-  _Contenido por añadir..._
+  Para el desarrollo de nuestro proyecto hemos adoptado algunas referencias para nombrar elementos y programar en los lenguajes utilizados para la solución.
+  - Convenciones de idioma: El uso del idioma inglés para la elaboración del código de compilación ya sea Back-end como Front-end.
+  - Nomenclatura: Para lo relacionado con el uso y modificación de los distintos repositorios seguiremos utilizando la nomenclatura establecida en Software Development Environment Configuration.
+  - Herramientas: Seguiremos utilizando tecnologías consideradas para el desarrollo de la aplicación como: Rider, Visual Studio Code, Flutter, Dart GitHub, Gitflow, Figma, WebStorm.
+
+  #### *Semantic Versioning*
+  
+  **Conventional Commits**
+  Para la redacción de las siguientes convenciones de commits se utilizó de referencia el articulo Conventional Commits 1.0.0. Se debe seguir la siguiente estructura para un commit: git commit -m “< type> (optional scope) < title>” m “< description>”
+
+  **Types**
+  - Add: se usará para indicar que se añadieron archivos o carpetas.
+  - Fix: este tipo de commit se utilizará para la confirmación de una corrección de un error en el código.
+  - Feat: este tipo de commit se utilizará para la confirmación de que se ha añadido una nueva funcionalidad.
+  - Test: se usará para indicar que se añadieron archivos test.
   
   ### 6.1.4. Software Deployment Configuration
-  _Contenido por añadir..._
+  Para el despliegue de nuestra plataforma, tenemos los siguientes productos.
+
+  - Landing Page
+  - Web Application
+
+  Para el despliegue del landing page hemos utilizado herramientas como:
+
+  - *Git:* Para manejar las versiones del código de la Landing Page.
+  - *GitHub:* Para almacenar el proyecto y poder codificarlo colaborativamente.
+  - *GitFlow:* Para controlar y visualizar el flujo de trabajo del equipo.
+  - *Trello:* Para poder dividirnos las tareas a realizar para la documentación del sprint.
+
+  Para desplegar el landing page se ha utilizado la herramienta Page de GitHub que nos permitió generar un enlace con todas las características que la rama master contiene. Por otro lado, si quieres desplegarlo de manera remota a partir del repositorio del GitHub, puedes clonar nuestro proyecto con: git clone, en el git local.
+
+  | **Sección**    | **Link**                            |
+  |----------------|--------------------------------------------|
+  | **Back-end**    | https://github.com/FractalisGrupo03IOT/fakeApi |
+  | **Web App**   | https://github.com/FractalisGrupo03IOT/GreenTools-WebApp |
+  | **Landing Page**| https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools |
+  | **Informe**     | https://github.com/FractalisGrupo03IOT/InformeFinal |
 
 ## 6.2. Landing Page, Services & Applications Implementation
 Este capítulo documenta el proceso de implementación de cada componente del sistema, incluyendo la Landing Page, Servicios Web, Aplicaciones Web, Aplicaciones Móviles y Aplicaciones Embebidas. Cada Sprint contiene una subsección detallada que explica el progreso y el trabajo colaborativo del equipo.
