@@ -2588,27 +2588,30 @@ Todos los componentes mencionados fueron completados exitosamente, cumpliendo co
 
 ##### Web Application
 - **Visualización de Stations**
-  ![Stations en la Web Application](enlace_a_la_imagen)
+  ![Stations en la Web Application](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496536/Captura_de_pantalla_2024-09-27_230411_bkcqc1.png)
 
+  ![Stations en la Web Application](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496536/Captura_de_pantalla_2024-09-27_230431_dglcjj.png)
+  
   *Descripción*: Esta captura muestra la sección de **Stations** implementada en la Web Application. Se puede visualizar cada estación disponible, la cual contiene diferentes cultivos (Crops) que se gestionan desde la aplicación.
 
 - **Toolbar**
-  ![Toolbar de la Web Application](enlace_a_la_imagen)
+  ![Toolbar de la Web Application](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496539/Captura_de_pantalla_2024-09-27_230656_qpggkd.png))
 
   *Descripción*: Se muestra la barra de navegación principal de la Web Application, que incluye un botón específico para visualizar las **Stations**, facilitando la navegación y el acceso rápido a las principales funcionalidades.
 
 - **Componente de Notifications**
-  ![Notificaciones en la Web Application](enlace_a_la_imagen)
+  ![Notificaciones en la Web Application](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496537/Captura_de_pantalla_2024-09-27_230520_fnbkrw.png)
 
   *Descripción*: Este componente fue creado para mostrar mensajes importantes al usuario, tales como alertas sobre el estado de los cultivos o condiciones críticas que requieren acción inmediata.
 
-- **Visualización de Stations y Crops (usando API Falsa)**
-  ![Visualización de Stations y Crops](enlace_a_la_imagen)
+- **Visualización de Stations y Crops (usando API Fake)**
+  ![Visualización de Stations y Crops](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496539/Captura_de_pantalla_2024-09-27_230739_pokmny.png)
 
   *Descripción*: Se muestra cómo, utilizando una API falsa de GitHub, el usuario puede hacer clic en una estación específica para ver los **Crops** asociados. Esto simula la conectividad y gestión de cultivos reales de manera interactiva.
 
 ##### Video de Demostración
-Para una demostración completa del progreso y las funcionalidades desarrolladas durante este Sprint, puedes consultar el siguiente video: [Video de Demostración](enlace_al_video).
+Para una demostración completa del progreso y las funcionalidades desarrolladas durante este Sprint, puedes consultar el siguiente video: [Video de la landing page](enlace_al_video).
+ [Video de la web applications](enlace_al_video).
 
 *Descripción del Video*: El video comienza mostrando la **Landing Page**, con todas sus secciones: encabezado, beneficios, características, precios, y testimonios. Luego, se navega hacia la **Web Application**, donde se visualizan las **Stations** y se muestra la navegación mediante el **Toolbar**. Además, se ilustra la función de **Notifications** y cómo se pueden visualizar los **Crops** dentro de una estación específica, utilizando la **Api Fake**.
 
@@ -2630,12 +2633,13 @@ Aunque no se desarrollaron endpoints reales con **OpenAPI**, los endpoints simul
 
 #### Capturas de Pantalla de Interacción con la API Falsa
 - **Visualización de Estaciones utilizando la API Falsa**
-  ![Captura de Pantalla - Visualización de Estaciones](enlace_a_la_imagen)
+  ![Captura de Pantalla - Visualización de Estaciones](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496539/Captura_de_pantalla_2024-09-27_230739_pokmny.png)
+  ![Captura de Pantalla - Visualización de Estaciones](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496536/Captura_de_pantalla_2024-09-27_230411_bkcqc1.png)
 
   *Descripción*: Esta captura muestra cómo se utilizan los datos de la API falsa para listar todas las estaciones. Cada estación tiene información que se presenta en la Web Application para facilitar la gestión de los cultivos.
 
 - **Visualización de Detalles de una Estación**
-  ![Captura de Pantalla - Detalles de Estación](enlace_a_la_imagen)
+  ![Captura de Pantalla - Detalles de Estación](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496536/Captura_de_pantalla_2024-09-27_230431_dglcjj.png)
 
   *Descripción*: Al seleccionar una estación específica, la aplicación utiliza la API falsa para recuperar y mostrar los cultivos asociados a dicha estación. Esto simula cómo se verá la aplicación cuando se integre con los Web Services reales.
 
@@ -2683,11 +2687,12 @@ Durante este Sprint, el equipo trabajó de forma colaborativa para completar la 
 
 3. **Revisiones Cruzadas**:
    - Implementamos revisiones cruzadas de código mediante **pull requests**, asegurando la calidad del desarrollo.
-   - ![Revisiones de Pull Requests](enlace_a_la_imagen)
+   - ![Revisiones de Pull Requests](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496535/Captura_de_pantalla_2024-09-27_225810_y3k3y3.png)
+   - ![Revisiones de Pull Requests](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496535/Captura_de_pantalla_2024-09-27_225738_zofipf.png)
 
 4. **Reuniones Virtuales**:
    - Se realizaron reuniones virtuales para sincronizar avances y resolver bloqueos.
-   - ![Reunión Virtual](enlace_a_la_imagen)
+   - ![Reunión Virtual](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496535/Captura_de_pantalla_2024-09-27_225453_opqm9w.png)
 
 ##### Reflexión
 La colaboración fue efectiva, con todos los miembros contribuyendo activamente. La gestión de tareas con **GitHub Projects** y las revisiones de código ayudaron a mantener una alta calidad y resolver desafíos de forma conjunta.
