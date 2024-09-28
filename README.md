@@ -1,4 +1,4 @@
-<div align="center">
+
   
 ![Logotipo Descripción generada automáticamente](https://res.cloudinary.com/daassyisd/image/upload/v1714691535/gmplcgrlsv9sihpusivm.png)
 
@@ -8,7 +8,7 @@
 
 **TP1**
 
-<br>
+
 
 **Carrera:** Ingeniería de Software
 
@@ -22,7 +22,7 @@
 
 **Producto:** GreenTools
 
-<br>
+
 
 **Integrantes:**
 
@@ -32,11 +32,9 @@ Giovanni Andres Ramos Calderon (U202122512)
 Jean Patrick Yemsi Sanchez Rios (U20181e536)  
 Franco Felix Yance Gutierrez (U202013614)
 
-<br>
 
 **Septiembre, 7 de 2024**
 
-</div>
 
 # Registro de Versiones del Informe
 
@@ -47,7 +45,7 @@ Franco Felix Yance Gutierrez (U202013614)
 
 # Project Report Collaboration Insights
 
-URL de nuestro repositorio para el Project Report:[https://github.com/FractalisGrupo03IOT/InformeFinal](https://github.com/FractalisGrupo03IOT/InformeFinal)
+URL de nuestro repositorio para el Project Report:![https://github.com/FractalisGrupo03IOT/InformeFinal](https://github.com/FractalisGrupo03IOT/InformeFinal)
 
 ## Desarrollo de actividades y colaboración
 
@@ -69,7 +67,7 @@ URL de nuestro repositorio para el Project Report:[https://github.com/FractalisG
 
 ## Evidencia de colaboración
 
-#Contenido
+# Contenido
 
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1. Startup Profile](#11-startup-profile)
