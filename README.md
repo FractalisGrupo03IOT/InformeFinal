@@ -6,7 +6,7 @@
 
 **SI572-2402-WV71 Desarrollo de Soluciones IOT**
 
-**TB1**
+**TP1**
 
 <br>
 
@@ -2678,20 +2678,17 @@ En este Sprint, realizamos el despliegue de la **Landing Page** y la **Web Appli
 Durante este Sprint, el equipo trabajó de forma colaborativa para completar la **Landing Page** y la **Web Application** de GreenTools. Utilizamos **GitHub Projects** para gestionar las tareas y asegurar la participación equitativa de todos los miembros.
 
 ##### Evidencia de Colaboración
-1. **Historial de Commits**:
-   - Cada miembro del equipo realizó commits frecuentes en los repositorios de **Landing Page** y **Web Application**, garantizando una integración continua.
-   - ![Historial de Commits](enlace_a_la_imagen)
 
-2. **Analítica de Colaboración**:
+1. **Analítica de Colaboración**:
    - Utilizamos **GitHub Insights** para analizar la contribución de cada miembro, mostrando una distribución equitativa de las tareas.
-   - ![Analítica de Colaboración en GitHub Insights](enlace_a_la_imagen)
-
-3. **Revisiones Cruzadas**:
+   - ![Analítica de Colaboración en GitHub Insights-landing-page](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727497415/Captura_de_pantalla_2024-09-27_232251_tyjxkk.png)
+   - ![Analítica de Colaboración en GitHub Insights-Web-Applications](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727497414/Captura_de_pantalla_2024-09-27_232145_rsjdk6.png)
+2. **Revisiones Cruzadas**:
    - Implementamos revisiones cruzadas de código mediante **pull requests**, asegurando la calidad del desarrollo.
    - ![Revisiones de Pull Requests](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496535/Captura_de_pantalla_2024-09-27_225810_y3k3y3.png)
    - ![Revisiones de Pull Requests](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496535/Captura_de_pantalla_2024-09-27_225738_zofipf.png)
 
-4. **Reuniones Virtuales**:
+3. **Reuniones Virtuales**:
    - Se realizaron reuniones virtuales para sincronizar avances y resolver bloqueos.
    - ![Reunión Virtual](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496535/Captura_de_pantalla_2024-09-27_225453_opqm9w.png)
 
