@@ -187,10 +187,7 @@ URL de nuestro repositorio para el Project Report:[https://github.com/FractalisG
 
 Fractalis es una startup dedicada a transformar la agricultura mediante la innovación tecnológica. Nos especializamos en desarrollar soluciones que integran el Internet de las Cosas (IoT) y la automatización para empoderar a agricultores de todo el mundo. En Fractalis, creemos en la convergencia de tecnología y sostenibilidad para crear un futuro agrícola más eficiente y responsable. Nuestro objetivo es revolucionar el sector, brindando herramientas accesibles y escalables que mejoran la productividad, optimizan el uso de recursos y promueven prácticas agrícolas sostenibles. Fractalis es más que una startup; es un movimiento hacia la modernización de la agricultura global.
 
-<div align=center>
-    <img src="https://media.discordapp.net/attachments/1282304254929010689/1282304308087492701/logo.jpg?ex=66dede73&is=66dd8cf3&hm=3dc374ec3598919b16e4cc663b63a7cfb50b4c93f14e6b4a98c606b84363045c&=&format=webp" alt="Franco Felix Yance Gutierrez" style="margin-bottom: 5px;" width="300"/>
-
-</div>
+[logo].(https://res.cloudinary.com/drg1vvwvl/image/upload/v1727500481/logo_rl6utt.webp)
 
 - **Visión:** Nuestra visión en Fractalis es liderar la transformación global de la agricultura a través de la tecnología, empoderando a agricultores de todo el mundo con herramientas inteligentes que hagan la agricultura más eficiente, sostenible y resiliente. Aspiramos a ser un referente en la innovación agrícola, promoviendo un futuro donde la tecnología y la naturaleza trabajen en armonía para asegurar la seguridad alimentaria y el bienestar del planeta.
 
