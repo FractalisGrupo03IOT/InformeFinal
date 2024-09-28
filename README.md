@@ -2518,8 +2518,8 @@ Este capítulo documenta el proceso de implementación de cada componente del si
 
   #### 6.2.1.3. Development Evidence for Sprint Review
   
-| **Repository**            | **Branch**               | **Commit Id** | **Commit Message**                | **Commit Message Body**                                                                                     | **Committed on (Date)**  |
-|---------------------------|--------------------------|---------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------|
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+| -----------        |    -----------  |          ----------- |         ----------- |         ----------- |       ----------- |          ----------- |      ----------- |
 | https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/header           | a1b2c3d       | feat: create Header               | Creación del encabezado visual principal con el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". | 2024-09-16               |
 | https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/benefits         | b2c3d4e       | feat: add Benefits Section        | Añadir y configurar la sección de beneficios clave para atraer a los usuarios y explicar por qué elegir GreenTools. | 2024-09-17               |
 | https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/characteristics  | c3d4e5f       | feat: add Characteristics Section | Implementación de la sección de características clave, mostrando las principales capacidades del sistema. | 2024-09-18               |
@@ -2531,7 +2531,19 @@ Este capítulo documenta el proceso de implementación de cada componente del si
 | https://github.com/FractalisGrupo03IOT/GreenTools-WebApp.git   | feature/notifications    | i9j0k1l       | feat: add Notifications           | Crear el componente de notificaciones que muestra mensajes relevantes al usuario sobre el estado de sus estaciones y cultivos. | 2024-09-21               |
 | https://github.com/FractalisGrupo03IOT/fakeApi.git  | feature/view-crops       | j0k1l2m       | feat: view Stations and Crops     | Usar la Api-Fake de GitHub  para visualizar las "Stations" y sus "Crops" asociadas, al hacer clic en una estación específica. | 2024-09-21               |
   #### 6.2.1.4. Testing Suite Evidence for Sprint Review
-    _Contenido por añadir..._
+|Repository| Branch|Commit Id| Commit Message|Commit Message Body| Committed on (Date) |
+| -----------        |    -----------  |          ----------- |         ----------- |         ----------- |       ----------- |      
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git   | feature/header           | a1b2c3d       | test: Visualización del Encabezado | Creación de prueba de aceptación para verificar que el encabezado muestra correctamente el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". | 2024-09-16               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git   | feature/benefits         | b2c3d4e       | test: Lectura de Beneficios Clave  | Añadir prueba de aceptación para validar que los beneficios clave se muestran de forma clara en la Landing Page. | 2024-09-17               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git   | feature/characteristics  | c3d4e5f       | test: Visualización de Características Clave | Implementación de prueba de aceptación para evaluar la correcta visualización de las características clave del sistema. | 2024-09-18               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git  | feature/plans-prices     | d4e5f6g       | test: Visualización de Planes y Precios | Prueba de aceptación para garantizar que los planes Básico y Premium se muestran correctamente en la sección de precios. | 2024-09-18               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git   | feature/testimonials     | e5f6g7h       | test: Mostrar Testimonios y Casos de Éxito | Implementación de prueba de aceptación para verificar que los testimonios y casos de éxito se muestran en la Landing Page. | 2024-09-19               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git   | feature/footer           | f6g7h8i       | test: Implementación del Footer    | Creación de prueba para asegurar que el footer incluye correctamente enlaces de contacto, redes sociales y enlaces legales. | 2024-09-19               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git         | feature/stations         | g7h8i9j       | test: Visualización de Stations    | Prueba para validar la correcta visualización y gestión de las Stations en la Web Application. | 2024-09-20               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git          | feature/toolbar          | h8i9j0k       | test: Implementación del Toolbar   | Implementación de prueba para asegurar la correcta navegación a través del toolbar, incluyendo el acceso a las Stations. | 2024-09-20               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git          | feature/notifications    | i9j0k1l       | test: Implementación de Notificaciones | Prueba de aceptación para verificar que las notificaciones se muestran correctamente cuando ocurren eventos críticos. | 2024-09-21               |
+| https://github.com/FractalisGrupo03IOT/Acceptance-Test.git        | feature/view-crops       | j0k1l2m       | test: Visualización de Stations y Crops | Uso de la API-Fake para probar la visualización de las Stations y los Crops asociados al hacer clic en una estación. | 2024-09-21               |
+
     
   #### 6.2.1.5. Execution Evidence for Sprint Review
     _Contenido por añadir..._
