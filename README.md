@@ -2449,8 +2449,8 @@ Este capítulo documenta el proceso de implementación de cada componente del si
 
   #### 6.2.1.3. Development Evidence for Sprint Review
   
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
-| -----------        |    -----------  |          ----------- |         ----------- |         ----------- |       ----------- |          ----------- |      ----------- |
+|Repository| Branch|Commit Id| Commit Message|Commit Message Body| Committed on (Date) |
+| -----------        |    -----------  |          ----------- |         ----------- |         ----------- |       ----------- |      
 | https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/header           | a1b2c3d       | feat: create Header               | Creación del encabezado visual principal con el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". | 2024-09-16               |
 | https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/benefits         | b2c3d4e       | feat: add Benefits Section        | Añadir y configurar la sección de beneficios clave para atraer a los usuarios y explicar por qué elegir GreenTools. | 2024-09-17               |
 | https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git   | feature/characteristics  | c3d4e5f       | feat: add Characteristics Section | Implementación de la sección de características clave, mostrando las principales capacidades del sistema. | 2024-09-18               |
@@ -2477,15 +2477,105 @@ Este capítulo documenta el proceso de implementación de cada componente del si
 
     
   #### 6.2.1.5. Execution Evidence for Sprint Review
+  ### 6.2.1.3 Execution Evidence for Sprint Review
+
+#### Resumen del Sprint
+En este Sprint, se implementaron las funcionalidades correspondientes a la **Landing Page** y a la **Web Application** de GreenTools. Los principales logros fueron:
+
+- **Landing Page**: Implementación de componentes como el encabezado, la sección de beneficios clave, características, planes y precios, testimonios, y footer.
+- **Web Application**: Desarrollo de la sección de **Stations**, el **Toolbar** para facilitar la navegación, el componente de **Notifications**, y la funcionalidad para visualizar estaciones y cultivos (**Crops**), utilizando la API falsa proporcionada por GitHub.
+
+Todos los componentes mencionados fueron completados exitosamente, cumpliendo con los objetivos planteados en el Sprint y verificando que las funcionalidades se integren de manera correcta.
+
+#### Capturas de Pantalla de las Principales Vistas Implementadas
+
+##### Landing Page
+
+- **Encabezado y Subtítulo**
+  ![Encabezado y Subtítulo de la Landing Page](enlace_a_la_imagen)
+
+  *Descripción*: Esta captura muestra el encabezado de la página, que contiene el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". Este elemento fue diseñado para captar la atención de los visitantes y presentar de inmediato el objetivo del producto.
+
+- **Sección de Beneficios Clave**
+  ![Beneficios Clave](enlace_a_la_imagen)
+
+  *Descripción*: La sección de beneficios clave muestra las ventajas del uso de GreenTools, como el monitoreo en tiempo real, el control inteligente, análisis avanzados y soporte.
+
+- **Sección de Características Clave**
+  ![Características Clave](enlace_a_la_imagen)
+
+  *Descripción*: En esta imagen se observa la presentación de las características avanzadas de GreenTools, como la integración con IoT, la interfaz intuitiva, alertas personalizables y opciones de personalización.
+
+- **Planes y Precios**
+  ![Planes y Precios](enlace_a_la_imagen)
+
+  *Descripción*: Se muestran los planes Básico y Premium, con sus respectivas descripciones, lo cual permite al usuario decidir cuál es el más adecuado según sus necesidades.
+
+- **Testimonios y Footer**
+  ![Testimonios y Footer](enlace_a_la_imagen)
+
+  *Descripción*: La sección de testimonios presenta comentarios de usuarios satisfechos, mientras que el footer contiene enlaces de contacto, redes sociales, y enlaces legales (política de privacidad y términos de servicio).
+
+##### Web Application
+- **Visualización de Stations**
+  ![Stations en la Web Application](enlace_a_la_imagen)
+
+  *Descripción*: Esta captura muestra la sección de **Stations** implementada en la Web Application. Se puede visualizar cada estación disponible, la cual contiene diferentes cultivos (Crops) que se gestionan desde la aplicación.
+
+- **Toolbar**
+  ![Toolbar de la Web Application](enlace_a_la_imagen)
+
+  *Descripción*: Se muestra la barra de navegación principal de la Web Application, que incluye un botón específico para visualizar las **Stations**, facilitando la navegación y el acceso rápido a las principales funcionalidades.
+
+- **Componente de Notifications**
+  ![Notificaciones en la Web Application](enlace_a_la_imagen)
+
+  *Descripción*: Este componente fue creado para mostrar mensajes importantes al usuario, tales como alertas sobre el estado de los cultivos o condiciones críticas que requieren acción inmediata.
+
+- **Visualización de Stations y Crops (usando API Falsa)**
+  ![Visualización de Stations y Crops](enlace_a_la_imagen)
+
+  *Descripción*: Se muestra cómo, utilizando una API falsa de GitHub, el usuario puede hacer clic en una estación específica para ver los **Crops** asociados. Esto simula la conectividad y gestión de cultivos reales de manera interactiva.
+
+##### Video de Demostración
+Para una demostración completa del progreso y las funcionalidades desarrolladas durante este Sprint, puedes consultar el siguiente video: [Video de Demostración](enlace_al_video).
+
+*Descripción del Video*: El video comienza mostrando la **Landing Page**, con todas sus secciones: encabezado, beneficios, características, precios, y testimonios. Luego, se navega hacia la **Web Application**, donde se visualizan las **Stations** y se muestra la navegación mediante el **Toolbar**. Además, se ilustra la función de **Notifications** y cómo se pueden visualizar los **Crops** dentro de una estación específica, utilizando la **Api Fake**.
+
+    
+#### 6.2.1.6. Services Documentation Evidence for Sprint Review
+
+##### Resumen del Sprint
+En este Sprint no se desarrollaron Web Services completos, ya que nos encontramos en la fase inicial del proyecto. Para la implementación de la **Landing Page** y la **Web Application**, utilizamos una **API fake** disponible en GitHub para simular las respuestas y manejar datos estáticos. Esta API falsa permitió probar las funcionalidades y demostrar la navegación y visualización de estaciones y cultivos (**Stations** y **Crops**) dentro de la aplicación.
+
+La **API Fake** fue creada usando el servicio de GitHub disponible en `https://my-json-server.typicode.com`, lo cual nos permitió simular la estructura de datos que utilizaremos en los Web Services finales durante los siguientes sprints. A continuación, se presenta la documentación y las pruebas realizadas con la API falsa.
+
+##### Documentación de la API fake
+Aunque no se desarrollaron endpoints reales con **OpenAPI**, los endpoints simulados incluyen operaciones básicas para visualizar los datos de las estaciones y los cultivos. A continuación se muestra la relación de las acciones implementadas utilizando la API falsa:
+
+| **Endpoint**               | **HTTP Verbo** | **Descripción**               | **URL (Fake API)**                                     | **Sintaxis de Llamada**       | **Parámetros**    | **Ejemplo de Response**           |
+|----------------------------|----------------|--------------------------------|--------------------------------------------------------|-------------------------------|-------------------|-----------------------------------|
+| `/stations`                | GET            | Obtener la lista de estaciones | `https://my-json-server.typicode.com/FractalisGrupo03IOT/fakeApi` | `GET /stations`               | Ninguno           | Lista de estaciones en JSON       |
+| `/stations/{stationId}`    | GET            | Obtener detalles de una estación específica, incluyendo sus cultivos | `https://my-json-server.typicode.com/FractalisGrupo03IOT/fakeApi/stations/{stationId}` | `GET /stations/{stationId}`   | `{stationId}`     | Detalles de la estación y sus cultivos en JSON  |
+
+#### Capturas de Pantalla de Interacción con la API Falsa
+- **Visualización de Estaciones utilizando la API Falsa**
+  ![Captura de Pantalla - Visualización de Estaciones](enlace_a_la_imagen)
+
+  *Descripción*: Esta captura muestra cómo se utilizan los datos de la API falsa para listar todas las estaciones. Cada estación tiene información que se presenta en la Web Application para facilitar la gestión de los cultivos.
+
+- **Visualización de Detalles de una Estación**
+  ![Captura de Pantalla - Detalles de Estación](enlace_a_la_imagen)
+
+  *Descripción*: Al seleccionar una estación específica, la aplicación utiliza la API falsa para recuperar y mostrar los cultivos asociados a dicha estación. Esto simula cómo se verá la aplicación cuando se integre con los Web Services reales.
+
+##### Próximos Pasos
+En los próximos sprints, desarrollaremos Web Services reales que estarán documentados con **OpenAPI** para cubrir todas las funcionalidades que actualmente hemos simulado. Se incluirán los métodos de autenticación, gestión de cultivos, alertas, entre otros.
+    
+#### 6.2.1.7. Software Deployment Evidence for Sprint Review
     _Contenido por añadir..._
     
-  #### 6.2.1.6. Services Documentation Evidence for Sprint Review
-    _Contenido por añadir..._
-    
-  #### 6.2.1.7. Software Deployment Evidence for Sprint Review
-    _Contenido por añadir..._
-    
-  #### 6.2.1.8. Team Collaboration Insights during Sprint
+#### 6.2.1.8. Team Collaboration Insights during Sprint
     _Contenido por añadir..._
 
 
