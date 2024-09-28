@@ -2642,7 +2642,6 @@ Aunque no se desarrollaron endpoints reales con **OpenAPI**, los endpoints simul
 En los próximos sprints, desarrollaremos Web Services reales que estarán documentados con **OpenAPI** para cubrir todas las funcionalidades que actualmente hemos simulado. Se incluirán los métodos de autenticación, gestión de cultivos, alertas, entre otros.
     
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
-#### 6.2.1.7. Software Deployment Evidence for Sprint Review
 ##### Resumen del Sprint
 En este Sprint, realizamos el despliegue de la **Landing Page** y la **Web Application** utilizando servicios de GitHub Pages y configuraciones básicas para simular un entorno de despliegue. Este despliegue nos permitió verificar que ambas aplicaciones fueran accesibles externamente y funcionaran de manera adecuada. Los principales pasos realizados incluyen:
 
@@ -2653,7 +2652,7 @@ En este Sprint, realizamos el despliegue de la **Landing Page** y la **Web Appli
 2. **Configuración de GitHub Pages para Despliegue**:
     - **Landing Page**: Se configuró GitHub Pages para el despliegue automático de la Landing Page directamente desde el repositorio. Esto nos permitió tener una versión de la Landing Page accesible para pruebas y demostraciones.
     - **Captura de Pantalla del Despliegue en GitHub Pages**
-      ![Despliegue de la Landing Page](enlace_a_la_imagen)
+      ![Despliegue de la Landing Page](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727495329/Imagen_de_WhatsApp_2024-09-27_a_las_21.58.57_5cb33a01_slw5o4.jpg)
       *Descripción*: Esta captura muestra la configuración de GitHub Pages utilizada para desplegar la Landing Page del proyecto.
 
 3. **Configuración de Recursos Locales para Desarrollo**:
