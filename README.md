@@ -1,5 +1,3 @@
-
-  
 ![Logotipo Descripción generada automáticamente](https://res.cloudinary.com/daassyisd/image/upload/v1714691535/gmplcgrlsv9sihpusivm.png)
 
 **UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
@@ -508,7 +506,6 @@ GreenTools debe tener una interfaz sencilla, intuitiva y responsive, que permita
 | **Psicográfico** | Clase Social: Clase media y clase alta. <br><br> Estilo de vida: Personas con un fuerte interés en la agricultura moderna y la tecnología, que buscan maximizar el rendimiento y la sostenibilidad de sus cultivos mediante la integración de soluciones tecnológicas avanzadas. | Clase Social: Clase media y clase alta. <br><br> Estilo de vida: Individuos interesados en la diversificación de cultivos en espacios pequeños, que desean implementar tecnologías innovadoras para mejorar la eficiencia y sostenibilidad de sus prácticas agrícolas. |
 | **Demográfico**  | Edad: Mayores de 30 años. <br><br> Nivel de Ingreso: Medio a alto, con capacidad para invertir en membresías y alquiler de equipos IoT. <br><br> Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte. | Edad: Mayores de 30 años. <br><br> Nivel de Ingreso: Medio a alto, con disposición para gastar en tecnología avanzada que optimice la producción agrícola. <br><br> Nacionalidad: Nacionalidad peruana. En el caso de ser extranjero, deberá identificarse con su pasaporte. <br><br> Estudios: Educación superior, con un interés marcado en temas tecnológicos y agrícolas. |
 
-<br><br>
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
@@ -789,8 +786,9 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 - **Subscription Model (Modelo de Suscripción):** Modelo de negocio en el que los usuarios pagan una tarifa recurrente para acceder a servicios o productos, como el acceso a plataformas de gestión agrícola y el alquiler de equipos IoT.
 
 - **Farm Management Software (Software de Gestión Agrícola):** Plataforma tecnológica que centraliza la información sobre cultivos, sensores y recursos, permitiendo a los agricultores tomar decisiones basadas en datos para mejorar la eficiencia operativa.
-# Capítulo III: Requirements Specification
 
+
+# Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ### Cultivadores de invernadero
 - Buscan **automatización completa** en sensores y actuadores, con acceso fácil a datos históricos y notificaciones solo en casos críticos.
@@ -865,6 +863,8 @@ Para elaborar los Empathy Maps de los User Personas de GreenTools, el proceso si
 | EP6/US7             | Optimización del tiempo de respuesta del backend      | Como **developer**, quiero optimizar el tiempo de respuesta del backend distribuyendo la carga de manera eficiente entre los servidores.                                                                                           | 1. **Dado** que hay múltiples servidores backend, **Cuando** se reciben solicitudes simultáneas, **Entonces** el sistema mantiene el tiempo de respuesta dentro de los márgenes aceptables definidos.<br>2. **Dado** que un servidor recibe más carga de lo normal, **Cuando** se detecta una sobrecarga, **Entonces** el sistema redistribuye automáticamente las solicitudes a otros servidores.                                                                                                   | EP6                           |
 | EP6/US8             | Implementación de colas de mensajes para el backend    | Como **developer**, quiero implementar colas de mensajes para gestionar las solicitudes de los dispositivos IoT y asegurar que ninguna información se pierda en caso de sobrecarga.                                                        | 1. **Dado** que las solicitudes de los dispositivos llegan al backend, **Cuando** la carga es demasiado alta, **Entonces** el sistema encola las solicitudes y las procesa por orden de llegada.<br>2. **Dado** que el sistema se recupera de la sobrecarga, **Cuando** procesa los mensajes en la cola, **Entonces** lo hace sin pérdida de datos.                                                                                                                                                                   | EP6                           |
 | EP6/US9             | Configuración de monitoreo de tráfico en el backend   | Como **developer**, quiero monitorear el tráfico de datos en el backend distribuido para asegurar la estabilidad y eficiencia del sistema.                                                                                       | 1. **Dado** que el backend distribuido está activo, **Cuando** un administrador revisa las métricas de tráfico, **Entonces** el sistema muestra la cantidad de solicitudes y la distribución de la carga entre los servidores.<br>2. **Dado** que el tráfico supera un umbral predefinido, **Cuando** se produce un pico de solicitudes, **Entonces** el sistema genera una alerta automática para que el administrador tome acción.                                                                              | EP6                           |
+
+
 
 ## 3.3. Impact Mapping
 El Impact Mapping de GreenTools muestra cómo los cultivadores de invernadero y los microcultivadores de precisión pueden lograr los Business Goals de la plataforma mediante cambios de comportamiento específicos, funcionalidades clave y la integración de tecnologías IoT.
@@ -947,55 +947,55 @@ Se ha utilizado **Trello** para gestionar y mantener el Product Backlog. A conti
 
 [Acceder al Product Backlog en Trello](https://trello.com/b/ECT6oUU8/greentools)
 
-# Capítulo IV: Solution Software Design
 
+# Capítulo IV: Solution Software Design
 ## 4.1. Strategic-Level Domain-Driven Design
 El proceso que hemos seguido abarca el uso de herramientas de EventStorming, Candidate Context Discovery, Domain Message Flows Modeling, Bounded Context Canvases y Context Mapping para definir los contextos delimitados de nuestra solución, los eventos que desencadenan el uso de un contexto, el flujo que ocurre para que se cumpla un escenario y las relaciones entre los contextos delimitados. Así mismo hemos aplicado el resultado de este proceso para el diseño de nuestra arquitectura de software usando C4.
 
-![Texto alternativo](/assets/chapter4/strategicLevel.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727503629/strategicLevel_aiuvdw.jpg)
 ### 4.1.1. EventStorming
 Como primer paso de este proceso hemos realizado una lluvia de ideas sobre los eventos que ocurren en nuestro sistema.
 
-![Texto alternativo](/assets/chapter4/eventStormingCapture.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727503628/eventStormingCapture_py6ny1.jpg)
 #### 4.1.1.1. Candidate Context Discovery
 ##### Step 1: Unstructured Exploration
 Comenzamos con la lluvia de ideas de los eventos relaciones con el dominio empresarial que exploramos. Los eventos se formulan en tiempo pasado.
 
-![Texto alternativo](/assets/chapter4/eventStorming.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727503625/eventStorming_xeei9m.jpg)
 ##### Step 2: Timelines
 Organizamos los eventos en el orden que ocurren dentro del dominio empresarial. Se comienza con un flujo que define un escenario empresarial exitoso, a continuación se evalúan otros escenarios alternativos. 
 
-![Texto alternativo](/assets/chapter4/timelines.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727503624/timelines_oic2ju.jpg)
 ##### Step 3: Paint Points
 Identificamos los puntos en el proceso que requieren atención. Pueden ser cuellos de botella, pasos que requieren autorización o dudas sobre el evento.
 
-![Texto alternativo](/assets/chapter4/painPoints.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727503623/painPoints_zrlwmb.jpg)
 ##### Step 4: Pivotal Points
 Buscamos eventos comerciales importantes que indiquen un cambio en el contexto o fase. A estos se denominan eventos fundamentales y se les marca con una barra vertical que divida los eventos antes y después del fundamental.
 
-![Texto alternativo](/assets/chapter4/pivotalPoints.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727503620/pivotalPoints_typcgq.jpg)
 ##### Step 5: Commands
 Un comando describe qué desencadena  un evento o un flujo de eventos. Describen operaciones del sistema y se formula en imperativo.
 
-![Texto alternativo](/assets/chapter4/commands.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727503616/commands_mlcua7.jpg)
 ##### Step 6: Policies
 Normalmente los comandos no tienen un actor asociados con ellos. Para esto, se buscan políticas de automatización que ejecuten estos comandos. Estos son escenarios en el que un evento desencadena la ejecución de un comando.
 
-![Texto alternativo](/assets/chapter4/policies.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727503616/policies_sivdmu.jpg)
 ##### Step 7: Read Models
 Un modelo de lectura es la vista que el actor usa para ejecutar un comando. 
 
-![Texto alternativo](/assets/chapter4/readModels.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502962/readModels_wc1f6d.jpg)
 ##### Step 8: External Systems
 No hay sistemas externos
 ##### Step 9: Aggregates
 Cuando todos los eventos y comandos se relizaron, se organizan conceptos relacionados en un agregado, este recibe comandos y produce eventos.
 
-![Texto alternativo](/assets/chapter4/aggregates.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502961/aggregates_gkiubo.jpg)
 ##### Step 10: Bounded Contexts
 Finalmente se buscan agregados que esten relacionados entre sí, ya sea por funcionalidades dependientes o porque están acoplados por las políticas. Estos grupos de agregados forman los limites de contextos delimitados.
 
-![Texto alternativo](/assets/chapter4/boundedContexts.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502971/boundedContexts_n4ncwl.jpg)
 
 #### 4.1.1.2. Domain Message Flows Modeling
 En esta sección se evidencia el proceso para visualizar la colaboración entre bounded context para resolver los casos que se presentan dentro de nuestro sistema. Hemos usado la técnica de visualización Domain Storytelling.
@@ -1003,54 +1003,54 @@ En esta sección se evidencia el proceso para visualizar la colaboración entre 
 ##### Caso 1: Un cliente cambia su tipo de membresía
 El dueño del cultivo genera un evento para cambiar su membresía. Este evento pasa al bounded context "Cuenta" donde se asigna el nuevo tipo de membresía escogido por el dueño del cultivo.
 
-![Texto alternativo](/assets/chapter4/escenario1.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502969/escenario1_c1mweu.jpg)
 ##### Caso 2: Un usuario crea una cuenta
 El dueño del cultivo genera un evento para registrarse en el sistema. Este evento pasa al bounded context "Cuenta" donde se registra los datos del dueño del cultivo y su tipo de membresía.
 
-![Texto alternativo](/assets/chapter4/escenario2.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502968/escenario2_da2l3m.jpg)
 ##### Caso 3: El usuario aumenta un nuevo cultivo
 El dueño del cultivo usa un comando para añadir un cultivo en su inventario. Este pasa al bounded context "Inventario de cultivo" donde se asignan los sensores correspondientes y se actualiza el inventario de usuario.
 
-![Texto alternativo](/assets/chapter4/escenario3.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502966/escenario3_mvijkq.jpg)
 ##### Caso 4: El usuario solicita el estado actual de su cultivo
 El dueño del cultivo genera query, el cual pasa al bounded context "Estado del cultivo", se genera un comando para obtener los datos de su cultivo y se devuelven al usuario.
 
-![Texto alternativo](/assets/chapter4/escenario4.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502965/escenario4_h3njdi.jpg)
 ##### Caso 5: El cliente solicita el reporte de su cultivo
 El dueño del cultivo genera query para obtener un reporte de su cultivo, el cual pasa al bounded context "Estado del cultivo", se genera un comando para generar un reporte y enviarselo al usuario.
 
-![Texto alternativo](/assets/chapter4/escenario5.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502964/escenario5_buthr2.jpg)
 ##### Caso 6: Los sensores recolectan información
 Los sensores generan eventos periodicamente para recolectar información y enviarlos al bounded context "Solución IoT", el cual luego de procesar y resumir los datos, los envía a "Estado de cultivo", donde se almacena la información de los cultivos para estar disponible para los usuarios.
 
-![Texto alternativo](/assets/chapter4/escenario6.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502962/escenario6_fp4sys.jpg)
 
 #### 4.1.1.3. Bounded Context Canvases
 ##### Bounded context: Inventario del cultivo
 Este contexto permite administrar los cultivos de los usuarios a través de un inventario. Brinda soporte, genera compromiso con el usuario y es una característica genérica. El comando "Añadir cultivo" genera un cambio de contexto entrante. Inventario se refiere a la colección de cultivos por usuario. Una política importante a resaltar es que, si el cliente tiene una membresía monocultivo, su inventario solo puede adiministrar un cultivo. Los eventos salientes están relacionados al registro y actualización del inventario.
 
-![Texto alternativo](/assets/chapter4/canvasInventario.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502372/canvasInventario_ry9lzl.jpg)
 
 ##### Bounded context: Cuenta
 Este contexto permite manejar la información de los usuarios y los tipos de cultivos que tendrán a través de sus membresías. Los comandos relacionados al registro, inicio de sesión y cambio de membresía generan el cambio de contexto entrante. Un usuario es un cliente con uno o más cultivos y la membresía es el plan de suscripción del usuario. No se puede cambiar de membresía a una ya existente, tiene que ser nueva o de otro tipo. Los eventos salientes están relacionados al registro exitoso y el nuevo tipo de membresía escogida.
 
-![Texto alternativo](/assets/chapter4/CanvasCuenta.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502414/CanvasCuenta_wrzisl.jpg)
 
 ##### Bounded context: Estado del cultivo
 Este contexto realiza un análisis del estado de los cultivos a través de la información recolectada por los sensores. Las características de este contexto brindan soporte al usuario, generan compromiso y es un producto ya usado en el mercado, pero personalizado para nuestro sistema. Los comandos para generar reportes y ver el estado actual del cultivo son entrantes a este contexto. El reporte es el análisis de todos los datos recolectados de un cultivo, mientras que el estado actual son los datos recientes de un cultivo. Los eventos salientes se relacionan a los reportes generados y solicitudes para la recolección de datos.
 
-![Texto alternativo](/assets/chapter4/canvasResporte.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502315/canvasResporte_os0kuq.jpg)
 
 ##### Bounded context: Sistema IoT
 Este contexto nos brinda datos como temeperatura, pH y humedad del suelo a través de los sensores. Este context es el centro del dominio, es lo que nos permite generar ganancias y se personaliza para cada cliente. Los eventos relacionados a la recolección de datos y evaluación del uso del actuador son los que permiten entrar a este contexto. Actuador de refiere al sistema de riego del cultivo, el cuál se activará si la humedad del suelo no es óptima. Los eventos salientes son los que generen el reporte del cultivo, los cuales son eventos de entrada para el bounded context "Estado de cultivo".
 
-![Texto alternativo](/assets/chapter4/canvasIoT.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502266/canvasIoT_untevw.jpg)
 
 ### 4.1.2. Context Mapping
 
 En esta sección se describen los contactos y relaciones entre los contextos delimitados con sus patrones correspondientes. La relación entre "Estado de cultivo" y "Solución IoT" es de tipo Upstream Dowstream, ya que los cambios en la recolección de datos de los sensores tienen un impacto en la forma en la que se generan los reportes de los cultivos de los usuarios, sin embargo cualquier cambio o falla de "Estao de cultivo" no tiene un impacto en la recolección de datos IoT. Los sensores y actuadores siguen funcionando sin problema. Por otro lado, "Estado de cultivo" y "Cuenta" tienen una relación Partnership ya que un error en cualquiera de los dos, termina afectando a ambos contextos. Si la cuenta falla, el usuario no puede ver los reportes de su cultivo, y si los reportes fallan, aunque pueda iniciar sesión, no sirve de nada ya que no tiene acceso a las funcionalidades del sistema. El mismo tipo de relación ocurre entre "Cuenta" e "Inventario de cultivo".
 
-![Texto alternativo](/assets/chapter4/contextMapping.jpg)
+![Texto alternativo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727502209/contextMapping_zypon6.jpg)
 
 ### 4.1.3. Software Architecture
 Para desarrollar la arquitectura de nuestro software hemos usado el modelo C4, el cuál descompone la estructura del sistema en contenedores y componentes. Hemos usado la herramienta Visual Paradigm para generar nuestros diagramas de arquitectura. En esta sección se aboradrán los diagramas en los niveles de contexto, contenedores y despliegue.
@@ -1440,7 +1440,6 @@ Clases Principales:
 ![Crop Status Bounded Context](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727411824/si2-2024-09-26_23-35_1_awutss.png)
 
 # Capítulo V: Solution UI/UX Design
-
 ## 5.1. Style Guidelines
 En esta sección, se definen las directrices de estilo que garantizarán una presentación visual coherente para todo el equipo de desarrollo. Se incluye un repositorio centralizado con assets, fuentes y otros recursos comunes para mantener la consistencia en las aplicaciones web y móvil. Estas guías están divididas en **General Style Guidelines**, **Web Style Guidelines**, y **Mobile Style Guidelines** para asegurar la homogeneidad en toda la plataform que  facilita el reconocimiento instantáneo por parte de nuestros clientes y stakeholders.
 ### General Style Guidelines
@@ -2252,8 +2251,6 @@ Web application:
 [Demostración de interacción en Mobile](https://youtu.be/li9X4Ik_eBo)
 - Enlace Figma: https://www.figma.com/proto/SCrfvZ1ungoDdEJ8dLJ1tg/Landing-Page-GreenTools?node-id=110-1192&node-type=canvas&t=DkCV4Ff2rKHG6Fb7-0&scaling=scale-down&content-scaling=fixed&page-id=102%3A2&starting-point-node-id=110%3A1192 
 
-
-
 # Capítulo VI: Product Implementation, Validation & Deployment
 
 ## 6.1. Software Configuration Management
@@ -2444,10 +2441,7 @@ Este capítulo documenta el proceso de implementación de cada componente del si
 | https://github.com/FractalisGrupo03IOT/Acceptance-Test.git          | feature/notifications    | i9j0k1l       | test: Implementación de Notificaciones | Prueba de aceptación para verificar que las notificaciones se muestran correctamente cuando ocurren eventos críticos. | 2024-09-21               |
 | https://github.com/FractalisGrupo03IOT/Acceptance-Test.git        | feature/view-crops       | j0k1l2m       | test: Visualización de Stations y Crops | Uso de la API-Fake para probar la visualización de las Stations y los Crops asociados al hacer clic en una estación. | 2024-09-21               |
 
-    
-  #### 6.2.1.5. Execution Evidence for Sprint Review
-  ### 6.2.1.3 Execution Evidence for Sprint Review
-
+#### 6.2.1.5. Execution Evidence for Sprint Review
 #### Resumen del Sprint
 En este Sprint, se implementaron las funcionalidades correspondientes a la **Landing Page** y a la **Web Application** de GreenTools. Los principales logros fueron:
 
@@ -2460,70 +2454,73 @@ Todos los componentes mencionados fueron completados exitosamente, cumpliendo co
 
 ##### Landing Page
 
-- **Encabezado y Subtítulo**
+- **Encabezado y Subtítulo**  
   ![Encabezado y Subtítulo de la Landing Page](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494688/encabezado_gepquq.png)
 
-  *Descripción*: Esta captura muestra el encabezado de la página, que contiene el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". Este elemento fue diseñado para captar la atención de los visitantes y presentar de inmediato el objetivo del producto.
+  _Descripción_: Esta captura muestra el encabezado de la página, que contiene el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". Este elemento fue diseñado para captar la atención de los visitantes y presentar de inmediato el objetivo del producto.
 
-- **Sección de Beneficios Clave**
+- **Sección de Beneficios Clave**  
   ![Beneficios Clave](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494688/beneficio_ya9yea.png)
 
-  *Descripción*: La sección de beneficios clave muestra las ventajas del uso de GreenTools, como el monitoreo en tiempo real, el control inteligente, análisis avanzados y soporte.
+  _Descripción_: La sección de beneficios clave muestra las ventajas del uso de GreenTools, como el monitoreo en tiempo real, el control inteligente, análisis avanzados y soporte.
 
-- **Sección de Características Clave**
+- **Sección de Características Clave**  
   ![Características Clave](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494689/caracteristicas_clave_hcgj8q.png)
 
-  *Descripción*: En esta imagen se observa la presentación de las características avanzadas de GreenTools, como la integración con IoT, la interfaz intuitiva, alertas personalizables y opciones de personalización.
+  _Descripción_: En esta imagen se observa la presentación de las características avanzadas de GreenTools, como la integración con IoT, la interfaz intuitiva, alertas personalizables y opciones de personalización.
 
-- **Planes y Precios**
+- **Planes y Precios**  
   ![Planes y Precios](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494689/planesprecio_n50xit.png)
 
-  *Descripción*: Se muestran los planes Básico y Premium, con sus respectivas descripciones, lo cual permite al usuario decidir cuál es el más adecuado según sus necesidades.
+  _Descripción_: Se muestran los planes Básico y Premium, con sus respectivas descripciones, lo cual permite al usuario decidir cuál es el más adecuado según sus necesidades.
 
-- **Testimonios y Footer**
-  ![Testimonios y Footer](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727495261/testion_hhijxy.png)
- ![Testimonios y Footer](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494688/footer_i96xhz.png)
-  *Descripción*: La sección de testimonios presenta comentarios de usuarios satisfechos, mientras que el footer contiene enlaces de contacto, redes sociales, y enlaces legales (política de privacidad y términos de servicio).
+- **Testimonios y Footer**  
+  ![Testimonios y Footer](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727495261/testion_hhijxy.png)  
+  ![Testimonios y Footer](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494688/footer_i96xhz.png)
+
+  _Descripción_: La sección de testimonios presenta comentarios de usuarios satisfechos, mientras que el footer contiene enlaces de contacto, redes sociales, y enlaces legales (política de privacidad y términos de servicio).
 
 ##### Web Application
-- **Visualización de Stations**
-  ![Stations en la Web Application](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496536/Captura_de_pantalla_2024-09-27_230411_bkcqc1.png)
 
+- **Visualización de Stations**  
+  ![Stations en la Web Application](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496536/Captura_de_pantalla_2024-09-27_230411_bkcqc1.png)  
   ![Stations en la Web Application](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496536/Captura_de_pantalla_2024-09-27_230431_dglcjj.png)
-  
-  *Descripción*: Esta captura muestra la sección de **Stations** implementada en la Web Application. Se puede visualizar cada estación disponible, la cual contiene diferentes cultivos (Crops) que se gestionan desde la aplicación.
 
-- **Toolbar**
-  ![Toolbar de la Web Application](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496539/Captura_de_pantalla_2024-09-27_230656_qpggkd.png))
+  _Descripción_: Esta captura muestra la sección de **Stations** implementada en la Web Application. Se puede visualizar cada estación disponible, la cual contiene diferentes cultivos (Crops) que se gestionan desde la aplicación.
 
-  *Descripción*: Se muestra la barra de navegación principal de la Web Application, que incluye un botón específico para visualizar las **Stations**, facilitando la navegación y el acceso rápido a las principales funcionalidades.
+- **Toolbar**  
+  ![Toolbar de la Web Application](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496539/Captura_de_pantalla_2024-09-27_230656_qpggkd.png)
 
-- **Componente de Notifications**
+  _Descripción_: Se muestra la barra de navegación principal de la Web Application, que incluye un botón específico para visualizar las **Stations**, facilitando la navegación y el acceso rápido a las principales funcionalidades.
+
+- **Componente de Notifications**  
   ![Notificaciones en la Web Application](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496537/Captura_de_pantalla_2024-09-27_230520_fnbkrw.png)
 
-  *Descripción*: Este componente fue creado para mostrar mensajes importantes al usuario, tales como alertas sobre el estado de los cultivos o condiciones críticas que requieren acción inmediata.
+  _Descripción_: Este componente fue creado para mostrar mensajes importantes al usuario, tales como alertas sobre el estado de los cultivos o condiciones críticas que requieren acción inmediata.
 
-- **Visualización de Stations y Crops (usando API Fake)**
+- **Visualización de Stations y Crops (usando API Fake)**  
   ![Visualización de Stations y Crops](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496539/Captura_de_pantalla_2024-09-27_230739_pokmny.png)
 
-  *Descripción*: Se muestra cómo, utilizando una API falsa de GitHub, el usuario puede hacer clic en una estación específica para ver los **Crops** asociados. Esto simula la conectividad y gestión de cultivos reales de manera interactiva.
+  _Descripción_: Se muestra cómo, utilizando una API falsa de GitHub, el usuario puede hacer clic en una estación específica para ver los **Crops** asociados. Esto simula la conectividad y gestión de cultivos reales de manera interactiva.
 
 ##### Video de Demostración
-Para una demostración completa del progreso y las funcionalidades desarrolladas durante este Sprint, puedes consultar el siguiente video: 
-[Video de la landing page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EZCPXB4lvRpMjPmHT5ZpacIBa0AtxXVyJdaOW9vTvSUBow?e=86f5yx).
-[Video de la web applications]([enlace_al_video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EdE3GV68FehKi_TcSHFtZOcBePLEEIfHQDbxuFWhFJpmxw?e=uckz3i)).
 
-*Descripción del Video*: El video comienza mostrando la **Landing Page**, con todas sus secciones: encabezado, beneficios, características, precios, y testimonios. Luego, se navega hacia la **Web Application**, donde se visualizan las **Stations** y se muestra la navegación mediante el **Toolbar**. Además, se ilustra la función de **Notifications** y cómo se pueden visualizar los **Crops** dentro de una estación específica, utilizando la **Api Fake**.
+Para una demostración completa del progreso y las funcionalidades desarrolladas durante este Sprint, puedes consultar los siguientes videos:  
 
-    
+[Video de la Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EZCPXB4lvRpMjPmHT5ZpacIBa0AtxXVyJdaOW9vTvSUBow?e=86f5yx)  
+[Video de la Web Application](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EdE3GV68FehKi_TcSHFtZOcBePLEEIfHQDbxuFWhFJpmxw?e=uckz3i)
+
+_Descripción del Video_: El video comienza mostrando la **Landing Page**, con todas sus secciones: encabezado, beneficios, características, precios, y testimonios. Luego, se navega hacia la **Web Application**, donde se visualizan las **Stations** y se muestra la navegación mediante el **Toolbar**. Además, se ilustra la función de **Notifications** y cómo se pueden visualizar los **Crops** dentro de una estación específica, utilizando la **API Fake**.
+
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review
 
 ##### Resumen del Sprint
-En este Sprint no se desarrollaron Web Services completos, ya que nos encontramos en la fase inicial del proyecto. Para la implementación de la **Landing Page** y la **Web Application**, utilizamos una **API fake** disponible en GitHub para simular las respuestas y manejar datos estáticos. Esta API falsa permitió probar las funcionalidades y demostrar la navegación y visualización de estaciones y cultivos (**Stations** y **Crops**) dentro de la aplicación.
+En este Sprint no se desarrollaron Web Services completos, ya que nos encontramos en la fase inicial del proyecto. Para la implementación de la **Landing Page** y la **Web Application**, utilizamos una **API Fake** disponible en GitHub para simular las respuestas y manejar datos estáticos. Esta API falsa permitió probar las funcionalidades y demostrar la navegación y visualización de estaciones y cultivos (**Stations** y **Crops**) dentro de la aplicación.
 
 La **API Fake** fue creada usando el servicio de GitHub disponible en `https://my-json-server.typicode.com`, lo cual nos permitió simular la estructura de datos que utilizaremos en los Web Services finales durante los siguientes sprints. A continuación, se presenta la documentación y las pruebas realizadas con la API falsa.
 
-##### Documentación de la API fake
+##### Documentación de la API Fake
+
 Aunque no se desarrollaron endpoints reales con **OpenAPI**, los endpoints simulados incluyen operaciones básicas para visualizar los datos de las estaciones y los cultivos. A continuación se muestra la relación de las acciones implementadas utilizando la API falsa:
 
 | **Endpoint**               | **HTTP Verbo** | **Descripción**               | **URL (Fake API)**                                     | **Sintaxis de Llamada**       | **Parámetros**    | **Ejemplo de Response**           |
@@ -2532,49 +2529,47 @@ Aunque no se desarrollaron endpoints reales con **OpenAPI**, los endpoints simul
 | `/stations/{stationId}`    | GET            | Obtener detalles de una estación específica, incluyendo sus cultivos | `https://my-json-server.typicode.com/FractalisGrupo03IOT/fakeApi/stations/{stationId}` | `GET /stations/{stationId}`   | `{stationId}`     | Detalles de la estación y sus cultivos en JSON  |
 
 #### Capturas de Pantalla de Interacción con la API Falsa
-- **Visualización de Estaciones utilizando la API Falsa**
-  ![Captura de Pantalla - Visualización de Estaciones](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496539/Captura_de_pantalla_2024-09-27_230739_pokmny.png)
+
+- **Visualización de Estaciones utilizando la API Falsa**  
+  ![Captura de Pantalla - Visualización de Estaciones](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496539/Captura_de_pantalla_2024-09-27_230739_pokmny.png)  
   ![Captura de Pantalla - Visualización de Estaciones](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496536/Captura_de_pantalla_2024-09-27_230411_bkcqc1.png)
 
-  *Descripción*: Esta captura muestra cómo se utilizan los datos de la API falsa para listar todas las estaciones. Cada estación tiene información que se presenta en la Web Application para facilitar la gestión de los cultivos.
+  _Descripción_: Esta captura muestra cómo se utilizan los datos de la API falsa para listar todas las estaciones. Cada estación tiene información que se presenta en la Web Application para facilitar la gestión de los cultivos.
 
-- **Visualización de Detalles de una Estación**
+- **Visualización de Detalles de una Estación**  
   ![Captura de Pantalla - Detalles de Estación](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496536/Captura_de_pantalla_2024-09-27_230431_dglcjj.png)
 
-  *Descripción*: Al seleccionar una estación específica, la aplicación utiliza la API falsa para recuperar y mostrar los cultivos asociados a dicha estación. Esto simula cómo se verá la aplicación cuando se integre con los Web Services reales.
+  _Descripción_: Al seleccionar una estación específica, la aplicación utiliza la API falsa para recuperar y mostrar los cultivos asociados a dicha estación. Esto simula cómo se verá la aplicación cuando se integre con los Web Services reales.
 
 ##### Próximos Pasos
 En los próximos sprints, desarrollaremos Web Services reales que estarán documentados con **OpenAPI** para cubrir todas las funcionalidades que actualmente hemos simulado. Se incluirán los métodos de autenticación, gestión de cultivos, alertas, entre otros.
-    
+
 #### 6.2.1.7. Software Deployment Evidence for Sprint Review
+
 ##### Resumen del Sprint
 En este Sprint, realizamos el despliegue de la **Landing Page** y la **Web Application** utilizando servicios de GitHub Pages y configuraciones básicas para simular un entorno de despliegue. Este despliegue nos permitió verificar que ambas aplicaciones fueran accesibles externamente y funcionaran de manera adecuada. Los principales pasos realizados incluyen:
-**landing desplegada**:[Landing Page](https://greentools-landing-page.netlify.app/es/index.html)
-**Web Applications**: [Web Application](https://greentools-dcc30.web.app/crops/station)
 
-1. **Creación de Repositorios en GitHub**: Se crearon repositorios específicos para la **Landing Page** y la **Web Application**, lo cual nos permitió mantener un control de versiones y facilitar el trabajo colaborativo.
-    - Repositorio de Landing Page: [Landing Page Repo](https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git)
+- **Landing Page**: [Landing Page](https://greentools-landing-page.netlify.app/es/index.html)  
+- **Web Application**: [Web Application](https://greentools-dcc30.web.app/crops/station)
+
+1. **Creación de Repositorios en GitHub**: Se crearon repositorios específicos para la **Landing Page** y la **Web Application**, lo cual nos permitió mantener un control de versiones y facilitar el trabajo colaborativo.  
+    - Repositorio de Landing Page: [Landing Page Repo](https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git)  
     - Repositorio de Web Application: [Web Application Repo](https://github.com/FractalisGrupo03IOT/GreenTools-WebApp.git)
 
 2. **Configuración de GitHub Pages para Despliegue**:
     - **Landing Page**: Se configuró GitHub Pages para el despliegue automático de la Landing Page directamente desde el repositorio. Esto nos permitió tener una versión de la Landing Page accesible para pruebas y demostraciones.
-    - **Captura de Pantalla del Despliegue en GitHub Pages**
-      ![Despliegue de la Landing Page](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727495329/Imagen_de_WhatsApp_2024-09-27_a_las_21.58.57_5cb33a01_slw5o4.jpg)
-      *Descripción*: Esta captura muestra la configuración de GitHub Pages utilizada para desplegar la Landing Page del proyecto.
 
 3. **Configuración de Recursos Locales para Desarrollo**:
     - Durante el desarrollo de la **Web Application**, utilizamos entornos locales para pruebas. Esto incluía configuraciones con la API fake alojada en GitHub (`https://my-json-server.typicode.com/FractalisGrupo03IOT/fakeApi`) que permitió simular el comportamiento de los servicios reales.
 
 4. **Despliegue de la Web Application**:
     - Se desplegó una versión preliminar de la Web Application. Esto nos permitió realizar pruebas de accesibilidad y navegación antes de continuar con un despliegue en un servidor de producción.
-    ![Web Application desplegada](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727495536/image_izdxml.png)
-    
 
 ##### Próximos Pasos en el Proceso de Despliegue
 - **Implementación en un Cloud Provider**: En los siguientes sprints, planeamos realizar el despliegue completo de la Web Application y los Web Services en un proveedor de nube (Azure) para asegurar la disponibilidad y escalabilidad del sistema.
 
-    
 #### 6.2.1.8. Team Collaboration Insights during Sprint
+
 ##### Resumen de Colaboración del Equipo
 Durante este Sprint, el equipo trabajó de forma colaborativa para completar la **Landing Page** y la **Web Application** de GreenTools. Utilizamos **GitHub Projects** para gestionar las tareas y asegurar la participación equitativa de todos los miembros.
 
@@ -2582,48 +2577,36 @@ Durante este Sprint, el equipo trabajó de forma colaborativa para completar la 
 
 1. **Analítica de Colaboración**:
    - Utilizamos **GitHub Insights** para analizar la contribución de cada miembro, mostrando una distribución equitativa de las tareas.
-   - ![Analítica de Colaboración en GitHub Insights-landing-page](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727497415/Captura_de_pantalla_2024-09-27_232251_tyjxkk.png)
-   - ![Analítica de Colaboración en GitHub Insights-Web-Applications](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727497414/Captura_de_pantalla_2024-09-27_232145_rsjdk6.png)
+
 2. **Revisiones Cruzadas**:
    - Implementamos revisiones cruzadas de código mediante **pull requests**, asegurando la calidad del desarrollo.
-   - ![Revisiones de Pull Requests](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496535/Captura_de_pantalla_2024-09-27_225810_y3k3y3.png)
-   - ![Revisiones de Pull Requests](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496535/Captura_de_pantalla_2024-09-27_225738_zofipf.png)
 
 3. **Reuniones Virtuales**:
    - Se realizaron reuniones virtuales para sincronizar avances y resolver bloqueos.
-   - ![Reunión Virtual](https://res.cloudinary.com/drg1vvwvl/image/upload/v1727496535/Captura_de_pantalla_2024-09-27_225453_opqm9w.png)
 
 ##### Reflexión
 La colaboración fue efectiva, con todos los miembros contribuyendo activamente. La gestión de tareas con **GitHub Projects** y las revisiones de código ayudaron a mantener una alta calidad y resolver desafíos de forma conjunta.
 
+### Conclusiones
 
-# Conclusiones
 La implementación de user personas fue fundamental durante la fase de arquitectura de nuestro proyecto IoT. Al enfocar el diseño en dueños de invernaderos y microcultivos, pudimos estructurar la arquitectura de forma que cada uno de los bounded contexts —IoT system, inventario, reporte y cuenta— reflejara sus necesidades. Esto nos permitió visualizar cómo la plataforma atendería de manera eficiente la gestión de sensores, cultivos, análisis de datos y administración de usuarios, asegurando que la solución esté alineada con las expectativas y flujos de trabajo reales de los usuarios.
 
-Las entrevistas con usuarios del segmento objetivo fueron clave para la recolección de información relevante para definir nuestros user personas. Esta retroalimentación directa permitió estructurar la arquitectura del sistema, asegurando que los bounded contexts como el manejo de sensores, cultivos, reportes y cuentas se alinearan con las necesidades y procesos reales de los dueños de invernaderos y microcultivos. Así, logramos una arquitectura más robusta y centrada en el usuario.
+### Bibliografía
 
-El enfoque de Domain-Driven Design (DDD) fue esencial en la definición de la arquitectura de nuestro proyecto, ayudándonos a estructurar el sistema en cuatro bounded contexts clave: IoT system, inventario, reporte y cuenta. Estos contextos claramente delimitados nos permitieron dividir el dominio agrícola en áreas funcionales y coherentes, facilitando una mejor comprensión y gestión de los requisitos del proyecto. Este enfoque garantiza que, cuando se desarrolle el software, cada componente del sistema refleje las particularidades del dominio agrícola y esté alineado con las necesidades del usuario final.
-
-El uso del modelo C4 para diseñar la arquitectura de software fue clave en nuestro proyecto. Este enfoque nos permitió visualizar claramente las diferentes capas de abstracción, desde los diagramas de contexto hasta los componentes internos de cada bounded context (IoT system, inventario, reporte y cuenta). Al descomponer el sistema en estas vistas, logramos una representación precisa y comprensible tanto para los desarrolladores como para los stakeholders, facilitando la alineación de expectativas y asegurando que la arquitectura pueda evolucionar de manera consistente a medida que avance el proyecto.
-
-El uso de diagramas de clases, diagramas de bases de datos y diagramas de componentes C4 para cada bounded context (IoT system, inventario, reporte y cuenta) fue fundamental para estructurar la arquitectura de manera sólida y detallada. Los diagramas de clases nos permitieron definir las relaciones entre las entidades clave dentro de cada contexto, mientras que los diagramas de bases de datos facilitaron la organización y normalización de la información relacionada con sensores, cultivos, reportes y usuarios. Por otro lado, los diagramas de componentes del modelo C4 nos ayudaron a visualizar cómo se integran los distintos servicios y módulos, asegurando una correcta interacción entre ellos y garantizando la cohesión en el diseño general del sistema. Estos diagramas proporcionaron una guía clara para el desarrollo futuro, asegurando que cada contexto esté alineado con las necesidades funcionales y técnicas del proyecto.
-
-# Bibliografía
 Ahmad, D. S. N. A., Fatah, F. A., Saili, A. R., Saili, J., Hamzah, N. M., Nor, R. C. M., Omar, Z., & Ghali, M. (2025). Exploration of the Challenges in Adopting Smart Farming Among Smallholder Farmers: A Qualitative Study. *Journal of Advanced Research in Applied Sciences and Engineering Technology*, 45(1), 17–27. [https://doi.org/10.37934/araset.45.1.1727](https://doi.org/10.37934/araset.45.1.1727)
 
 Dibbern, T., Romani, L. A. S., & Massruhá, S. M. F. S. (2024). Main drivers and barriers to the adoption of Digital Agriculture technologies. *Smart Agricultural Technology*, 8. [https://doi.org/10.1016/j.atech.2024.100459](https://doi.org/10.1016/j.atech.2024.100459)
 
 Hundal, G. S., Laux, C. M., Buckmaster, D., Sutton, M. J., & Langemeier, M. (2023). Exploring Barriers to the Adoption of Internet of Things-Based Precision Agriculture Practices. *Agriculture (Switzerland)*, 13(1). [https://doi.org/10.3390/agriculture13010163](https://doi.org/10.3390/agriculture13010163)
 
-# Anexos
+### Anexos
 
-upc-pre-202402-si572-WV71-Fractalis-expo-tb1
-
+upc-pre-202402-si572-WV71-Fractalis-expo-tb1  
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EVt2-jDf-c9HgC7IvDM1PHwBrfitg_t6FMiSBYMjUlW9fQ?e=LPHiwN](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EVt2-jDf-c9HgC7IvDM1PHwBrfitg_t6FMiSBYMjUlW9fQ?e=LPHiwN)
 
-upc-pre-202402-si572-WV71-Fractalis-entrevista-tb1
-
+upc-pre-202402-si572-WV71-Fractalis-entrevista-tb1  
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=ybOhvp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=ybOhvp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-upc-pre-202402-si572-WV71-Fractalis-expo-tp1
+upc-pre-202402-si572-WV71-Fractalis-expo-tp1  
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/ETzt_VEQeFFGoMI5hH2IH1YBhzKEiZN05eqboWQ6DkMf0Q?e=tOcKh9](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/ETzt_VEQeFFGoMI5hH2IH1YBhzKEiZN05eqboWQ6DkMf0Q?e=tOcKh9)
+
