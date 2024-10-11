@@ -2638,11 +2638,13 @@ Registro detallado de las entrevistas realizadas, con transcripciones o resúmen
 
 ### 6.3.3. Evaluaciones según heurísticas
 Evaluación del producto utilizando heurísticas de usabilidad, analizando cómo los entrevistados interactúan con la aplicación y sugerencias de mejora basadas en las evaluaciones.
+
 ---
 
 ## 6.4. Video About-the-Product
 Enlace o referencia al video de presentación del producto, destacando sus principales funcionalidades, la experiencia del usuario y la propuesta de valor del software.
 
+----
 
 ##### Reflexión
 La colaboración fue efectiva, con todos los miembros contribuyendo activamente. La gestión de tareas con **GitHub Projects** y las revisiones de código ayudaron a mantener una alta calidad y resolver desafíos de forma conjunta.
