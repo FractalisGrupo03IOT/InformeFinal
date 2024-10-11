@@ -2597,6 +2597,52 @@ Durante este Sprint, el equipo trabajó de forma colaborativa para completar la 
 
 3. **Reuniones Virtuales**:
    - Se realizaron reuniones virtuales para sincronizar avances y resolver bloqueos.
+  
+---
+
+## 6.2.2. Sprint 2
+
+### 6.2.2.1. Sprint Planning 2
+Descripción del Sprint Planning 2, con los objetivos y metas propuestas, priorización de las historias de usuario y la asignación de tareas entre los miembros del equipo.
+
+### 6.2.2.2. Sprint Backlog 2
+El Sprint Backlog 2 contiene las tareas e historias de usuario seleccionadas para el segundo sprint, con detalles sobre el valor que aportan y los criterios de aceptación.
+
+### 6.2.2.3. Development Evidence for Sprint Review
+Sección que muestra el progreso del desarrollo durante el Sprint 2. Incluye evidencias como commits, pull requests y pantallazos de las funcionalidades trabajadas.
+
+### 6.2.2.4. Testing Suite Evidence for Sprint Review
+Se detallan las pruebas ejecutadas durante el Sprint 2, con los resultados de pruebas unitarias, de integración y automatizadas. Se incluyen gráficas o tablas con resultados si es necesario.
+
+### 6.2.2.5. Execution Evidence for Sprint Review
+Evidencias de la ejecución de las funcionalidades durante el Sprint 2, mostrando pruebas de concepto o prototipos funcionales, si corresponde.
+
+### 6.2.2.6. Services Documentation Evidence for Sprint Review
+Documentación técnica de los servicios desarrollados o modificados en el Sprint 2, con diagramas de secuencia, descripción de endpoints y su implementación.
+
+### 6.2.2.7. Software Deployment Evidence for Sprint Review
+Evidencia del despliegue del software trabajado en el Sprint 2, incluyendo logs de deployment y validación de que las nuevas funcionalidades están correctamente desplegadas.
+
+### 6.2.2.8. Team Collaboration Insights during Sprint
+Reflexión sobre la colaboración del equipo durante el Sprint 2, con lecciones aprendidas y sugerencias de mejora para próximos sprints.
+
+---
+
+## 6.3. Validation Interviews
+
+### 6.3.1. Diseño de Entrevistas
+Explicación del diseño metodológico de las entrevistas de validación, incluyendo el perfil de los entrevistados, las preguntas clave y el formato de la entrevista.
+
+### 6.3.2. Registro de Entrevistas
+Registro detallado de las entrevistas realizadas, con transcripciones o resúmenes, y comentarios de los participantes sobre la funcionalidad o el diseño del producto.
+
+### 6.3.3. Evaluaciones según heurísticas
+Evaluación del producto utilizando heurísticas de usabilidad, analizando cómo los entrevistados interactúan con la aplicación y sugerencias de mejora basadas en las evaluaciones.
+---
+
+## 6.4. Video About-the-Product
+Enlace o referencia al video de presentación del producto, destacando sus principales funcionalidades, la experiencia del usuario y la propuesta de valor del software.
+
 
 ##### Reflexión
 La colaboración fue efectiva, con todos los miembros contribuyendo activamente. La gestión de tareas con **GitHub Projects** y las revisiones de código ayudaron a mantener una alta calidad y resolver desafíos de forma conjunta.
