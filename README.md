@@ -2927,6 +2927,22 @@ Durante este Sprint, el equipo trabajó de forma colaborativa para completar la 
 
 Descripción del Sprint Planning 2, con los objetivos y metas propuestas, priorización de las historias de usuario y la asignación de tareas entre los miembros del equipo.
 
+| Sprint # | Sprint 02 |
+| -------- | --------- |
+
+| Sprint Planning Background
+| Date | 2024-09-15 |
+| Time | 09:00 AM |
+| Location | Reunión virtual (Zoom) |
+| Prepared By |Franco Yance |
+| Attendees | Franco Yance, Lino Quenta, Miguel Angel, Giovanni Andrés, Jean Patrick. |
+|Sprint n-2 Review | Como es el primer Sprint, no hay revisión previa, pero se definieron las expectativas iniciales del proyecto y la planificación de la arquitectura. |
+| Sprint n-1 Retrospective | Los miembros discutieron la necesidad de mejorar la comunicación y establecer reuniones más frecuentes para asegurarse de la sincronización del equipo. |
+| Sprint Goal & User Stories|
+| Sprint n Goal | Nuestro enfoque está en implementar la Landing Page y la estructura básica de la Aplicación Web. Creemos que esto ofrece una primera impresión sólida de la plataforma GreenTools a los usuarios potenciales. Esto se confirmará cuando la página de destino y la aplicación web sean completamente funcionales con un backend simulado, lo que permitirá a los usuarios ver información clave sobre el sistema. |
+| Sprint n Velocity | 28 Story Points |
+| Sum of Story Points | 28 Story Points |
+
 ### 6.2.2.2. Sprint Backlog 2
 
 El Sprint Backlog 2 contiene las tareas e historias de usuario seleccionadas para el segundo sprint, con detalles sobre el valor que aportan y los criterios de aceptación.
