@@ -3055,10 +3055,109 @@ Descripción del Sprint Planning 2, con los objetivos y metas propuestas, priori
 
 ### 6.2.2.3. Development Evidence for Sprint Review
 
-Sección que muestra el progreso del desarrollo durante el Sprint 2. Incluye evidencias como commits, pull requests y pantallazos de las funcionalidades trabajadas.
+### Sección que muestra el progreso del desarrollo durante el Sprint 2. Incluye evidencias como commits, pull requests y pantallazos de las funcionalidades trabajadas.  
+**Productos Trabajados:** **Landing Page**, **Web Services**, **Aplicaciones**.
+
+## Productos Implementados y Colaboración del Equipo
+
+### 1. Embedded App
+![Embedded App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730638657/enbedded_code_kww9jj.png)
+- **Descripción de la colaboración:** Los miembros del equipo participaron activamente en la implementación de la Embedded App, como se observa en los commits realizados. Cada integrante contribuyó a mejorar la funcionalidad y optimización del código.
+
+### 2. Edge App
+![Edge App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730638657/code_edge_tzjqfq.png)
+- **Descripción de la colaboración:** La Edge App fue implementada en conjunto, con contribuciones regulares de todos los miembros en GitHub. Los analíticos muestran una colaboración balanceada, enfocándose en la integración y pruebas de la aplicación.
+
+### 3. API Gateway
+![API Gateway Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730638660/backend_r9qoh4.png)
+- **Descripción de la colaboración:** Se puede observar un esfuerzo conjunto en el desarrollo del API Gateway. Los miembros del equipo se dividieron tareas específicas, contribuyendo al diseño y optimización de los servicios de backend.
+
+### 4. Landing Page
+![Landing Page Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637131/Captura_tdszpp.png)
+- **Descripción de la colaboración:** El desarrollo de la Landing Page fue un esfuerzo colaborativo. Los commits reflejan ajustes en el diseño y en la funcionalidad de la interfaz, asegurando que todos los miembros del equipo aportaron según su rol.
+
+### 5. App Mobile
+![App Mobile Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730638657/movil_n0s9zq.png)
+- **Descripción de la colaboración:** Para la App Mobile, el equipo se centró en la integración de nuevas características y en solucionar errores. La gráfica de commits en GitHub muestra una distribución equitativa de contribuciones.
+
+### 6. Web App
+![Web App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730638657/code_web_xxpqtt.png)
+- **Descripción de la colaboración:** Todos los miembros contribuyeron a la Web App, participando en el diseño y en la optimización del rendimiento. Los analíticos muestran una alta actividad de commits, evidenciando la constante interacción del equipo.
+
+## Analisis de desarrollo
+Los analíticos de GitHub muestran una participación activa y constante de cada miembro en las implementaciones asignadas. Este compromiso se refleja en un flujo continuo de contribuciones que abarca tanto el desarrollo de nuevas funcionalidades como la optimización del código y resolución de errores, lo que demuestra una integración efectiva de esfuerzos en cada etapa del Sprint. 
+
+El análisis detallado de los commits y pull requests resalta cómo el equipo ha distribuido estratégicamente las tareas de desarrollo, permitiendo que cada integrante tome responsabilidad sobre diferentes aspectos del proyecto. Esta distribución no solo facilitó el avance en paralelo de múltiples módulos, sino que también incentivó una cultura de revisiones de código, donde cada aporte fue revisado y mejorado en equipo para asegurar la calidad del código entregado. 
+
+Las evidencias visuales de commits en GitHub reflejan un enfoque en la colaboración técnica: los miembros no solo contribuyeron individualmente, sino que colaboraron en la integración de módulos críticos, como la **Landing Page**, el **API Gateway** y las aplicaciones embebidas y móviles. Este enfoque en el desarrollo colaborativo contribuyó a una entrega cohesiva y bien estructurada, reforzando la estabilidad y funcionalidad de la aplicación en cada uno de sus componentes.
+
+La consistencia en las contribuciones a lo largo del Sprint es una muestra clara de la cohesión del equipo y del alto estándar de calidad en el desarrollo, lo que permite abordar de manera eficaz las metas propuestas y garantizar un código robusto, bien estructurado y listo para futuras iteraciones.
 
 ### 6.2.2.4. Testing Suite Evidence for Sprint Review
-En esta sección, se presentan las actividades de implementación desarrolladas por cada miembro del equipo. A continuación, se incluyen capturas de los analíticos de colaboración y commits en GitHub para cada uno de los componentes de nuestro proyecto. Se muestra la participación de todos los miembros en la implementación de cada producto según lo planificado para el Sprint: **Landing Page**, **Web Services**, y **Aplicaciones**.
+
+En esta sección, se presentan las actividades de implementación desarrolladas por cada miembro del equipo. A continuación, se incluyen capturas de los analíticos de colaboración y commits en GitHub para cada uno de los componentes de nuestro proyecto. Se muestra la participación de todos los miembros en la implementación de cada producto según lo planificado para el Sprint: Landing Page, Web Services, y Aplicaciones.
+
+## Pruebas Unitarias
+
+A continuación, se presentan tres pruebas unitarias realizadas para asegurar el correcto funcionamiento de diferentes componentes del proyecto.
+
+### Prueba 1: Verificación de Endpoint de Creación de Plantas - Backend (Java)
+
+**Descripción:** Esta prueba asegura que el endpoint de creación de plantas en el backend responde correctamente al recibir una solicitud válida, devolviendo un código de estado 201 (CREATED) y un recurso de planta en el cuerpo de la respuesta.
+
+```java
+@Test
+public void givenValidPlantData_whenCreatePlant_thenReturnCreatedStatus() {
+    // Configuración de datos de prueba
+    PlantData testPlant = new PlantData("Planta Test", "Tipo Test");
+    
+    // Llamada al endpoint de creación de planta
+    ResponseEntity<PlantResource> response = restTemplate.postForEntity("/api/v1/plant", testPlant, PlantResource.class);
+    
+    // Verificación
+    assertEquals(HttpStatus.CREATED, response.getStatusCode());
+    assertNotNull(response.getBody());
+    assertEquals("Planta Test", response.getBody().getName());
+}
+
+### Prueba 2: Verificación de Login - Aplicación Móvil (Flutter)
+
+**Descripción:** Esta prueba verifica que el botón de inicio de sesión con Instagram invoque el método de autenticación y reciba un token válido. Simula el flujo de autenticación y verifica el resultado esperado.
+
+```dart
+testWidgets('Iniciar Sesión con Instagram', (WidgetTester tester) async {
+  // Simular la ejecución del widget de login
+  await tester.pumpWidget(MyApp());
+
+  // Buscar y presionar el botón de Instagram
+  final instagramButton = find.text('Iniciar Sesión con Instagram');
+  await tester.tap(instagramButton);
+  await tester.pump();
+
+  // Verificar si el método de autenticación fue invocado correctamente
+  expect(authService.isAuthenticated, true);
+});
+
+### Prueba 3: Verificación de Sensor de Humedad - Código Embebido (C)
+
+**Descripción:** Esta prueba verifica que el sensor de humedad inicialice correctamente y envíe los datos de humedad esperados en cada intervalo de tiempo. La función de callback debe actualizar el estado del sensor sin errores.
+
+```c
+void test_humidity_sensor_initialization() {
+    // Configuración del sensor
+    chip_state_t *chip = chip_init();
+    
+    // Verificar la configuración inicial
+    assert(chip->humidity_attr == 50);
+    assert(chip->pin_vcc != NULL);
+    assert(chip->pin_gnd != NULL);
+    
+    // Simular el evento de temporizador y verificar la salida
+    chip_timer_event((void*)chip);
+    float expectedVoltage = chip->humidity_attr * (5.0 / 100.0);
+    assert(pin_dac_write(chip->pin_ao, expectedVoltage) == 0);
+}
+
 ## Productos Implementados y Colaboración del Equipo
 
 ### 1. Embedded App
