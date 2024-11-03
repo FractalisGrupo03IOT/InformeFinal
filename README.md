@@ -3104,7 +3104,7 @@ A continuación, se presentan tres pruebas unitarias realizadas para asegurar el
 ### 6.2.2.4. Testing Suite Evidence for Sprint Review
 
 En esta sección, se presentan las actividades de implementación desarrolladas por cada miembro del equipo. A continuación, se incluyen capturas de los analíticos de colaboración y commits en GitHub para cada uno de los componentes de nuestro proyecto. Se muestra la participación de todos los miembros en la implementación de cada producto según lo planificado para el Sprint: Landing Page, Web Services, y Aplicaciones.
-
+------
 ## Pruebas Unitarias
 
 A continuación, se presentan tres pruebas unitarias realizadas para asegurar el correcto funcionamiento de diferentes componentes del proyecto.
@@ -3163,6 +3163,10 @@ void test_humidity_sensor_initialization() {
 }
 -----
 - **Descripción de la colaboración:** En el informe final, el equipo documentó y consolidó los avances. Los commits reflejan el esfuerzo conjunto en la redacción y en la revisión de las actividades realizadas durante el Sprint.
+
+
+
+------
 
 ### 6.2.2.5. Execution Evidence for Sprint Review
 
