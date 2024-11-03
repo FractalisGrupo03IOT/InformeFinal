@@ -3111,11 +3111,12 @@ A continuación, se presentan tres pruebas unitarias realizadas para asegurar el
 
 ### Prueba 1: Verificación de Endpoint de Creación de Plantas - Backend (Java)
 
-**Descripción:** Esta prueba asegura que el endpoint de creación de plantas en el backend responde correctamente al recibir una solicitud válida, devolviendo un código de estado 201 (CREATED) y un recurso de planta en el cuerpo de la respuesta.
+- **Descripción:** Esta prueba asegura que el endpoint de creación de plantas en el backend responde correctamente al recibir una solicitud válida, devolviendo un código de estado 201 (CREATED) y un recurso de planta en el cuerpo de la respuesta.
 ------
 @Test
 public void givenValidPlantData_whenCreatePlant_thenReturnCreatedStatus() {
     PlantData testPlant = new PlantData("Planta Test", "Tipo Test");
+
     ResponseEntity<PlantResource> response = restTemplate.postForEntity("/api/v1/plant", testPlant, PlantResource.class);
     assertEquals(HttpStatus.CREATED, response.getStatusCode());
     assertNotNull(response.getBody());
@@ -3123,28 +3124,39 @@ public void givenValidPlantData_whenCreatePlant_thenReturnCreatedStatus() {
 }
 -----
 ### Prueba 2: Verificación de Login - Aplicación Móvil (Flutter)
+
 - **Descripción:** Esta prueba verifica que el botón de inicio de sesión con Instagram invoque el método de autenticación y reciba un token válido. Simula el flujo de autenticación y verifica el resultado esperado.
 ----
 testWidgets('Iniciar Sesión con Instagram', (WidgetTester tester) async {
+
   await tester.pumpWidget(MyApp());
+
   final instagramButton = find.text('Iniciar Sesión con Instagram');
   await tester.tap(instagramButton);
   await tester.pump();
+
   expect(authService.isAuthenticated, true);
 });
+
 ---
 ### Prueba 3: Verificación de Sensor de Humedad - Código Embebido (C)
 - **Descripción:** Esta prueba verifica que el sensor de humedad inicialice correctamente y envíe los datos de humedad esperados en cada intervalo de tiempo. La función de callback debe actualizar el estado del sensor sin errores.
 ----
-void test_humidity_sensor_initialization() 
+
+void test_humidity_sensor_initialization() {
+
     chip_state_t *chip = chip_init();
+    
+
     assert(chip->humidity_attr == 50);
     assert(chip->pin_vcc != NULL);
     assert(chip->pin_gnd != NULL);
+    
     chip_timer_event((void*)chip);
     float expectedVoltage = chip->humidity_attr * (5.0 / 100.0);
     assert(pin_dac_write(chip->pin_ao, expectedVoltage) == 0);
 }
+
 -----
 - **Descripción de la colaboración:** En el informe final, el equipo documentó y consolidó los avances. Los commits reflejan el esfuerzo conjunto en la redacción y en la revisión de las actividades realizadas durante el Sprint.
 ------
