@@ -69,7 +69,6 @@ URL de nuestro repositorio para el Project Report: [Repositorio](https://github.
 - **6.3.1. Diseño de Entrevistas** - *Asignado a Lino Quenta*
 - **6.3.2. Registro de Entrevistas** - *Asignado a Franco Yance*
 - **6.3.3. Evaluaciones según heurísticas** - *Asignado a Giovanni Andres*
-- 
 ## Evidencia de colaboración
 
 # Contenido
