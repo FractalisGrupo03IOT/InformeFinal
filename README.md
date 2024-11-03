@@ -3102,7 +3102,7 @@ En esta sección, se presentan las actividades de implementación desarrolladas 
 A continuación, se presentan tres pruebas unitarias realizadas para asegurar el correcto funcionamiento de diferentes componentes del proyecto.
 
 ### Prueba 1: Verificación de Endpoint de Creación de Plantas - Backend (Java)
-
+-----
 **Descripción:** Esta prueba asegura que el endpoint de creación de plantas en el backend responde correctamente al recibir una solicitud válida, devolviendo un código de estado 201 (CREATED) y un recurso de planta en el cuerpo de la respuesta.
 ----
 @Test
@@ -3120,10 +3120,9 @@ public void givenValidPlantData_whenCreatePlant_thenReturnCreatedStatus() {
 }
 -----
 ### Prueba 2: Verificación de Login - Aplicación Móvil (Flutter)
-
+----
 **Descripción:** Esta prueba verifica que el botón de inicio de sesión con Instagram invoque el método de autenticación y reciba un token válido. Simula el flujo de autenticación y verifica el resultado esperado.
-
-```dart
+----
 testWidgets('Iniciar Sesión con Instagram', (WidgetTester tester) async {
   // Simular la ejecución del widget de login
   await tester.pumpWidget(MyApp());
@@ -3136,10 +3135,11 @@ testWidgets('Iniciar Sesión con Instagram', (WidgetTester tester) async {
   // Verificar si el método de autenticación fue invocado correctamente
   expect(authService.isAuthenticated, true);
 });
-----
+------
 ### Prueba 3: Verificación de Sensor de Humedad - Código Embebido (C)
-
+-----
 **Descripción:** Esta prueba verifica que el sensor de humedad inicialice correctamente y envíe los datos de humedad esperados en cada intervalo de tiempo. La función de callback debe actualizar el estado del sensor sin errores.
+----
 - void test_humidity_sensor_initialization() {
     // Configuración del sensor
     chip_state_t *chip = chip_init();
@@ -3154,9 +3154,9 @@ testWidgets('Iniciar Sesión con Instagram', (WidgetTester tester) async {
     float expectedVoltage = chip->humidity_attr * (5.0 / 100.0);
     assert(pin_dac_write(chip->pin_ao, expectedVoltage) == 0);
 }
-----
+-----
 ## Productos Implementados y Colaboración del Equipo
-
+----
 ### 1. Embedded App
 ![Embedded App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637575/enddebed_b9igq4.png)
 - **Descripción de la colaboración:** Los miembros del equipo participaron activamente en la implementación de la Embedded App, como se observa en los commits realizados. Cada integrante contribuyó a mejorar la funcionalidad y optimización del código.
