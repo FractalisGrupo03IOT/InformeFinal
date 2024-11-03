@@ -2719,10 +2719,10 @@ En el Sprint 1, colaboramos para definir claramente los objetivos y trabajar de 
 
 #### 6.2.1.2. Sprint Backlog n
 
-| Sprint #   | Sprint 01                            |     |                               |                                                                                                                                                       |                    |                 |
-| ---------- | ------------------------------------ | --- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------- | -------------------------------------------- |
-| User Story | Work-Item / Task                     |
-| Id         | Title                                | Id  | Title                         | Description                                                                                                                                           | Estimation (Hours) | Assigned To     | Status (To-do / InProcess / ToReview / Done) |
+| Sprint #   | Sprint 01                            |
+| ---------- | ------------------------------------ |
+| **User Story** | **Work-Item / Task** |
+| **Id**         | **Title**                                | **Id**  | **Title**                         | **Description**                                                                                                                                           | **Estimation (Hours)** | **Assigned To**     | **Status (To-do / InProcess / ToReview / Done)** |
 | EP1/US1    | Crear Encabezado Principal           | W01 | Diseño del Encabezado         | Crear el encabezado visual principal con el título "GreenTools: La Revolución en Cultivos Controlados de Precisión".                                  | 8                  | Lino Quenta     | Done                                         |
 | EP1/US2    | Mostrar Beneficios Clave             | W02 | Implementación de Beneficios  | Añadir y configurar la sección de beneficios clave para atraer a los usuarios y explicar por qué elegir GreenTools.                                   | 10                 | Franco Yance    | Done                                         |
 | EP1/US3    | Destacar Características Clave       | W03 | Desarrollo de Características | Implementar la sección de características clave, mostrando las principales capacidades del sistema.                                                   | 6                  | Giovanni Andrés | Done                                         |
