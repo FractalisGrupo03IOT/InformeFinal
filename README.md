@@ -3008,15 +3008,15 @@ A continuación, se presentan 10 preguntas principales para los entrevistados, a
 
 #### Entrevistado 01
 
-- **Nombre y apellidos**: Lyn Mesa Mamani
+- **Nombre y apellidos**: Lyn Mesa Camayo
 - **Imagen**:
-  ![Lyn Mesa Mamani](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730608335/lyn_b5akiz.png)
+  ![Lyn Mesa Camayo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730608335/lyn_b5akiz.png)
   
 - **Inicio de la entrevista**: 08:00
 - **Fin de la entrevista**: 08:30
 - **Duración**: 30 minutos
 - **Enlace de entrevista**: [Ver entrevista](https://upcedupe-my.sharepoint.com/personal/u202122512_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202122512%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1718148603%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eff955acc%2D7a86%2D456d%2D9a61%2Df19c38ba4ec2)
-- **Resumen de la entrevista**: Lyn Mesa Mamani, agricultora de 20 años de Huánuco, dedica su trabajo a multicultivos. Durante la entrevista, exploró la aplicación de gestión de cultivos, incluyendo la creación de estaciones y el monitoreo en tiempo real de humedad y temperatura. Resaltó la utilidad para agregar plantas y mencionó la importancia de incorporar datos históricos para la toma de decisiones agrícolas.
+- **Resumen de la entrevista**: Lyn Mesa Camayo, agricultora de 20 años de Huánuco, dedica su trabajo a multicultivos. Durante la entrevista, exploró la aplicación de gestión de cultivos, incluyendo la creación de estaciones y el monitoreo en tiempo real de humedad y temperatura. Resaltó la utilidad para agregar plantas y mencionó la importancia de incorporar datos históricos para la toma de decisiones agrícolas.
 
 ---
 
