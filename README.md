@@ -1,4 +1,4 @@
-![Logotipo Descripción generada automáticamente](https://res.cloudinary.com/daassyisd/image/upload/v1714691535/gmplcgrlsv9sihpusivm.png)
+https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730625348/running_sh8xfx.png![Logotipo Descripción generada automáticamente](https://res.cloudinary.com/daassyisd/image/upload/v1714691535/gmplcgrlsv9sihpusivm.png)
 
 **UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
@@ -3172,7 +3172,7 @@ Todos los componentes mencionados fueron completados exitosamente, cumpliendo co
   ![Endpoints API Cloud](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730624595/payments_lrifvy.png)
   ![Endpoints API Cloud](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730624594/cropDataStations_udobbq.png)
   ![Endpoints API Cloud](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730624596/plantsUsers_bhuzka.png) 
-  ![API Cloud Documentation](https://fractalisbackend-production.up.railway.app/swagger-ui/index.html#/)
+  [API Cloud Documentation](https://fractalisbackend-production.up.railway.app/swagger-ui/index.html#/)
 
   _Descripción_: Estas capturas muestran la ejecución de los endpoints del API Cloud.
 
@@ -3180,7 +3180,7 @@ Todos los componentes mencionados fueron completados exitosamente, cumpliendo co
 
 - **Endpoints Edge Server**  
   ![Endpoints Edge Server](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730624597/crop_t5tjgz.png)
-  ![Edge Server Documentation](https://fractalies-edge-server.onrender.com/swagger-ui/index.html#/)
+  [Edge Server Documentation](https://fractalies-edge-server.onrender.com/swagger-ui/index.html#/)
 
   _Descripción_: Esta captura muestra la ejecución de los endpoints del Edge Server.
 
