@@ -3102,8 +3102,8 @@ En esta sección, se presentan las actividades de implementación desarrolladas 
 A continuación, se presentan tres pruebas unitarias realizadas para asegurar el correcto funcionamiento de diferentes componentes del proyecto.
 
 ### Prueba 1: Verificación de Endpoint de Creación de Plantas - Backend (Java)
-**Descripción:** Esta prueba asegura que el endpoint de creación de plantas en el backend responde correctamente al recibir una solicitud válida, devolviendo un código de estado 201 (CREATED) y un recurso de planta en el cuerpo de la respuesta.
-----
+- **Descripción:** Esta prueba asegura que el endpoint de creación de plantas en el backend responde correctamente al recibir una solicitud válida, devolviendo un código de estado 201 (CREATED) y un recurso de planta en el cuerpo de la respuesta.
+---
 @Test
 public void givenValidPlantData_whenCreatePlant_thenReturnCreatedStatus() {
     // Configuración de datos de prueba
@@ -3117,10 +3117,9 @@ public void givenValidPlantData_whenCreatePlant_thenReturnCreatedStatus() {
     assertNotNull(response.getBody());
     assertEquals("Planta Test", response.getBody().getName());
 }
------
+---
 ### Prueba 2: Verificación de Login - Aplicación Móvil (Flutter)
-----
-**Descripción:** Esta prueba verifica que el botón de inicio de sesión con Instagram invoque el método de autenticación y reciba un token válido. Simula el flujo de autenticación y verifica el resultado esperado.
+- **Descripción:** Esta prueba verifica que el botón de inicio de sesión con Instagram invoque el método de autenticación y reciba un token válido. Simula el flujo de autenticación y verifica el resultado esperado.
 ----
 testWidgets('Iniciar Sesión con Instagram', (WidgetTester tester) async {
   // Simular la ejecución del widget de login
@@ -3136,8 +3135,7 @@ testWidgets('Iniciar Sesión con Instagram', (WidgetTester tester) async {
 });
 ------
 ### Prueba 3: Verificación de Sensor de Humedad - Código Embebido (C)
------
-**Descripción:** Esta prueba verifica que el sensor de humedad inicialice correctamente y envíe los datos de humedad esperados en cada intervalo de tiempo. La función de callback debe actualizar el estado del sensor sin errores.
+- **Descripción:** Esta prueba verifica que el sensor de humedad inicialice correctamente y envíe los datos de humedad esperados en cada intervalo de tiempo. La función de callback debe actualizar el estado del sensor sin errores.
 ----
 - void test_humidity_sensor_initialization() {
     // Configuración del sensor
