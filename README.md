@@ -30,10 +30,11 @@ Franco Felix Yance Gutierrez (U202013614)
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                                                                                                                                | Descripción de modificación                                                                                                                                  |
-| ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1.0     | 2024-09-06 | Miguel Angel Ramirez Alfaro <br><br> Franco Felix Yance Gutierrez <br><br> Giovanni Andres Ramos Calderon <br><br> Lino Abraham Quenta Leon <br><br> Jean Patrick Yemsi Sanchez Rios | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Solution Software Design |
-| 2.0     | 2024-09-27 | Miguel Angel Ramirez Alfaro <br><br> Franco Felix Yance Gutierrez <br><br> Giovanni Andres Ramos Calderon <br><br> Lino Abraham Quenta Leon <br><br> Jean Patrick Yemsi Sanchez Rios | Capítulo V: Solution UI/UX Design, Capítulo VI: Product Implementation, Validation & Deployment                                                              |
+| Versión | Fecha      | Autor                                                                                                           | Descripción de modificación                                                                                           |
+| ------- | ---------- | --------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 1.0     | 2024-09-06 | Miguel Angel Ramirez Alfaro, Franco Felix Yance Gutierrez, Giovanni Andres Ramos Calderon, Lino Abraham Quenta Leon, Jean Patrick Yemsi Sanchez Rios | Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification y Capítulo IV: Solution Software Design |
+| 2.0     | 2024-09-27 | Miguel Angel Ramirez Alfaro, Franco Felix Yance Gutierrez, Giovanni Andres Ramos Calderon, Lino Abraham Quenta Leon, Jean Patrick Yemsi Sanchez Rios | Capítulo V: Solution UI/UX Design, Capítulo VI: Product Implementation, Validation & Deployment                       |
+| 3.0     | 2024-11-02 | Miguel Angel Ramirez Alfaro, Franco Felix Yance Gutierrez, Giovanni Andres Ramos Calderon, Lino Abraham Quenta Leon, Jean Patrick Yemsi Sanchez Rios | Mejoras en el Capítulo I: Introducción y adición del Sprint 2 Planning                                                |
 
 # Project Report Collaboration Insights
 
@@ -56,7 +57,19 @@ URL de nuestro repositorio para el Project Report: [Repositorio](https://github.
 - **Lino Quenta**: Adición de "Lean UX Process", "Impact Mapping", y mejoras en las historias de usuario.
 - **Giovanni Andres**: Desarrollo de Style Guidelines.
 - **Jean Patrick**: Desarrollo de Testing Suite Evidence for Sprint Review
-
+### Entrega 3 (TB2)
+- **6.2.2.1. Sprint Planning 2** - *Asignado a Miguel Angel*
+- **6.2.2.2. Sprint Backlog 2** - *Asignado a Giovanni Andres*
+- **6.2.2.3. Development Evidence for Sprint Review** - *Asignado a Lino Quenta*
+- **6.2.2.4. Testing Suite Evidence for Sprint Review** - *Asignado a Jean Patrick*
+- **6.2.2.5. Execution Evidence for Sprint Review** - *Asignado a Franco Yance*
+- **6.2.2.6. Services Documentation Evidence for Sprint Review** - *Asignado a Jean Patrick*
+- **6.2.2.7. Software Deployment Evidence for Sprint Review** - *Asignado a Miguel Angel*
+- **6.2.2.8. Team Collaboration Insights during Sprint** - *Asignado a Franco Yance*
+- **6.3.1. Diseño de Entrevistas** - *Asignado a Lino Quenta*
+- **6.3.2. Registro de Entrevistas** - *Asignado a Franco Yance*
+- **6.3.3. Evaluaciones según heurísticas** - *Asignado a Giovanni Andres*
+- 
 ## Evidencia de colaboración
 
 # Contenido
