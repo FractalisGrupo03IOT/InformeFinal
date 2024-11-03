@@ -3177,11 +3177,59 @@ _Descripción del Video_: El video comienza mostrando la **Landing Page**, con t
 
 ### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
-Documentación técnica de los servicios desarrollados o modificados en el Sprint 2, con diagramas de secuencia, descripción de endpoints y su implementación.
+##### Resumen del Sprint
+
+En este Sprint se desarrollaron dos web services, el **API Cloud** y el **Edge Server**. La documentación de cada uno de estos web services se realizó con Swagger, el cual es una herramienta para documentar los endpoints de las APIS desarrolladas. Se usó la dependencia de Spring Doc en ambos web service.
+
+##### Documentación API Cloud
+
+[Documentaccion API Cloud](https://fractalisbackend-production.up.railway.app/swagger-ui/index.html#/)  
+
+##### Documentación de Edge Server
+
+[Documentaccion Edge Api](https://fractalies-edge-server.onrender.com/swagger-ui/index.html#/)
 
 ### 6.2.2.7. Software Deployment Evidence for Sprint Review
 
-Evidencia del despliegue del software trabajado en el Sprint 2, incluyendo logs de deployment y validación de que las nuevas funcionalidades están correctamente desplegadas.
+##### Resumen del Sprint
+
+En este Sprint, realizamos el despliegue de la **Landing Page**, **Web Application**, **API Cloud** y **Edge Server** utilizando servicios de GitHub Pages y configuraciones básicas para simular un entorno de despliegue. Este despliegue nos permitió verificar que las aplicaciones fueran accesibles externamente y funcionaran de manera adecuada. Los principales pasos realizados incluyen:
+
+- **Landing Page**: [Landing Page](https://greentools-landing-page.netlify.app/es/index.html)
+- **Web Application**: [Web Application](https://greentools-dcc30.web.app/login)
+- **API Cloud**: [Web Application](https://fractalisbackend-production.up.railway.app/swagger-ui/index.html#/)
+- **Edge Server**: [Web Application](https://fractalies-edge-server.onrender.com/swagger-ui/index.html#/)
+
+1. **Creación de Repositorios en GitHub**: Se crearon repositorios específicos para la **Landing Page** y la **Web Application**, lo cual nos permitió mantener un control de versiones y facilitar el trabajo colaborativo.
+
+   - Repositorio de Landing Page: [Landing Page Repo](https://github.com/FractalisGrupo03IOT/Landing-Pague-GreenTools.git)
+   - Repositorio de Web Application: [Web Application Repo](https://github.com/FractalisGrupo03IOT/GreenTools-WebApp.git)
+   - Repositorio de Mobile App: [Mobile Application Repo](https://github.com/FractalisGrupo03IOT/GreenTools-AppMobile.git)
+   - Repositorio de API Cloud: [API Cloud Repo](https://github.com/FractalisGrupo03IOT/FractalisBackend.git)
+   - Repositorio de Edge Server: [Edge Server Repo](https://github.com/FractalisGrupo03IOT/fractalies-edge-server.git)
+   - Repositorio de Embedded App: [Embedded Application Repo](https://github.com/FractalisGrupo03IOT/fractalis-embedded-application.git)
+
+2. **Configuración de GitHub Pages para Despliegue**:
+
+   - **Landing Page**: Se configuró GitHub Pages para el despliegue automático de la Landing Page directamente desde el repositorio. Esto nos permitió tener una versión de la Landing Page accesible para pruebas y demostraciones.
+
+3. **Despliegue de la Web Application**:
+   - Se desplegó una versión preliminar de la Web Application. Esto nos permitió realizar pruebas de accesibilidad y navegación antes de continuar con un despliegue en un servidor de producción. Se usó Firebase para el despliegue de esta aplicación.
+     
+![Firebase config](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730620988/webStorm_inmh3e.png)
+![Despliegue de Web App](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730620988/firebase_gcouei.png)
+
+4. **Despliegue del API Cloud**:
+   - Se desplegó una versión preliminar de la Web Application. Esto nos permitió realizar pruebas de accesibilidad y navegación antes de continuar con un despliegue en un servidor de producción.
+
+![Despliegue de API Cloud](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621310/apiCloud_u9y8tt.png)
+![API Cloud Logs](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621514/ApiCloudLogs_fhn3xi.png)
+
+5. **Despliegue del Edge Server**:
+   - Se desplegó una versión preliminar de la Web Application. Esto nos permitió realizar pruebas de accesibilidad y navegación antes de continuar con un despliegue en un servidor de producción.
+  
+![Despliegue de Edge Server](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621309/edge_sqllzf.png)
+![Edge Server Logs](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621513/edgeLogs_l1omxm.jpg)
 
 ### 6.2.2.8. Team Collaboration Insights during Sprint
 
