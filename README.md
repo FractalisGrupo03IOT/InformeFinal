@@ -2999,6 +2999,7 @@ A continuación, se presentan 10 preguntas principales para los entrevistados, a
 - **Nombre y apellidos**: Lyn Mesa Mamani
 - **Imagen**:
   ![Lyn Mesa Mamani](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730608335/lyn_b5akiz.png)
+  
 - **Inicio de la entrevista**: 08:00
 - **Fin de la entrevista**: 08:30
 - **Duración**: 30 minutos
@@ -3014,6 +3015,7 @@ A continuación, se presentan 10 preguntas principales para los entrevistados, a
 - **Nombre y apellidos**: Griselda Flores Flores
 - **Imagen**:
   ![Griselda Flores Flores](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730608336/grisel_gabcaj.png)
+  
 - **Inicio de la entrevista**: 08:30
 - **Fin de la entrevista**: 08:38
 - **Duración**: 8 minutos
@@ -3027,6 +3029,7 @@ A continuación, se presentan 10 preguntas principales para los entrevistados, a
 - **Nombre y apellidos**: Sonia Cayhulla
 - **Imagen**:
 ![Sonia Cayhulla](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730608336/sonia_tpz4cr.png)
+
 - **Inicio de la entrevista**: 1:20
 - **Fin de la entrevista**: 9:40
 - **Duración**: 8 minutos y 20 segundos
