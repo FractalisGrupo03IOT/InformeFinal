@@ -2703,7 +2703,6 @@ En el Sprint 1, colaboramos para definir claramente los objetivos y trabajar de 
 
 | Sprint # | Sprint 01 |
 | -------- | --------- |
-
 | Sprint Planning Background
 | Date | 2024-09-15 |
 | Time | 09:00 AM |
