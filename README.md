@@ -2965,7 +2965,83 @@ Se detallan las pruebas ejecutadas durante el Sprint 2, con los resultados de pr
 
 ### 6.2.2.5. Execution Evidence for Sprint Review
 
-Evidencias de la ejecución de las funcionalidades durante el Sprint 2, mostrando pruebas de concepto o prototipos funcionales, si corresponde.
+#### Resumen del Sprint
+
+En este Sprint, se implementaron las funcionalidades correspondientes a la **Web Application**, **API Cloud**, **Edge Server**, **Mobile App**, **Embedded App** y **Landing Page** de GreenTools. Los principales logros fueron:
+
+- **Web Application**: Actualización de la sección de **Stations**. Para esta entrega se desarrollo las vistas correspondientes a **Membresia** y **Login**. Asi mismo se implemento la logica relacionado a las **Plantas** y la conexion al API Cloud.
+- **API Cloud**: Desarrollo de los controladores para los contextos **Inventario**, **Plantas**, **Usuarios**, **Datos de cultivo** y **Pagos**. Asi mismo se desarrollaron los endpoints con sus metodos POST, PUT, GET y DELETE necesarios.
+- **Edge Server**: Desarrollo de las clases para manejar los datos de los cultivos como humedad, temperatura y uv. Se implemento los endpoints para registrar los datos de la aplicación embebida.
+- **Mobile App**: Desarrollo de las vistas **Stations**, **Plants** y el componente **Navbar**.
+- **Embedded App**: Desarrollo de los sensores de **Humedad**, **Temperatura** y **UV**. Finalmente se implemento todos los sensores en una clase **Crop** para hacer las peticiones al Edge Server a través del **Sketch**.
+- **Landing Page**: Desarrollo de la versión en ingles de la version previa desarrollada.
+
+Todos los componentes mencionados fueron completados exitosamente, cumpliendo con los objetivos planteados en el Sprint y verificando que las funcionalidades se integren de manera correcta.
+
+#### Capturas de Pantalla de las Principales Vistas Implementadas
+
+##### Landing Page
+
+- **Encabezado y Subtítulo**  
+  ![Encabezado y Subtítulo de la Landing Page](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494688/encabezado_gepquq.png)
+
+  _Descripción_: Esta captura muestra el encabezado de la página, que contiene el título "GreenTools: La Revolución en Cultivos Controlados de Precisión". Este elemento fue diseñado para captar la atención de los visitantes y presentar de inmediato el objetivo del producto.
+
+- **Sección de Beneficios Clave**  
+  ![Beneficios Clave](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494688/beneficio_ya9yea.png)
+
+  _Descripción_: La sección de beneficios clave muestra las ventajas del uso de GreenTools, como el monitoreo en tiempo real, el control inteligente, análisis avanzados y soporte.
+
+- **Sección de Características Clave**  
+  ![Características Clave](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494689/caracteristicas_clave_hcgj8q.png)
+
+  _Descripción_: En esta imagen se observa la presentación de las características avanzadas de GreenTools, como la integración con IoT, la interfaz intuitiva, alertas personalizables y opciones de personalización.
+
+- **Planes y Precios**  
+  ![Planes y Precios](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494689/planesprecio_n50xit.png)
+
+  _Descripción_: Se muestran los planes Básico y Premium, con sus respectivas descripciones, lo cual permite al usuario decidir cuál es el más adecuado según sus necesidades.
+
+- **Testimonios y Footer**  
+  ![Testimonios y Footer](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727495261/testion_hhijxy.png)  
+  ![Testimonios y Footer](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727494688/footer_i96xhz.png)
+
+  _Descripción_: La sección de testimonios presenta comentarios de usuarios satisfechos, mientras que el footer contiene enlaces de contacto, redes sociales, y enlaces legales (política de privacidad y términos de servicio).
+
+##### Web Application
+
+- **Visualización registro y logeo de usuario**  
+  ![Stations en la Web Application](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730616514/login_tctedb.png)  
+  ![Stations en la Web Application](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730616520/register_tq5a8m.png)
+
+  _Descripción_: Esta captura muestra la sección de **LogIn** y **Register** implementada en la Web Application. Se puede visualizar los formularios con los datos necesarios para iniciar sesion o registrarse en la aplicacion.
+
+- **Visualización de estaciones**  
+  ![Stations en la Web Application](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730616514/stations_x24mmz.png)
+  ![Stations en la Web Application](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730616513/createStation_swcpps.png) 
+
+  _Descripción_: Esta captura muestra la sección de **Estaciones** implementada en la Web Application. Se puede visualizar cada estación disponible, la cual contiene diferentes cultivos (Crops) que se gestionan desde la aplicación y una opcion para agregar nuevas estaciones.
+
+- **Visualizacion de membresia**  
+  ![Toolbar de la Web Application](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730616515/membership_rq9sv4.png)
+  ![Toolbar de la Web Application](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730616517/payment_mgphhq.png)
+
+  _Descripción_: Se muestra la sección de **Membresia** implementada en la Web App. Se puede visualizar las membresias disponibles en la aplicación y el método de pago por defecto cuando el ususario desea adquirir nuestro servicio.
+
+- **Visualizacion de plantas**  
+  ![Notificaciones en la Web Application](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730616518/plants_kyng5s.png)
+  ![Notificaciones en la Web Application](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730616462/createPlants_eueqfy.png)
+
+  _Descripción_: Se muestra la sección de **Plantas** implementada en la Web App. Se puede visualizar las plantas disponibles por cada estación y una opción para añadir más plantas en caso el usuario lo decida.
+
+##### Video de Demostración
+
+Para una demostración completa del progreso y las funcionalidades desarrolladas durante este Sprint, puedes consultar los siguientes videos:
+
+[Video de la Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EZCPXB4lvRpMjPmHT5ZpacIBa0AtxXVyJdaOW9vTvSUBow?e=86f5yx)  
+[Video de la Web Application](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122512_upc_edu_pe/EVC_-Q5nfrdKgd0OrD27X28BtutjMjIzHWTC6niWid_5zg?e=331cPv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+_Descripción del Video_: El video comienza mostrando la **Landing Page**, con todas sus secciones: encabezado, beneficios, características, precios, y testimonios. Luego, se navega hacia la **Web Application**, donde se visualizan las **Stations** y se muestra la navegación mediante el **Toolbar**. Además, se ilustra la función de **Notifications** y cómo se pueden visualizar los **Crops** dentro de una estación específica, utilizando la **API Cloud**.
 
 ### 6.2.2.6. Services Documentation Evidence for Sprint Review
 
