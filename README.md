@@ -3166,6 +3166,32 @@ Todos los componentes mencionados fueron completados exitosamente, cumpliendo co
 
   _Descripción_: Se muestra la sección de **Plantas** implementada en la Web App. Se puede visualizar las plantas disponibles por cada estación y una opción para añadir más plantas en caso el usuario lo decida.
 
+##### API Cloud
+
+- **Endpoints API Cloud**  
+  ![Endpoints API Cloud](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730624595/payments_lrifvy.png)
+  ![Endpoints API Cloud](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730624594/cropDataStations_udobbq.png)
+  ![Endpoints API Cloud](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730624596/plantsUsers_bhuzka.png) 
+  ![API Cloud Documentation](https://fractalisbackend-production.up.railway.app/swagger-ui/index.html#/)
+
+  _Descripción_: Estas capturas muestran la ejecución de los endpoints del API Cloud.
+
+##### Edge Server
+
+- **Endpoints Edge Server**  
+  ![Endpoints Edge Server](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730624597/crop_t5tjgz.png)
+  ![Edge Server Documentation](https://fractalies-edge-server.onrender.com/swagger-ui/index.html#/)
+
+  _Descripción_: Esta captura muestra la ejecución de los endpoints del Edge Server.
+
+##### Embedded App
+
+- **Envío de datos a Edge Server**  
+  ![Stations en la Web Application](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730625349/sketch_qqw4df.png)  
+  ![Stations en la Web Application](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730625348/running_sh8xfx.png)
+
+  _Descripción_: Esta captura muestra la aplicación embebida corriendo y enviando solicitudes para ingresar los datos recolectados por los sensores.
+
 ##### Video de Demostración
 
 Para una demostración completa del progreso y las funcionalidades desarrolladas durante este Sprint, puedes consultar los siguientes videos:
