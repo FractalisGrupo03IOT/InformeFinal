@@ -2960,8 +2960,43 @@ El Sprint Backlog 2 contiene las tareas e historias de usuario seleccionadas par
 Sección que muestra el progreso del desarrollo durante el Sprint 2. Incluye evidencias como commits, pull requests y pantallazos de las funcionalidades trabajadas.
 
 ### 6.2.2.4. Testing Suite Evidence for Sprint Review
+En esta sección, se presentan las actividades de implementación desarrolladas por cada miembro del equipo. A continuación, se incluyen capturas de los analíticos de colaboración y commits en GitHub para cada uno de los componentes de nuestro proyecto. Se muestra la participación de todos los miembros en la implementación de cada producto según lo planificado para el Sprint: **Landing Page**, **Web Services**, y **Aplicaciones**.
+## Productos Implementados y Colaboración del Equipo
 
-Se detallan las pruebas ejecutadas durante el Sprint 2, con los resultados de pruebas unitarias, de integración y automatizadas. Se incluyen gráficas o tablas con resultados si es necesario.
+### 1. Embedded App
+![Embedded App Commit Activity](path_to_embedded_app_commit_image)
+- **Descripción de la colaboración:** Los miembros del equipo participaron activamente en la implementación de la Embedded App, como se observa en los commits realizados. Cada integrante contribuyó a mejorar la funcionalidad y optimización del código.
+
+### 2. Edge App
+![Edge App Commit Activity](path_to_edge_app_commit_image)
+- **Descripción de la colaboración:** La Edge App fue implementada en conjunto, con contribuciones regulares de todos los miembros en GitHub. Los analíticos muestran una colaboración balanceada, enfocándose en la integración y pruebas de la aplicación.
+
+### 3. API Gateway
+![API Gateway Commit Activity](path_to_api_gateway_commit_image)
+- **Descripción de la colaboración:** Se puede observar un esfuerzo conjunto en el desarrollo del API Gateway. Los miembros del equipo se dividieron tareas específicas, contribuyendo al diseño y optimización de los servicios de backend.
+
+### 4. Landing Page
+![Landing Page Commit Activity](path_to_landing_page_commit_image)
+- **Descripción de la colaboración:** El desarrollo de la Landing Page fue un esfuerzo colaborativo. Los commits reflejan ajustes en el diseño y en la funcionalidad de la interfaz, asegurando que todos los miembros del equipo aportaron según su rol.
+
+### 5. App Mobile
+![App Mobile Commit Activity](path_to_app_mobile_commit_image)
+- **Descripción de la colaboración:** Para la App Mobile, el equipo se centró en la integración de nuevas características y en solucionar errores. La gráfica de commits en GitHub muestra una distribución equitativa de contribuciones.
+
+### 6. Web App
+![Web App Commit Activity](path_to_web_app_commit_image)
+- **Descripción de la colaboración:** Todos los miembros contribuyeron a la Web App, participando en el diseño y en la optimización del rendimiento. Los analíticos muestran una alta actividad de commits, evidenciando la constante interacción del equipo.
+
+### 7. Informe Final
+![Informe Final Commit Activity](path_to_final_report_commit_image)
+- **Descripción de la colaboración:** En el informe final, el equipo documentó y consolidó los avances. Los commits reflejan el esfuerzo conjunto en la redacción y en la revisión de las actividades realizadas durante el Sprint.
+
+## Interpretación de los Analíticos de Colaboración
+
+De acuerdo con los analíticos de GitHub, todos los miembros participaron activamente en las implementaciones asignadas, mostrando una colaboración continua y balanceada. Las contribuciones en los diferentes productos reflejan un equipo comprometido con el cumplimiento de los objetivos del Sprint y la calidad del código entregado. En cada componente, se evidencia el esfuerzo de cada miembro por mejorar tanto la funcionalidad como la estabilidad de la aplicación.
+
+Cada imagen de los analíticos de commits resalta el esfuerzo colaborativo del equipo, distribuyendo las responsabilidades y apoyándose en revisiones de código para mantener un estándar de calidad. La interpretación de estos datos reafirma la cohesión del equipo en la entrega de productos de alta calidad.
+
 
 ### 6.2.2.5. Execution Evidence for Sprint Review
 
