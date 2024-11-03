@@ -2929,7 +2929,6 @@ Descripción del Sprint Planning 2, con los objetivos y metas propuestas, priori
 
 | Sprint # | Sprint 02 |
 | -------- | --------- |
-
 | Sprint Planning Background
 | Date | 2024-09-15 |
 | Time | 09:00 AM |
