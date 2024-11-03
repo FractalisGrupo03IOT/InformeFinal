@@ -1,4 +1,6 @@
-https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730625348/running_sh8xfx.png![Logotipo Descripción generada automáticamente](https://res.cloudinary.com/daassyisd/image/upload/v1714691535/gmplcgrlsv9sihpusivm.png)
+![Descripción de la primera imagen](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730625348/running_sh8xfx.png)
+![Descripción de la segunda imagen](https://res.cloudinary.com/daassyisd/image/upload/v1714691535/gmplcgrlsv9sihpusivm.png)
+
 
 **UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
