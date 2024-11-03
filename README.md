@@ -3112,8 +3112,8 @@ A continuación, se presentan tres pruebas unitarias realizadas para asegurar el
 ### Prueba 1: Verificación de Endpoint de Creación de Plantas - Backend (Java)
 
 **Descripción:** Esta prueba asegura que el endpoint de creación de plantas en el backend responde correctamente al recibir una solicitud válida, devolviendo un código de estado 201 (CREATED) y un recurso de planta en el cuerpo de la respuesta.
+------
 
-```java
 @Test
 public void givenValidPlantData_whenCreatePlant_thenReturnCreatedStatus() {
     // Configuración de datos de prueba
@@ -3127,7 +3127,7 @@ public void givenValidPlantData_whenCreatePlant_thenReturnCreatedStatus() {
     assertNotNull(response.getBody());
     assertEquals("Planta Test", response.getBody().getName());
 }
-----
+-----
 ### Prueba 2: Verificación de Login - Aplicación Móvil (Flutter)
 - **Descripción:** Esta prueba verifica que el botón de inicio de sesión con Instagram invoque el método de autenticación y reciba un token válido. Simula el flujo de autenticación y verifica el resultado esperado.
 ----
