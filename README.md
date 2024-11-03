@@ -3072,15 +3072,11 @@ Descripción del Sprint Planning 2, con los objetivos y metas propuestas, priori
 ![API Gateway Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730638660/backend_r9qoh4.png)
 - **Descripción de la colaboración:** Se puede observar un esfuerzo conjunto en el desarrollo del API Gateway. Los miembros del equipo se dividieron tareas específicas, contribuyendo al diseño y optimización de los servicios de backend.
 
-### 4. Landing Page
-![Landing Page Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637131/Captura_tdszpp.png)
-- **Descripción de la colaboración:** El desarrollo de la Landing Page fue un esfuerzo colaborativo. Los commits reflejan ajustes en el diseño y en la funcionalidad de la interfaz, asegurando que todos los miembros del equipo aportaron según su rol.
-
-### 5. App Mobile
+### 4. App Mobile
 ![App Mobile Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730638657/movil_n0s9zq.png)
 - **Descripción de la colaboración:** Para la App Mobile, el equipo se centró en la integración de nuevas características y en solucionar errores. La gráfica de commits en GitHub muestra una distribución equitativa de contribuciones.
 
-### 6. Web App
+### 5. Web App
 ![Web App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730638657/code_web_xxpqtt.png)
 - **Descripción de la colaboración:** Todos los miembros contribuyeron a la Web App, participando en el diseño y en la optimización del rendimiento. Los analíticos muestran una alta actividad de commits, evidenciando la constante interacción del equipo.
 
