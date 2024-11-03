@@ -2939,21 +2939,118 @@ Descripción del Sprint Planning 2, con los objetivos y metas propuestas, priori
 | Sprint #            | Sprint 02 |
 |---------------------|-----------|
 | **Sprint Planning Background** |  |
-| **Date**            | 2024-09-15 |
+| **Date**            | 2024-10-19 |
 | **Time**            | 09:00 AM |
 | **Location**        | Reunión virtual (Zoom) |
 | **Prepared By**     | Franco Yance |
 | **Attendees**       | Franco Yance, Lino Quenta, Miguel Angel, Giovanni Andrés, Jean Patrick |
-| **Sprint n-2 Review** | Como es el primer Sprint, no hay revisión previa, pero se definieron las expectativas iniciales del proyecto y la planificación de la arquitectura. |
+| **Sprint n-2 Review** | Como es el segundo sprint, en el sprint anterior se trabajó en la configuración inicial del sistema, incluyendo la estructura de la base de datos, la arquitectura de la API y las configuraciones básicas para la integración de dispositivos IoT. El equipo revisó los avances y ajustó las tareas para el sprint actual. |
 | **Sprint n-1 Retrospective** | Los miembros discutieron la necesidad de mejorar la comunicación y establecer reuniones más frecuentes para asegurarse de la sincronización del equipo. |
-| **Sprint Goal & User Stories** |  |
-| **Sprint n Goal**    | Nuestro enfoque está en implementar la Landing Page y la estructura básica de la Aplicación Web. Creemos que esto ofrece una primera impresión sólida de la plataforma GreenTools a los usuarios potenciales. Esto se confirmará cuando la página de destino y la aplicación web sean completamente funcionales con un backend simulado, lo que permitirá a los usuarios ver información clave sobre el sistema. |
-| **Sprint n Velocity** | 28 Story Points |
-| **Sum of Story Points** | 28 Story Points |
+
+#### Sprint Goal & User Stories
+
+| **Sprint Goal** | Nuestro enfoque está en implementar la Web App y Mobile App con los servicios de Cloud y Edge Server, asi mismo implementar el Embedded App. Creemos que esto ofrece una primera interacción sólida de la plataforma GreenTools a los usuarios potenciales. Esto se confirmará cuando los datos recolectados por el microcontrolador sean visibles desde las aplicaciones web y móvil, lo que permitirá a los usuarios ver información clave sobre sus cultivos. |
+|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sum of Story Points** | 85 Story Points |
+| **Sprint n Velocity** | 85 Story Points |
+
+
 
 ### 6.2.2.2. Sprint Backlog 2
 
-El Sprint Backlog 2 contiene las tareas e historias de usuario seleccionadas para el segundo sprint, con detalles sobre el valor que aportan y los criterios de aceptación.
+### Sprint 2
+
+
+| User Story      | User Story Title  | Task ID | Task Title                                     | Description                                                | Estimation (Hours) | Assigned To | Status |
+|-----------------|------------------------------------------------------|---------|------------------------------------------------|------------------------------------------------------------|---------------------|-------------|--------|
+| EP2/US6         | Configuración de horarios de dispositivos            | T1      | Configuración de horarios de dispositivos      | Configurar horarios automáticos para dispositivos IoT       | 4                   | Miguel      | Done   |
+| EP2/US9         | Sincronización de datos                              | T2      | Sincronización de datos                        | Sincronizar datos entre app web y móvil                     | 5                   | Giovanni    | Done   |
+| EP2/US10        | Personalización de la interfaz de usuario            | T3      | Personalización de la interfaz de usuario      | Permitir personalización de la apariencia en app móvil      | 3                   | Jean        | Done   |
+| EP3/US1         | Ver dashboard centralizado de cultivos               | T4      | Ver dashboard centralizado de cultivos         | Mostrar todos los cultivos en un dashboard centralizado     | 6                   | Franco      | Done   |
+| EP3/US2         | Gestión de dispositivos IoT                          | T5      | Gestión de dispositivos IoT                    | Administrar configuración de dispositivos IoT               | 4                   | Lino        | Done   |
+| EP3/US3         | Gestión de usuarios y permisos                       | T6      | Gestión de usuarios y permisos                 | Controlar acceso de usuarios y permisos específicos         | 4                   | Miguel      | Done   |
+| EP3/US4         | Notificaciones sobre cambios críticos                | T7      | Notificaciones sobre cambios críticos          | Notificar cambios críticos en condiciones de cultivos       | 5                   | Giovanni    | Done   |
+| EP3/US6         | Administración de usuarios y roles                   | T8      | Administración de usuarios y roles en web      | Gestionar usuarios y asignación de roles                    | 4                   | Jean        | Done   |
+| EP4/US1         | Gestión de cultivos y sensores                       | T9      | Gestión de cultivos y sensores en backend      | Almacenar y actualizar datos de sensores IoT                | 6                   | Franco      | Done   |
+| EP4/US2         | Integración con dispositivos IoT                     | T10     | Integración con dispositivos IoT               | Enviar comandos y recibir datos desde dispositivos IoT      | 6                   | Lino        | Done   |
+| EP4/US3         | Generación de reportes automáticos                   | T11     | Generación de reportes automáticos             | Generar reportes con datos de cultivos                      | 5                   | Miguel      | Done   |
+| EP4/US4         | Control de automatización en el backend              | T12     | Control de automatización en el backend        | Implementar reglas automáticas para dispositivos            | 6                   | Giovanni    | Done   |
+| EP3/US6         | Administración de usuarios y roles                   | T13     | Vista móvil registrar usuario                  | Crear vista para registrar usuarios en app móvil            | 3                   | Jean        | Done   |
+| EP3/US8         | Vista web registrar usuario                          | T14     | Vista web registrar usuario                    | Crear vista para registrar usuarios en app web              | 3                   | Franco      | Done   |
+| EP3/US9         | Vista móvil log in                                   | T15     | Vista móvil log in                             | Crear vista de inicio de sesión en app móvil                | 2                   | Lino        | Done   |
+| EP3/US10        | Vista web log in                                     | T16     | Vista web log in                               | Crear vista de inicio de sesión en app web                  | 2                   | Miguel      | Done   |
+| EP3/US1         | Ver cultivos en móvil                                | T17     | Vista móvil ver cultivos                       | Permitir visualización de cultivos en app móvil             | 3                   | Jean        | Done   |
+| EP3/US1         | Ver cultivos en web                                  | T18     | Vista web ver cultivos                         | Permitir visualización de cultivos en app web               | 3                   | Franco      | Done   |
+| EP3/US2         | Gestionar plantas en móvil                           | T19     | Vista móvil gestionar plantas                  | Permitir gestión de plantas en app móvil                    | 3                   | Lino        | Done   |
+| EP3/US2         | Gestionar plantas en web                             | T20     | Vista web gestionar plantas                    | Permitir gestión de plantas en app web                      | 3                   | Miguel      | Done   |
+| EP3/US2         | Añadir cultivo en móvil                              | T21     | Vista móvil añadir cultivo                     | Permitir añadir cultivo en app móvil                        | 3                   | Jean        | Done   |
+| EP3/US2         | Añadir cultivo en web                                | T22     | Vista web añadir cultivo                       | Permitir añadir cultivo en app web                          | 3                   | Franco      | Done   |
+| EP3/US1         | Datos del cultivo en móvil                           | T23     | Vista móvil datos del cultivo                  | Mostrar datos del cultivo en app móvil                      | 3                   | Lino        | Done   |
+| EP3/US1         | Datos del cultivo en web                             | T24     | Vista web datos del cultivo                    | Mostrar datos del cultivo en app web                        | 3                   | Miguel      | Done   |
+| EP2/US4         | Configurar parámetros en móvil                       | T25     | Vista móvil configurar parámetros              | Permitir configuración de parámetros en app móvil           | 3                   | Jean        | Done   |
+| EP2/US4         | Configurar parámetros en web                         | T26     | Vista web configurar parámetros                | Permitir configuración de parámetros en app web             | 3                   | Franco      | Done   |
+| EP4/US2         | Implementación de web sockets en API Cloud           | T27     | Implementación de web sockets en API Cloud     | Implementar sockets para comunicación en tiempo real        | 5                   | Lino        | Done   |
+| EP3/US7         | Despliegue de APP Web                                | T28     | Despliegue de APP Web                          | Preparar y desplegar aplicación web en servidor             | 4                   | Miguel      | Done   |
+| EP2/US7         | Building de App Móvil                                | T29     | Building de App Móvil                          | Preparar y compilar aplicación móvil                        | 4                   | Giovanni    | Done   |
+| EP4/US5         | Encriptación de datos del usuario                    | T30     | Encriptación de datos del usuario              | Asegurar encriptación de datos sensibles                    | 3                   | Jean        | Done   |
+| EP4/US6         | Creación de roles en API Cloud                       | T31     | Creación de roles en API Cloud                 | Definir y gestionar roles en API Cloud                      | 3                   | Franco      | Done   |
+| EP4/US2         | Consumidor para datos del Edge                       | T32     | Consumidor para datos del Edge                 | Integrar consumidor de datos en Edge                        | 4                   | Lino        | Done   |
+| EP3/US1         | Añadir gráficos de los datos de sensores             | T33     | Añadir gráficos de los datos de sensores       | Visualizar gráficos de datos históricos                     | 5                   | Miguel      | Done   |
+| EP4/US2         | Conectar Edge con API Cloud                          | T34     | Conectar Edge con API Cloud                    | Conectar el Edge con la API Cloud                           | 5                   | Giovanni    | Done   |
+| EP5/US1         | Conectar Edge con Embedded App                       | T35     | Conectar Edge con Embedded App                 | Configurar conexión del Edge con la aplicación embebida     | 4                   | Franco      | Done   |
+| EP3/US2         | Conectar App Web con API Cloud                       | T36     | Conectar App Web con API Cloud                 | Configurar conexión de App Web con API Cloud                | 4                   | Lino        | Done   |
+| EP2/US9         | Conectar App Móvil con API Cloud                     | T37     | Conectar App Móvil con API Cloud               | Configurar conexión de App Móvil con API Cloud              | 4                   | Jean        | Done   |
+| EP5/US1         | Debug Post Humidity Command                          | T38     | Debug Post Humidity Command                    | Realizar depuración del comando de humedad en Edge Server   | 3                   | Miguel      | Done   |
+| EP3/US7         | Mejorar responsividad de App web                     | T39     | Mejorar responsividad de App web               | Mejorar el diseño responsivo de la aplicación web           | 5                   | Giovanni    | Done   |
+| EP4/US1         | Entidad cultivo                                      | T40     | Entidad cultivo                                | Crear entidad de cultivo en backend                         | 4                   | Franco      | Done   |
+| EP4/US1         | Value objects de sensores                            | T41     | Value objects de sensores                      | Crear objetos de valor para los sensores                    | 3                   | Lino        | Done   |
+| EP4/US1         | Queries de API Cloud                                 | T42     | Queries de API Cloud                           | Crear consultas para obtener datos en la API Cloud          | 4                   | Miguel      | Done   |
+| EP4/US1         | Commands de API Cloud                                | T43     | Commands de API Cloud                          | Implementar comandos para operaciones en API Cloud          | 3                   | Giovanni    | Done   |
+| EP4/US1         | Repositorio de API Cloud                             | T44     | Repositorio de API Cloud                       | Configurar repositorio de datos para API Cloud              | 4                   | Jean        | Done   |
+| EP4/US1         | Controlador de API Cloud                             | T45     | Controlador de API Cloud                       | Crear controlador para manejar solicitudes en API Cloud     | 5                   | Franco      | Done   |
+| EP4/US1         | Conexión DB de API Cloud                             | T46     | Conexión DB de API Cloud                       | Establecer conexión con la base de datos de API Cloud       | 3                   | Lino        | Done   |
+| EP4/US7         | Despliegue de API Cloud                              | T47     | Despliegue de API Cloud                        | Desplegar API Cloud en el servidor                          | 4                   | Miguel      | Done   |
+| EP4/US7         | Despliegue de DB asociada a API Cloud                | T48     | Despliegue de DB asociada a API Cloud          | Configurar y desplegar base de datos para API Cloud         | 4                   | Giovanni    | Done   |
+| EP5/US1         | Entidades sensores de Edge Server                    | T49     | Entidades sensores de Edge Server              | Crear entidades para sensores en el servidor Edge           | 3                   | Jean        | Done   |
+| EP5/US1         | Value objects de Edge Server                         | T50     | Value objects de Edge Server                   | Definir objetos de valor para Edge Server                   | 3                   | Franco      | Done   |
+| EP5/US1         | Queries de Edge Server                               | T51     | Queries de Edge Server                         | Implementar consultas para Edge Server                      | 4                   | Lino        | Done   |
+| EP5/US1         | Commands de Edge Server                              | T52     | Commands de Edge Server                        | Crear comandos para operaciones en Edge Server              | 4                   | Miguel      | Done   |
+| EP5/US1         | Repositorios de Edge Server                          | T53     | Repositorios de Edge Server                    | Configurar repositorios de datos en Edge Server             | 4                   | Giovanni    | Done   |
+| EP5/US3         | Conectar Edge Server a DB                            | T54     | Conectar Edge Server a DB                      | Establecer conexión entre Edge Server y base de datos       | 5                   | Jean        | Done   |
+| EP5/US3         | Desplegar DB de Edge Server                          | T55     | Desplegar DB de Edge Server                    | Configurar y desplegar la base de datos para Edge Server    | 4                   | Franco      | Done   |
+| EP5/US3         | Desplegar Edge Server                                | T56     | Desplegar Edge Server                          | Preparar y desplegar el servidor Edge                       | 4                   | Lino        | Done   |
+| EP5/US6         | Clase sensor de humedad en Embedded App              | T57     | Clase sensor de humedad en Embedded App        | Implementar clase para sensor de humedad en app embebida    | 3                   | Miguel      | Done   |
+| EP5/US6         | Clase sensor de luz solar en Embedded App            | T58     | Clase sensor de luz solar en Embedded App      | Implementar clase para sensor de luz solar en app embebida  | 3                   | Giovanni    | Done   |
+| EP5/US6         | Clase sensor de temperatura en Embedded App          | T59     | Clase sensor de temperatura en Embedded App    | Implementar clase para sensor de temperatura en app embebida | 3                  | Jean        | Done   |
+| EP5/US2         | Servo actuador en Embedded App                       | T60     | Servo actuador en Embedded App                 | Implementar actuador servo en la aplicación embebida        | 3                   | Franco      | Done   |
+| EP5/US1         | Leer los datos de los sensores en Embedded App       | T61     | Leer los datos de los sensores en Embedded App | Configurar lectura de datos de sensores en la app embebida  | 4                   | Lino        | Done   |
+| EP5/US1         | Enviar los datos de los sensores en Embedded App     | T62     | Enviar los datos de los sensores en Embedded App | Configurar envío de datos desde la app embebida           | 4                   | Miguel      | Done   |
+| EP5/US1         | Conectar ESP32 a Edge Server                         | T63     | Conectar ESP32 a Edge Server                   | Configurar conexión entre ESP32 y el servidor Edge          | 4                   | Giovanni    | Done   |
+| EP4/US2         | Método POST valores de humedad                       | T64     | Método POST valores de humedad                 | Implementar POST para enviar valores de humedad             | 3                   | Jean        | Done   |
+| EP4/US2         | Método POST valores de luz solar                     | T65     | Método POST valores de luz solar               | Implementar POST para enviar valores de luz solar           | 3                   | Franco      | Done   |
+| EP4/US2         | Método POST valores de temperatura                   | T66     | Método POST valores de temperatura             | Implementar POST para enviar valores de temperatura         | 3                   | Lino        | Done   |
+| EP4/US1         | Método GET por id del sensor                         | T67     | Método GET por id del sensor                   | Implementar GET para obtener datos de un sensor por ID      | 4                   | Miguel      | Done   |
+| EP4/US4         | Proceso automatizado para enviar datos               | T68     | Proceso automatizado para enviar datos         | Crear proceso para enviar datos automáticamente             | 4                   | Giovanni    | Done   |
+| EP4/US3         | Función obtener media de temperatura                 | T69     | Función obtener media de temperatura           | Calcular y retornar la media de temperatura                 | 3                   | Jean        | Done   |
+| EP4/US3         | Función obtener media de luz solar                   | T70     | Función obtener media de luz solar             | Calcular y retornar la media de luz solar                   | 3                   | Franco      | Done   |
+| EP4/US3         | Función obtener media de humedad                     | T71     | Función obtener media de humedad               | Calcular y retornar la media de humedad                     | 3                   | Lino        | Done   |
+| EP4/US5         | Método GET usuario por id                            | T72     | Método GET usuario por id                      | Obtener datos de usuario por ID                             | 3                   | Miguel      | Done   |
+| EP4/US5         | Método GET de los usuarios                           | T73     | Método GET de los usuarios                     | Obtener lista completa de usuarios                          | 3                   | Giovanni    | Done   |
+| EP4/US1         | Método POST del inventario                           | T74     | Método POST del inventario                     | Agregar elementos al inventario                             | 4                   | Jean        | Done   |
+| EP4/US1         | Método GET del inventario                            | T75     | Método GET del inventario                      | Obtener datos del inventario                                | 3                   | Franco      | Done   |
+| EP4/US1         | Método POST de plantas                               | T76     | Método POST de plantas                         | Agregar plantas a la base de datos                          | 3                   | Lino        | Done   |
+| EP4/US1         | Método GET todas las plantas                         | T77     | Método GET todas las plantas                   | Obtener lista de todas las plantas                          | 3                   | Miguel      | Done   |
+| EP4/US1         | Método GET plantas de una estación                   | T78     | Método GET plantas de una estación             | Obtener plantas de una estación específica                  | 4                   | Giovanni    | Done   |
+| EP4/US1         | Método GET datos de planta por id                    | T79     | Método GET datos de planta por id              | Obtener datos de una planta específica por ID               | 3                   | Jean        | Done   |
+| EP4/US1         | Método DELETE para plantas de una estación           | T80     | Método DELETE para plantas de una estación     | Eliminar plantas de una estación específica                 | 4                   | Franco      | Done   |
+| EP4/US1         | Método POST ingresar datos de planta                 | T81     | Método POST ingresar datos de planta           | Ingresar datos para una planta específica                   | 3                   | Lino        | Done   |
+| EP4/US1         | Método GET datos de una planta específica            | T82     | Método GET datos de una planta específica      | Obtener datos de una planta específica                      | 3                   | Miguel      | Done   |
+| EP4/US3         | Método GET datos últimos 30 días de una planta       | T83     | Método GET datos últimos 30 días de una planta | Obtener datos de los últimos 30 días para una planta        | 4                   | Giovanni    | Done   |
+| EP4/US5         | Implementar tipo de membresía como ENUM              | T84     | Implementar tipo de membresía como ENUM        | Crear ENUM para gestionar los tipos de membresía            | 2                   | Jean        | Done   |
+| EP4/US8         | Creación de servicio Payment                         | T85     | Creación de servicio Payment                   | Implementar servicio de pagos para la plataforma            | 5                   | Franco      | Done   |
+
+
+
 
 ### 6.2.2.3. Development Evidence for Sprint Review
 
