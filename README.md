@@ -3102,7 +3102,6 @@ En esta sección, se presentan las actividades de implementación desarrolladas 
 A continuación, se presentan tres pruebas unitarias realizadas para asegurar el correcto funcionamiento de diferentes componentes del proyecto.
 
 ### Prueba 1: Verificación de Endpoint de Creación de Plantas - Backend (Java)
------
 **Descripción:** Esta prueba asegura que el endpoint de creación de plantas en el backend responde correctamente al recibir una solicitud válida, devolviendo un código de estado 201 (CREATED) y un recurso de planta en el cuerpo de la respuesta.
 ----
 @Test
@@ -3153,45 +3152,8 @@ testWidgets('Iniciar Sesión con Instagram', (WidgetTester tester) async {
     chip_timer_event((void*)chip);
     float expectedVoltage = chip->humidity_attr * (5.0 / 100.0);
     assert(pin_dac_write(chip->pin_ao, expectedVoltage) == 0);
-}
 -----
-## Productos Implementados y Colaboración del Equipo
-----
-### 1. Embedded App
-![Embedded App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637575/enddebed_b9igq4.png)
-- **Descripción de la colaboración:** Los miembros del equipo participaron activamente en la implementación de la Embedded App, como se observa en los commits realizados. Cada integrante contribuyó a mejorar la funcionalidad y optimización del código.
-
-### 2. Edge App
-![Edge App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730621597/informe_final_vfqqtr.png)
-- **Descripción de la colaboración:** La Edge App fue implementada en conjunto, con contribuciones regulares de todos los miembros en GitHub. Los analíticos muestran una colaboración balanceada, enfocándose en la integración y pruebas de la aplicación.
-
-### 3. API Gateway
-![API Gateway Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637248/backend_jopdza.png)
-- **Descripción de la colaboración:** Se puede observar un esfuerzo conjunto en el desarrollo del API Gateway. Los miembros del equipo se dividieron tareas específicas, contribuyendo al diseño y optimización de los servicios de backend.
-
-### 4. Landing Page
-![Landing Page Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637131/Captura_tdszpp.png)
-- **Descripción de la colaboración:** El desarrollo de la Landing Page fue un esfuerzo colaborativo. Los commits reflejan ajustes en el diseño y en la funcionalidad de la interfaz, asegurando que todos los miembros del equipo aportaron según su rol.
-
-### 5. App Mobile
-![App Mobile Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730621500/Captura_hvgx4j.png)
-- **Descripción de la colaboración:** Para la App Mobile, el equipo se centró en la integración de nuevas características y en solucionar errores. La gráfica de commits en GitHub muestra una distribución equitativa de contribuciones.
-
-### 6. Web App
-![Web App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730621500/Captura_hvgx4j.png)
-- **Descripción de la colaboración:** Todos los miembros contribuyeron a la Web App, participando en el diseño y en la optimización del rendimiento. Los analíticos muestran una alta actividad de commits, evidenciando la constante interacción del equipo.
-
-### 7. Informe Final
-![Informe Final Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730621597/informe_final_vfqqtr.png)
 - **Descripción de la colaboración:** En el informe final, el equipo documentó y consolidó los avances. Los commits reflejan el esfuerzo conjunto en la redacción y en la revisión de las actividades realizadas durante el Sprint.
-
-## Interpretación de los Analíticos de Colaboración
-
-De acuerdo con los analíticos de GitHub, todos los miembros participaron activamente en las implementaciones asignadas, mostrando una colaboración continua y balanceada. Las contribuciones en los diferentes productos reflejan un equipo comprometido con el cumplimiento de los objetivos del Sprint y la calidad del código entregado. En cada componente, se evidencia el esfuerzo de cada miembro por mejorar tanto la funcionalidad como la estabilidad de la aplicación.
-
-Cada imagen de los analíticos de commits resalta el esfuerzo colaborativo del equipo, distribuyendo las responsabilidades y apoyándose en revisiones de código para mantener un estándar de calidad. La interpretación de estos datos reafirma la cohesión del equipo en la entrega de productos de alta calidad.
-
-
 
 ### 6.2.2.5. Execution Evidence for Sprint Review
 
@@ -3356,10 +3318,34 @@ En este Sprint, realizamos el despliegue de la **Landing Page**, **Web Applicati
 ![Edge Server Logs](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621513/edgeLogs_l1omxm.jpg)
 
 ### 6.2.2.8. Team Collaboration Insights during Sprint
+#### Productos Implementados y Colaboración del Equipo
+----
+### 1. Embedded App
+![Embedded App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637575/enddebed_b9igq4.png)
+- **Descripción de la colaboración:** Los miembros del equipo participaron activamente en la implementación de la Embedded App, como se observa en los commits realizados. Cada integrante contribuyó a mejorar la funcionalidad y optimización del código.
 
+### 2. Edge App
+![Edge App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730621597/informe_final_vfqqtr.png)
+- **Descripción de la colaboración:** La Edge App fue implementada en conjunto, con contribuciones regulares de todos los miembros en GitHub. Los analíticos muestran una colaboración balanceada, enfocándose en la integración y pruebas de la aplicación.
 
+### 3. API Gateway
+![API Gateway Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637248/backend_jopdza.png)
+- **Descripción de la colaboración:** Se puede observar un esfuerzo conjunto en el desarrollo del API Gateway. Los miembros del equipo se dividieron tareas específicas, contribuyendo al diseño y optimización de los servicios de backend.
 
----
+### 4. Landing Page
+![Landing Page Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637131/Captura_tdszpp.png)
+- **Descripción de la colaboración:** El desarrollo de la Landing Page fue un esfuerzo colaborativo. Los commits reflejan ajustes en el diseño y en la funcionalidad de la interfaz, asegurando que todos los miembros del equipo aportaron según su rol.
+
+### 5. App Mobile
+![App Mobile Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730621500/Captura_hvgx4j.png)
+- **Descripción de la colaboración:** Para la App Mobile, el equipo se centró en la integración de nuevas características y en solucionar errores. La gráfica de commits en GitHub muestra una distribución equitativa de contribuciones.
+
+### 6. Web App
+![Web App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730621500/Captura_hvgx4j.png)
+- **Descripción de la colaboración:** Todos los miembros contribuyeron a la Web App, participando en el diseño y en la optimización del rendimiento. Los analíticos muestran una alta actividad de commits, evidenciando la constante interacción del equipo.
+
+### 7. Informe Final
+![Informe Final Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730621597/informe_final_vfqqtr.png)
 
 ## 6.3. Validation Interviews
 
