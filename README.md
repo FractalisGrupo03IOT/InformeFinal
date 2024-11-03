@@ -3220,20 +3220,20 @@ En este Sprint, realizamos el despliegue de la **Landing Page**, **Web Applicati
 ![Despliegue de Web App](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730620988/firebase_gcouei.png)
 
 4. **Despliegue del API Cloud**:
-   - Se desplegó una versión preliminar de la Web Application. Esto nos permitió realizar pruebas de accesibilidad y navegación antes de continuar con un despliegue en un servidor de producción.
+   - Se desplegó la primer version del API Cloud, el cual nos permitio persistir los datos que se generan en las aplicaciónes web y móvil. El despliegue de este producto se realizó en Railway.
 
 ![Despliegue de API Cloud](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621310/apiCloud_u9y8tt.png)
 ![API Cloud Logs](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621514/ApiCloudLogs_fhn3xi.png)
 
 5. **Despliegue del Edge Server**:
-   - Se desplegó una versión preliminar de la Web Application. Esto nos permitió realizar pruebas de accesibilidad y navegación antes de continuar con un despliegue en un servidor de producción.
+   - Se desplegó la primer version del Edge Server, el cual nos permitio persistir los datos que generan los sensores. El despliegue de este producto se realizó con Render.
   
 ![Despliegue de Edge Server](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621309/edge_sqllzf.png)
 ![Edge Server Logs](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621513/edgeLogs_l1omxm.jpg)
 
 ### 6.2.2.8. Team Collaboration Insights during Sprint
 
-Reflexión sobre la colaboración del equipo durante el Sprint 2, con lecciones aprendidas y sugerencias de mejora para próximos sprints.
+
 
 ---
 
