@@ -3101,9 +3101,19 @@ En esta sección, se presentan las actividades de implementación desarrolladas 
 
 A continuación, se presentan tres pruebas unitarias realizadas para asegurar el correcto funcionamiento de diferentes componentes del proyecto.
 
+### 6.2.2.4. Testing Suite Evidence for Sprint Review
+
+En esta sección, se presentan las actividades de implementación desarrolladas por cada miembro del equipo. A continuación, se incluyen capturas de los analíticos de colaboración y commits en GitHub para cada uno de los componentes de nuestro proyecto. Se muestra la participación de todos los miembros en la implementación de cada producto según lo planificado para el Sprint: Landing Page, Web Services, y Aplicaciones.
+
+## Pruebas Unitarias
+
+A continuación, se presentan tres pruebas unitarias realizadas para asegurar el correcto funcionamiento de diferentes componentes del proyecto.
+
 ### Prueba 1: Verificación de Endpoint de Creación de Plantas - Backend (Java)
-- **Descripción:** Esta prueba asegura que el endpoint de creación de plantas en el backend responde correctamente al recibir una solicitud válida, devolviendo un código de estado 201 (CREATED) y un recurso de planta en el cuerpo de la respuesta.
----
+
+**Descripción:** Esta prueba asegura que el endpoint de creación de plantas en el backend responde correctamente al recibir una solicitud válida, devolviendo un código de estado 201 (CREATED) y un recurso de planta en el cuerpo de la respuesta.
+
+```java
 @Test
 public void givenValidPlantData_whenCreatePlant_thenReturnCreatedStatus() {
     // Configuración de datos de prueba
@@ -3117,7 +3127,7 @@ public void givenValidPlantData_whenCreatePlant_thenReturnCreatedStatus() {
     assertNotNull(response.getBody());
     assertEquals("Planta Test", response.getBody().getName());
 }
----
+----
 ### Prueba 2: Verificación de Login - Aplicación Móvil (Flutter)
 - **Descripción:** Esta prueba verifica que el botón de inicio de sesión con Instagram invoque el método de autenticación y reciba un token válido. Simula el flujo de autenticación y verifica el resultado esperado.
 ----
@@ -3133,11 +3143,11 @@ testWidgets('Iniciar Sesión con Instagram', (WidgetTester tester) async {
   // Verificar si el método de autenticación fue invocado correctamente
   expect(authService.isAuthenticated, true);
 });
-------
+---
 ### Prueba 3: Verificación de Sensor de Humedad - Código Embebido (C)
 - **Descripción:** Esta prueba verifica que el sensor de humedad inicialice correctamente y envíe los datos de humedad esperados en cada intervalo de tiempo. La función de callback debe actualizar el estado del sensor sin errores.
 ----
-- void test_humidity_sensor_initialization() {
+void test_humidity_sensor_initialization() {
     // Configuración del sensor
     chip_state_t *chip = chip_init();
     
@@ -3150,6 +3160,7 @@ testWidgets('Iniciar Sesión con Instagram', (WidgetTester tester) async {
     chip_timer_event((void*)chip);
     float expectedVoltage = chip->humidity_attr * (5.0 / 100.0);
     assert(pin_dac_write(chip->pin_ao, expectedVoltage) == 0);
+}
 -----
 - **Descripción de la colaboración:** En el informe final, el equipo documentó y consolidó los avances. Los commits reflejan el esfuerzo conjunto en la redacción y en la revisión de las actividades realizadas durante el Sprint.
 
