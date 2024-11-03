@@ -3494,8 +3494,9 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 ## 6.4. Video About-the-Product
 
 Enlace o referencia al video de presentación del producto, destacando sus principales funcionalidades, la experiencia del usuario y la propuesta de valor del software.
-
----
+- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122512_upc_edu_pe/EYTsDl55EX9FuR99IkEw8PIB5nFHobmsS_MdjUWu2prQgw?e=wmeX3B&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+VIDEO EXPOSITIVO
+  -
 
 ##### Reflexión
 
