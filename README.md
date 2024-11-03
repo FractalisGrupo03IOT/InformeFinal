@@ -2976,27 +2976,29 @@ Reflexión sobre la colaboración del equipo durante el Sprint 2, con lecciones 
 Explicación del diseño metodológico de las entrevistas de validación, incluyendo el perfil de los entrevistados, las preguntas clave y el formato de la entrevista.
 
 ### 6.3.2. Registro de Entrevistas
-
-**Segmento 01: Microcultivo**
+**Segmento 01: MICROCULTIVO**
 
 **Entrevistado 01**
 
 - **Nombre y apellidos**: Lyn Mesa Mamani
-- **Inicio de la entrevista**: 00:05
+- **Imagen**: ![Lyn Mesa Mamani](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730608335/lyn_b5akiz.png)
+- **Inicio de la entrevista**: 08:00
 - **Fin de la entrevista**: 08:30
 - **Duración**: 08:25
-- **Enlace de entrevista**: [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122512_upc_edu_pe/EYTsDl55EX9FuR99IkEw8PIB5nFHobmsS_MdjUWu2prQgw?e=wmeX3B)
+- **Enlace de entrevista**: [Ver entrevista]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122512_upc_edu_pe/EYTsDl55EX9FuR99IkEw8PIB5nFHobmsS_MdjUWu2prQgw?e=wmeX3B](https://upcedupe-my.sharepoint.com/personal/u202122512_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202122512%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1718148603%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eff955acc%2D7a86%2D456d%2D9a61%2Df19c38ba4ec2))
 - **Resumen de la entrevista**: Lyn Mesa Mamani, de 20 años, es una joven agricultora de Huánuco que se dedica a los multicultivos. Durante la entrevista, Lyn probó la aplicación web diseñada para la gestión de cultivos y exploró funcionalidades como la creación de estaciones de cultivo, la selección de fechas importantes para los ciclos de cultivo y la incorporación de sensores para monitorear variables esenciales como humedad y temperatura. Lyn destacó la facilidad para agregar plantas a las estaciones y visualizarlas en tiempo real en la tabla de sensores conectados, lo que le permitió comprender mejor el estado de sus cultivos. También mencionó que la aplicación le resultó intuitiva y que le gustaría ver futuras mejoras en la visualización de datos históricos para mejorar la toma de decisiones agrícolas. Lyn mostró interés en utilizar la aplicación a largo plazo para incrementar la eficiencia de sus prácticas y reducir el desperdicio de recursos, especialmente agua y energía.
 
 ---
-**Segmento 01: Monocultivo**
+**Segmento 01: MONOCULTIVO** 
+
 **Entrevistado 02**
 
 - **Nombre y apellidos**: Griselda Flores Flores
+- **Imagen**: ![Griselda Flores Flores](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730608336/grisel_gabcaj.png)
 - **Inicio de la entrevista**: 08:30
-- **Fin de la entrevista**: 15:20
-- **Duración**: 06:50
-- **Enlace de entrevista**: [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122512_upc_edu_pe/EZqXf0NdKZJIure7QjMLlP8BzEoJRtg9Tlwd7H6eSRanWQ?e=Ab3XIb)
+- **Fin de la entrevista**: 08:38
+- **Duración**: 08:50
+- **Enlace de entrevista**: [Ver entrevista]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122512_upc_edu_pe/EZqXf0NdKZJIure7QjMLlP8BzEoJRtg9Tlwd7H6eSRanWQ?e=Ab3XIb](https://upcedupe-my.sharepoint.com/personal/u202122512_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202122512%5Fupc%5Fedu%5Fpe%2FDocuments%2FDesktop%202024%2E11%2E02%20%2D%2022%2E19%2E38%2E03%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2316061d%2D1a51%2D4119%2Db89d%2D788178bce345))
 - **Resumen de la entrevista**: Griselda Flores Flores, de 28 años y originaria de Puno, es una agricultora dedicada al monocultivo. Durante la entrevista, Griselda interactuó con la aplicación web para probar su funcionalidad en la gestión de cultivos. Exploró cómo crear una estación de cultivo desde cero, agregando las fechas de plantación y cosecha, y utilizando sensores para monitorear aspectos clave como humedad, pH del suelo y temperatura ambiente. Griselda destacó la facilidad de uso de la aplicación al agregar plantas específicas a cada estación y valoró especialmente la posibilidad de registrar manualmente los datos históricos para observar cómo los cultivos evolucionan con el tiempo. También expresó su satisfacción con la función de conexión de sensores, que le permitió verificar el estado de sus plantas en tiempo real y tomar decisiones informadas para mejorar el riego y la nutrición de sus cultivos. Griselda mencionó que la aplicación podría ser una herramienta valiosa para otros agricultores de su región, especialmente si se mejora la sección de asesoramiento técnico.
 
 ---
@@ -3004,12 +3006,12 @@ Explicación del diseño metodológico de las entrevistas de validación, incluy
 **Entrevistado 03**
 
 - **Nombre y apellidos**: Sonia Cayhulla
-- **Inicio de la entrevista**: 15:20
-- **Fin de la entrevista**: 25:10
+- **Imagen**: ![Sonia Cayhulla](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730608336/sonia_tpz4cr.png)
+- **Inicio de la entrevista**: 1:20
+- **Fin de la entrevista**: 9:40
 - **Duración**: 09:50
-- **Enlace de entrevista**: [Ver entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122512_upc_edu_pe/EcdK5RuXD41JqjhqBqhEQOABXmie91mNPEiBBbouPftyTw?e=KFjVhO)
+- **Enlace de entrevista**: [Ver entrevista]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122512_upc_edu_pe/EcdK5RuXD41JqjhqBqhEQOABXmie91mNPEiBBbouPftyTw?e=KFjVhO](https://upcedupe-my.sharepoint.com/personal/u202122512_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202122512%5Fupc%5Fedu%5Fpe%2FDocuments%2FDesktop%202024%2E11%2E02%20%2D%2021%2E26%2E03%2E01%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eefc96ff5%2D960d%2D4b77%2Da22a%2Dba2879984706))
 - **Resumen de la entrevista**: Sonia Cayhulla, de 30 años, también de Puno, es monocultivadora de hortalizas. Durante la entrevista, Sonia probó la aplicación web para la gestión de estaciones de cultivo. Comenzó creando una nueva estación, definiendo fechas de inicio de plantación y fechas estimadas de cosecha. Luego, exploró cómo añadir diferentes tipos de plantas a la estación, utilizando la función de integración con sensores. Los sensores conectados permitieron monitorear parámetros como humedad del suelo, temperatura y nutrientes, todos visibles en la tabla de la aplicación. Sonia valoró la integración directa con sensores, que le permitió visualizar estos datos en tiempo real, y expresó su interés en continuar utilizando la aplicación para mejorar la eficiencia de su invernadero. También destacó que la capacitación sobre el uso de la aplicación sería útil para maximizar sus beneficios, especialmente para optimizar el riego automático y reducir costos operativos. La entrevistada mostró una visión optimista sobre cómo esta tecnología puede apoyar a los pequeños agricultores, especialmente en términos de aumentar la productividad y reducir el uso de recursos.
-
 
 ### 6.3.3. Evaluaciones según heurísticas
 
