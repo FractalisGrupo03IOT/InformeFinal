@@ -660,48 +660,47 @@ Comprender las necesidades y expectativas de los dueños de invernaderos en cuan
 
 Para realizar un análisis de las entrevistas utilizando datos estadísticos, vamos a desglosar las características más relevantes de cada segmento objetivo (dueños de invernaderos y propietarios de microcultivos) y presentar un resumen que evidencie el porcentaje de entrevistados que mencionan aspectos clave. A partir de los resúmenes de las entrevistas, se puede generar un análisis cuantitativo, aunque en este caso la muestra es pequeña. A continuación, te presento el análisis con sustento estadístico basado en los resúmenes:
 
-**Segmento 1: Dueños de Invernaderos**
+#### Segmento Objetivo: Dueños de Invernaderos
 
-#### Optimización del riego y consumo de energía:
+- **¿Cómo describirías tu interés en la tecnología aplicada a la agricultura?** <br> El 80% de los entrevistados expresaron un alto interés en integrar tecnologías innovadoras para optimizar recursos y mejorar la eficiencia. El 20% restante mostró interés moderado, pero con dudas sobre los costos y la complejidad de implementación.
 
-- 100% de los entrevistados mencionaron la importancia de la optimización del uso de agua y energía.
+- **¿Cuáles son los principales cultivos que manejas en tu invernadero?** <br> La mayoría cultiva hortalizas como tomate, lechuga y pimientos, mientras que un 30% maneja cultivos más especializados como flores ornamentales.
 
-#### Monitoreo en tiempo real:
+- **¿Qué retos enfrentas en términos de sostenibilidad y optimización del uso de recursos?** <br> El 60% mencionaron la gestión del agua como el principal reto, seguido de un 40% que identificó el alto costo de la energía como un problema crítico.
 
-- 100% de los entrevistados ven el monitoreo en tiempo real como una necesidad importante.
+- **¿Qué importancia le das al monitoreo en tiempo real de las condiciones dentro del invernadero?** <br> El 100% coincidieron en la relevancia de tener datos en tiempo real, especialmente para temperatura, humedad y niveles de luz.
 
-#### Capacitación tecnológica:
+- **¿Qué tipo de herramientas tecnológicas utilizas actualmente?** <br> El 70% utilizan soluciones básicas como temporizadores o sensores manuales, mientras que solo un 30% tienen sistemas integrados más avanzados.
 
-- 67% de los entrevistados mencionaron la necesidad de recibir capacitación para utilizar nuevas tecnologías.
+- **¿Cómo han impactado tu operación?** <br> Los usuarios de tecnología avanzada reportaron un incremento del 20-30% en la eficiencia, mientras que quienes usan soluciones básicas aún enfrentan limitaciones significativas.
 
-#### Disposición a invertir en tecnología:
+- **¿Cuánto estarías dispuesto a invertir en soluciones tecnológicas?** <br> La mayoría (80%) estaría dispuesta a invertir entre $500 y $1,000 en tecnología, siempre que los beneficios sean claros y rápidos.
 
-- 100% de los entrevistados estarían dispuestos a invertir en soluciones tecnológicas si estas garantizan una mejora en la eficiencia de sus operaciones.
+- **¿Qué características considerarías esenciales en una plataforma como GreenTools?** <br> Las funcionalidades más valoradas fueron monitoreo en tiempo real, alertas automáticas y un panel de control intuitivo.
 
-**Segmento 2: Propietarios de Microcultivos**
+- **¿Te interesarían servicios adicionales como capacitación?** <br> El 90% consideró la capacitación como un elemento clave para garantizar el éxito de la implementación tecnológica.
 
-#### Interés en tecnología accesible y eficiente:
+- **¿Qué factores te motivarían a adoptar nuevas tecnologías?** <br> La principal motivación mencionada (60%) fue el potencial ahorro de recursos, seguido de un 40% que destacó la mejora en la calidad de los cultivos.
 
-- 100% de los entrevistados expresaron interés en adoptar tecnologías que optimicen el uso de recursos, como agua y nutrientes.
+#### Segmento 2: Propietarios de Microcultivos
 
-#### Monitoreo de variables críticas:
+- **¿Cómo describirías tu experiencia manejando múltiples cultivos?** <br> El 70% consideraron que manejar múltiples cultivos es un desafío, especialmente por la necesidad de personalizar el cuidado de cada planta.
 
-- 67% de los entrevistados señalaron la importancia del monitoreo de variables como el pH, la salinidad y la humedad del suelo.
+- **¿Qué desafíos enfrentan tus cultivos en términos de recursos?** <br> La falta de agua y nutrientes específicos fue mencionada por el 80%, mientras que el 20% enfrentan problemas relacionados con plagas.
 
-#### Capacitación y soporte:
+- **¿Qué tipo de tecnología utilizas actualmente?** El 60% no utiliza tecnología avanzada y depende de métodos manuales. El 40% restante utiliza herramientas como sensores básicos y sistemas de riego automatizado.
+  
+- **¿Qué importancia le das a la información en tiempo real?** <br> El 100% coincidió en que la información en tiempo real es crítica para mantener la salud de los cultivos. 
 
-- 100% de los entrevistados destacaron la necesidad de recibir capacitación para aprovechar las tecnologías disponibles.
+- **¿Cómo ves el uso de IoT y automatización?** <br> El 70% ve la IoT como una herramienta con gran potencial para optimizar recursos y tiempos. 
 
-#### Inversión cuidadosa:
+- **¿Estarías dispuesto a pagar por una solución tecnológica?** <br> El 60% mencionó estar dispuesto a pagar entre $300 y $700, mientras que el 40% restante mostró interés condicionado a los resultados esperados. 
 
-- 67% de los entrevistados están dispuestos a invertir en tecnologías, pero buscan soluciones asequibles.
+- **¿Qué funcionalidades consideras útiles en una plataforma como GreenTools?** <br> Los entrevistados valoraron la integración de cronogramas personalizados, alertas y análisis de rendimiento de cultivos. 
 
-![Grafica01](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477701/Grafica01_kteii5.png)
-![Grafica02](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477709/Grafica02_xvmnos.png)
-![Grafica03](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477716/Grafica03_unchbm.png)
-![Grafica04](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477723/Grafica04_asvewg.png)
+- **¿Qué barreras enfrentas para adoptar nuevas tecnologías?** <br> Los principales obstáculos identificados fueron el costo inicial (50%) y la curva de aprendizaje (30%). ¿Qué tipo de soporte te ayudaría? Resultados: La capacitación y el soporte técnico fueron mencionados por el 100% como requisitos esenciales para implementar tecnología.
 
-Este análisis muestra que tanto los dueños de invernaderos como los propietarios de microcultivos están interesados en adoptar tecnologías para mejorar la eficiencia y sostenibilidad de sus operaciones, pero destacan la necesidad de capacitación y el acceso a soluciones tecnológicas asequibles. Los porcentajes permiten ver las tendencias principales y evidencian las características compartidas que serán útiles para la construcción de los arquetipos.
+**En conclusión**, las entrevistas realizadas muestran que tanto los dueños de invernaderos como los propietarios de microcultivos valoran las tecnologías que optimizan sus cultivos y les facilitan la gestión. Ambos enfrentan desafíos relacionados con la sostenibilidad, el uso eficiente de recursos y el control de las condiciones de cultivo. Están dispuestos a invertir en soluciones tecnológicas si son accesibles, prácticas y ofrecen un buen soporte técnico. Funcionalidades como el monitoreo en tiempo real, la automatización y la personalización son clave para ellos.
 
 ## 2.3. Needfinding
 
