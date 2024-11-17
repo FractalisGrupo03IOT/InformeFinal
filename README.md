@@ -182,6 +182,15 @@ URL de nuestro repositorio para el Project Report: [Repositorio](https://github.
       - [6.2.2.6. Services Documentation Evidence for Sprint Review](#6226-services-documentation-evidence-for-sprint-review)
       - [6.2.2.7. Software Deployment Evidence for Sprint Review](#6227-software-deployment-evidence-for-sprint-review)
       - [6.2.2.8. Team Collaboration Insights during Sprint](#6228-team-collaboration-insights-during-sprint)
+    - [6.2.3. Sprint 3](#623-sprint-3)
+      - [6.2.3.1. Sprint Planning 3](#6231-sprint-planning-3)
+      - [6.2.3.2. Sprint Backlog 3](#6232-sprint-backlog-3)
+      - [6.2.3.3. Development Evidence for Sprint Review](#6233-development-evidence-for-sprint-review)
+      - [6.2.3.4. Testing Suite Evidence for Sprint Review](#6234-testing-suite-evidence-for-sprint-review)
+      - [6.2.3.5. Execution Evidence for Sprint Review](#6235-execution-evidence-for-sprint-review)
+      - [6.2.3.6. Services Documentation Evidence for Sprint Review](#6236-services-documentation-evidence-for-sprint-review)
+      - [6.2.3.7. Software Deployment Evidence for Sprint Review](#6237-software-deployment-evidence-for-sprint-review)
+      - [6.2.3.8. Team Collaboration Insights during Sprint](#6238-team-collaboration-insights-during-sprint)
 - [6.3. Validation Interviews](#63-validation-interviews)
   - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
   - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
@@ -3433,45 +3442,107 @@ En este Sprint, realizamos el despliegue de la **Landing Page**, **Web Applicati
 
 ---
 
-### 1. Embedded App
+#### 1. Embedded App
 
 ![Embedded App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637575/enddebed_b9igq4.png)
 
 - **Descripción de la colaboración:** Los miembros del equipo participaron activamente en la implementación de la Embedded App, como se observa en los commits realizados. Cada integrante contribuyó a mejorar la funcionalidad y optimización del código.
 
-### 2. Edge App
+#### 2. Edge App
 
 ![Edge App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730621597/informe_final_vfqqtr.png)
 
 - **Descripción de la colaboración:** La Edge App fue implementada en conjunto, con contribuciones regulares de todos los miembros en GitHub. Los analíticos muestran una colaboración balanceada, enfocándose en la integración y pruebas de la aplicación.
 
-### 3. API Gateway
+#### 3. API Gateway
 
 ![API Gateway Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637248/backend_jopdza.png)
 
 - **Descripción de la colaboración:** Se puede observar un esfuerzo conjunto en el desarrollo del API Gateway. Los miembros del equipo se dividieron tareas específicas, contribuyendo al diseño y optimización de los servicios de backend.
 
-### 4. Landing Page
+#### 4. Landing Page
 
 ![Landing Page Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637131/Captura_tdszpp.png)
 
 - **Descripción de la colaboración:** El desarrollo de la Landing Page fue un esfuerzo colaborativo. Los commits reflejan ajustes en el diseño y en la funcionalidad de la interfaz, asegurando que todos los miembros del equipo aportaron según su rol.
 
-### 5. App Mobile
+#### 5. App Mobile
 
 ![App Mobile Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730621500/Captura_hvgx4j.png)
 
 - **Descripción de la colaboración:** Para la App Mobile, el equipo se centró en la integración de nuevas características y en solucionar errores. La gráfica de commits en GitHub muestra una distribución equitativa de contribuciones.
 
-### 6. Web App
+#### 6. Web App
 
 ![Web App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730621500/Captura_hvgx4j.png)
 
 - **Descripción de la colaboración:** Todos los miembros contribuyeron a la Web App, participando en el diseño y en la optimización del rendimiento. Los analíticos muestran una alta actividad de commits, evidenciando la constante interacción del equipo.
 
-### 7. Informe Final
+#### 7. Informe Final
 
 ![Informe Final Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730621597/informe_final_vfqqtr.png)
+
+
+### 6.2.3. Sprint 3
+
+#### 6.2.3.1. Sprint Planning 3
+- **Objetivos del Sprint:**
+  - [ ] Desarrollar las funcionalidades X, Y y Z.
+  - [ ] Implementar pruebas automatizadas para los módulos correspondientes.
+  - [ ] Asegurar la integración de los servicios A y B.
+- **Historias de Usuario Seleccionadas:**
+  - Historia de Usuario 1: _[Nombre de la historia de usuario y detalles breves]_
+  - Historia de Usuario 2: _[Nombre de la historia de usuario y detalles breves]_
+
+#### 6.2.3.2. Sprint Backlog 3
+- **Lista de tareas seleccionadas para este Sprint:**
+  - [ ] Tarea 1: _[Descripción de la tarea]_
+  - [ ] Tarea 2: _[Descripción de la tarea]_
+  - [ ] Tarea 3: _[Descripción de la tarea]_
+
+#### 6.2.3.3. Development Evidence for Sprint Review
+- **Capturas de pantalla, videos o enlaces:**
+  - _[Evidencia de desarrollo de funcionalidades, ejemplo: capturas del sistema funcionando]_
+
+#### 6.2.3.4. Testing Suite Evidence for Sprint Review
+- **Resultados de pruebas automatizadas:**
+  - Total de pruebas ejecutadas: _X_
+  - Total de pruebas exitosas: _X_
+  - Total de fallas: _X_
+- **Cobertura de código:** 
+  - _[Porcentaje alcanzado, con evidencia como gráficos o informes]_.
+
+#### 6.2.3.5. Execution Evidence for Sprint Review
+- **Tiempos de ejecución y métricas:**
+  - _[Registrar tiempos de ejecución y resultados medibles de las funcionalidades implementadas]_.
+
+#### 6.2.3.6. Services Documentation Evidence for Sprint Review
+- **Documentación creada/actualizada:**
+  - _[Enlaces o capturas de la documentación de los servicios del sistema]_.
+
+#### 6.2.3.7. Software Deployment Evidence for Sprint Review
+- **Registro de despliegue:**
+  - Ambiente: _[Producción/Pruebas]_
+  - Fecha y hora: _[dd/mm/aaaa, hh:mm]_
+  - Evidencia: _[Logs, capturas, enlaces a entornos desplegados]_.
+
+#### 6.2.3.8. Team Collaboration Insights during Sprint
+- **Retroalimentación del equipo:**
+  - Lo que funcionó bien: 
+    - _[Breve resumen de lo positivo]_.
+  - Áreas de mejora: 
+    - _[Breve resumen de lo que necesita mejorar]_.
+  - Decisiones importantes tomadas: 
+    - _[Resumen de decisiones clave]_.
+
+
+
+
+
+
+
+
+
 
 ## 6.3. Validation Interviews
 
