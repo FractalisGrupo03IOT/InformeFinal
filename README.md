@@ -3490,10 +3490,9 @@ En este Sprint, realizamos el despliegue de la **Landing Page**, **Web Applicati
 | Sprint # | Sprint 3 |
 |----------|----------|
 | **User Story**      | **Work-Item / Task**                                                                                     |
-| **Id**  | **Title** | **Id**  | **Title**              | **Description**                           | **Estimation (Hours)** | **Assigned To** | **Status** |
+| **Id**  | **Title** | **Id**  | **Title**              | **Description**                           | **Estimation (Hours)** | **Assigned To** | **Status (To-do / In-Process / To-Review / Done)** |
 | US01    | Login     | T01     | Crear API de usuarios  | Desarrollar API REST para gestionar usuarios | 5                        | Juan Pérez      | To-do     |
 | US02    | Register  | T02     | Diseñar base de datos  | Crear modelo de base de datos según requisitos | 3                        | María López     | In-Process |
-
 
 - **Objetivos del Sprint:**
   - [ ] Desarrollar las funcionalidades X, Y y Z.
