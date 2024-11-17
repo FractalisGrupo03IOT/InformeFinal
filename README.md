@@ -3487,13 +3487,17 @@ En este Sprint, realizamos el despliegue de la **Landing Page**, **Web Applicati
 
 #### 6.2.3.1. Sprint Planning 3
 
-| Sprint # | Sprint n                                                                                                                                             
-               |
-|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **User Story**          | **Work-Item / Task**                                                |
-| **Id** | **Title**       | **Id** | **Title**              | **Description**                           | **Estimation (Hours)** | **Assigned To**       | **Status (To-do / In-Process / To-Review / Done)** |
-| US01    | Crear Usuario  | T01    | Crear API de usuarios  | Desarrollar API REST para gestionar usuarios | 5                       | Juan Pérez            | To-do          |
-| US02    | Base de Datos  | T02    | Diseñar base de datos  | Crear modelo de base de datos según requisitos | 3                       | María López           | In-Process     |
+| Sprint # | Sprint n                                                                                                                      |
+|----------|-------------------------------------------------------------------------------------------------------------------------------|
+| User Story                                   | Work-Item / Task                                                                         |
+|--------------------|-------------------------|------------------|--------------------|---------------------------------------|--------------------|-------------------|----------------|
+| Id                 | Title                  | Id               | Title              | Description                           | Estimation (Hours) | Assigned To       | Status         |
+|--------------------|-------------------------|------------------|--------------------|---------------------------------------|--------------------|-------------------|----------------|
+| US01               | Crear API de usuarios | T01              | API de usuarios    | Desarrollar API REST para usuarios    | 5                  | Juan Pérez        | To-do          |
+| US02               | Base de datos         | T02              | Diseñar base datos | Crear modelo de base de datos         | 3                  | María López       | In-Process     |
+
+
+
 
 
 - **Objetivos del Sprint:**
