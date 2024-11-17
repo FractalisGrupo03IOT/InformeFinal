@@ -219,7 +219,7 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 
 ### Franco Félix Yance Gutiérrez
 
-![Foto Franco Félix Yance Gutiérrez](https://media.discordapp.net/attachments/1282304254929010689/1282304307798081546/franco.jpg?ex=66dede73&is=66dd8cf3&hm=204a64c30aa310b6206a98e322eb6aec5934963cdeaf608197b2ea8bfdf78130&=&format=webp)
+![Foto Franco Félix Yance Gutiérrez](https://res.cloudinary.com/dzhdcho2g/image/upload/v1731766654/franco_mjkrsn.jpg)
 
 - **Nombre completo:** Yance Gutiérrez, Franco Félix
 - **Carrera:** Ingeniería de Software
@@ -230,7 +230,7 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 
 ### Jean Patrick Yemsi Sánchez Ríos
 
-![Foto Jean Patrick Yemsi Sánchez Ríos](https://media.discordapp.net/attachments/1282304254929010689/1282304307244306532/94036246_229317588318715_8422413077701459968_n.jpg?ex=66dede72&is=66dd8cf2&hm=c5c2ebe2f37fa4dd3254e4ea0161ef734e05c40d23187d153e5232f2b4fd1595&=&format=webp)
+![Foto Jean Patrick Yemsi Sánchez Ríos](https://res.cloudinary.com/dzhdcho2g/image/upload/v1731756984/patrick_x4ffuq.jpg)
 
 - **Nombre completo:** Sánchez Ríos, Jean Patrick Yemsi
 - **Carrera:** Ingeniería de Software
@@ -720,9 +720,9 @@ Para realizar un análisis de las entrevistas utilizando datos estadísticos, va
 
 Los User Personas son esenciales para el éxito de GreenTools para ofrecer soluciones personalizadas que aborden de manera eficaz los desafíos únicos de cada segmento objetivo. Desde la implementación de tecnologías IoT para dueños de invernaderos interesados en maximizar la eficiencia y sostenibilidad de sus cultivos, hasta la diversificación y optimización de recursos para propietarios de microcultivos, los User Personas guían el diseño de nuestra oferta, asegurando que responda con precisión a las demandas tanto de principiantes en la adopción tecnológica como de expertos que buscan innovación avanzada en sus operaciones agrícolas.
 
-![User01](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477808/US-Roberto_unjv7l.png)
+![User01](https://res.cloudinary.com/dpiz0lawn/image/upload/v1731822942/Roberto_Gomez_bhjpwe.png)
 
-![User02](https://res.cloudinary.com/dpiz0lawn/image/upload/v1727477830/US-Ana_dw2bko.png)
+![User02](https://res.cloudinary.com/dpiz0lawn/image/upload/v1731824790/Ana_Fernandez_oxvtfv.png)
 
 ### 2.3.2. User Task Matrix
 
