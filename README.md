@@ -262,7 +262,7 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 
 ### Lino Abraham Quenta León
 
-![Foto Lino Abraham Quenta León](https://media.discordapp.net/attachments/1228537935368945717/1282026507916677234/7afa87f0-059c-4ea8-98bf-2b9f74fd82fb.png?ex=66dddbba&is=66dc8a3a&hm=586155cecd320bdb58131d442b8d3ea2d3bd31ca62545daad526ae1cf54b7a09&=&format=webp&quality=lossless&width=313&height=417)
+![Foto Lino Abraham Quenta León](https://res.cloudinary.com/dbe3tjasl/image/upload/v1727498186/sada_dbt2xd.webp)
 
 - **Nombre completo:** Quenta León, Lino Abraham
 - **Carrera:** Ingeniería de Software
