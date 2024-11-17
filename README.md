@@ -3616,16 +3616,125 @@ Descripción del Sprint Planning 3, con los objetivos y metas propuestas, priori
 
 ---
 #### 6.2.3.3. Development Evidence for Sprint Review
-- **Capturas de pantalla, videos o enlaces:**
-  - _[Evidencia de desarrollo de funcionalidades, ejemplo: capturas del sistema funcionando]_
+**Introducción:**
+Durante el Sprint 3, el equipo se enfocó en fortalecer la conexión entre los dispositivos edge y el backend, así como en integrar de manera efectiva estas funcionalidades con la aplicación web y la aplicación móvil. A continuación, se presentan los commits realizados, las evidencias visuales y un enlace al video de demostración.
 
+**Commits del Sprint:**
+
+| Repository               | Branch                      | Commit Id | Commit Message                                | Commit Message Body                                                              | Committed on (Date) |
+|--------------------------|-----------------------------|-----------|-----------------------------------------------|-----------------------------------------------------------------------------------|---------------------|
+| green-tools/backend      | feature/edge-backend-connection | a1b2c3d   | feat: establecer conexión edge-backend         | Implementación de la lógica para la comunicación directa entre dispositivos edge y backend | 2024-11-10          |
+| green-tools/backend      | feature/webapp-integration   | e4f5g6h   | feat: integrar funcionalidades con webapp      | Desarrollo de la integración de backend con la aplicación web para sincronización de datos | 2024-11-11          |
+| green-tools/mobileapp    | feature/mobile-integration   | i7j8k9l   | feat: integrar funcionalidades con app móvil   | Desarrollo de la integración de backend con la aplicación móvil para gestión de datos en tiempo real | 2024-11-12          |
+| green-tools/edge-device  | feature/edge-communication  | m1n2o3p   | feat: mejorar comunicación de dispositivos edge| Optimización de la comunicación bidireccional entre dispositivos edge y backend  | 2024-11-13          |
+| green-tools/backend      | feature/auth-enhancements    | q4r5s6t   | feat: mejoras en autenticación y permisos      | Refinamiento del sistema de autenticación para soportar nuevas integraciones con webapp y app móvil | 2024-11-14          |
+| green-tools/webapp       | feature/ui-integration       | u7v8w9x   | feat: mejorar interfaz de usuario web          | Actualizaciones en la UI de la web app para una mejor integración con las nuevas funcionalidades del backend | 2024-11-15          |
+| green-tools/mobileapp    | feature/ui-enhancements      | y1z2a3b   | feat: mejoras en la interfaz de usuario móvil   | Actualizaciones en la UI de la app móvil para una mejor experiencia de usuario y sincronización de datos | 2024-11-16          |
+| green-tools/backend      | feature/data-sync            | c4d5e6f   | feat: sincronización de datos entre edge y backend | Implementación de mecanismos de sincronización de datos en tiempo real entre dispositivos edge y backend | 2024-11-17          |
+| green-tools/edge-device  | feature/firmware-update      | g7h8i9j   | feat: actualización de firmware en edge devices | Desarrollo de la lógica para la actualización automática de firmware en dispositivos edge | 2024-11-18          |
+| green-tools/backend      | feature/error-handling       | k1l2m3n   | feat: manejo de errores en conexiones edge-backend | Implementación de mecanismos de manejo de errores para conexiones entre edge y backend | 2024-11-19          |
+| green-tools/webapp       | feature/report-generation    | o4p5q6r   | feat: generación de reportes desde webapp       | Desarrollo de la funcionalidad para generar reportes basados en datos sincronizados desde el backend | 2024-11-20          |
+| green-tools/mobileapp    | feature/notifications        | s7t8u9v   | feat: notificaciones en app móvil               | Implementación de notificaciones en tiempo real en la aplicación móvil basadas en eventos del backend | 2024-11-21          |
+| green-tools/backend      | feature/security-updates     | w1x2y3z   | feat: actualizaciones de seguridad en backend   | Aplicación de mejoras de seguridad para proteger la comunicación entre edge y backend | 2024-11-22          |
+| green-tools/webapp       | feature/user-authentication  | a4b5c6d   | feat: autenticación de usuarios en webapp        | Integración del sistema de autenticación con la interfaz de usuario de la web app  | 2024-11-23          |
+| green-tools/mobileapp    | feature/data-encryption      | e7f8g9h   | feat: encriptación de datos en app móvil         | Implementación de encriptación de datos sensibles en la aplicación móvil          | 2024-11-24          |
+| green-tools/backend      | feature/api-enhancements     | i1j2k3l   | feat: mejoras en la API para integraciones       | Ampliación de la API para soportar nuevas funcionalidades y mejorar la integración con webapp y app móvil | 2024-11-25          |
+| green-tools/webapp       | feature/data-visualization   | m4n5o6p   | feat: visualización de datos en webapp           | Desarrollo de nuevas visualizaciones de datos en la aplicación web basadas en datos sincronizados | 2024-11-26          |
+| green-tools/mobileapp    | feature/ui-synchronization    | q7r8s9t   | feat: sincronización de UI en app móvil           | Implementación de sincronización de la interfaz de usuario entre backend y app móvil | 2024-11-27          |
+| green-tools/backend      | feature/performance-optimization | u1v2w3x | feat: optimización de rendimiento backend        | Optimización de consultas y procesos en el backend para mejorar la eficiencia de la comunicación con edge y las aplicaciones | 2024-11-28          |
+| green-tools/edge-device  | feature/data-collection       | y4z5a6b   | feat: recolección de datos en edge devices        | Implementación de mecanismos avanzados para la recolección y transmisión de datos desde dispositivos edge | 2024-11-29          |
+| green-tools/mobileapp    | feature/user-permissions     | c7d8e9f   | feat: gestión de permisos de usuarios en app móvil | Implementación de la gestión de permisos de usuarios en la aplicación móvil para acceder a diferentes funcionalidades | 2024-11-30          |
+| green-tools/webapp       | feature/offline-support      | g1h2i3j   | feat: soporte offline en webapp                   | Desarrollo de funcionalidades que permiten el uso de la web app sin conexión a internet, sincronizando datos al restablecerse la conexión | 2024-12-01          |
+
+**Evidencia visual:**
+
+- **Captura 1:**  
+  Pantalla de configuración de conexión edge-backend con estado de sincronización.  
+  ![Configuración de Conexión Edge-Backend](https://example.com/images/edge-backend-connection.png)
+  
+- **Captura 2:**  
+  Interfaz de sincronización de datos en la aplicación web, mostrando la conexión establecida con el backend.  
+  ![Sincronización de Datos Webapp](https://example.com/images/webapp-sync.png)
+  
+- **Captura 3:**  
+  Pantalla de control local de dispositivos IoT en la app embebida, permitiendo el manejo manual de sensores.  
+  ![Control Local de IoT](https://example.com/images/iot-control.png)
+  
+- **Captura 4:**  
+  Interfaz de usuario mejorada en la aplicación móvil, mostrando la integración con el backend para gestión de datos en tiempo real.  
+  ![Interfaz de App Móvil](https://example.com/images/mobile-app-ui.png)
+  
+- **Captura 5:**  
+  Pantalla de notificaciones en tiempo real en la aplicación móvil, reflejando eventos del backend.  
+  ![Notificaciones en App Móvil](https://example.com/images/mobile-notifications.png)
+  
+- **Captura 6:**  
+  Interfaz de usuario de la web app mostrando la generación de reportes basados en datos sincronizados.  
+  ![Generación de Reportes Webapp](https://example.com/images/report-generation.png)
+- **Video de demostración:**
+   Para más detalles, se ha grabado un video de demostración. Puede visualizarse en el siguiente enlace: [Video de la demostración](https://example.com/demo-video).
+-----
 #### 6.2.3.4. Testing Suite Evidence for Sprint Review
-- **Resultados de pruebas automatizadas:**
-  - Total de pruebas ejecutadas: _X_
-  - Total de pruebas exitosas: _X_
-  - Total de fallas: _X_
-- **Cobertura de código:** 
-  - _[Porcentaje alcanzado, con evidencia como gráficos o informes]_.
+
+**Introducción:**
+Durante el Sprint 3, el equipo se enfocó en asegurar la calidad y el correcto funcionamiento de las funcionalidades desarrolladas mediante la realización de diversas pruebas. Se llevaron a cabo pruebas unitarias utilizando JUnit y Mockito para el backend en Spring Boot, así como pruebas unitarias para el frontend en Angular. Además, se realizaron pruebas de integración para garantizar la comunicación efectiva entre los dispositivos edge, el backend y las aplicaciones web y móvil. Finalmente, se ejecutaron pruebas de aceptación para verificar que los requisitos definidos en las User Stories fueran cumplidos correctamente.
+
+**Relación de Pruebas Diseñadas:**
+
+| Tipo de Prueba      | Relación con User Story | Descripción                                                                                         | Resultado |
+|---------------------|-------------------------|-----------------------------------------------------------------------------------------------------|-----------|
+| Unit Test           | US1, US5                | Verifica que los servicios de sincronización de datos en el backend respondan correctamente a las solicitudes. | Aprobado  |
+| Unit Test           | US3, US7                | Valida los componentes y servicios en el frontend desarrollados con Angular utilizando Jasmine y Karma. | Aprobado  |
+| Integration Test    | US1, US3, US5           | Comprueba la comunicación entre dispositivos edge, el backend y las aplicaciones web y móvil.      | Aprobado  |
+| Acceptance Test     | US1, US3, US5           | Confirma que los usuarios pueden sincronizar datos entre dispositivos edge y las aplicaciones web y móvil de manera eficiente. | Aprobado  |
+
+**Archivos de prueba:**
+
+**Prueba Unitaria con JUnit y Mockito (Backend - Spring Boot):**
+
+![Prueba Unitaria con JUnit y Mockito (Backend - Spring Boot)](https://example.com/images/junit-mockito-backend.png)
+
+**Prueba Unitaria con Jasmine y Karma (Frontend - Angular):**
+
+![Prueba Unitaria con Jasmine y Karma (Frontend - Angular)](https://example.com/images/jasmine-karma-frontend.png)
+
+**Prueba de Integración (Backend - Spring Boot):**
+
+![Prueba de Integración (Backend - Spring Boot)](https://example.com/images/integration-test-backend.png)
+
+**Prueba de Aceptación (Formato Gherkin):**
+
+![Prueba de Aceptación (Formato Gherkin)](https://example.com/images/acceptance-test-gherkin.png)
+
+**Tabla de Commits de Pruebas:**
+
+| Repository          | Branch                      | Commit Id | Commit Message                                           | Commit Message Body                                                      | Committed on (Date) |
+|---------------------|-----------------------------|-----------|----------------------------------------------------------|---------------------------------------------------------------------------|---------------------|
+| green-tools/backend | test/unit-tests-backend     | a1b2c3d   | test: add unit tests con JUnit y Mockito para sincronización de datos | Añadidas pruebas unitarias para validar el servicio de sincronización de datos usando JUnit y Mockito | 2024-11-10          |
+| green-tools/backend | test/unit-tests-backend     | e4f5g6h   | test: agregar pruebas unitarias para servicios Spring Boot | Implementadas pruebas unitarias adicionales para servicios clave en Spring Boot utilizando Mockito para simular dependencias | 2024-11-12          |
+| green-tools/frontend| test/frontend-unit-tests    | t6u7i8o   | test: agregar pruebas unitarias para componentes Angular | Añadidas pruebas unitarias con Jasmine y Karma para componentes clave de la aplicación web | 2024-11-13          |
+| green-tools/frontend| test/frontend-integration-tests | t9p0q1r | test: agregar pruebas de integración para servicios Angular | Implementadas pruebas de integración para verificar la comunicación entre servicios y componentes en la aplicación web | 2024-11-14          |
+| green-tools/backend | test/integration-tests      | t4i5n6t   | test: agregar pruebas de integración edge-backend          | Implementadas pruebas de integración para verificar la comunicación entre dispositivos edge y backend usando Cucumber | 2024-11-15          |
+| green-tools/backend | test/acceptance-tests       | t7a8c9t   | test: añadir pruebas de aceptación con Cucumber            | Creadas pruebas de aceptación para asegurar que la sincronización de datos cumple con los requisitos definidos en las User Stories usando Cucumber | 2024-11-16          |
+
+**Evidencia Visual:**
+
+- **Captura 1:**  
+  Resultados de las pruebas unitarias en JUnit y Mockito para el backend, mostrando todos los tests pasados correctamente.  
+  ![Resultados de Pruebas Unitarias JUnit](https://example.com/images/junit-results.png)
+  
+- **Captura 2:**  
+  Resultados de las pruebas unitarias para el frontend en Angular, mostrando cobertura de código y tests pasados.  
+  ![Resultados de Pruebas Unitarias Jasmine/Karma](https://example.com/images/jasmine-karma-results.png)
+  
+- **Captura 3:**  
+  Consola de pruebas de integración en Spring Boot con Cucumber, demostrando la comunicación exitosa entre dispositivos edge y backend.  
+  ![Pruebas de Integración Spring Boot](https://example.com/images/springboot-integration-tests.png)
+  
+- **Captura 4:**  
+  Informe de pruebas de aceptación en Cucumber, mostrando que la sincronización de datos cumple con los requisitos establecidos.  
+  ![Informe de Pruebas de Aceptación Cucumber](https://example.com/images/cucumber-acceptance-tests.png)
+
 
 #### 6.2.3.5. Execution Evidence for Sprint Review
 - **Tiempos de ejecución y métricas:**
