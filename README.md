@@ -3489,13 +3489,10 @@ En este Sprint, realizamos el despliegue de la **Landing Page**, **Web Applicati
 
 | Sprint # | Sprint n                                                                                                                      |
 |----------|-------------------------------------------------------------------------------------------------------------------------------|
-| User Story                                   | Work-Item / Task                                                                         |
-|--------------------|-------------------------|------------------|--------------------|---------------------------------------|--------------------|-------------------|----------------|
-| Id                 | Title                  | Id               | Title              | Description                           | Estimation (Hours) | Assigned To       | Status         |
-|--------------------|-------------------------|------------------|--------------------|---------------------------------------|--------------------|-------------------|----------------|
-| US01               | Crear API de usuarios | T01              | API de usuarios    | Desarrollar API REST para usuarios    | 5                  | Juan Pérez        | To-do          |
-| US02               | Base de datos         | T02              | Diseñar base datos | Crear modelo de base de datos         | 3                  | María López       | In-Process     |
-
+| User Story ID | User Story Title   | Work-Item ID | Work-Item Title    | Description                           | Estimation (Hours) | Assigned To       | Status         |
+|--------------|---------------------|--------------|--------------------|---------------------------------------|--------------------|-------------------|----------------|
+| US01         | Crear API de usuarios | T01         | API de usuarios    | Desarrollar API REST para usuarios    | 5                  | Juan Pérez        | To-do          |
+| US02         | Base de datos        | T02          | Diseñar base datos | Crear modelo de base de datos         | 3                  | María López       | In-Process     |
 
 
 
