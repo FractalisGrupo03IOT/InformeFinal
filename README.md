@@ -3800,9 +3800,13 @@ Durante este sprint, nos enfocamos en desarrollar e integrar las funcionalidades
 
 ##### **Video de Demostración**
 
-- **Enlace al Video:** [Video de la demostración](https://upcedupe-my.sharepoint.com/personal/u20181e536_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181e536%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi572%2DWV71%2DFractalis%2Dentrevista%2Dtb1%20%2D%20View%2Donlyupc%2Dpre%2D202402%2Dsi572%2DWV71%2DFractalis%2DAppMovile%2DTF%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E04d6a5d0%2D1f7a%2D4e7b%2D9127%2D6e31a5057006)
-link: https://upcedupe-my.sharepoint.com/personal/u20181e536_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181e536%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi572%2DWV71%2DFractalis%2Dentrevista%2Dtb1%20%2D%20View%2Donlyupc%2Dpre%2D202402%2Dsi572%2DWV71%2DFractalis%2DAppMovile%2DTF%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E04d6a5d0%2D1f7a%2D4e7b%2D9127%2D6e31a5057006
+- **Enlace al Video APP MOVIL:** [Video de la demostración](https://upcedupe-my.sharepoint.com/personal/u20181e536_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181e536%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi572%2DWV71%2DFractalis%2Dentrevista%2Dtb1%20%2D%20View%2Donlyupc%2Dpre%2D202402%2Dsi572%2DWV71%2DFractalis%2DAppMovile%2DTF%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E04d6a5d0%2D1f7a%2D4e7b%2D9127%2D6e31a5057006)
 - **Duración:** 5:30.
+- **LINK:** : https://upcedupe-my.sharepoint.com/personal/u20181e536_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181e536%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi572%2DWV71%2DFractalis%2Dentrevista%2Dtb1%20%2D%20View%2Donlyupc%2Dpre%2D202402%2Dsi572%2DWV71%2DFractalis%2DAppMovile%2DTF%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E04d6a5d0%2D1f7a%2D4e7b%2D9127%2D6e31a5057006
+---------
+- **Enlace al Video WEB APP:** [Video de la demostración](https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Flanding%20y%20web%2FVideo%20del%20WebAPP%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3dcdfc73%2Df3ab%2D41f7%2D86d6%2D7550503d309c )
+- **Enlace al Video WEB APP:**:https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Flanding%20y%20web%2FVideo%20del%20WebAPP%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3dcdfc73%2Df3ab%2D41f7%2D86d6%2D7550503d309c 
+- **Duración:** 4:30.
 
 **Contenido del Video:**
 - Navegación por el dashboard de la aplicación web con gráficos interactivos.
@@ -3952,9 +3956,6 @@ Los servicios implementados en el **Edge API** cumplen con los objetivos del Spr
 ---
 
 ### 6.2.3.7. Software Deployment Evidence for Sprint Review
-
----
-
 ##### **Introducción**
 
 Durante este sprint, completamos y desplegamos los principales componentes del ecosistema **GreenTools**, garantizando que todos los servicios estén operativos en sus entornos designados. Esto incluye la integración de bases de datos en **Railway** utilizando **MySQL**, permitiendo la persistencia y gestión eficiente de datos.
@@ -4013,7 +4014,6 @@ El **API Backend Central** gestiona la lógica de negocio principal del sistema,
     ![API Backend Database Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949899/WhatsApp_Image_2024-11-18_at_11.32.38_AM_khc2sj.jpg)
 
 ---
-
 ##### **3. Landing Page**
 
 La **Landing Page** ofrece una introducción a **GreenTools**, presentando información clave para usuarios potenciales.
@@ -4024,7 +4024,7 @@ La **Landing Page** ofrece una introducción a **GreenTools**, presentando infor
   - Formulario de contacto para soporte y solicitudes.
 - **Evidencia Visual:**
   - Captura de la Landing Page:  
-    ![Landing Page Deployment]()
+    ![Landing Page Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731951369/landing_page_rlanrh.png)
 
 ---
 
@@ -4039,9 +4039,9 @@ La **Web App** permite a los usuarios gestionar sus estaciones y cultivos desde 
   - Creación de alertas personalizadas.
 - **Evidencia Visual:**
   - Captura de la configuracion del Deploy Web App:  
-    ![Landing Page Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949902/WhatsApp_Image_2024-11-18_at_11.34.32_AM_y267q6.jpg)
+    ![Web app Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949902/WhatsApp_Image_2024-11-18_at_11.34.32_AM_y267q6.jpg)
   - Captura de Estadisitica de trafico de la Web App:  
-    ![Landing Page Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949900/WhatsApp_Image_2024-11-18_at_11.33.29_AM_xfmdz9.jpg)
+    ![WEB APP Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949900/WhatsApp_Image_2024-11-18_at_11.33.29_AM_xfmdz9.jpg)
 ---
 
 ##### **5. APK en Firebase Distribution**
