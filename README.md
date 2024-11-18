@@ -272,7 +272,7 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 
 ### Giovanni Andrés Ramos Calderón
 
-![Foto Giovanni Andrés Ramos Calderón](https://media.discordapp.net/attachments/1280405882517196875/1282200057986420777/image.png?ex=66de7d5b&is=66dd2bdb&hm=9a9bd990d00a6e9ae32c3d1b9479d5358e36c91d9a4eaf766329e631f5ed4e57&=&format=webp&quality=lossless&width=481&height=603)
+![Foto Giovanni Andrés Ramos Calderón](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727499034/WhatsApp_Image_2024-09-03_at_6.24.05_PM_mpkkj3.jpg){width=50%}
 
 - **Nombre completo:** Giovanni Andrés Ramos Calderón
 - **Carrera:** Ingeniería de Software
@@ -366,19 +366,11 @@ GreenTools sigue validando su efectividad en cultivos específicos a través de 
 
 ### 1.2.2.1. Lean UX Problem Statements
 
-El estado actual del monitoreo agrícola está limitado a herramientas manuales o procesos tradicionales, que no permiten una respuesta eficiente ante variaciones críticas en las condiciones del cultivo (como temperatura, humedad y luz solar). Esto genera desperdicio de recursos, baja calidad en los cultivos y dificultades para adaptarse a las necesidades del mercado.
+Nuestra solución IoT para monitoreo agrícola fue diseñada para lograr un monitoreo eficiente y proactivo de las condiciones agrícolas, optimizar los ciclos de cultivo y reducir pérdidas debido a factores ambientales adversos, brindando un mayor rendimiento por hectárea, reducción de desperdicio de recursos y una mejor calidad de los cultivos.
 
-Lo que los productos/servicios existentes no abordan es la necesidad de un sistema integrado y automatizado que combine IoT y análisis en tiempo real para monitorear y optimizar los ciclos agrícolas. Además, no consideran la importancia de una plataforma centralizada para gestionar estos datos y tomar decisiones basadas en ellos.
+Hemos observado que los usuarios aún dependen parcialmente de procesos manuales y tradicionales, además de enfrentar dificultades para interpretar los datos proporcionados por la plataforma de manera práctica y rápida, lo que está causando baja adopción sostenida del sistema, pérdidas económicas asociadas a decisiones tardías o incorrectas y una subutilización de las herramientas de monitoreo en web y móvil.
 
-Nuestro producto/servicio abordará estas carencias mediante una solución IoT que permita un monitoreo proactivo y automatizado de las condiciones del cultivo, con sensores avanzados conectados a una plataforma web y móvil. Esta solución integrará visualizaciones claras y notificaciones automáticas, ayudando a los agricultores a optimizar el rendimiento de sus cultivos y reducir el impacto de variaciones ambientales inesperadas.
-
-Nuestro objetivo inicial será agricultores con operaciones medianas que busquen mejorar la eficiencia de sus procesos y optimizar la calidad de sus productos agrícolas.
-
-Sabremos que hemos tenido éxito cuando veamos que los usuarios:
-
-- Reduzcan las pérdidas de cultivo asociadas a condiciones ambientales adversas en al menos un 20%.
-- Incrementen el rendimiento promedio por hectárea al usar la plataforma en al menos un 15%.
-  Usen regularmente las herramientas de monitoreo en la web y la aplicación móvil, con una retención activa del 80% a los tres meses.
+¿Cómo podríamos mejorar la solución IoT para que nuestros clientes tengan más éxito según lo determinen un incremento en la retención activa del 80% a los tres meses, una reducción de pérdidas de cultivos en un 20% y un aumento del rendimiento por hectárea del 15%?
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -2832,7 +2824,6 @@ En el Sprint 1, colaboramos para definir claramente los objetivos y trabajar de 
 
 | Sprint # | Sprint 01 |
 | -------- | --------- |
-
 | Sprint Planning Background
 | Date | 2024-09-15 |
 | Time | 09:00 AM |
@@ -2846,12 +2837,10 @@ En el Sprint 1, colaboramos para definir claramente los objetivos y trabajar de 
 | Sprint n Velocity | 28 Story Points |
 | Sum of Story Points | 28 Story Points |
 
-#### 6.2.1.2. Sprint Backlog n
+#### 6.2.1.2. Sprint Backlog 1
 
-| Sprint #       | Sprint 01                            |
-| -------------- | ------------------------------------ | ------ | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | --------------- | ------------------------------------------------ |
-| **User Story** | **Work-Item / Task**                 |
-| **Id**         | **Title**                            | **Id** | **Title**                     | **Description**                                                                                                                                       | **Estimation (Hours)** | **Assigned To** | **Status (To-do / InProcess / ToReview / Done)** |
+| User Story | User Story Title                                 | Task ID | Task Title                                       | Description                                                  | Estimation (Hours) | Assigned To | Status |
+| ---------- | ------------------------------------------------ | ------- | ------------------------------------------------ | ------------------------------------------------------------ | ------------------ | ----------- | ------ |
 | EP1/US1        | Crear Encabezado Principal           | W01    | Diseño del Encabezado         | Crear el encabezado visual principal con el título "GreenTools: La Revolución en Cultivos Controlados de Precisión".                                  | 8                      | Lino Quenta     | Done                                             |
 | EP1/US2        | Mostrar Beneficios Clave             | W02    | Implementación de Beneficios  | Añadir y configurar la sección de beneficios clave para atraer a los usuarios y explicar por qué elegir GreenTools.                                   | 10                     | Franco Yance    | Done                                             |
 | EP1/US3        | Destacar Características Clave       | W03    | Desarrollo de Características | Implementar la sección de características clave, mostrando las principales capacidades del sistema.                                                   | 6                      | Giovanni Andrés | Done                                             |
