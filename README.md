@@ -272,7 +272,7 @@ Fractalis es una startup dedicada a transformar la agricultura mediante la innov
 
 ### Giovanni Andrés Ramos Calderón
 
-![Foto Giovanni Andrés Ramos Calderón](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1727499034/WhatsApp_Image_2024-09-03_at_6.24.05_PM_mpkkj3.jpg){width=100px}
+![Foto Giovanni Andrés Ramos Calderón](https://res.cloudinary.com/dwnwqhpqs/image/upload/t_small_image/v1727499034/WhatsApp_Image_2024-09-03_at_6.24.05_PM_mpkkj3.jpg)
 
 - **Nombre completo:** Giovanni Andrés Ramos Calderón
 - **Carrera:** Ingeniería de Software
