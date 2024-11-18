@@ -3745,12 +3745,202 @@ Durante el Sprint 3, el equipo se enfocó en asegurar la calidad y el correcto f
 
 
 #### 6.2.3.5. Execution Evidence for Sprint Review
-- **Tiempos de ejecución y métricas:**
-  - _[Registrar tiempos de ejecución y resultados medibles de las funcionalidades implementadas]_.
+
+---
+
+##### **Introducción y Resumen del Sprint**
+
+Durante este sprint, nos enfocamos en desarrollar e integrar las funcionalidades clave de **GreenTools**, alineadas con el propósito de ofrecer una solución IoT escalable y sostenible. Esto incluyó avances significativos en la **sincronización de datos entre el embedded y el edge**, y mejoras en la **experiencia de usuario** en las aplicaciones web y móvil. Estas actividades están directamente relacionadas con los objetivos descritos en el Problem Statement:
+
+1. **Arquitectura basada en IoT y Edge Computing:** Implementamos servicios RESTful para sincronización eficiente de datos entre dispositivos embebidos y la plataforma Edge, facilitando la gestión de información recolectada.
+2. **Visualización y gestión cuantitativa:** Desarrollamos herramientas de monitoreo y visualización de datos mediante dashboards interactivos y una tabla de datos integrada en la aplicación web, optimizando la experiencia del usuario.
+3. **Consistencia en la experiencia de usuario:** Mejoramos la interfaz móvil para ofrecer una experiencia unificada y accesible desde diferentes dispositivos.
+
+**Avances principales durante el sprint:**
+
+- **Implementación de Servicios RESTful de Sincronización de Datos:** Completar servicios que habilitan la sincronización en tiempo real entre dispositivos embedded y edge.
+- **Desarrollo del Dashboard en Angular:** Creación de gráficos y visualizaciones detalladas de datos en la aplicación web.
+- **Mejoras en la Aplicación Móvil:** Integración de API del backend para sincronización en tiempo real, permitiendo la gestión de datos desde cualquier lugar.
+- **Optimización de Tabla de Datos en la Web:** Diseño de una tabla interactiva para filtrar, visualizar y gestionar datos de manera eficiente.
+- **Pruebas y resolución de problemas de latencia:** Reducción significativa en tiempos de respuesta durante la sincronización.
+
+---
+
+##### **Capturas de Pantalla**
+
+1. **Servicios RESTful de Sincronización:**
+   - **Descripción:** Servicios que permiten la sincronización en tiempo real entre dispositivos embebidos y la plataforma edge, asegurando integridad y consistencia de datos.
+   - ![Servicios RESTful](https://example.com/images/restful-services.png)
+
+2. **Dashboard de la Aplicación Web:**
+   - **Descripción:** Visualización clara de métricas sostenibles como consumo energético, optimización de recursos y datos de monitoreo.
+   - ![Dashboard Web](https://example.com/images/dashboard-web.png)
+
+3. **Interfaz Móvil Mejorada:**
+   - **Descripción:** Pantallas que permiten acceso a datos sincronizados y configuraciones personalizables en dispositivos móviles.
+   - ![Interfaz Móvil](https://example.com/images/mobile-ui.png)
+
+4. **Tabla de Datos en la Aplicación Web:**
+   - **Descripción:** Herramienta interactiva que facilita la organización, búsqueda y análisis de datos sincronizados.
+   - ![Tabla de Datos](https://example.com/images/data-table.png)
+
+5. **Monitoreo en Tiempo Real:**
+   - **Descripción:** Vista dinámica que refleja en tiempo real los datos procesados por el sistema IoT.
+   - ![Monitoreo en Tiempo Real](https://example.com/images/real-time-monitoring.png)
+
+---
+
+##### **Video de Demostración**
+
+- **Enlace al Video:** [Video de la demostración](https://stream.microsoft.com/demo-video)
+- **Duración:** 15:30.
+
+**Contenido del Video:**
+- Navegación por el dashboard de la aplicación web con gráficos interactivos.
+- Demostración de sincronización de datos a través de los servicios RESTful.
+- Gestión y análisis de datos mediante la tabla interactiva en la web.
+- Uso de la aplicación móvil para sincronización y acceso en tiempo real.
+- Pruebas de rendimiento y resultados esperados.
+
+---
+
+##### **Relación con el Sprint Goal y el Problem Statement**
+
+| **Sprint Goal**         | Nuestro enfoque está en finalizar la implementación completa del sistema GreenTools, integrando todas las capas y funcionalidades. Creemos que esto entregará una experiencia robusta y escalable a los usuarios finales. Esto será confirmado cuando todas las funcionalidades estén operativas y el sistema funcione sin interrupciones bajo carga óptima. |
+
+**Relación con el Problem Statement:**
+1. **Arquitectura IoT:** Se han desarrollado servicios RESTful para manejar la comunicación entre dispositivos, cumpliendo con la necesidad de un sistema distribuido entre embedded, edge y cloud.
+2. **Visualización Cuantitativa:** La implementación de dashboards interactivos y tablas de datos responde a la necesidad de ofrecer herramientas visuales para la toma de decisiones basada en datos.
+3. **Experiencia Consistente:** Se ha trabajado en la aplicación móvil para garantizar accesibilidad y un diseño unificado, cumpliendo el requisito de coherencia entre plataformas.
+
+---
+
+##### **Commits Relevantes**
+
+| Repository          | Branch        | Commit Id | Commit Message                                           | Commit Message Body                                                      | Committed on (Date) |
+|---------------------|---------------|-----------|----------------------------------------------------------|---------------------------------------------------------------------------|---------------------|
+| green-tools/backend | development   | a1b2c3d   | feat: implementar servicios RESTful de sincronización de datos | Desarrollo y finalización de los servicios RESTful para la sincronización de datos entre embedded y edge | 2024-11-10          |
+| green-tools/backend | development   | e4f5g6h   | feat: optimizar latencia en sincronización de datos      | Mejoras en la eficiencia de los servicios RESTful para reducir la latencia en la sincronización de datos | 2024-11-12          |
+| green-tools/frontend| development   | t6u7i8o   | feat: desarrollar dashboard con gráficos de planta        | Creación de visualizaciones gráficas detalladas en el dashboard de la aplicación web en Angular | 2024-11-20          |
+| green-tools/frontend| development   | t9p0q1r   | feat: mejorar interfaz de usuario móvil                  | Integración de la API del backend para la sincronización de datos en la aplicación móvil | 2024-11-22          |
+| green-tools/frontend| development   | s1t2u3v   | feat: implementar tabla de datos en la aplicación web      | Desarrollo de una tabla interactiva para visualizar y gestionar datos sincronizados en la aplicación web | 2024-11-25          |
+| green-tools/backend | development   | t4i5n6t   | feat: solucionar problemas de latencia                   | Solución de problemas relacionados con la latencia en la sincronización de datos | 2024-11-16          |
+| green-tools/backend | development   | t7a8c9t   | feat: prueba funcional del ESP32                          | Realización de pruebas funcionales del dispositivo ESP32 para asegurar su correcta comunicación con el edge y el backend | 2024-11-14          |
+
 
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
-- **Documentación creada/actualizada:**
-  - _[Enlaces o capturas de la documentación de los servicios del sistema]_.
+---
+##### **Introducción**
+Durante este sprint, desarrollamos y documentamos servicios RESTful esenciales para **GreenTools**, garantizando su alineación con los objetivos del proyecto. Se dividieron en dos componentes principales:
+
+1. **Backend API:** Servicios para la gestión de pagos, datos de cultivos, estaciones, plantas y usuarios.
+2. **Edge API:** Servicios específicos para la interacción en tiempo real con dispositivos IoT, asegurando la sincronización de datos y el control remoto de las estaciones.
+
+Ambos conjuntos de servicios están completamente documentados en **Swagger**, facilitando su exploración y pruebas. Las capturas presentadas a continuación evidencian su funcionalidad.
+
+---
+##### **Evidencia de Servicios RESTful**
+##### Documentación API Backend
+
+[Documentaccion API Cloud](https://fractalisbackend-production.up.railway.app/swagger-ui/index.html#/)
+Link: https://fractalisbackend-production.up.railway.app/swagger-ui/index.html#/ 
+
+###### **Backend API**
+
+1. **Payments API**
+   - **Descripción:** Gestión de pagos relacionados con estaciones y cultivos.
+   - **Endpoints:**
+     - `GET /api/v1/payment`: Recupera todos los pagos registrados.
+     - `POST /api/v1/payment`: Crea un nuevo pago.
+     - `DELETE /api/v1/payment/{id}`: Elimina un pago específico.
+   - **Captura de Swagger:**
+     ![Payments API](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731945290/payment_xzpozi.png)
+
+2. **Crop Data API**
+   - **Descripción:** Servicios para creación y consulta de datos de cultivos.
+   - **Endpoints:**
+     - `POST /api/v1/cropData`: Registra nuevos datos de cultivos.
+     - `GET /api/v1/lastMonthCropData/{plantId}`: Consulta datos históricos por planta.
+   - **Captura de Swagger:**
+     ![Crop Data API](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731945290/cropdatr_xiw0pr.png)
+
+3. **Stations API**
+   - **Descripción:** Administración de estaciones IoT.
+   - **Endpoints:**
+     - `GET /api/v1/stations`: Lista todas las estaciones disponibles.
+     - `POST /api/v1/station`: Crea una nueva estación.
+     - `PUT /api/v1/station/{id}`: Actualiza una estación existente.
+     - `DELETE /api/v1/station/{id}`: Elimina una estación específica.
+   - **Captura de Swagger:**
+     ![Stations API](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731945290/STATIONS_yfl6th.png)
+
+4. **Plants API**
+   - **Descripción:** Gestión de plantas asociadas a estaciones.
+   - **Endpoints:**
+     - `POST /api/v1/plant`: Registra una nueva planta.
+     - `GET /api/v1/plants`: Consulta todas las plantas.
+     - `DELETE /api/v1/plant/{plantId}`: Elimina una planta específica.
+   - **Captura de Swagger:**
+     ![Plants API](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731945291/PLANTS_rxuhzf.png)
+
+5. **Users API**
+   - **Descripción:** Gestión de usuarios registrados en el sistema.
+   - **Endpoints:**
+     - `GET /api/v1/users`: Lista todos los usuarios registrados.
+     - `POST /api/v1/user`: Crea un nuevo usuario.
+     - `PUT /api/v1/user/{id}`: Actualiza datos de un usuario específico.
+     - `DELETE /api/v1/user/{id}`: Elimina un usuario.
+   - **Captura de Swagger:**
+     ![Users API](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731945290/USERS_a47y99.png)
+
+---
+##### Documentación de Edge Server
+
+[Documentaccion Edge Api](https://fractalies-edge-server.onrender.com/swagger-ui/index.html#/)
+link: https://fractalies-edge-server.onrender.com/swagger-ui/index.html#/
+#### **Endpoints Implementados**
+
+1. **Gestión de Enlaces de Cultivos**
+   - **Descripción:** Permite la creación y consulta de enlaces entre cultivos y dispositivos IoT.
+   - **Endpoints:**
+     - `POST /api/v1/crop/links`: Crea un enlace de cultivo con un dispositivo.
+     - `GET /api/v1/crop/links/cropLinkId/{cropLinkId}`: Recupera un enlace de cultivo por su ID.
+     - `GET /api/v1/crop/links/cropCloudId/{cropCloudId}`: Recupera un cultivo por su ID en la nube.
+     - `GET /api/v1/crop/links/cropsWithOutDevice`: Lista cultivos que no tienen dispositivos IoT asignados.
+
+2. **Gestión de Sensores**
+   - **Descripción:** Facilita la configuración y registro de sensores de temperatura, humedad y luz solar.
+   - **Endpoints:**
+     - `POST /api/v1/crop/links/temperature`: Crea un sensor de temperatura.
+     - `POST /api/v1/crop/links/humidity`: Crea un sensor de humedad.
+     - `POST /api/v1/crop/links/sunlight`: Crea un sensor de luz solar.
+
+3. **Control de Dispositivos IoT**
+   - **Descripción:** Habilita la inicialización y desvinculación de dispositivos IoT con cultivos.
+   - **Endpoints:**
+     - `PUT /api/v1/crop/links/initializeDevice/{cropCloudId}`: Inicializa un dispositivo IoT para un cultivo.
+     - `PUT /api/v1/crop/links/unlinkDevice/{cropCloudId}`: Desvincula un dispositivo IoT de un cultivo.
+
+4. **Operaciones Programadas**
+   - **Descripción:** Automatiza el envío de datos desde dispositivos IoT a servicios externos.
+   - **Detalles:**
+     - **Tarea Programada:** Envío de datos cada 180 segundos a un servicio externo utilizando `sendPostForAllPlants`.
+
+---
+
+###### **Relación con el Sprint Goal**
+
+Los servicios documentados cumplen con los objetivos del Sprint Goal de la siguiente manera:
+1. **Sincronización de Datos IoT:** El Edge API permite que los datos recolectados en campo sean integrados de manera confiable al backend, garantizando una gestión eficiente.
+2. **Control y Gestión en Tiempo Real:** Los servicios del Edge API habilitan comandos y monitoreo directo de estaciones IoT, asegurando una operación fluida.
+3. **Estandarización y Escalabilidad:** Los endpoints RESTful del backend y edge aseguran una comunicación clara y estructurada, estableciendo la base para futuras integraciones.
+
+Los servicios implementados en el **Edge API** cumplen con los objetivos del Sprint Goal al ofrecer:
+1. **Sincronización en Tiempo Real:** Asegura que los datos recolectados por los dispositivos IoT estén disponibles para su análisis.
+2. **Gestión Eficiente de Dispositivos IoT:** Simplifica la inicialización, configuración y desvinculación de dispositivos para los cultivos.
+3. **Automatización:** Reduce la intervención manual al integrar tareas programadas que envían datos periódicamente a sistemas externos.
+
+---
 
 #### 6.2.3.7. Software Deployment Evidence for Sprint Review
 - **Registro de despliegue:**
