@@ -3743,11 +3743,11 @@ Durante el Sprint 3, el equipo se enfocó en asegurar la calidad y el correcto f
   Informe de pruebas de aceptación en Cucumber, mostrando que la sincronización de datos cumple con los requisitos establecidos.  
   ![Informe de Pruebas de Aceptación Cucumber](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731935022/CAPTURA_ACEPTANCE_dfbkgv.png)
 
+----
+
 
 #### 6.2.3.5. Execution Evidence for Sprint Review
-
 ---
-
 ##### **Introducción y Resumen del Sprint**
 
 Durante este sprint, nos enfocamos en desarrollar e integrar las funcionalidades clave de **GreenTools**, alineadas con el propósito de ofrecer una solución IoT escalable y sostenible. Esto incluyó avances significativos en la **sincronización de datos entre el embedded y el edge**, y mejoras en la **experiencia de usuario** en las aplicaciones web y móvil. Estas actividades están directamente relacionadas con los objetivos descritos en el Problem Statement:
@@ -3770,24 +3770,26 @@ Durante este sprint, nos enfocamos en desarrollar e integrar las funcionalidades
 
 1. **Servicios RESTful de Sincronización:**
    - **Descripción:** Servicios que permiten la sincronización en tiempo real entre dispositivos embebidos y la plataforma edge, asegurando integridad y consistencia de datos.
-   - ![Servicios RESTful](https://example.com/images/restful-services.png)
-
+   - ![Servicios RESTful](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731947775/edge_btqe1b.png)
+   - ![Servicios RESTful](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731948048/crop_data_oj8bkh.png)
 2. **Dashboard de la Aplicación Web:**
    - **Descripción:** Visualización clara de métricas sostenibles como consumo energético, optimización de recursos y datos de monitoreo.
-   - ![Dashboard Web](https://example.com/images/dashboard-web.png)
+   - ![Dashboard Web](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731947777/DASHBOARD_ngghg6.png)
 
 3. **Interfaz Móvil Mejorada:**
    - **Descripción:** Pantallas que permiten acceso a datos sincronizados y configuraciones personalizables en dispositivos móviles.
-   - ![Interfaz Móvil](https://example.com/images/mobile-ui.png)
+   - ![Interfaz Móvil](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731947776/WhatsApp_Image_2024-11-01_at_9.19.25_PM_l4ylsz.jpg)
+   - ![Interfaz Móvil](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731947776/WhatsApp_Image_2024-11-01_at_9.19.25_PM_l4ylsz.jpg)
 
 4. **Tabla de Datos en la Aplicación Web:**
    - **Descripción:** Herramienta interactiva que facilita la organización, búsqueda y análisis de datos sincronizados.
-   - ![Tabla de Datos](https://example.com/images/data-table.png)
+   - ![Tabla de Datos](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731947775/TABLA_DE_DATOS_uqat2k.png)
 
 5. **Monitoreo en Tiempo Real:**
-   - **Descripción:** Vista dinámica que refleja en tiempo real los datos procesados por el sistema IoT.
-   - ![Monitoreo en Tiempo Real](https://example.com/images/real-time-monitoring.png)
-
+   - **Descripción:** Vista dinámica que refleja en tiempo real los datos procesados por el sistema IoT fisico enviando datos al edge.
+   - ![Monitoreo en Tiempo Real](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731947776/WhatsApp_Image_2024-11-18_at_9.57.36_AM_iorudc.jpg)
+   - ![Monitoreo en Tiempo Real](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731948137/WhatsApp_Image_2024-11-18_at_11.42.00_AM_eojlb3.jpg)
+   - ![Monitoreo en Tiempo Real](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731948048/WhatsApp_Image_2024-11-18_at_11.40.14_AM_yzlxj1.jpg)
 ---
 
 ##### **Video de Demostración**
@@ -3827,7 +3829,7 @@ Durante este sprint, nos enfocamos en desarrollar e integrar las funcionalidades
 | green-tools/backend | development   | t4i5n6t   | feat: solucionar problemas de latencia                   | Solución de problemas relacionados con la latencia en la sincronización de datos | 2024-11-16          |
 | green-tools/backend | development   | t7a8c9t   | feat: prueba funcional del ESP32                          | Realización de pruebas funcionales del dispositivo ESP32 para asegurar su correcta comunicación con el edge y el backend | 2024-11-14          |
 
-
+----
 #### 6.2.3.6. Services Documentation Evidence for Sprint Review
 ---
 ##### **Introducción**
