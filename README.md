@@ -3989,8 +3989,8 @@ El **Edge API** fue desplegado en dispositivos IoT y conectado a la base de dato
 - **Evidencia Visual:**
   - Captura del Edge en operación:  
     ![Edge Deployment](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621309/edge_sqllzf.png)
-  - Configuración de la base de datos en Railway:  
-    ![Edge Database Deployment](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621309/edge_sqllzf.png)
+  - Log del Edge en operación:  
+    ![Edge Database Deployment](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621513/edgeLogs_l1omxm.jpg)
 ---
 
 ##### **2. API Backend Central**
@@ -4041,7 +4041,7 @@ La **Web App** permite a los usuarios gestionar sus estaciones y cultivos desde 
   - Captura de la configuracion del Deploy Web App:  
     ![Web app Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949902/WhatsApp_Image_2024-11-18_at_11.34.32_AM_y267q6.jpg)
   - Captura de Estadisitica de trafico de la Web App:  
-    ![WEB APP Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949900/WhatsApp_Image_2024-11-18_at_11.33.29_AM_xfmdz9.jpg)
+    ![WEB APP Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949901/WhatsApp_Image_2024-11-18_at_11.34.02_AM_xubfu0.jpg)
 ---
 
 ##### **5. APK en Firebase Distribution**
@@ -4070,8 +4070,7 @@ Ambos sistemas (Backend y Edge) utilizan bases de datos **MySQL** hospedadas en 
 2. **Base de Datos del Edge API:**
    - **Descripción:** Contiene datos temporales y logs generados por dispositivos IoT y tareas programadas.
    - **Evidencia Visual:**  
-     ![Edge Database Deployment](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621309/edge_sqllzf.png)
-
+     ![Edge Database Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731951952/database_bwjtku.png)
 ---
 
 ##### **Relación con el Sprint Goal**
@@ -4080,15 +4079,8 @@ El despliegue completo de estos componentes asegura:
 1. **Interoperabilidad Total:** Los sistemas funcionan en conjunto, desde el Edge hasta las interfaces de usuario, garantizando una experiencia fluida para los usuarios.
 2. **Gestión Eficiente de Datos:** Las bases de datos MySQL permiten una gestión robusta de información, respaldando la escalabilidad del sistema.
 3. **Accesibilidad:** Las interfaces (Web y APK) están disponibles para usuarios finales, permitiendo una interacción óptima con el sistema.
-
----
-
-##### **Conclusión**
-
 La evidencia presentada valida el despliegue exitoso de los componentes de **GreenTools** en sus respectivos entornos. Este logro asegura que el sistema esté listo para pruebas y uso real, alineado con los objetivos del Sprint Goal y el Problem Statement.
-
-
-
+------
 #### 6.2.3.8. Team Collaboration Insights during Sprint
 - **Retroalimentación del equipo:**
   - Lo que funcionó bien: 
