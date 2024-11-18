@@ -3660,27 +3660,24 @@ Durante el Sprint 3, el equipo se enfocó en fortalecer la conexión entre los d
 
 - **Captura 1:**  
   Pantalla de configuración de conexión edge-backend con estado de sincronización.  
-  ![Configuración de Conexión Edge-Backend](https://example.com/images/edge-backend-connection.png)
+  ![Configuración de Conexión Edge-Backend](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1731941280/edgeConnectionApi_t76owr.png)
   
 - **Captura 2:**  
   Interfaz de sincronización de datos en la aplicación web, mostrando la conexión establecida con el backend.  
-  ![Sincronización de Datos Webapp](https://example.com/images/webapp-sync.png)
+  ![Sincronización de Datos Webapp](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1731941504/coneccionBackend_vrfwut.png)
   
 - **Captura 3:**  
   Pantalla de control local de dispositivos IoT en la app embebida, permitiendo el manejo manual de sensores.  
-  ![Control Local de IoT](https://example.com/images/iot-control.png)
+  ![Control Local de IoT](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1731941280/wokwi_aopfel.png)
   
 - **Captura 4:**  
   Interfaz de usuario mejorada en la aplicación móvil, mostrando la integración con el backend para gestión de datos en tiempo real.  
   ![Interfaz de App Móvil](https://example.com/images/mobile-app-ui.png)
   
 - **Captura 5:**  
-  Pantalla de notificaciones en tiempo real en la aplicación móvil, reflejando eventos del backend.  
-  ![Notificaciones en App Móvil](https://example.com/images/mobile-notifications.png)
-  
-- **Captura 6:**  
   Interfaz de usuario de la web app mostrando la generación de reportes basados en datos sincronizados.  
-  ![Generación de Reportes Webapp](https://example.com/images/report-generation.png)
+  ![Generación de Reportes Webapp](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1731941504/chart_lohmcr.png)
+  ![Generación de Reportes Webapp](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1731941504/table_q4jlvb.png)
 - **Video de demostración:**
    Para más detalles, se ha grabado un video de demostración. Puede visualizarse en el siguiente enlace: [Video de la demostración](https://example.com/demo-video).
 -----
