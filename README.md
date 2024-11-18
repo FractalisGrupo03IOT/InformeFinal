@@ -43,6 +43,8 @@ Franco Felix Yance Gutierrez (U202013614)
 # Project Report Collaboration Insights
 
 URL de nuestro repositorio para el Project Report: [Repositorio](https://github.com/FractalisGrupo03IOT/InformeFinal)
+Repositorio: <https://github.com/FractalisGrupo03IOT/InformeFinal>
+
 
 ## Desarrollo de actividades y colaboración
 
@@ -76,7 +78,22 @@ URL de nuestro repositorio para el Project Report: [Repositorio](https://github.
 - **6.3.2. Registro de Entrevistas** - _Asignado a Franco Yance_
 - **6.3.3. Evaluaciones según heurísticas** - _Asignado a Giovanni Andres_
 
+### Entrega 4 (TF)
+
+- **6.2.3.1. Sprint Planning 3** - _Asignado a Lino Quenta_
+- **6.2.3.2. Sprint Backlog 3** - _Asignado a Lino Quenta_
+- **6.2.3.3. Development Evidence for Sprint Review** - _Asignado a Giovanni Ramos_
+- **6.2.3.4. Testing Suite Evidence for Sprint Review** - _Asignado a Lino Quenta_
+- **6.2.3.5. Execution Evidence for Sprint Review** - _Asignado a Jean Patrick_
+- **6.2.3.6. Services Documentation Evidence for Sprint Review** - _Asignado a Jean Patrick_
+- **6.2.3.7. Software Deployment Evidence for Sprint Review** - _Asignado a Fracno Yance_
+- **6.2.3.8. Team Collaboration Insights during Sprint** - _Asignado a Miguel Angel_
+- **6.3.2. Registro de Entrevistas** - _Asignado a Miguel Angel_
+
 ## Evidencia de colaboración
+
+![Evidencia de colaboracion](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1731908169/informe_final_commits_jv1gjn.png)
+
 
 # Contenido
 
