@@ -3975,7 +3975,7 @@ Los componentes desplegados incluyen:
 
 El **Edge API** fue desplegado en dispositivos IoT y conectado a la base de datos para sincronización y gestión de datos en tiempo real.
 
-- **Ruta Base:** `http://{iot-device-ip}/api/v1/crop/links`
+- **Ruta Base:** `https://fractalies-edge-server.onrender.com/swagger-ui/index.html#/`
 - **Funcionalidades Desplegadas:**
   - Sincronización de datos desde sensores (temperatura, humedad, luz solar).
   - Inicialización y desvinculación de dispositivos IoT.
@@ -3997,7 +3997,7 @@ El **Edge API** fue desplegado en dispositivos IoT y conectado a la base de dato
 
 El **API Backend Central** gestiona la lógica de negocio principal del sistema, actuando como el puente entre el Edge y las interfaces de usuario.
 
-- **Ruta Base:** `https://fractalisbackend-production.up.railway.app/api/v1`
+- **Ruta Base:** `https://fractalisbackend-production.up.railway.app/swagger-ui/index.html#/`
 - **Servicios Desplegados:**
   - Gestión de pagos, cultivos, estaciones, y usuarios.
   - Integración con el Edge API para procesar y almacenar datos recolectados.
@@ -4018,7 +4018,7 @@ El **API Backend Central** gestiona la lógica de negocio principal del sistema,
 
 La **Landing Page** ofrece una introducción a **GreenTools**, presentando información clave para usuarios potenciales.
 
-- **Ruta de Despliegue:** `https://www.greentools.com`
+- **Ruta de Despliegue:** `https://greentools-landing-page.netlify.app/`
 - **Funcionalidades Desplegadas:**
   - Información sobre las características del sistema.
   - Formulario de contacto para soporte y solicitudes.
@@ -4032,7 +4032,7 @@ La **Landing Page** ofrece una introducción a **GreenTools**, presentando infor
 
 La **Web App** permite a los usuarios gestionar sus estaciones y cultivos desde una interfaz intuitiva.
 
-- **Ruta de Despliegue:** `https://app.greentools.com`
+- **Ruta de Despliegue:** `https://greentools-dcc30.web.app/login`
 - **Funcionalidades Desplegadas:**
   - Dashboard de métricas recolectadas en tiempo real.
   - Gestión de cultivos, estaciones, y configuraciones.
@@ -4080,24 +4080,72 @@ El despliegue completo de estos componentes asegura:
 2. **Gestión Eficiente de Datos:** Las bases de datos MySQL permiten una gestión robusta de información, respaldando la escalabilidad del sistema.
 3. **Accesibilidad:** Las interfaces (Web y APK) están disponibles para usuarios finales, permitiendo una interacción óptima con el sistema.
 La evidencia presentada valida el despliegue exitoso de los componentes de **GreenTools** en sus respectivos entornos. Este logro asegura que el sistema esté listo para pruebas y uso real, alineado con los objetivos del Sprint Goal y el Problem Statement.
+
 ------
 #### 6.2.3.8. Team Collaboration Insights during Sprint
-- **Retroalimentación del equipo:**
-  - Lo que funcionó bien: 
-    - _[Breve resumen de lo positivo]_.
-  - Áreas de mejora: 
-    - _[Breve resumen de lo que necesita mejorar]_.
-  - Decisiones importantes tomadas: 
-    - _[Resumen de decisiones clave]_.
+- Durante el sprint, el equipo trabajó de manera colaborativa en el desarrollo de los productos principales de **GreenTools**. Cada miembro desempeñó un rol específico para asegurar la integración exitosa de los sistemas y funcionalidades. A continuación, se presenta la evidencia visual de las colaboraciones y el progreso en cada producto, mediante GITHUB.
+---
+##### **1. Edge API**
 
+- **Colaboración del Equipo:**  
+  - Se logro al completo mejorar la logica para la conecion del edge con el backend los servicios de sincronización y control remoto para dispositivos IoT.
+  - Se realizo pruebas funcionales en dispositivos Edge para garantizar la integración con el sistema central.
+- **Evidencia Visual:**  
+  - Captura del equipo revisando la implementación del Edge API:  
+    ![Team Collaboration - Edge API](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731954260/EDGE_SERVER_dmkvzs.png)
 
+---
+##### **2. API Backend Central**
 
+- **Colaboración del Equipo:**  
+  - Se logro implementar toda la logica de negocio y desplegar el API central en Railway.
+- **Evidencia Visual:**  
+  - Captura del equipo realizando una sesión de revisión de código del Backend API:  
+    ![Team Collaboration - API Backend Central](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731954261/comiit_api_central_cjvsie.png)
 
+---
+##### **3. Landing Page**
 
+- **Colaboración del Equipo:**  
+  - Mejoramos los diseños  UI/UX para destacar el diseño visual y experiencia del usuario.
+  - Se redactó y revisó textos para destacar las características de **GreenTools** ademas se subio el video del about team y product.
+- **Evidencia Visual:**  
+  - Captura del equipo validando el diseño final de la Landing Page:  
+    ![Team Collaboration - Landing Page](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731954196/LANDING_PAGUE_lbpn7h.png)
 
+---
+##### **4. Web App**
 
+- **Colaboración del Equipo:**  
+  - Se logro concluir al completo todo el frontend trabajaron en la implementación del dashboard y sus componentes interactivos.
+  - Tambien se realizo pruebas en la Web App para validar la funcionalidad del dashboard y la gestión de cultivos.
+- **Evidencia Visual:**  
+  - Captura del equipo probando funcionalidades del dashboard:  
+    ![Team Collaboration - Web App](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731954195/WEB_APP_hp724e.png)
 
+---
+##### **5. APK en Firebase Distribution**
 
+- **Colaboración del Equipo:**  
+  - Se logro concluir todas las funcionalidades para la gestión de estaciones y cultivos.
+  - Se probó el APK en diferentes dispositivos antes de distribuirlo en Firebase.
+- **Evidencia Visual:**  
+  - Captura del equipo configurando la distribución en Firebase:  
+    ![Team Collaboration - APK in Firebase](uploaded-image-path-5)
+---
+##### 6. Embedded App
+- **Descripción de la colaboración:** Los miembros del equipo participaron activamente en la implementación de la Embedded App, como se observa en los commits realizados. Cada integrante contribuyó a mejorar la funcionalidad y optimización del código.
+![Embedded App Commit Activity](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730637575/enddebed_b9igq4.png)
+
+---
+##### **7. Informe final**
+
+- **Colaboración del Equipo:**  
+  - Se logro concluir todas las funcionalidades para la gestión de estaciones y cultivos.
+  - Se probó el APK en diferentes dispositivos antes de distribuirlo en Firebase.
+- **Evidencia Visual:**  
+  - Captura del equipo configurando la distribución en Firebase:  
+    ![Team Collaboration - APK in Firebase](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731954195/INFOFINAL_ofahe4.png)
 
 ## 6.3. Validation Interviews
 
