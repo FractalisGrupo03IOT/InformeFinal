@@ -3702,19 +3702,19 @@ Durante el Sprint 3, el equipo se enfocó en asegurar la calidad y el correcto f
 
 **Prueba Unitaria con JUnit y Mockito (Backend - Spring Boot):**
 
-![Prueba Unitaria con JUnit y Mockito (Backend - Spring Boot)](https://example.com/images/junit-mockito-backend.png)
+![Prueba Unitaria con JUnit y Mockito (Backend - Spring Boot)]([https://example.com/images/junit-mockito-backend.png](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731934167/backend_unittest_gnopmx.png))
 
-**Prueba Unitaria con Jasmine y Karma (Frontend - Angular):**
+**Prueba Unitaria (Frontend - Angular):**
 
-![Prueba Unitaria con Jasmine y Karma (Frontend - Angular)](https://example.com/images/jasmine-karma-frontend.png)
+![Prueba Unitaria con Jasmine y Karma (Frontend - Angular)]([https://example.com/images/jasmine-karma-frontend.png](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731934167/Frontendt_test_xvfwjw.png))
 
 **Prueba de Integración (Backend - Spring Boot):**
 
-![Prueba de Integración (Backend - Spring Boot)](https://example.com/images/integration-test-backend.png)
+![Prueba de Integración (Backend - Spring Boot)]([https://example.com/images/integration-test-backend.png](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731934168/Integration_test_xfahjy.png))
 
 **Prueba de Aceptación (Formato Gherkin):**
 
-![Prueba de Aceptación (Formato Gherkin)](https://example.com/images/acceptance-test-gherkin.png)
+![Prueba de Aceptación (Formato Gherkin)]([https://example.com/images/acceptance-test-gherkin.png](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731934167/aceptance_tests_tpt5th.png))
 
 **Tabla de Commits de Pruebas:**
 
@@ -3731,19 +3731,19 @@ Durante el Sprint 3, el equipo se enfocó en asegurar la calidad y el correcto f
 
 - **Captura 1:**  
   Resultados de las pruebas unitarias en JUnit y Mockito para el backend, mostrando todos los tests pasados correctamente.  
-  ![Resultados de Pruebas Unitarias JUnit](https://example.com/images/junit-results.png)
+  ![Resultados de Pruebas Unitarias JUnit]([https://example.com/images/junit-results.png](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731935026/UNITARIABAKCNED_p7cryq.png))
   
 - **Captura 2:**  
   Resultados de las pruebas unitarias para el frontend en Angular, mostrando cobertura de código y tests pasados.  
-  ![Resultados de Pruebas Unitarias Jasmine/Karma](https://example.com/images/jasmine-karma-results.png)
+  ![Resultados de Pruebas Unitarias Jasmine/Karma]([https://example.com/images/jasmine-karma-results.png](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731935023/ANGULAR_npbfmw.png))
   
 - **Captura 3:**  
-  Consola de pruebas de integración en Spring Boot con Cucumber, demostrando la comunicación exitosa entre dispositivos edge y backend.  
-  ![Pruebas de Integración Spring Boot](https://example.com/images/springboot-integration-tests.png)
+  Consola de pruebas de integración en Spring Boot, demostrando la comunicación exitosa entre el edge y backend.  
+  ![Pruebas de Integración Spring Boot]([https://example.com/images/springboot-integration-tests.png](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731935026/INTEGRATIONS_a5eray.png))
   
 - **Captura 4:**  
   Informe de pruebas de aceptación en Cucumber, mostrando que la sincronización de datos cumple con los requisitos establecidos.  
-  ![Informe de Pruebas de Aceptación Cucumber](https://example.com/images/cucumber-acceptance-tests.png)
+  ![Informe de Pruebas de Aceptación Cucumber]([https://example.com/images/cucumber-acceptance-tests.png](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731935022/CAPTURA_ACEPTANCE_dfbkgv.png))
 
 
 #### 6.2.3.5. Execution Evidence for Sprint Review
