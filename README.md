@@ -3779,23 +3779,30 @@ Durante este sprint, nos enfocamos en desarrollar e integrar las funcionalidades
 3. **Interfaz Móvil Mejorada:**
    - **Descripción:** Pantallas que permiten acceso a datos sincronizados y configuraciones personalizables en dispositivos móviles.
    - ![Interfaz Móvil](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731947776/WhatsApp_Image_2024-11-01_at_9.19.25_PM_l4ylsz.jpg)
-   - ![Interfaz Móvil](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731947776/WhatsApp_Image_2024-11-01_at_9.19.25_PM_l4ylsz.jpg)
-
-4. **Tabla de Datos en la Aplicación Web:**
+   - ![Interfaz Móvil](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731948612/WhatsApp_Image_2024-11-18_at_11.47.57_AM_c3rofe.jpg)
+   - ![Interfaz Móvil](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731948613/WhatsApp_Image_2024-11-18_at_11.47.57_AM_1_sdp9yb.jpg)
+     
+4. **Interfaz Móvil Autentificacion Firebase:**
+   - **Descripción:** Implementa y controla el registro de usuarios en Firebase mediante una interfaz móvil intuitiva. Mejora la experiencia del usuario al ofrecer un diseño funcional y fluido, optimizando el proceso de autenticación en dispositivos móviles.
+   - ![Interfaz Móvil](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731948784/WhatsApp_Image_2024-11-18_at_11.49.30_AM_1_kzln5t.jpg)
+    
+5. **Tabla de Datos en la Aplicación Web:**
    - **Descripción:** Herramienta interactiva que facilita la organización, búsqueda y análisis de datos sincronizados.
    - ![Tabla de Datos](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731947775/TABLA_DE_DATOS_uqat2k.png)
 
-5. **Monitoreo en Tiempo Real:**
-   - **Descripción:** Vista dinámica que refleja en tiempo real los datos procesados por el sistema IoT fisico enviando datos al edge.
+6. **Monitoreo en Tiempo Real:**
+   - **Descripción:** La vista dinámica permite monitorear en tiempo real los datos recolectados y procesados por un sistema IoT físico, mostrando parámetros como temperatura, humedad, índice UV y el estado de los servos. Los datos son enviados desde los sensores del dispositivo IoT al sistema edge para su procesamiento y visualización inmediata en la interfaz.
    - ![Monitoreo en Tiempo Real](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731947776/WhatsApp_Image_2024-11-18_at_9.57.36_AM_iorudc.jpg)
    - ![Monitoreo en Tiempo Real](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731948137/WhatsApp_Image_2024-11-18_at_11.42.00_AM_eojlb3.jpg)
    - ![Monitoreo en Tiempo Real](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731948048/WhatsApp_Image_2024-11-18_at_11.40.14_AM_yzlxj1.jpg)
+   - ![Monitoreo en Tiempo Real](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949904/WhatsApp_Image_2024-11-18_at_12.10.42_PM_vb0ibh.jpg)
 ---
 
 ##### **Video de Demostración**
 
-- **Enlace al Video:** [Video de la demostración](https://stream.microsoft.com/demo-video)
-- **Duración:** 15:30.
+- **Enlace al Video:** [Video de la demostración](https://upcedupe-my.sharepoint.com/personal/u20181e536_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181e536%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi572%2DWV71%2DFractalis%2Dentrevista%2Dtb1%20%2D%20View%2Donlyupc%2Dpre%2D202402%2Dsi572%2DWV71%2DFractalis%2DAppMovile%2DTF%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E04d6a5d0%2D1f7a%2D4e7b%2D9127%2D6e31a5057006)
+link: https://upcedupe-my.sharepoint.com/personal/u20181e536_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20181e536%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202402%2Dsi572%2DWV71%2DFractalis%2Dentrevista%2Dtb1%20%2D%20View%2Donlyupc%2Dpre%2D202402%2Dsi572%2DWV71%2DFractalis%2DAppMovile%2DTF%2Emkv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E04d6a5d0%2D1f7a%2D4e7b%2D9127%2D6e31a5057006
+- **Duración:** 5:30.
 
 **Contenido del Video:**
 - Navegación por el dashboard de la aplicación web con gráficos interactivos.
@@ -3944,11 +3951,143 @@ Los servicios implementados en el **Edge API** cumplen con los objetivos del Spr
 
 ---
 
-#### 6.2.3.7. Software Deployment Evidence for Sprint Review
-- **Registro de despliegue:**
-  - Ambiente: _[Producción/Pruebas]_
-  - Fecha y hora: _[dd/mm/aaaa, hh:mm]_
-  - Evidencia: _[Logs, capturas, enlaces a entornos desplegados]_.
+### 6.2.3.7. Software Deployment Evidence for Sprint Review
+
+---
+
+##### **Introducción**
+
+Durante este sprint, completamos y desplegamos los principales componentes del ecosistema **GreenTools**, garantizando que todos los servicios estén operativos en sus entornos designados. Esto incluye la integración de bases de datos en **Railway** utilizando **MySQL**, permitiendo la persistencia y gestión eficiente de datos.
+
+Los componentes desplegados incluyen:
+
+1. **Edge API**
+2. **API Backend Central**
+3. **Landing Page**
+4. **Web App**
+5. **APK en Firebase Distribution**
+6. **Bases de Datos en MySQL**
+
+---
+
+##### **1. Edge API**
+
+El **Edge API** fue desplegado en dispositivos IoT y conectado a la base de datos para sincronización y gestión de datos en tiempo real.
+
+- **Ruta Base:** `http://{iot-device-ip}/api/v1/crop/links`
+- **Funcionalidades Desplegadas:**
+  - Sincronización de datos desde sensores (temperatura, humedad, luz solar).
+  - Inicialización y desvinculación de dispositivos IoT.
+  - Tareas programadas para envío de datos a sistemas externos.
+- **Base de Datos Asociada:**
+  - **Tipo:** MySQL
+  - **Hosting:** Railway
+  - **Detalles:** 
+    - Base de datos específica para datos temporales y logs generados por el Edge API.
+    - Gestión de tablas para sensores, dispositivos IoT y tareas programadas.
+- **Evidencia Visual:**
+  - Captura del Edge en operación:  
+    ![Edge Deployment](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621309/edge_sqllzf.png)
+  - Configuración de la base de datos en Railway:  
+    ![Edge Database Deployment](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621309/edge_sqllzf.png)
+---
+
+##### **2. API Backend Central**
+
+El **API Backend Central** gestiona la lógica de negocio principal del sistema, actuando como el puente entre el Edge y las interfaces de usuario.
+
+- **Ruta Base:** `https://fractalisbackend-production.up.railway.app/api/v1`
+- **Servicios Desplegados:**
+  - Gestión de pagos, cultivos, estaciones, y usuarios.
+  - Integración con el Edge API para procesar y almacenar datos recolectados.
+- **Base de Datos Asociada:**
+  - **Tipo:** MySQL
+  - **Hosting:** Railway
+  - **Detalles:**
+    - Base de datos centralizada para persistencia de datos a largo plazo.
+    - Gestión de relaciones entre estaciones, cultivos, usuarios, y métricas.
+- **Evidencia Visual:**
+  - Captura del lastest commit deploy:  
+    ![API Backend Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949898/WhatsApp_Image_2024-11-18_at_11.32.04_AM_yzuhyq.jpg)
+  - Configuración del backend:  
+    ![API Backend Database Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949899/WhatsApp_Image_2024-11-18_at_11.32.38_AM_khc2sj.jpg)
+
+---
+
+##### **3. Landing Page**
+
+La **Landing Page** ofrece una introducción a **GreenTools**, presentando información clave para usuarios potenciales.
+
+- **Ruta de Despliegue:** `https://www.greentools.com`
+- **Funcionalidades Desplegadas:**
+  - Información sobre las características del sistema.
+  - Formulario de contacto para soporte y solicitudes.
+- **Evidencia Visual:**
+  - Captura de la Landing Page:  
+    ![Landing Page Deployment]()
+
+---
+
+##### **4. Web App**
+
+La **Web App** permite a los usuarios gestionar sus estaciones y cultivos desde una interfaz intuitiva.
+
+- **Ruta de Despliegue:** `https://app.greentools.com`
+- **Funcionalidades Desplegadas:**
+  - Dashboard de métricas recolectadas en tiempo real.
+  - Gestión de cultivos, estaciones, y configuraciones.
+  - Creación de alertas personalizadas.
+- **Evidencia Visual:**
+  - Captura de la configuracion del Deploy Web App:  
+    ![Landing Page Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949902/WhatsApp_Image_2024-11-18_at_11.34.32_AM_y267q6.jpg)
+  - Captura de Estadisitica de trafico de la Web App:  
+    ![Landing Page Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949900/WhatsApp_Image_2024-11-18_at_11.33.29_AM_xfmdz9.jpg)
+---
+
+##### **5. APK en Firebase Distribution**
+
+El APK móvil fue distribuido mediante **Firebase App Distribution**, asegurando accesibilidad para pruebas y uso por parte de los usuarios.
+
+- **Ruta de Distribución:** Firebase App Distribution.
+- **Funcionalidades Desplegadas:**
+  - Visualización y gestión de datos desde dispositivos móviles.
+  - Configuración de estaciones y alertas desde cualquier lugar.
+- **Evidencia Visual:**
+  - Captura de Firebase mostrando la distribución del APK:  
+    ![Firebase APK Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949898/WhatsApp_Image_2024-11-18_at_11.49.56_AM_z4piwh.jpg)
+
+---
+
+##### **6. Bases de Datos en Railway**
+
+Ambos sistemas (Backend y Edge) utilizan bases de datos **MySQL** hospedadas en Railway para garantizar la persistencia y escalabilidad de los datos.
+
+1. **Base de Datos del Backend API:**
+   - **Descripción:** Contiene datos relacionados con estaciones, cultivos, usuarios, pagos y métricas recolectadas.
+   - **Evidencia Visual:**  
+     ![API Backend Database Deployment](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731949900/WhatsApp_Image_2024-11-18_at_11.33.29_AM_xfmdz9.jpg)
+
+2. **Base de Datos del Edge API:**
+   - **Descripción:** Contiene datos temporales y logs generados por dispositivos IoT y tareas programadas.
+   - **Evidencia Visual:**  
+     ![Edge Database Deployment](https://res.cloudinary.com/dwnwqhpqs/image/upload/v1730621309/edge_sqllzf.png)
+
+---
+
+##### **Relación con el Sprint Goal**
+
+El despliegue completo de estos componentes asegura:
+1. **Interoperabilidad Total:** Los sistemas funcionan en conjunto, desde el Edge hasta las interfaces de usuario, garantizando una experiencia fluida para los usuarios.
+2. **Gestión Eficiente de Datos:** Las bases de datos MySQL permiten una gestión robusta de información, respaldando la escalabilidad del sistema.
+3. **Accesibilidad:** Las interfaces (Web y APK) están disponibles para usuarios finales, permitiendo una interacción óptima con el sistema.
+
+---
+
+##### **Conclusión**
+
+La evidencia presentada valida el despliegue exitoso de los componentes de **GreenTools** en sus respectivos entornos. Este logro asegura que el sistema esté listo para pruebas y uso real, alineado con los objetivos del Sprint Goal y el Problem Statement.
+
+
 
 #### 6.2.3.8. Team Collaboration Insights during Sprint
 - **Retroalimentación del equipo:**
