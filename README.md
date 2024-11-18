@@ -4170,51 +4170,118 @@ A continuación, se presentan 10 preguntas principales para los entrevistados, a
 
 ### 6.3.2. Registro de Entrevistas
 
-**Segmento 01: MICROCULTIVO**
+## Segmento 01: MICROCULTIVO
 
-#### Entrevistado 01
-
-- **Nombre y apellidos**: Lyn Mesa Camayo
-- **Imagen**:
+### Entrevistado 01: Lyn Mesa Camayo
+- **Nombre y Apellidos**: Lyn Mesa Camayo
+- **Imagen**:  
   ![Lyn Mesa Camayo](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730608335/lyn_b5akiz.png)
-- **Inicio de la entrevista**: 08:00
-- **Fin de la entrevista**: 08:30
+- **Edad**: 20 años
+- **Distrito/Provincia**: Chupaca, Región de Lima
+- **Género**: Masculino
+- **Estado Civil**: Soltero
+- **Ocupación**: Agricultor
+- **Nivel Educativo**: Técnico en Agricultura
+- **Uso de Dispositivos**: Teléfono móvil
+- **Canales de Interacción**: WhatsApp
+- **Tiempo en la Agricultura**: 5 años
+- **Cultivo Principal**: Multicultivo (frutas, hongos, ajos)
+- **Inicio de la Entrevista**: 08:00
+- **Fin de la Entrevista**: 08:30
 - **Duración**: 30 minutos
-- **Enlace de entrevista**: [Ver entrevista](https://upcedupe-my.sharepoint.com/personal/u202122512_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202122512%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1718148603%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eff955acc%2D7a86%2D456d%2D9a61%2Df19c38ba4ec2)
+- **Enlace de Entrevista**: [Ver entrevista](https://upcedupe-my.sharepoint.com/personal/u202122512_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202122512%5Fupc%5Fedu%5Fpe%2FDocuments%2Fvideo1718148603%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eff955acc%2D7a86%2D456d%2D9a61%2Df19c38ba4ec2)
 - **Resumen de la entrevista**: Lyn Mesa Camayo, un joven agricultor de 20 años proveniente de Chupaca, una zona rural en las áreas altas de la región, compartió detalles sobre su trabajo en la agricultura, específicamente en el manejo de multicultivos. Actualmente, Lyn administra cinco invernaderos que cultivan diversos productos como frutas, Hongos y ajos, demostrando una visión integral y diversificada de la producción agrícola.Durante la entrevista, se le presentó la aplicación "Green Tools", diseñada para gestionar y automatizar procesos en cultivos. La demostración incluyó las funcionalidades principales, como el registro de usuarios y estaciones, y el monitoreo en tiempo real de parámetros esenciales como la humedad y la temperatura. Estas herramientas buscan reducir la carga de trabajo manual, optimizando el riego y el control ambiental de los invernaderos. Lyn mostró interés en la membresía "multicultivo", que le permitiría registrar hasta seis invernaderos con sensores automatizados. Además, la aplicación incluye la posibilidad de documentar detalles clave de cada invernadero, como tiempos de riego, fechas de cosecha, y notas adicionales para un mejor manejo del cultivo. El agricultor destacó que la automatización no solo mejoraría la productividad al reducir la necesidad de monitoreo constante, sino que también proporcionaría datos históricos para analizar y tomar decisiones estratégicas. Con esto, podría optimizar el tiempo dedicado a la siembra y cosecha, estimando que el proceso completo toma aproximadamente cinco meses. Finalmente, Lyn valoró la accesibilidad económica de la membresía anual y el enfoque práctico de la aplicación, reconociendo su potencial para transformar la manera en que los agricultores rurales gestionan sus cultivos, especialmente en zonas con limitaciones de acceso y recursos.
-
 ---
-
+#### Entrevistado 02
+- **Nombre y Apellidos**: Sonia Cayhulla
+- **Imagen**:  
+  ![Sonia Cayhulla](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730608336/sonia_tpz4cr.png)
+- **Edad**: 30 años
+- **Distrito/Provincia**: Puno
+- **Género**: Femenino
+- **Estado Civil**: Casada
+- **Ocupación**: Agricultora
+- **Nivel Educativo**: Técnico en Agricultura
+- **Uso de Dispositivos**: Teléfono móvil
+- **Canales de Interacción**: WhatsApp
+- **Tiempo en la Agricultura**: 3 años
+- **Cultivo Principal**: Hortalizas y fresas (Monocultivo)
+- **Inicio de la Entrevista**: 1:20
+- **Fin de la Entrevista**: 9:40
+- **Duración**: 8 minutos y 20 segundos
+- **Enlace de Entrevista**: [Ver entrevista](https://upcedupe-my.sharepoint.com/personal/u202122512_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202122512%5Fupc%5Fedu%5Fpe%2FDocuments%2FDesktop%202024%2E11%2E02%20%2D%2021%2E26%2E03%2E01%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eefc96ff5%2D960d%2D4b77%2Da22a%2Dba2879984706)
+- **Resumen de la entrevista**:Sonia Cayhulla, una agricultora de 30 años de la región de Puno, se dedica al cultivo de hortalizas y al cultivo de precisión de fresas en su único invernadero. Durante la entrevista, se le presentó la aplicación Green Tools, diseñada para optimizar la gestión de cultivos mediante el uso de tecnología avanzada como sensores y automatización. Al iniciar la demostración, Sonia mostró interés en el proceso de registro de la aplicación, el cual incluye datos básicos como nombre, correo y ubicación. Este paso fue bien recibido por ella, ya que lo consideró sencillo y práctico para organizar su perfil. Posteriormente, se le explicó que, debido a que gestiona un único invernadero, el plan monocultivo era la opción más adecuada para sus necesidades. Este plan permite administrar hasta dos estaciones con una suscripción anual de 20 dólares, lo cual le pareció razonable y accesible. En la sección de estaciones, Sonia pudo observar cómo registrar su invernadero, asignándole un nombre como "Invernadero de Fresas", una descripción de sus características y datos clave como fechas de siembra, riego y cosecha. También destacó que la posibilidad de agregar comentarios adicionales, como notas sobre la calidad del cultivo o el tiempo de maduración, era una funcionalidad muy útil para mantener un control detallado. Un aspecto que llamó particularmente su atención fue la integración de sensores para el monitoreo en tiempo real de factores críticos como la humedad, la temperatura y los nutrientes del suelo. Sonia mencionó que actualmente controla estas variables de manera manual, lo cual requiere tiempo y precisión. La capacidad de automatizar el riego en función de las necesidades de las plantas fue especialmente atractiva para ella, ya que podría evitar el riego excesivo o insuficiente y mejorar la calidad de sus fresas. Asimismo, se discutió la posibilidad de personalizar las filas de su invernadero según los cultivos específicos, asignando sensores individuales para cada sección. Esto no solo optimizaría su productividad, sino que también le permitiría realizar un monitoreo más preciso del desarrollo de sus fresas y otros productos. Sonia comentó que este tipo de funcionalidad era muy útil, dado que las fresas requieren un cuidado detallado en términos de temperatura y humedad. Sonia también expresó que una breve capacitación sobre el uso de la aplicación podría ser muy beneficiosa para maximizar las ventajas de Green Tools, especialmente en el manejo del riego automatizado y la interpretación de datos proporcionados por los sensores. En su experiencia, muchos agricultores en su región aún no están familiarizados con el uso de tecnología avanzada en sus cultivos. En general, Sonia consideró que Green Tools tiene el potencial de revolucionar la forma en que gestiona su invernadero, ayudándole a ahorrar tiempo, reducir desperdicios y mejorar la calidad de sus cultivos. Mostró interés en adquirir el plan monocultivo para implementar la tecnología en su invernadero y explorar las funcionalidades que la aplicación ofrece.
+---------
 **Segmento 02: MONOCULTIVO**
 
-#### Entrevistado 02
-
-- **Nombre y apellidos**: Griselda Flores Flores
-- **Imagen**:
+#### Entrevistado 01
+- **Nombre y Apellidos:** Griselda Flores Flores  
+- **Imagen:**
   ![Griselda Flores Flores](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730608336/grisel_gabcaj.png)
-- **Inicio de la entrevista**: 08:30
-- **Fin de la entrevista**: 08:38
-- **Duración**: 8 minutos
-- **Enlace de entrevista**: [Ver entrevista](https://upcedupe-my.sharepoint.com/personal/u202122512_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202122512%5Fupc%5Fedu%5Fpe%2FDocuments%2FDesktop%202024%2E11%2E02%20%2D%2022%2E19%2E38%2E03%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2316061d%2D1a51%2D4119%2Db89d%2D788178bce345)
+- **Edad:** 28 años  
+- **Distrito/Provincia:** Puno  
+- **Género:** Femenino  
+- **Estado Civil:** Casada  
+- **Ocupación:** Agricultora  
+- **Nivel Educativo:** Técnico en Agricultura  
+- **Uso de Dispositivos:** Teléfono móvil  
+- **Canales de Interacción:** WhatsApp  
+- **Tiempo en la Agricultura:** 4 años  
+- **Cultivo Principal:** Fresas, tomates, cilantro, perejil, zanahorias y cebollines (Monocultivo)  
+- **Inicio de la Entrevista:** 08:30  
+- **Fin de la Entrevista:** 08:38  
+- **Duración:** 8 minutos  
+- **Enlace de Entrevista:[Ver entrevista](https://upcedupe-my.sharepoint.com/personal/u202122512_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202122512%5Fupc%5Fedu%5Fpe%2FDocuments%2FDesktop%202024%2E11%2E02%20%2D%2022%2E19%2E38%2E03%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E2316061d%2D1a51%2D4119%2Db89d%2D788178bce345)
 - **Resumen de la entrevista**: Griselda, una agricultora de la región de Puno, administra un único invernadero dedicado al cultivo de fresas, tomates y verduras como cilantro, perejil, zanahorias y cebollines. Durante la conversación, se le presentó la aplicación Green Tools, diseñada para gestionar cultivos de manera más eficiente mediante la automatización y el monitoreo en tiempo real. Se inició la demostración con el proceso de registro en la aplicación, donde se ingresan datos personales como nombre, correo, y ubicación. Griselda opinó que el registro era claro y sencillo, y no encontró dificultades en el proceso. Una vez registrada, se le explicó que debía seleccionar un plan de membresía para acceder a las funcionalidades completas de la aplicación. En su caso, se recomendó el plan de monocultivo, adecuado para gestionar hasta dos invernaderos, con una suscripción anual de 20 dólares. Al consultarle sobre el costo, Griselda comentó que le parecía razonable y accesible. A continuación, se le mostró cómo registrar su invernadero en la sección de estaciones de la aplicación. Se le sugirió nombrarlo, como por ejemplo "Invernadero de Fresas y Verduras", y agregar descripciones sobre los cultivos, fechas de siembra y cosecha, y otros detalles relevantes. Griselda destacó que esta funcionalidad era útil para organizar mejor sus actividades agrícolas, ya que actualmente debe recordar todo manualmente, lo que a veces resulta en errores o pérdida de cultivos.La presentación también incluyó la funcionalidad de integrar sensores en el invernadero para monitorear factores como la humedad, la temperatura y la necesidad de riego. Griselda expresó interés en esta herramienta, especialmente al conocer que los sensores podrían activar automáticamente el riego cuando fuera necesario. También valoró la capacidad de la aplicación para prevenir el exceso o la falta de agua en sus cultivos, algo que actualmente maneja de forma visual y con poca precisión.Finalmente, se discutió la personalización de las secciones en el invernadero, como dividir las filas por cultivos específicos (fresas, tomates, cebollines, etc.) y asignarles sensores individuales para un monitoreo más preciso. Al preguntarle si consideraba que la aplicación podría mejorar su trabajo, Griselda respondió que le parecía innovadora y útil, especialmente para ayudarle a ahorrar tiempo y mejorar la calidad de su producción.
-
-
 ---
+#### Entrevistado 02: Fabio Horna
 
-#### Entrevistado 03
-
-- **Nombre y apellidos**: Sonia Cayhulla
-- **Imagen**:
-  ![Sonia Cayhulla](https://res.cloudinary.com/dbe3tjasl/image/upload/v1730608336/sonia_tpz4cr.png)
-
-- **Inicio de la entrevista**: 1:20
-- **Fin de la entrevista**: 9:40
-- **Duración**: 8 minutos y 20 segundos
-- **Enlace de entrevista**: [Ver entrevista](https://upcedupe-my.sharepoint.com/personal/u202122512_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202122512%5Fupc%5Fedu%5Fpe%2FDocuments%2FDesktop%202024%2E11%2E02%20%2D%2021%2E26%2E03%2E01%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eefc96ff5%2D960d%2D4b77%2Da22a%2Dba2879984706)
-- **Resumen de la entrevista**:Sonia Cayhulla, una agricultora de 30 años de la región de Puno, se dedica al cultivo de hortalizas y al cultivo de precisión de fresas en su único invernadero. Durante la entrevista, se le presentó la aplicación Green Tools, diseñada para optimizar la gestión de cultivos mediante el uso de tecnología avanzada como sensores y automatización. Al iniciar la demostración, Sonia mostró interés en el proceso de registro de la aplicación, el cual incluye datos básicos como nombre, correo y ubicación. Este paso fue bien recibido por ella, ya que lo consideró sencillo y práctico para organizar su perfil. Posteriormente, se le explicó que, debido a que gestiona un único invernadero, el plan monocultivo era la opción más adecuada para sus necesidades. Este plan permite administrar hasta dos estaciones con una suscripción anual de 20 dólares, lo cual le pareció razonable y accesible. En la sección de estaciones, Sonia pudo observar cómo registrar su invernadero, asignándole un nombre como "Invernadero de Fresas", una descripción de sus características y datos clave como fechas de siembra, riego y cosecha. También destacó que la posibilidad de agregar comentarios adicionales, como notas sobre la calidad del cultivo o el tiempo de maduración, era una funcionalidad muy útil para mantener un control detallado. Un aspecto que llamó particularmente su atención fue la integración de sensores para el monitoreo en tiempo real de factores críticos como la humedad, la temperatura y los nutrientes del suelo. Sonia mencionó que actualmente controla estas variables de manera manual, lo cual requiere tiempo y precisión. La capacidad de automatizar el riego en función de las necesidades de las plantas fue especialmente atractiva para ella, ya que podría evitar el riego excesivo o insuficiente y mejorar la calidad de sus fresas. Asimismo, se discutió la posibilidad de personalizar las filas de su invernadero según los cultivos específicos, asignando sensores individuales para cada sección. Esto no solo optimizaría su productividad, sino que también le permitiría realizar un monitoreo más preciso del desarrollo de sus fresas y otros productos. Sonia comentó que este tipo de funcionalidad era muy útil, dado que las fresas requieren un cuidado detallado en términos de temperatura y humedad. Sonia también expresó que una breve capacitación sobre el uso de la aplicación podría ser muy beneficiosa para maximizar las ventajas de Green Tools, especialmente en el manejo del riego automatizado y la interpretación de datos proporcionados por los sensores. En su experiencia, muchos agricultores en su región aún no están familiarizados con el uso de tecnología avanzada en sus cultivos. En general, Sonia consideró que Green Tools tiene el potencial de revolucionar la forma en que gestiona su invernadero, ayudándole a ahorrar tiempo, reducir desperdicios y mejorar la calidad de sus cultivos. Mostró interés en adquirir el plan monocultivo para implementar la tecnología en su invernadero y explorar las funcionalidades que la aplicación ofrece.
-
+- **Nombre y Apellidos:** Fabio Horna  
+- **Imagen:**
+  ![Griselda Flores Flores](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731957687/FRANCO_onoomj.png)
+- **Edad:** 32 años  
+- **Distrito/Provincia:** Chiclayo, Lambayeque  
+- **Género:** Masculino  
+- **Estado Civil:** Casado  
+- **Ocupación:** Agricultor  
+- **Nivel Educativo:** Técnico en Agricultura  
+- **Uso de Dispositivos:** Teléfono móvil  
+- **Canales de Interacción:** WhatsApp  
+- **Tiempo en la Agricultura:** 3 años  
+- **Cultivo Principal:** Tomates (Monocultivo)  
+- **Desafíos Principales:** Programar horarios de riego y optimizar recursos manualmente.  
+- **Recomendaciones:** Fabio destacó que la aplicación propuesta sería una excelente herramienta para ahorrar costos y tiempo en la gestión agrícola.  
+- **Funciones Valoradas:** Gestión del riego, notificaciones automáticas para programación, y control del consumo de agua.  
+- **Inicio de la Entrevista:** 04:07  
+- **Fin de la Entrevista:** 07:10  
+- **Duración:** 3 minutos y 31 segundos  
+- **Enlace de Entrevista:** [Ver entrevista aquí](https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Fentrevistas%20de%20validacion%20tf%2Fupc%2Dpre%2D202402%2Dsi572%2Dwv71%2Dvalidation%2D01%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E29724929%2D994f%2D4b6b%2D9217%2Dc0cd985e078b) 
+- **Resumen de la entrevista**:Fabio lleva tres años trabajando en el monocultivo de tomates en su terreno ubicado en Chiclayo. A pesar de su experiencia, todavía no emplea tecnologías avanzadas para gestionar sus cultivos, lo que hace que se enfrente a desafíos como la programación manual de los riegos, una tarea que resulta tediosa y propensa a errores. Los sistemas de riego en su cultivo se controlan de forma manual, lo que provoca que a veces no logre optimizar el uso del agua, un recurso que es esencial y costoso. Durante la entrevista, Fabio expresó un interés genuino por mejorar la eficiencia en su campo y señaló que la tecnología podría ofrecerle una gran ayuda, especialmente para gestionar el riego de manera más efectiva. Recomienda que la app GreenTools sea implementada para ayudar a programar automáticamente los horarios de riego y para gestionar el consumo de agua, lo cual sería un cambio muy beneficioso para él. Además, destacó que la plataforma no solo le ayudaría a ahorrar tiempo, sino también a reducir costos operativos, lo que le permitiría concentrarse en otros aspectos de su negocio. Fabio sugiere que sería útil agregar más funcionalidades como el monitoreo de condiciones climáticas en tiempo real y alertas automáticas sobre el estado de las plantas. Sin duda, ve el potencial de las tecnologías inteligentes para transformar su actividad agrícola y mejorar la sostenibilidad de su cultivo.
 ---
+## Entrevistado 03: Adriana
 
+- **Nombre y Apellidos:** Adriana  
+- **Imagen:**
+  ![Griselda Flores Flores](https://res.cloudinary.com/dbe3tjasl/image/upload/v1731957686/MUGER_r7o9re.png)
+- **Edad:** 23 años  
+- **Distrito/Provincia:** Lima, Lima  
+- **Género:** Femenino  
+- **Estado Civil:** Soltera  
+- **Ocupación:** Ingeniera Agrícola  
+- **Nivel Educativo:** Facultad de Ingeniería Agrícola  
+- **Uso de Dispositivos:** Teléfono móvil  
+- **Canales de Interacción:** WhatsApp, Instagram, Telegram  
+- **Tiempo en la Agricultura:** 2 años  
+- **Cultivo Principal:** Frutos (Monocultivo)  
+- **Objetivo Principal:** Obtener información en tiempo real del estado de sus plantas para mejorar la gestión y comodidad en el manejo de su monocultivo.  
+- **Motivación Secundaria:** Explorar funcionalidades adicionales como la medición del pH para optimizar el rendimiento del cultivo.  
+- **Mayor Obstáculo:** Control del agua y manejo de pesticidas sin herramientas tecnológicas adecuadas.  
+- **Otros Desafíos:** Falta de acceso a tecnologías avanzadas que permitan mejorar la eficiencia y sostenibilidad de su monocultivo.  
+- **Inicio de la Entrevista:** 00:00 (aproximado)  
+- **Fin de la Entrevista:** 04:07  
+- **Duración:** 4 minutos y 7 segundos  
+- **Enlace de Entrevista:** [Ver entrevista aquí](https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Fentrevistas%20de%20validacion%20tf%2Fupc%2Dpre%2D202402%2Dsi572%2Dwv71%2Dvalidation%2D02%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ef2251bd5%2D9aa8%2D4cb4%2D8f5c%2De36cb74f2a65)  
+- **Resumen de la entrevista**:Adriana, residente en Lima, tiene un monocultivo de frutos y lleva aproximadamente dos años trabajando en su campo. A pesar de su experiencia, aún no emplea ninguna herramienta tecnológica para optimizar sus procesos agrícolas. Uno de sus mayores desafíos es el control del agua y los pesticidas, lo cual le exige una atención constante y manual, lo que podría generar ineficiencias. Considera que contar con información en tiempo real sobre el estado de sus plantas sería fundamental para mejorar su producción, ya que esto le permitiría ajustar las condiciones del cultivo de manera más precisa y oportuna. Durante la entrevista, Adriana expresó su satisfacción con la funcionalidad de GreenTools para gestionar sus plantas, destacando la mayor comodidad que le brindaría el tener acceso a datos en tiempo real sobre sus cultivos, lo que reduciría la carga de trabajo y optimizaría el uso de recursos. También sugirió una mejora importante: la inclusión de una funcionalidad que permita medir el pH del suelo, ya que esto es crucial para asegurarse de que las plantas reciban el nivel de nutrientes adecuado. Adriana destacó la importancia de que las tecnologías agrícolas sean accesibles y fáciles de usar para los agricultores, ya que, a pesar de estar en el campo, muchas veces no se tienen los conocimientos técnicos para implementar sistemas complejos.
 
 ### 6.3.3. Evaluaciones según heurísticas
 
@@ -4293,35 +4360,164 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 ## 6.4. Video About-the-Product
 
-Enlace o referencia al video de presentación del producto, destacando sus principales funcionalidades, la experiencia del usuario y la propuesta de valor del software.
+El video de presentación del producto muestra:
+- **Principales funcionalidades**: Desde la gestión de estaciones y sensores hasta el monitoreo en tiempo real.
+- **Experiencia del usuario**: Interfaces web y móvil diseñadas para facilitar la adopción de tecnología en el sector agrícola.
+- **Propuesta de valor**: Cómo **GreenTools** resuelve las necesidades específicas de los dueños de invernaderos y pequeños agricultores.
 
-- https://upcedupe-my.sharepoint.com/:v:/g/personal/u202122512_upc_edu_pe/EYTsDl55EX9FuR99IkEw8PIB5nFHobmsS_MdjUWu2prQgw?e=wmeX3B&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-  VIDEO EXPOSITIVO
-  -
+Este video representa nuestro aprendizaje y cómo integramos las herramientas del curso para crear una solución práctica.
+
+- **Enlace al video:**  
+  [Ver Video About-the-Product](https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Fabout%2Fupc%2Dpre%2D202402%2Dsi572%2Dwv71%2Dfractalis%2Dabout%2Dthe%2Dproduct%2Dsprint%2D3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1092118a%2D9ec5%2D4599%2Da5b8%2De0f87b8177fe)
+- Link : https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Fabout%2Fupc%2Dpre%2D202402%2Dsi572%2Dwv71%2Dfractalis%2Dabout%2Dthe%2Dproduct%2Dsprint%2D3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1092118a%2D9ec5%2D4599%2Da5b8%2De0f87b8177fe
+----------- 
+## 6.5. Video About-the-Team
+El video sobre el equipo resalta:
+- **Quiénes somos:** Somos un equipo de estudiantes de ingeniería de software que, mediante este proyecto, hemos aplicado los conocimientos adquiridos en el curso para abordar un problema real con tecnologías IoT.
+- **Nuestra colaboración:** Cada integrante desempeñó un rol específico, trabajando en conjunto para garantizar que el sistema cumpliera con las expectativas planteadas.
+- **Nuestro aprendizaje:** A través de este proyecto, hemos enfrentado desafíos técnicos y de equipo, aprendiendo herramientas y metodologías que aplicaremos en nuestra vida profesional.
+
+### **Integrantes del Equipo**
+1. **Miguel Angel Ramirez Alfaro (U20202117152)**  
+   - **Rol:** Desarrollo Backend y diseño de APIs IoT.  
+   - **Aporte:** Implementación de servicios RESTful para la sincronización de datos y lógica centralizada.
+
+2. **Lino Abraham Quenta Leon (U202022353)**  
+   - **Rol:** Desarrollo de Frontend y dashboard interactivo.  
+   - **Aporte:** Diseño e implementación del sistema de visualización y gestión en la Web App.
+
+3. **Giovanni Andres Ramos Calderon (U202122512)**  
+   - **Rol:** Coordinación y QA del proyecto.  
+   - **Aporte:** Validación de funcionalidades en dispositivos IoT y revisión integral del sistema.
+
+4. **Jean Patrick Yemsi Sanchez Rios (U20181e536)**  
+   - **Rol:** Diseño de experiencia de usuario y Landing Page.  
+   - **Aporte:** Creación de la interfaz inicial del sistema, asegurando accesibilidad y diseño funcional.
+
+5. **Franco Felix Yance Gutierrez (U202013614)**  
+   - **Rol:** Desarrollo móvil y distribución del APK.  
+   - **Aporte:** Configuración de la aplicación móvil para Firebase y pruebas en diferentes dispositivos.
+
+### **Enlace al video del equipo**  
+En este video mostramos quiénes somos, cómo trabajamos y qué aprendimos al desarrollar **GreenTools**.
+
+- **Ver Video About-the-Team:**  
+  [Video del equipo](https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Fabout%2Fupc%2Dpre%2D202402%2Dsi572%2Dwv71%2Dfractalis%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0c49b7ea%2D652a%2D41d4%2D957b%2Ddae3e8175fce)
+- Link : https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Fabout%2Fupc%2Dpre%2D202402%2Dsi572%2Dwv71%2Dfractalis%2Dabout%2Dthe%2Dteam%2Dsprint%2D3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E0c49b7ea%2D652a%2D41d4%2D957b%2Ddae3e8175fce
+
 
 ##### Reflexión
+Durante el sprint, descubrimos lo importante que es trabajar organizados y en equipo para manejar un proyecto como este. Aunque somos estudiantes, logramos implementar herramientas y prácticas de desarrollo que nos ayudaron a enfrentar los retos:
 
-La colaboración fue efectiva, con todos los miembros contribuyendo activamente. La gestión de tareas con **GitHub Projects** y las revisiones de código ayudaron a mantener una alta calidad y resolver desafíos de forma conjunta.
+1. **Gestión de tareas con GitHub Projects**:  
+   Nos sirvió para asignar tareas claras y priorizar lo más importante. Algunos de nosotros nos encargamos del Edge API, mientras que otros trabajaron en las interfaces o en el backend. Fue genial ver cómo todo se conectaba al final.
+
+2. **Revisiones de código y aprendizaje mutuo**:  
+   Cada vez que hacíamos revisiones, aprendíamos de los errores y sugerencias de los demás. Esto ayudó a que el código fuera más claro y funcional.
+
+3. **Herramientas Dicord y reuniones rápidas**:  
+   Usamos Discord para mantenernos conectados y resolver dudas rápidas, y las reuniones cortas nos ayudaron a organizar el día a día.
+
 
 ### Conclusiones
+El desarrollo de **GreenTools** a lo largo de las entregas **TB1, TB2, TP y TF1** nos permitió aplicar los conocimientos adquiridos en el curso de IoT y enfrentarnos a retos reales en el ámbito tecnológico. Estas fueron nuestras principales experiencias y aprendizajes:
 
-La implementación de user personas fue fundamental durante la fase de arquitectura de nuestro proyecto IoT. Al enfocar el diseño en dueños de invernaderos y microcultivos, pudimos estructurar la arquitectura de forma que cada uno de los bounded contexts —IoT system, inventario, reporte y cuenta— reflejara sus necesidades. Esto nos permitió visualizar cómo la plataforma atendería de manera eficiente la gestión de sensores, cultivos, análisis de datos y administración de usuarios, asegurando que la solución esté alineada con las expectativas y flujos de trabajo reales de los usuarios.
+#### **TB1: Diseño y Planificación**
+En esta etapa, definimos las bases del proyecto:
+- Identificamos los **user personas** y sus necesidades, enfocándonos en pequeños agricultores y dueños de invernaderos.
+- Diseñamos los **bounded contexts** que estructuraron el sistema en áreas clave como IoT, inventario, reportes y cuentas de usuario.
+- Aprendimos la importancia de entender al usuario final antes de comenzar a desarrollar.
+
+#### **TB2: Implementación Inicial**
+Durante la segunda entrega:
+- Nos centramos en la implementación de la arquitectura IoT.
+- Landing Pague
+- Desarrollamos los primeros servicios RESTful y establecimos la comunicación inicial entre los dispositivos Edge y el sistema central.
+- Esta etapa fue clave para entender la integración de hardware con software y resolver problemas de sincronización de datos.
+
+#### **TP: Integración y Desarrollo**
+La tercera entrega fue una de las más desafiantes:
+- Integramos los componentes principales: **Edge API**, **Backend API**, y las interfaces web y móviles.
+- Colaboramos como equipo utilizando herramientas como **GitHub Projects** y realizamos revisiones de código constantes.
+- Superamos retos técnicos en la conexión de interfaces con el backend, asegurando funcionalidad y usabilidad.
+
+#### **TF1: Despliegue y Validación**
+En la etapa final del proyecto:
+- Logramos el despliegue completo de los sistemas en **Railway** y **Firebase**, asegurando accesibilidad para los usuarios finales.
+- Validamos la funcionalidad del sistema mediante entrevistas con usuarios reales y pruebas exhaustivas.
+- Este proceso nos permitió afianzar nuestras habilidades en el despliegue y mantenimiento de sistemas IoT en entornos productivos.
+
+#### **Conclusión General**
+A través de estas entregas, consolidamos lo aprendido en el curso de IoT y adquirimos experiencia práctica en el diseño, desarrollo e implementación de soluciones tecnológicas. Nos enfrentamos a retos que nos enseñaron:
+- La importancia de la planificación y el diseño centrado en el usuario.
+- El valor de la colaboración efectiva y el uso de herramientas modernas como **GitHub** y **Slack**.
+- Cómo implementar y desplegar sistemas funcionales que integran hardware y software.
+
+Estamos orgullosos de haber construido **GreenTools**, una solución práctica que combina tecnología y propósito, y que representa nuestra preparación como futuros ingenieros de software.
 
 ### Bibliografía
 
-Ahmad, D. S. N. A., Fatah, F. A., Saili, A. R., Saili, J., Hamzah, N. M., Nor, R. C. M., Omar, Z., & Ghali, M. (2025). Exploration of the Challenges in Adopting Smart Farming Among Smallholder Farmers: A Qualitative Study. _Journal of Advanced Research in Applied Sciences and Engineering Technology_, 45(1), 17–27. [https://doi.org/10.37934/araset.45.1.1727](https://doi.org/10.37934/araset.45.1.1727)
+- Ahmad, D. S. N. A., Fatah, F. A., Saili, A. R., Saili, J., Hamzah, N. M., Nor, R. C. M., Omar, Z., & Ghali, M. (2025). Exploration of the Challenges in Adopting Smart Farming Among Smallholder Farmers: A Qualitative Study. _Journal of Advanced Research in Applied Sciences and Engineering Technology_, 45(1), 17–27. [https://doi.org/10.37934/araset.45.1.1727](https://doi.org/10.37934/araset.45.1.1727)
 
-Dibbern, T., Romani, L. A. S., & Massruhá, S. M. F. S. (2024). Main drivers and barriers to the adoption of Digital Agriculture technologies. _Smart Agricultural Technology_, 8. [https://doi.org/10.1016/j.atech.2024.100459](https://doi.org/10.1016/j.atech.2024.100459)
+- Dibbern, T., Romani, L. A. S., & Massruhá, S. M. F. S. (2024). Main drivers and barriers to the adoption of Digital Agriculture technologies. _Smart Agricultural Technology_, 8. [https://doi.org/10.1016/j.atech.2024.100459](https://doi.org/10.1016/j.atech.2024.100459)
 
-Hundal, G. S., Laux, C. M., Buckmaster, D., Sutton, M. J., & Langemeier, M. (2023). Exploring Barriers to the Adoption of Internet of Things-Based Precision Agriculture Practices. _Agriculture (Switzerland)_, 13(1). [https://doi.org/10.3390/agriculture13010163](https://doi.org/10.3390/agriculture13010163)
+- Hundal, G. S., Laux, C. M., Buckmaster, D., Sutton, M. J., & Langemeier, M. (2023). Exploring Barriers to the Adoption of Internet of Things-Based Precision Agriculture Practices. _Agriculture (Switzerland)_, 13(1). [https://doi.org/10.3390/agriculture13010163](https://doi.org/10.3390/agriculture13010163)
+
+- Kamilaris, A., Kartakoullis, A., & Prenafeta-Boldú, F. X. (2017). A review on the practice of big data analysis in agriculture. Computers and Electronics in Agriculture, 143, 23–37. https://doi.org/10.1016/j.compag.2017.09.037
+
+- Rose, D. C., et al. (2016). To Smart Farming and beyond: The need for appropriate ethics, policies and practices. Sociologia Ruralis, 58(1), 1–22. https://doi.org/10.1111/soru.12131
+
+- Jha, K., Doshi, A., Patel, P., & Shah, M. (2019). A comprehensive review on automation in agriculture using artificial intelligence. Artificial Intelligence in Agriculture, 2, 1–12. https://doi.org/10.1016/j.aiia.2019.05.004
+
+- Zambon, I., Cecchini, M., Egidi, G., Saporito, M. G., & Colantoni, A. (2019). Revolution 4.0: Industry vs. Agriculture in a Future Development for SMEs. Processes, 7(1), 36. https://doi.org/10.3390/pr7010036
 
 ### Anexos
 
-upc-pre-202402-si572-WV71-Fractalis-expo-tb1  
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EVt2-jDf-c9HgC7IvDM1PHwBrfitg_t6FMiSBYMjUlW9fQ?e=LPHiwN](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EVt2-jDf-c9HgC7IvDM1PHwBrfitg_t6FMiSBYMjUlW9fQ?e=LPHiwN)
+#### **About de Team:**
+  
+  [Acceder al Documento](https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Fabout&ga=1)
+  
+  https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Fabout&ga=1
 
-upc-pre-202402-si572-WV71-Fractalis-entrevista-tb1  
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=ybOhvp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=ybOhvp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+####  **About de Product:**
+  
+- [Acceder al Documento](https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Fabout&ga=1)
+  
+- LINK: https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Fabout&ga=1
 
-upc-pre-202402-si572-WV71-Fractalis-expo-tp1  
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/ETzt_VEQeFFGoMI5hH2IH1YBhzKEiZN05eqboWQ6DkMf0Q?e=tOcKh9](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/ETzt_VEQeFFGoMI5hH2IH1YBhzKEiZN05eqboWQ6DkMf0Q?e=tOcKh9)
+####  **App Web Video:**
+  
+- [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Flanding%20y%20web&ga=1)
+  
+- LINK: https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Flanding%20y%20web&ga=1
+
+####  **App Mobile Video:**
+  
+- [Ver Video](https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Flanding%20y%20web&ga=1)
+  
+- LINK: https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Flanding%20y%20web&ga=1
+
+####  **Validaciones de Entrevistas:**
+  
+- [Acceder al Documento](https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Fentrevistas%20de%20validacion%20tf&ga=1)
+  
+- LINK: https://upcedupe-my.sharepoint.com/personal/u202013614_upc_edu_pe/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fu202013614%5Fupc%5Fedu%5Fpe%2FDocuments%2FIOT%2DFractalis%2Fentrevistas%20de%20validacion%20tf&ga=1
+
+####  **upc-pre-202402-si572-WV71-Fractalis-expo-tb1:**
+  
+- [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EVt2-jDf-c9HgC7IvDM1PHwBrfitg_t6FMiSBYMjUlW9fQ?e=LPHiwN)
+  
+- LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EVt2-jDf-c9HgC7IvDM1PHwBrfitg_t6FMiSBYMjUlW9fQ?e=LPHiwN
+
+#### **upc-pre-202402-si572-WV71-Fractalis-entrevista-tb1:**
+  
+- [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=ybOhvp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+  
+- LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/EckNEWl06ixHle5L2RIWuHsBTcYcGWSCUKFTc-n6uipqXw?e=ybOhvp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+####  **upc-pre-202402-si572-WV71-Fractalis-expo-tp1:**
+  
+- [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/ETzt_VEQeFFGoMI5hH2IH1YBhzKEiZN05eqboWQ6DkMf0Q?e=tOcKh9)
+  
+- LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202013614_upc_edu_pe/ETzt_VEQeFFGoMI5hH2IH1YBhzKEiZN05eqboWQ6DkMf0Q?e=tOcKh9
+
